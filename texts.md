@@ -24,3 +24,17 @@ Firma oferuje dobrą pensję i elastyczne godziny pracy. To dla mnie ważne, bo 
 
 ---
 
+## 3. Nauka języka polskiego (2026-01-27)
+
+Już ponad rok uczę się języka polskiego. Na początku myślałem, że to będzie łatwe, bo polski jest podobny do rosyjskiego. Niestety, szybko zrozumiałem, że to nie do końca prawda.
+
+Największy problem dla mnie to wymowa i gramatyka. Kiedy mówię, często popełniam błędy i czuję się trochę głupio. Mimo to nie chcę się poddawać. Wiem, że każdy błąd to okazja do nauki.
+
+W tym roku postanowiłem zmienić swoje podejście. Zamiast uczyć się tylko z książek, teraz oglądam polskie filmy i słucham podcastów. Dzięki temu lepiej rozumiem naturalny język. Dodatkowo zapisałem się na spotkania konwersacyjne, gdzie mogę ćwiczyć mówienie z innymi ludźmi.
+
+Mój nauczyciel powiedział, że robię postępy. Uważam, że regularna praktyka jest kluczem do sukcesu. Nawet piętnaście minut dziennie może przynieść dobre rezultaty.
+
+Moim celem jest zdać egzamin TELC na poziomie B1. To nie będzie proste, ale jestem pewny, że mi się uda, jeśli będę ciężko pracować.
+
+---
+
