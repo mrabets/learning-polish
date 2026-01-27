@@ -12,3 +12,15 @@ Cieszę się, że uda nam się odpocząć. Ostatnio dużo pracowaliśmy i potrze
 
 ---
 
+## 2. Szukam nowej pracy (2026-01-27)
+
+Od kilku miesięcy szukam nowej pracy. Moje obecne stanowisko nie daje mi możliwości rozwoju. Chcę zdobyć nowe doświadczenie w innej branży.
+
+Wczoraj wysłałem swój życiorys do kilku firm. Jedna z nich odpowiedziała bardzo szybko. Zaprosiła mnie na rozmowę kwalifikacyjną w przyszłym tygodniu. Jestem trochę zdenerwowany, bo nigdy wcześniej nie byłem na takim spotkaniu w języku polskim.
+
+Moja żona powiedziała, że powinienem przygotować się do pytań o moje umiejętności i poprzednie doświadczenie zawodowe. Uważam, że to dobra rada. Muszę też zastanowić się, jakie są moje mocne strony.
+
+Firma oferuje dobrą pensję i elastyczne godziny pracy. To dla mnie ważne, bo chcę zachować równowagę między pracą a życiem prywatnym. Mam nadzieję, że uda mi się dostać tę pracę.
+
+---
+
