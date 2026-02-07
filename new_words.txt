@@ -41,3 +41,22 @@
 вернуться,wrócić
 огромный,ogromny
 иначе,inaczej
+задумываюсь,zastanawiam się
+я должен (м.р.),powinienem
+редко,rzadko
+сначала / в начале,na początku
+оказывается,okazuje się
+питание,odżywianie
+столько,tyle
+приём пищи,posiłek
+зависеть,zależeć
+хуже,gorzej
+уменьшить,zmniejszyć
+увеличить,zwiększyć
+гордый,dumny
+плюсы и минусы,zalety i wady
+кроме,oprócz
+уладить дело,załatwić sprawę
+они смеются,oni się śmieją
+посуда,naczynia
+он носит коричневую куртку,on nosi brązową kurtkę
