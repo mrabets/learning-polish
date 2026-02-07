@@ -24,3 +24,15 @@ Firma oferuje dobrą pensję i elastyczne godziny pracy. To dla mnie ważne, bo 
 
 ---
 
+## 3. Zdrowy styl życia (2026-02-05)
+
+Ostatnio zastanawiam się poważnie nad swoim stylem życia. Ciągle siedzę przed komputerem i raczej rzadko uprawiam sport. Zazwyczaj po pracy czuję się zmęczony i nie mam ochoty wychodzić z domu.
+
+Moja żona powiedziała, że powinienem zacząć ćwiczyć przynajmniej trzy razy w tygodniu. Na początku nie wierzyłem, że to coś zmieni. Ale po dwóch tygodniach biegania rzeczywiście poczułem się lepiej. Okazuje się, że wystarczy pół godziny ruchu dziennie, żeby poprawić samopoczucie.
+
+Postanowiłem też zmienić sposób odżywiania. Zamiast jeść fast food, staram się gotować w domu. Nie jest łatwo spędzić tyle czasu w kuchni po pracy, ale jakość jedzenia jest zupełnie inna. Teraz każdy rodzaj posiłku przygotowuję sam — śniadanie, obiad i kolację.
+
+Uważam, że warunki naszego zdrowia zależą od codziennych nawyków. Jeśli nic nie zmienimy, będzie tylko gorzej. Nie chcę wrócić do starego stylu życia. Mam ogromną motywację, żeby żyć inaczej — zdrowiej i bardziej aktywnie.
+
+---
+
