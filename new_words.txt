@@ -1,62 +1,18 @@
-принять участие в курсе польского языка,wziąć udział w kursie języka polskiego
-трудности с произношением,trudności z wymową
-он сказал что мне следует больше практиковать,powiedział że powinienem więcej ćwiczyć
-я решил записаться на разговорные встречи,postanowiłem zapisać się na spotkania konwersacyjne
-чувствую себя обескураженным когда делаю ошибки,czuję się zniechęcony gdy robię błędy
-не сдаваться,nie poddawać się
-раздумываю где лучше,zastanawiam się gdzie lepiej
-моя жена предпочитает,moja żona woli
-она слышала что там красивое море и не слишком дорого,słyszała że tam jest piękne morze i nie jest zbyt drogo
-ходить в походы по горам и осматривать интересные места,wędrować po górach i zwiedzać ciekawe miejsca
-сначала поедем на море,pojedziemy najpierw nad morze
-нам ещё нужно забронировать отель,musimy jeszcze zarezerwować hotel
-цены растут,ceny rosną
-я рад что нам удастся отдохнуть,cieszę się że uda nam się odpocząć
-перерыв,przerwa
-он доволен услугой,jest zadowolony z usługi
-атмосфера в целом позитивная,atmosfera jest w ogóle pozytywna
-вместо,zamiast
-лишний вес,nadwaga
-салон красоты и парикмахерская,salon urody i fryzjerski
-он чувствует себя комфортно,on czuje się wygodnie
-это для него удобно,to jest dla niego wygodne
-он сказал мне это вчера,powiedział mi to wczoraj
-я согласен с тобой,zgadzam się z tobą
-моей мечтой было стать футболистом,moim marzeniem było zostać piłkarzem
 мне казалось что это было отлично и очень классно,wydawało mi się że to było świetnie i bardzo fajnie
 болельщики смотрели матч чемпионата мира на стадионе,kibice oglądali mecz mistrzostw świata na stadionie
-серьёзно,poważnie
-постоянно,ciągle
-скорее,raczej
-обычно,zazwyczaj
-хотя бы,przynajmniej
-действительно,rzeczywiście
-достаточно,wystarczy
-легко,łatwo
-провести (время),spędzić
-качество,jakość
-совершенно,zupełnie
-вид/тип,rodzaj
-условия,warunki
-вернуться,wrócić
-огромный,ogromny
-иначе,inaczej
-задумываюсь,zastanawiam się
-я должен (м.р.),powinienem
-редко,rzadko
 сначала / в начале,na początku
-оказывается,okazuje się
-питание,odżywianie
 столько,tyle
 приём пищи,posiłek
-зависеть,zależeć
-хуже,gorzej
-уменьшить,zmniejszyć
-увеличить,zwiększyć
+вид/тип,rodzaj
+хотя бы,przynajmniej
+посуда,naczynia
+не сдаваться,nie poddawać się
+чувствую себя обескураженным когда делаю ошибки,czuję się zniechęcony gdy robię błędy
 гордый,dumny
 плюсы и минусы,zalety i wady
-кроме,oprócz
-уладить дело,załatwić sprawę
-они смеются,oni się śmieją
-посуда,naczynia
-он носит коричневую куртку,on nosi brązową kurtkę
+ходить в походы по горам и осматривать интересные места,wędrować po górach i zwiedzać ciekawe miejsca
+он чувствует себя комфортно,on czuje się wygodnie
+это для него удобно,to jest dla niego wygodne
+вернуться,wrócić
+он доволен услугой,jest zadowolony z usługi
+раздумываю где лучше,zastanawiam się gdzie lepiej
