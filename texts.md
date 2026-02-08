@@ -36,3 +36,23 @@ Uważam, że warunki naszego zdrowia zależą od codziennych nawyków. Jeśli ni
 
 ---
 
+## 4. Moje życie się zmienia (2026-02-08)
+
+Mam kolegę, który nazywa się Marek. Kiedy byliśmy młodsi, moim marzeniem było zostać piłkarzem. Wydawało mi się, że to było świetnie i bardzo fajnie — biegać po boisku, strzelać gole. Pamiętam, jak kibice oglądali mecz mistrzostw świata na stadionie, a my siedzieliśmy przed telewizorem i marzyliśmy.
+
+Teraz życie wygląda zupełnie inaczej. Zazwyczaj ciągle siedzę w biurze przed komputerem. Raczej rzadko uprawiam sport. Na początku myślałem, że to nie problem, ale okazuje się, że taki styl życia prowadzi do nadwagi. Mój lekarz powiedział mi to wczoraj — powinienem poważnie zmienić nawyki. Muszę zmniejszyć ilość słodyczy i zwiększyć aktywność fizyczną.
+
+Odżywianie ma ogromny wpływ na zdrowie. Jakość jedzenia zależy od tego, jak je przygotowujemy. Każdy rodzaj posiłku powinien być przemyślany. Wystarczy jeść przynajmniej trzy razy dziennie. Zamiast fast foodu staram się gotować w domu, ale potem trzeba myć naczynia — to nie jest łatwo. Tyle pracy w kuchni! Ale jeśli nic nie zmienię, będzie tylko gorzej.
+
+Oprócz zdrowia mam inne plany. Postanowiłem zapisać się na spotkania konwersacyjne, żeby wziąć udział w kursie języka polskiego. Mam trudności z wymową. Nauczyciel powiedział, że powinienem więcej ćwiczyć. Czasem czuję się zniechęcony, gdy robię błędy, ale staram się nie poddawać się. Muszę spędzić więcej czasu na nauce. Rzeczywiście, praktyka jest najważniejsza.
+
+Zastanawiam się, jakie są zalety i wady mojego obecnego życia. Jestem dumny, że nie rezygnuję i próbuję żyć inaczej. W pracy muszę załatwić sprawę z nowym projektem. Moi koledzy się śmieją, kiedy mówię po polsku z akcentem. Ale zgadzam się z tobą — bez praktyki nie będzie postępu.
+
+Moja żona woli wakacje nad morzem. Słyszała, że tam jest piękne morze i nie jest zbyt drogo. Ale ja wolę wędrować po górach i zwiedzać ciekawe miejsca. Zastanawiam się, gdzie lepiej pojechać. W końcu zdecydowaliśmy — pojedziemy najpierw nad morze, a potem w góry. Musimy jeszcze zarezerwować hotel, bo ceny rosną. Cieszę się, że uda nam się odpocząć — potrzebujemy przerwy.
+
+W zeszłym roku byliśmy w hotelu i Marek jest zadowolony z usługi. Atmosfera jest w ogóle pozytywna. On czuje się wygodnie w takich miejscach — to jest dla niego wygodne. On nosi brązową kurtkę nawet latem i wszyscy się z niego śmieją. Przed wyjazdem chodził do salonu urody i fryzjerskiego.
+
+Mogę wrócić do starego stylu życia w każdej chwili, ale mam ogromną motywację. Warunki mojego zdrowia zależą od codziennych nawyków.
+
+---
+
