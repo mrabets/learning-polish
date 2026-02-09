@@ -56,3 +56,15 @@ Mogę wrócić do starego stylu życia w każdej chwili, ale mam ogromną motywa
 
 ---
 
+## 5. Podróż i nowe doświadczenia (2026-02-09)
+
+Na początku wydawało mi się, że to było świetnie i bardzo fajnie. Kibice oglądali mecz mistrzostw świata na stadionie — było tam tyle emocji i energii! Po meczu zjedliśmy posiłek w lokalnej restauracji. To był ciekawy rodzaj polskiej kuchni, którego wcześniej nie znałem.
+
+Kelner powiedział, że musimy poczekać przynajmniej dwadzieścia minut na stolik. Kiedy wreszcie usiedliśmy, zauważyłem, że naczynia były bardzo eleganckie. Mój przyjaciel czuje się wygodnie w takich miejscach — to jest dla niego wygodne, bo lubi elegancję. Jest zadowolony z usługi w tej restauracji.
+
+Podczas podróży często czuję się zniechęcony, gdy robię błędy językowe. Ale staram się nie poddawać się, bo wiem, że praktyka jest najważniejsza. Jestem dumny, że mogę wędrować po górach i zwiedzać ciekawe miejsca w tym kraju.
+
+Zastanawiam się, gdzie lepiej wrócić następnym razem. Każde miejsce ma swoje zalety i wady. Może wybiorę inne miasto albo region?
+
+---
+
