@@ -31,7 +31,6 @@
 во время,podczas
 смерти,śmierci
 пару/несколько,parę
-вернуться,wrócić
 серьёзно,poważnie
 некий/уверенный,pewien
 будь,bądź
@@ -66,7 +65,6 @@
 пока (не),dopóki
 любовь,miłość
 земли,ziemi
-хотя бы,przynajmniej
 какую,jaką
 дерьмо (ругат.),gówno
 звучит,brzmi
@@ -274,7 +272,6 @@
 впечатление,wrażenie
 следы,ślady
 давно (od dawna),dawna
-гордый,dumny
 кому,komu
 вышел,wyszedł
 лейтенант (обращение),poruczniku
@@ -328,7 +325,6 @@
 поезд,pociąg
 вернуть,odzyskać
 чувствовать,czuć
-вид/тип,rodzaj
 времени (do tej pory),pory
 вон отсюда,wynocha
 чтобы я (книжн.),abym
