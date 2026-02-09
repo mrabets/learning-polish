@@ -56,3 +56,9 @@ Mogę wrócić do starego stylu życia w każdej chwili, ale mam ogromną motywa
 
 ---
 
+## 5. Mój kolega Tomek (2026-02-09)
+
+Na początku wydawało mi się, że Tomek to nudny człowiek, ale okazało się zupełnie inaczej. Zastanawiam się, gdzie lepiej spędzić weekend — w domu czy na wycieczce. Tomek zawsze wybiera góry. Uwielbia wędrować po górach i zwiedzać ciekawe miejsca. Kiedyś kibice oglądali mecz mistrzostw świata na stadionie, a Tomek w tym czasie szedł sam na szczyt. Wydawało mu się, że to było świetnie i bardzo fajnie — lepiej niż każdy mecz. Trzeba przyznać, że ma tyle energii, ile inni nie mają. Każdy rodzaj posiłku przygotowuje sam — przynajmniej trzy razy dziennie. Po jedzeniu od razu myje naczynia, bo on czuje się wygodnie tylko w czystej kuchni — to jest dla niego wygodne. W zeszłym miesiącu był w hotelu w górach i jest zadowolony z usługi. Ja natomiast często czuję się zniechęcony, gdy robię błędy w planowaniu podróży. Ale Tomek mówi, że nie wolno się poddawać. Myślę o zaletach i wadach takiego aktywnego stylu życia. Jestem dumny, że mogę od niego się uczyć. Pewnego dnia chcę wrócić na ten sam szlak razem z nim.
+
+---
+
