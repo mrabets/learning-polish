@@ -56,7 +56,7 @@ Mogę wrócić do starego stylu życia w każdej chwili, ale mam ogromną motywa
 
 ---
 
-## 5. Podróż i nowe doświadczenia (2026-02-09)
+## 5. Podróż i nowe doświadczenia (2026-02-08)
 
 Na początku wydawało mi się, że to było świetnie i bardzo fajnie. Kibice oglądali mecz mistrzostw świata na stadionie — było tam tyle emocji i energii! Po meczu zjedliśmy posiłek w lokalnej restauracji. To był ciekawy rodzaj polskiej kuchni, którego wcześniej nie znałem.
 
@@ -65,6 +65,20 @@ Kelner powiedział, że musimy poczekać przynajmniej dwadzieścia minut na stol
 Podczas podróży często czuję się zniechęcony, gdy robię błędy językowe. Ale staram się nie poddawać się, bo wiem, że praktyka jest najważniejsza. Jestem dumny, że mogę wędrować po górach i zwiedzać ciekawe miejsca w tym kraju.
 
 Zastanawiam się, gdzie lepiej wrócić następnym razem. Każde miejsce ma swoje zalety i wady. Może wybiorę inne miasto albo region?
+
+---
+
+## 6. Technologia w naszym życiu (2026-02-09)
+
+Ostatnio coraz więcej myślę o tym, jak technologia wpływa na nasze codzienne życie. Każde urządzenie, które mamy — smartfon, komputer, tablet — wymaga naszej uwagi. Kiedy rano wstaję, pierwszą rzeczą, którą robię, jest sprawdzenie telefonu. Liczba wiadomości i powiadomień jest ogromna.
+
+Mój kolega z pracy uważa, że media społecznościowe to zagrożenie dla naszych relacji. Problem polega na tym, że ludzie rozmawiają ze sobą coraz rzadziej. Zamiast spotkać się na żywo, wysyłamy wiadomości. Zgadzam się z nim — to poważne ryzyko.
+
+Z drugiej strony, internet jest świetnym źródłem wiedzy. Dzięki niemu mogę uczyć się języka polskiego, szukać potrzebnych informacji i rozwijać nowe umiejętności. Ale trzeba znać zasady bezpiecznego korzystania z internetu. Nie wszystko, co czytamy w sieci, jest prawdą.
+
+Moja żona mówi, że telefon mi przeszkadza podczas kolacji. Ma rację — powinienem odkładać telefon, kiedy jemy razem. Każdy z nas jest odpowiedzialny za to, jak korzysta z technologii. Połączenie z internetem daje nam wiele możliwości, ale musimy zachować równowagę.
+
+Zastanawiam się, jakie są zalety i wady życia z technologią. Z jednej strony — wygoda i szybki dostęp do informacji. Z drugiej — mniej czasu dla rodziny i przyjaciół. Uważam, że warto ustalić zasady: na przykład nie używać telefonu przed snem i spędzać więcej czasu na świeżym powietrzu.
 
 ---
 
