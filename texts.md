@@ -82,3 +82,9 @@ Zastanawiam się, jakie są zalety i wady życia z technologią. Z jednej strony
 
 ---
 
+## 7. Wybór zawodu (2026-02-14)
+
+Zastanawiam się poważnie nad wyborem zawodu. Zauważyłem, że cały czas odkładam decyzję. Zamiast spotkać się z kimś i rozmawiać, szukam wiedzy sam — połączenie z internetem daje wygodę. Liczba możliwości — tysiące! Muszę znać swoje umiejętności i wiedzieć, jakie są zalety i wady. Warto ustalić zasady i nie poddawać się. Poradzę sobie.
+
+---
+
