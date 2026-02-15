@@ -20,7 +20,6 @@
 ведь/же,przecież
 кроме/за пределами,poza
 нравится (podoba mi się),podoba
-постоянно,ciągle
 как будто,jakby
 кажется (wydaje mi się),wydaje
 ты должен (м.р.),powinieneś
@@ -39,7 +38,6 @@
 возьми,weź
 ничего,niczego
 вот,oto
-достаточно,wystarczy
 господа,panowie
 раз уж/поскольку,skoro
 позволь,pozwól
@@ -55,7 +53,6 @@
 верю,wierzę
 быстрее,szybciej
 неплохо,nieźle
-иначе,inaczej
 только что/лишь,dopiero
 вовсе (wcale nie — вовсе нет),wcale
 пойду,pójdę
@@ -67,7 +64,6 @@
 какую,jaką
 дерьмо (ругат.),gówno
 звучит,brzmi
-скорее,raczej
 возможно,możliwe
 согласен (zgadza się),zgadza
 сердце,serce
@@ -116,7 +112,6 @@
 везде,wszędzie
 великое/большое,wielkie
 вниз (na dół),dół
-совершенно,zupełnie
 этим путём,tędy
 более чем,ponad
 по мнению/согласно,według
@@ -157,7 +152,6 @@
 около/примерно,około
 прошёл,przeszedł
 умереть,umrzeć
-легко,łatwo
 разве,czyż
 задница,tyłek
 пока,póki
@@ -238,7 +232,6 @@
 чувство,uczucie
 положи,odłóż
 прямо/рядом,tuż
-кроме,oprócz
 среди,wśród
 будущего,przyszłości
 поймать,złapać
@@ -308,7 +301,6 @@
 трогай (nie dotykaj),dotykaj
 преступления,zbrodni
 сумасшедшие,szaleni
-действительно,rzeczywiście
 проваливай,spadaj
 внутри,wewnątrz
 страх,strach
@@ -326,7 +318,6 @@
 вон отсюда,wynocha
 чтобы я (книжн.),abym
 болтать,gadać
-качество,jakość
 парней,facetów
 безумие,szaleństwo
 разбуди,obudź
@@ -337,7 +328,6 @@
 сомневаюсь,wątpię
 неба,nieba
 развлекаться,bawić
-обычно,zazwyczaj
 произошло,wydarzyło
 в другом месте (gdzie indziej),indziej
 дядя,wujek
@@ -464,7 +454,6 @@
 пригодится,przyda
 чудесное,cudowne
 колени,kolana
-провести,spędzić
 пережить,przeżyć
 поддержка,wsparcie
 майор (обращение),majorze
@@ -587,7 +576,6 @@
 территории,terenie
 следов,śladów
 предчувствие,przeczucie
-условия,warunki
 почти,niemal
 заберёт,zabierze
 грустное,smutne
@@ -615,7 +603,6 @@
 попал,trafił
 ударил,uderzył
 острова,wyspy
-редко,rzadko
 вызывает,powoduje
 падаем,spadamy
 указывает,wskazuje
@@ -795,7 +782,6 @@
 района,dzielnicy
 пенсию (na emeryturę),emeryturę
 чрезвычайно,niezwykle
-огромный,ogromny
 придумать,wymyślić
 прямо-таки,wręcz
 толстый,gruby
