@@ -88,3 +88,15 @@ Zastanawiam się poważnie nad wyborem zawodu. Zauważyłem, że cały czas odk�
 
 ---
 
+## 8. Ekologia i nasze codzienne wybory (2026-02-15)
+
+Coraz częściej słyszę o problemach ze środowiskiem. Powietrze w dużych miastach jest zanieczyszczone, a zagrożenie dla naszego zdrowia rośnie z roku na rok. Wokół nas widać skutki zmian klimatu — gorące lata, ciepłe zimy, a nawet powodzie.
+
+Zastanawiam się, jaki wpływ mają nasze codzienne wybory na przyrodę. Kiedy jedziemy samochodem zamiast autobusem, to powoduje więcej zanieczyszczeń. Każdy z nas ponosi odpowiedzialność za stan środowiska, zwłaszcza w dużych miastach. Nie możemy czekać — musimy działać natychmiast.
+
+Mój sąsiad uważa, że sortowanie śmieci to strata czasu. Nie zgadzam się z nim. Każdy mały krok ma znaczenie. Energia słoneczna jest dobrym źródłem czystej energii. Żeby osiągnąć prawdziwą zmianę, musimy działać razem — jako społeczeństwo.
+
+Lubię spacerować wzdłuż rzeki w moim mieście. Kiedyś była bardzo brudna, ale teraz jest czysta — to dowód, że można poprawić sytuację. Zielona przestrzeń w miastach jest potrzebna dla zdrowia i samopoczucia. Czasem odwiedzam park za miastem — tam powietrze jest zupełnie inne. Mam nadzieję, że w przyszłości będziemy żyć bardziej ekologicznie.
+
+---
+
