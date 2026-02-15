@@ -88,3 +88,20 @@ Zastanawiam się poważnie nad wyborem zawodu. Zauważyłem, że cały czas odk�
 
 ---
 
+## 8. Niezapomniana podróż do Krakowa (2026-02-15)
+
+W zeszłym roku odwiedziłem Kraków po raz pierwszy. To była wizyta, o której długo marzyłem. Od dawna chciałem zwiedzać polskie miasta i poznać ich historię.
+
+Przyjechałem tam z żoną na tydzień. Stąd niedaleko do wielu ciekawych miejsc. Podczas pobytu zwiedzaliśsmy Stare Miasto, Wawel i Kazimierz. Wszędzie można było znaleźć coś interesującego — zabytki, muzea, małe kawiarnie. Obok Rynku był piękny kościół. Przewodnik powiedział nam, że budynek ma już parę wieków.
+
+Czasem czułem się zmęczony, bo chodziłsmy całe dni. Ale okazało się, że warto. Na każdym kroku dowiadywaliśmy się czegoś nowego. W pewnym momencie pomyślałem: „To właśnie takie zwiedzanie ma sens — nie tylko patrzeć, ale naprawdę rozumieć miejsce".
+
+Pamiętam, jak jednego wieczoru siedzieliśmy w restauracji i jedliśmy pierogi. Atmosfera była wspaniała. Wtedy właśnie pomyślałem, że chcę wrócić. Nie zdążyliśmy odwiedzić wszystkich miejsc. Na przykład, nie poszliśmy do Wieliczki. Może następnym razem.
+
+Teraz, kiedy wspominam tę podróż, widzę, że nasze odwiedziny były zbyt krótkie. Kraków to miasto, które trzeba zwiedzać dłużej. Planujemy kolejną wizytę już w tym roku.
+
+**Nowe słowa:**
+stąd, dzieje, wtedy, zanim, ani, przestań, rację, żebyś, stanie, powiem, broń, mógł, zabić, spójrz, znaleźć, facet, mów
+
+---
+
