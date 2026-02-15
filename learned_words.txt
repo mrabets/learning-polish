@@ -94,3 +94,15 @@
 выбор профессии,wybór zawodu
 тысяча,tysiąc
 тысяч (родительный мн.ч.),tysięcy
+посуда,naczynia
+первое что я делаю,pierwszą rzeczą którą robię
+реже,rzadziej
+знать (факт/навык),znać
+знать (иметь информацию),wiedzieć
+мешать,przeszkadzać
+мы едим,jemy
+несёт ответственность за,jest odpowiedzialny za
+стоит (имеет смысл),warto
+алкогольные напитки,napoje alkoholowe
+поведение,zachowanie
+принимать участие,brać udział

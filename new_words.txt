@@ -1,13 +1,5 @@
-посуда,naczynia
 осматривать,zwiedzać
-первое что я делаю,pierwszą rzeczą którą robię
-реже,rzadziej
-знать (факт/навык),znać
-знать (иметь информацию),wiedzieć
-мешать,przeszkadzać
-мы едим,jemy
-несёт ответственность за,jest odpowiedzialny za
-стоит (имеет смысл),warto
-алкогольные напитки,napoje alkoholowe
-поведение,zachowanie
-принимать участие,brać udział
+осмотр достопримечательностей,zwiedzanie
+навещать,odwiedzać
+посещение,odwiedzanie
+визит,wizyta
