@@ -73,3 +73,24 @@
 это для него удобно,to jest dla niego wygodne
 вернуться,wrócić
 он доволен услугой,jest zadowolony z usługi
+я заметил,zauważyłem
+плюсы и минусы,zalety i wady
+не сдаваться,nie poddawać się
+раздумываю,zastanawiam się
+количество (неисчисляемое),ilość
+количество/число (исчисляемое),liczba
+разговаривать (друг с другом),rozmawiać (ze sobą)
+вместо того чтобы встретиться,zamiast spotkać się
+серьёзный (прилагательное),poważne/poważny
+знания (источник знаний),wiedza (źródło wiedzy)
+навыки/умения,umiejętności
+откладывать,odkładać
+подключение к интернету,połączenie z internetem
+удобство,wygoda
+установить (правила),ustalić
+правила,zasady
+справиться/посоветовать,poradzić
+всё время/постоянно,cały czas
+выбор профессии,wybór zawodu
+тысяча,tysiąc
+тысяч (родительный мн.ч.),tysięcy
