@@ -1,35 +1,13 @@
 посуда,naczynia
-я заметил,zauważyłem
 осматривать,zwiedzać
-плюсы и минусы,zalety i wady
-не сдаваться,nie poddawać się
-раздумываю,zastanawiam się
 первое что я делаю,pierwszą rzeczą którą robię
-количество (неисчисляемое),ilość
-количество/число (исчисляемое),liczba
-разговаривать (друг с другом),rozmawiać (ze sobą)
 реже,rzadziej
-вместо того чтобы встретиться,zamiast spotkać się
-серьёзно (наречие),poważnie
-серьёзный (прилагательное),poważne/poważny
-знания (источник знаний),wiedza (źródło wiedzy)
-навыки/умения,umiejętności
 знать (факт/навык),znać
 знать (иметь информацию),wiedzieć
 мешать,przeszkadzać
-откладывать,odkładać
 мы едим,jemy
 несёт ответственность за,jest odpowiedzialny za
-подключение к интернету,połączenie z internetem
-удобство,wygoda
 стоит (имеет смысл),warto
-установить (правила),ustalić
-правила,zasady
-справиться/посоветовать,poradzić
 алкогольные напитки,napoje alkoholowe
-всё время/постоянно,cały czas
 поведение,zachowanie
 принимать участие,brać udział
-выбор профессии,wybór zawodu
-тысяча,tysiąc
-тысяч (родительный мн.ч.),tysięcy

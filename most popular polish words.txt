@@ -31,7 +31,6 @@
 во время,podczas
 смерти,śmierci
 пару/несколько,parę
-серьёзно,poważnie
 некий/уверенный,pewien
 будь,bądź
 чтобы я,żebym
@@ -217,7 +216,6 @@
 бери,bierz
 умеешь,potrafisz
 займёт,zajmie
-правила,zasady
 круг/около,koło
 великого,wielkiego
 ответы,odpowiedzi
@@ -307,7 +305,6 @@
 как раз,akurat
 беру,biorę
 шутка,żart
-справлюсь,poradzę
 трогай (nie dotykaj),dotykaj
 преступления,zbrodni
 сумасшедшие,szaleni
@@ -487,7 +484,6 @@
 правил,zasad
 великой,wielkiej
 чувство,poczucie
-заметил,zauważyłem
 действия,działania
 снять,zdjąć
 пошёл (я),poszedłem
@@ -640,10 +636,8 @@
 след,ślad
 дойти,dojść
 достичь,osiągnąć
-справишься,poradzisz
 пустыне,pustyni
 ответственность,odpowiedzialność
-навыки,umiejętności
 постараюсь,postaram
 горло,gardło
 ладонь,dłoń
@@ -667,7 +661,6 @@
 влияние,wpływ
 мешаю,przeszkadzam
 совершить,dokonać
-число,liczba
 не совсем,niezupełnie
 стол,stół
 попрощаться,pożegnać
@@ -762,7 +755,6 @@
 рыба,ryba
 курок,spust
 сплетни,plotki
-установить,ustalić
 присутствия,obecności
 ложись,padnij
 удар,uderzenie
