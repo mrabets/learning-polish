@@ -1,5 +1,3 @@
 осматривать,zwiedzać
 осмотр достопримечательностей,zwiedzanie
-навещать,odwiedzać
-посещение,odwiedzanie
 визит,wizyta

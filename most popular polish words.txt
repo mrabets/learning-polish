@@ -45,7 +45,6 @@
 снова,znów
 скажешь,powiesz
 делай,rób
-немедленно,natychmiast
 совсем/довольно,całkiem
 привет (формальн.),witaj
 если бы я,gdybym
@@ -204,7 +203,6 @@
 глаз,oko
 красиво/мило,ładnie
 тюрьмы,więzienia
-всё больше,coraz
 кто-либо,ktokolwiek
 множество,mnóstwo
 бери,bierz
@@ -227,7 +225,6 @@
 свадьба,ślub
 умер,umarł
 да (подтверждение),owszem
-вокруг,wokół
 уходи,odejdź
 чувство,uczucie
 положи,odłóż
@@ -279,7 +276,6 @@
 солнце,słońce
 парни,faceci
 понравится,spodoba
-особенно,zwłaszcza
 оба (м.р.),obaj
 участие,udział
 прощай,żegnaj
@@ -292,7 +288,6 @@
 приказы,rozkazy
 приказал,kazał
 лодка,łódź
-воздух,powietrze
 умрёт,umrze
 к чёрту (ругат.),pierdol
 как раз,akurat
@@ -437,7 +432,6 @@
 дела (mieć do czynienia),czynienia
 найдено,znaleziono
 принять,przyjąć
-воздуха,powietrza
 займись,zajmij
 ребёнка,dzieciaka
 нашла,znalazła
@@ -458,7 +452,6 @@
 поддержка,wsparcie
 майор (обращение),majorze
 весёлых (wesołych świąt),wesołych
-ответственный,odpowiedzialny
 чёртов (ругат.),pierdolony
 дыхание,oddech
 причинить боль,skrzywdzić
@@ -561,7 +554,6 @@
 спасать,ratować
 пообещай,obiecaj
 узнаем,dowiemy
-потеря,strata
 впрочем,zresztą
 угадай,zgadnij
 лови,złap
@@ -582,10 +574,8 @@
 личное,osobiste
 чужой,obcy
 представь,wyobraź
-воздухе,powietrzu
 понятие,pojęcie
 команды,zespołu
-источник,źródło
 присутствие,obecność
 развлекается,bawi
 надень/вставь,włóż
@@ -603,7 +593,6 @@
 попал,trafił
 ударил,uderzył
 острова,wyspy
-вызывает,powoduje
 падаем,spadamy
 указывает,wskazuje
 пари/завод,zakład
@@ -622,9 +611,7 @@
 досягаемости,zasięgu
 след,ślad
 дойти,dojść
-достичь,osiągnąć
 пустыне,pustyni
-ответственность,odpowiedzialność
 постараюсь,postaram
 горло,gardło
 ладонь,dłoń
@@ -636,7 +623,6 @@
 начали,zaczęli
 враг,wróg
 шляпа,kapelusz
-угроза,zagrożenie
 шутки,żarty
 заслуживает,zasługuje
 свидетелем,świadkiem
@@ -645,14 +631,12 @@
 отличный,doskonały
 хотя бы,choćby
 чудом,cudem
-влияние,wpływ
 мешаю,przeszkadzam
 совершить,dokonać
 не совсем,niezupełnie
 стол,stół
 попрощаться,pożegnać
 узнал (я),dowiedziałem
-источники,źródła
 бросил,rzucił
 болело,bolało
 история/рассказ,opowieść
@@ -712,7 +696,6 @@
 толпа,tłum
 направляется,zmierza
 страхов,obaw
-растёт,rośnie
 кража,kradzież
 с ума сошёл,zwariowałeś
 впечатлением,wrażeniem
@@ -726,7 +709,6 @@
 вылезай,wyłaź
 насилия,przemocy
 стене,ścianie
-вдоль,wzdłuż
 замечательная,wspaniała
 чудовище,potwór
 имели (вы),mieliście
@@ -832,7 +814,6 @@
 то,tamto
 сомнения (bez wątpienia),wątpienia
 поймал,złapał
-пространство,przestrzeń
 тень,cień
 встречает,spotyka
 преимущество,przewagę
