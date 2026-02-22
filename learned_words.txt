@@ -106,3 +106,24 @@
 алкогольные напитки,napoje alkoholowe
 поведение,zachowanie
 принимать участие,brać udział
+всё больше/чаще,coraz
+воздух,powietrze
+загрязнённый,zanieczyszczone
+угроза,zagrożenie
+растёт,rośnie
+вокруг,wokół
+последствия,skutki
+влияние,wpływ
+вызывает,powoduje
+ответственность,odpowiedzialność
+особенно,zwłaszcza
+немедленно,natychmiast
+сортировка,sortowanie
+потеря,strata
+источник,źródło
+достичь,osiągnąć
+вдоль,wzdłuż
+пространство,przestrzeń
+доказательство,dowód
+навещать,odwiedzać
+посещение,odwiedzanie
