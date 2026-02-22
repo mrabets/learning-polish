@@ -100,3 +100,9 @@ Lubię spacerować wzdłuż rzeki w moim mieście. Kiedyś była bardzo brudna, 
 
 ---
 
+## 9. Rodzina i tradycje (2026-02-22)
+
+W mojej rodzinie mamy zwyczaj spotykania się w każdą niedzielę. Sądzę, że to całkiem ważna tradycja — wtedy możemy porozmawiać spokojnie i poza codziennym pośpiechem. Zanim zaczniemy obiad, zawsze dziadek opowiada parę historii z przeszłości. Wydaje mi się, że podczas takich spotkań wcale nie czuję się znużony — wręcz przeciwnie. Dopiero kiedy wracam do domu, rozumiem, jak ważna jest rodzina.
+
+---
+
