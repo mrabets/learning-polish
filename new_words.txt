@@ -1,2 +1,5 @@
 изматывающий,wyczerpujący
 передышка,wytchnienie
+суета/шум,zgiełk
+кажется,wydaje się
+вовсе (в отрицании),wcale
