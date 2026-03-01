@@ -2,7 +2,6 @@
 чёрт (ругательство),cholera
 происходит/случается,dzieje
 тогда,wtedy
-прежде чем,zanim
 ни,ani
 прекрати,przestań
 правоту (mieć rację — быть правым),rację
@@ -21,7 +20,6 @@
 кроме/за пределами,poza
 нравится (podoba mi się),podoba
 как будто,jakby
-кажется (wydaje mi się),wydaje
 ты должен (м.р.),powinieneś
 держи,trzymaj
 причины (z powodu — из-за),powodu
@@ -52,8 +50,6 @@
 верю,wierzę
 быстрее,szybciej
 неплохо,nieźle
-только что/лишь,dopiero
-вовсе (wcale nie — вовсе нет),wcale
 пойду,pójdę
 знал,wiedział
 момента/минуты,chwili
