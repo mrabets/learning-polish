@@ -135,3 +135,7 @@
 лишь/только,jedynie
 повседневность,codzienność
 рассвет,świt
+изматывающий,wyczerpujący
+суета/шум,zgiełk
+кажется,wydaje się
+вовсе (в отрицании),wcale
