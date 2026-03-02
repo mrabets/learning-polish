@@ -100,3 +100,12 @@ Lubię spacerować wzdłuż rzeki w moim mieście. Kiedyś była bardzo brudna, 
 
 ---
 
+## 9. Pieniądze i oszczędzanie (2026-03-02)
+
+Ostatnio dużo myślę o pieniądzach. Moja pensja nie jest zła, ale pod koniec miesiąca zawsze brakuje mi pieniędzy. Zastanawiam się, dlaczego tak się dzieje. Przecież zarabiam wystarczająco, żeby żyć wygodnie. Problem polega na tym, że nie kontroluję swoich wydatków.
+
+Podczas zakupów często kupuję rzeczy, których wcale nie potrzebuję. Na przykład w zeszłym tygodniu kupiłem nową kurtkę, chociaż mam ich już kilka w szafie. To była całkiem droga rzecz — szkoda pieniędzy. Moja żona dała mi dobrą radę: powinienem prowadzić budżet domowy, czyli zapisywać wszystkie wydatki i regularnie sprawdzać, na co wydaję najwięcej. Według niej, wkrótce zobaczę, gdzie mogę zaoszczędzić. To wymaga dyscypliny, ale warto spróbować.
+
+Kwestia oszczędzania dotyczy wielu ludzi, szczególnie młodych. Prawdopodobnie każdy zna to uczucie, kiedy kupuje coś niepotrzebnego. Przyjemność z zakupów jest krótka, ale konsekwencje mogą być poważne. Nie chcę ryzykować swojej stabilności finansowej. Postanowiłem, że od następnego miesiąca będę odkładać przynajmniej dziesięć procent pensji. Mam nadzieję, że uda mi się to utrzymać.
+
+---
