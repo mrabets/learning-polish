@@ -1,13 +1,5 @@
-осматривать,zwiedzać
-осмотр достопримечательностей,zwiedzanie
-визит,wizyta
-суета/шум,zgiełk
-прежде чем,zanim
-только тогда/лишь,dopiero
-изматывающий,wyczerpujący
-кажется,wydaje się
-вовсе (в отрицании),wcale
-лишь/только,jedynie
+незабываемая,niezapomniana
+изматывающий/-ая/-е,wyczerpujący / wyczerpująca / wyczerpujące
 передышка,wytchnienie
-повседневность,codzienność
-рассвет,świt
+как можно больше,jak najwięcej
+я вернулся,wróciłem
