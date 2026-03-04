@@ -100,3 +100,9 @@ Lubię spacerować wzdłuż rzeki w moim mieście. Kiedyś była bardzo brudna, 
 
 ---
 
+## 9. Powrót z podróży (2026-03-03)
+
+Wczoraj wróciłem z podróży do Krakowa. To była niezapomniana wycieczka, ale jednocześnie bardzo wyczerpująca. Każdego dnia starałem się zobaczyć jak najwięcej — muzea, kościoły, stare ulice. Po tygodniu takiego tempa naprawdę potrzebowałem wytchnienia. Teraz cieszę się, że jestem w domu i mogę spokojnie odpocząć.
+
+---
+
