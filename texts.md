@@ -106,3 +106,15 @@ Wczoraj wróciłem z podróży do Krakowa. To była niezapomniana wycieczka, ale
 
 ---
 
+## 10. Oszczędzanie i wydatki (2026-03-04)
+
+Ostatnio zastanawiam się nad swoimi wydatkami. Okazuje się, że każdego miesiąca wydaję dużo pieniędzy na rzeczy, które nie są naprawdę potrzebne. Szczególnie dużo kosztują zakupy w internecie — łatwo kliknąć i kupić coś, czego tak naprawdę nie potrzebuję. To poważna kwestia, bo chcę oszczędzać na przyszłość.
+
+Moja żona zaproponowała, żebyśmy ustalili budżet domowy. Na początku wydawało mi się to niepotrzebne, ale po miesiącu prowadzenia budżetu zobaczyłem, ile pieniędzy marnuję. Prawdopodobnie połowa moich wydatków to były impulsy — kawa na mieście, ubrania na wyprzedaży, które potem wiszą w szafie.
+
+Postanowiłem zmienić swoje podejście do pieniędzy. Teraz zanim coś kupię, czekam trzy dni. Jeśli po trzech dniach nadal tego chcę — kupuję. Jeśli nie — oszczędzam. To proste, ale wymaga dyscypliny. Doświadczenie pokazuje, że większość rzeczy, które chcemy kupić pod wpływem emocji, okazuje się zbędna.
+
+Uważam, że odpowiednie zarządzanie pieniędzmi to wartość, której warto się nauczyć. Nie chodzi o to, żeby nie wydawać wcale — chodzi o to, żeby wydawać mądrze. Ryzyko polega na tym, że bez planu nigdy nie uda się nic odłożyć.
+
+---
+
