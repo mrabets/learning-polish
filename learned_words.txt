@@ -143,3 +143,11 @@
 передышка,wytchnienie
 как можно больше,jak najwięcej
 я вернулся,wróciłem
+тратить,wydawać
+копить/откладывать,odkładać
+ненужный,niepotrzebny
+висеть в шкафу,wisieć w szafie
+отношение к,podejście do
+экономить,oszczędzać
+требовать,wymagać
+управление,zarządzanie

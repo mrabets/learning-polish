@@ -1,12 +1,8 @@
-тратить,wydawać
 особенно,szczególnie
-копить,odkładać
-ненужный,niepotrzebny
 вести бюджет,prowadzić budżet
 впустую,na marne
-висеть в шкафу,wisieć w szafie
-отношение к,podejście do
-экономить,oszczędzać
-требовать,wymagać
 лишний,zbędny
-управление,zarządzanie
+подходящее,odpowiednie
+по-прежнему,nadal
+тратить впустую,marnować
+заключается в,polega
