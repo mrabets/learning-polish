@@ -151,3 +151,10 @@
 экономить,oszczędzać
 требовать,wymagać
 управление,zarządzanie
+особенно,szczególnie
+вести бюджет,prowadzić budżet
+впустую,na marne
+лишний,zbędny
+подходящее,odpowiednie
+тратить впустую,marnować
+заключается в,polega
