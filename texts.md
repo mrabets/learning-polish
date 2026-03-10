@@ -118,3 +118,13 @@ Uważam, że odpowiednie zarządzanie pieniędzmi to wartość, której warto si
 
 ---
 
+## 11. Przyjaźń i zaufanie (2026-03-10)
+
+Dawno nie rozmawiałem z moim najlepszym przyjacielem. Kiedyś mieszkał obok, ale teraz jest daleko — w innym mieście. Przecież obiecywaliśmy sobie, że będziemy w kontakcie, ale codzienne życie sprawia, że jest to trudne.
+
+Nagle, w zeszły piątek, zadzwonił do mnie wieczorem. Powiem szczerze — bardzo się ucieszyłem. Podczas rozmowy zrozumiałem, że prawdziwa przyjaźń nie wymaga codziennego kontaktu. Istnieje coś silniejszego niż odległość. Kwestia polega na tym, żeby ufać drugiej osobie i nie walczyć z każdą ciszą między wami.
+
+Wreszcie umówiliśmy się na spotkanie. Wkrótce przyjedzie do mnie na weekend. Chcę przygotować wspaniałą kolację — usiądziemy przy stole i pogadamy o wszystkim. Znaleźć czas dla bliskich ludzi to szczęście, które trwa dłużej niż jakiekolwiek pieniądze. To jest powód, dla którego warto dbać o relacje. W sercu zawsze jest miejsce dla miłości i przyjaźni.
+
+---
+
