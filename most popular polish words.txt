@@ -351,7 +351,6 @@
 задаюсь вопросом,zastanawiam
 папочка,tatuś
 доверять,ufać
-особенно,szczególnie
 спасти,ocalić
 обе,obie
 свидание,randkę
@@ -490,7 +489,6 @@
 часы (наручные),zegarek
 вокруг,dookoła
 тяжёлый,ciężki
-заключается,polega
 градусов,stopni
 связь,połączenie
 задавался вопросом,zastanawiałem
@@ -793,7 +791,6 @@
 невероятная,niesamowita
 тем временем,tymczasem
 взяли,wzięli
-подходящее,odpowiednie
 провёл,spędziłem
 мёртвые,martwe
 возвращении,powrocie
