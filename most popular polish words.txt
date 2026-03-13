@@ -16,7 +16,6 @@
 парень,facet
 говори,mów
 имеете (вы),macie
-ведь/же,przecież
 кроме/за пределами,poza
 нравится (podoba mi się),podoba
 как будто,jakby
@@ -147,14 +146,12 @@
 занять,zająć
 причина,powód
 такие (м.р. мн.ч.),tacy
-наконец,wreszcie
 боюсь (obawiam się),obawiam
 огонь,ogień
 сон,sen
 умеет,potrafi
 оттуда,stamtąd
 перестать,przestać
-честно (szczerze mówiąc),szczerze
 остановить,powstrzymać
 кровати,łóżka
 смешное,śmieszne

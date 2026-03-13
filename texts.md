@@ -118,3 +118,13 @@ Uważam, że odpowiednie zarządzanie pieniędzmi to wartość, której warto si
 
 ---
 
+## 11. Przyjaźń na odległość (2026-03-13)
+
+Dawno nie rozmawiałem z moim najlepszym przyjacielem. Kiedyś mieszkał obok, ale teraz jest daleko, w innym mieście. Przecież obiecywaliśmy sobie, że będziemy w kontakcie. Ale codzienne życie sprawia, że to jest trudne.
+
+Nagle, w zeszły piątek, zadzwonił do mnie wieczorem. Powiem szczerze: bardzo się ucieszyłem. Podczas rozmowy zrozumiałem, że prawdziwa przyjaźń nie wymaga codziennego kontaktu. Istnieje coś silniejszego niż odległość. Kwestia polega na tym, żeby ufać innej osobie i nie walczyć z każdą ciszą między wami.
+
+Wreszcie umówiliśmy się na spotkanie. Wkrótce przyjedzie do mnie na weekend. Chcę przygotować wspaniałą kolację — usiądziemy przy stole i pogadamy o wszystkim. Znaleźć czas dla bliskich ludzi to szczęście, które trwa dłużej niż jakiekolwiek pieniądze. Dlatego warto dbać o relacje. W sercu zawsze można znaleźć miejsce dla miłości i przyjaźni.
+
+---
+
