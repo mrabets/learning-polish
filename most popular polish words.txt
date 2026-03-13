@@ -7,12 +7,10 @@
 правоту (mieć rację — быть правым),rację
 чтобы ты,żebyś
 состоянии (być w stanie — быть в состоянии),stanie
-скажу,powiem
 оружие,broń
 мог,mógł
 убить,zabić
 посмотри,spójrz
-найти,znaleźć
 парень,facet
 говори,mów
 имеете (вы),macie
@@ -23,7 +21,6 @@
 причины (z powodu — из-за),powodu
 смотри,patrz
 полагаю/считаю,sądzę
-во время,podczas
 смерти,śmierci
 пару/несколько,parę
 некий/уверенный,pewien
@@ -50,14 +47,12 @@
 знал,wiedział
 момента/минуты,chwili
 пока (не),dopóki
-любовь,miłość
 земли,ziemi
 какую,jaką
 дерьмо (ругат.),gówno
 звучит,brzmi
 возможно,możliwe
 согласен (zgadza się),zgadza
-сердце,serce
 великий/большой,wielki
 обратно (z powrotem),z powrotem
 было бы,byłoby
@@ -66,7 +61,6 @@
 чем-то,czymś
 дорогая/сокровище,skarbie
 прости,wybacz
-счастье,szczęście
 выйти,wyjść
 странно (прил.),dziwne
 осталась,została
@@ -90,7 +84,6 @@
 когда-либо,kiedykolwiek
 пойти,pójść
 чувак,koleś
-вскоре,wkrótce
 летит,leci
 останься,zostań
 корабль,statek
@@ -105,7 +98,6 @@
 ваша,wasza
 жаль,szkoda
 проверить,sprawdzić
-поговорить,pogadać
 двигаться,ruszać
 тихо,cicho
 самого,samego
@@ -113,20 +105,14 @@
 никаких,żadnych
 удачи,powodzenia
 уйти,odejść
-давно,dawno
 держать,trzymać
 гость/чувак,gość
-сражаться,walczyć
 достаточно,wystarczająco
 дашь/справишься,dasz
 вероятно,prawdopodobnie
-вдруг,nagle
 возьму,wezmę
 боюсь,boję
 ничем,niczym
-обещаю,obiecuję
-существует,istnieje
-рядом,obok
 полностью,całkowicie
 около/примерно,około
 прошёл,przeszedł
@@ -144,7 +130,6 @@
 голос,głos
 сбежать,uciec
 занять,zająć
-причина,powód
 такие (м.р. мн.ч.),tacy
 боюсь (obawiam się),obawiam
 огонь,ogień
@@ -164,7 +149,6 @@
 проверь,sprawdź
 достаточно/хватит,dosyć
 но ведь,ależ
-замечательный,wspaniały
 немало,sporo
 новости,wieści
 намерение (mieć zamiar),zamiar
@@ -280,7 +264,6 @@
 бой,walka
 убедить,przekonać
 расслабься,wyluzuj
-длится,trwa
 башка (сленг),łeb
 стреляй,strzelaj
 выстрел,strzał
@@ -288,7 +271,6 @@
 окрестностях,okolicy
 прошло,minęło
 борту (na pokładzie),pokładzie
-тишина,cisza
 беспокойся (nie przejmuj się),przejmuj
 чёрт (ругат.),szlag
 ужасное,okropne
@@ -298,7 +280,6 @@
 неужели,czyżby
 задаюсь вопросом,zastanawiam
 папочка,tatuś
-доверять,ufać
 спасти,ocalić
 обе,obie
 продлится,potrwa
@@ -333,7 +314,6 @@
 спустись,zejdź
 обстоятельства,okoliczności
 брюки,spodnie
-вопрос,kwestia
 сомнения,wątpliwości
 не очень,niezbyt
 крыши,dachu
@@ -525,7 +505,6 @@
 мешаю,przeszkadzam
 совершить,dokonać
 не совсем,niezupełnie
-стол,stół
 попрощаться,pożegnać
 бросил,rzucił
 болело,bolało
