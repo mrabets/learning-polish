@@ -128,3 +128,16 @@ Wreszcie umówiliśmy się na spotkanie. Wkrótce przyjedzie do mnie na weekend.
 
 ---
 
+## 12. Tradycje, które łączą (2026-03-13)
+
+W każdej rodzinie istnieją tradycje, które przechodzą z pokolenia na pokolenie. Według mnie to bardzo ważne, bo tradycje łączą ludzi i dają poczucie wspólnoty. Kiedy byłem dzieckiem, babcia zawsze opowiadała nam różne opowieści o dawnych czasach. Pamiętam, jakie to było uczucie — siedziałem obok niej i słuchałem z uśmiechem na twarzy.
+
+Teraz, gdy mieszkam daleko od rodziny, tęsknię za tymi chwilami. Nareszcie zrozumiałem, że tradycje to nie tylko święta i wesołych życzeń. To coś głębszego — sposób, w jaki przeżywamy czas razem. Moja żona mówi, że powinniśmy stworzyć własne tradycje w naszym domu. Zgadzam się z nią — każda rodzina zasługuje na takie chwile.
+
+Jestem wdzięczny za doświadczenie, które wyniosłem z dzieciństwa. Niektórzy ludzie uważają, że tradycje to przeszłość i nie mają znaczenia. Nie zgadzam się z tym. Moim marzeniem jest przekazać te wartości swoim dzieciom. Bo tradycje dają nam przyjemność i poczucie, że nie jesteśmy sami.
+
+Nowe słowa:
+według, opowieści, uczucie, uśmiechem, tęsknię, nareszcie, wesołych, życzeń, przeżywamy, zasługuje, wdzięczny, doświadczenie, przeszłość, marzeniem, przyjemność
+
+---
+
