@@ -158,3 +158,6 @@
 подходящее,odpowiednie
 тратить впустую,marnować
 заключается в,polega
+по-прежнему/всё ещё,nadal
+обрадовался,ucieszyłem się
+много (+ 3 лицо ед.ч.),wiele/wielu + 3os. lp.
