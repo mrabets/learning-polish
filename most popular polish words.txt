@@ -174,7 +174,6 @@
 свадьба,ślub
 умер,umarł
 да (подтверждение),owszem
-чувство,uczucie
 положи,odłóż
 прямо/рядом,tuż
 среди,wśród
@@ -210,7 +209,6 @@
 покинуть,opuścić
 потерял (я),straciłem
 согласен (zgadzam się),zgadzam
-удовольствие,przyjemność
 признать,przyznać
 жертвы,ofiary
 солнце,słońce
@@ -335,7 +333,6 @@
 классная,fajna
 дверью (za drzwiami),drzwiami
 извиниться,przeprosić
-прошлое,przeszłość
 дела (mieć do czynienia),czynienia
 принять,przyjąć
 займись,zajmij
@@ -347,14 +344,11 @@
 власти,władze
 требует,wymaga
 бедный,biedny
-улыбка,uśmiech
-наконец-то,nareszcie
 пригодится,przyda
 колени,kolana
 пережить,przeżyć
 поддержка,wsparcie
 майор (обращение),majorze
-весёлых (wesołych świąt),wesołych
 дыхание,oddech
 причинить боль,skrzywdzić
 расследование,śledztwo
@@ -371,7 +365,6 @@
 давление,ciśnienie
 предполагаю,przypuszczam
 убедиться,upewnić
-скучаю,tęsknię
 стены,ściany
 выполнить,wykonać
 прошлой (zeszłej nocy),zeszłej
@@ -419,7 +412,6 @@
 всякие,wszelkie
 победа,zwycięstwo
 отдел,wydział
-благодарный,wdzięczny
 захочет,zechce
 отступить,wycofać
 будьте,bądźcie
@@ -462,7 +454,6 @@
 прошёл,minął
 с ума сошёл,oszalałeś
 мечты,marzenia
-опыт,doświadczenie
 лагерь,obóz
 потерял (ты),straciłeś
 обеспечить,zapewnić

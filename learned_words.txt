@@ -161,3 +161,16 @@
 по-прежнему/всё ещё,nadal
 обрадовался,ucieszyłem się
 много (+ 3 лицо ед.ч.),wiele/wielu + 3os. lp.
+рассказы,opowieści
+чувство,uczucie
+улыбка,uśmiech
+скучаю,tęsknię
+наконец-то,nareszcie
+весёлых,wesołych
+пожелания,życzenia
+проживаем/переживаем,przeżywamy
+благодарен,wdzięczny
+опыт,doświadczenie
+прошлое,przeszłość
+мечта,marzenie
+удовольствие,przyjemność

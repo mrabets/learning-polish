@@ -1,3 +1,5 @@
 честно/откровенно,szczerze
 ведь/же,przecież
 наконец,wreszcie
+по мнению/согласно,według
+заслуживает,zasługuje
