@@ -1,8 +1,6 @@
 отсюда,stąd
 чёрт (ругательство),cholera
 происходит/случается,dzieje
-тогда,wtedy
-ни,ani
 прекрати,przestań
 правоту (mieć rację — быть правым),rację
 чтобы ты,żebyś
@@ -16,7 +14,6 @@
 имеете (вы),macie
 кроме/за пределами,poza
 нравится (podoba mi się),podoba
-как будто,jakby
 ты должен (м.р.),powinieneś
 причины (z powodu — из-за),powodu
 смотри,patrz
@@ -37,7 +34,6 @@
 Боже (восклицание),jezu
 снова,znów
 делай,rób
-совсем/довольно,całkiem
 привет (формальн.),witaj
 если бы я,gdybym
 оставь,zostaw
@@ -62,7 +58,6 @@
 дорогая/сокровище,skarbie
 прости,wybacz
 выйти,wyjść
-странно (прил.),dziwne
 осталась,została
 против,przeciwko
 я мог бы,mógłbym
@@ -75,7 +70,6 @@
 середине (w środku),środku
 совет (dać radę — справиться),radę
 войти,wejść
-снаружи (na zewnątrz),zewnątrz
 муж,mąż
 кем-то,kimś
 вернусь,wrócę
@@ -99,7 +93,6 @@
 жаль,szkoda
 проверить,sprawdzić
 двигаться,ruszać
-тихо,cicho
 самого,samego
 какую-то,jakąś
 никаких,żadnych
@@ -111,7 +104,6 @@
 дашь/справишься,dasz
 вероятно,prawdopodobnie
 возьму,wezmę
-боюсь,boję
 ничем,niczym
 полностью,całkowicie
 около/примерно,około
@@ -132,8 +124,6 @@
 занять,zająć
 такие (м.р. мн.ч.),tacy
 боюсь (obawiam się),obawiam
-огонь,ogień
-сон,sen
 умеет,potrafi
 оттуда,stamtąd
 перестать,przestać
@@ -233,8 +223,6 @@
 преступления,zbrodni
 сумасшедшие,szaleni
 проваливай,spadaj
-внутри,wewnątrz
-страх,strach
 листья,liście
 деньги (сленг),forsę
 садись,wsiadaj
@@ -294,7 +282,6 @@
 вероятно,zapewne
 настал,nadszedł
 нескольких,paru
-ветер,wiatr
 честь,zaszczyt
 захочешь,zechcesz
 денег (сленг),forsy
@@ -381,7 +368,6 @@
 прямо,wprost
 машины,wozu
 мужик (обращение),chłopie
-темноты,ciemności
 умный,mądry
 отпечатки,odciski
 убийца,morderca
@@ -389,7 +375,6 @@
 победить,pokonać
 плечо,ramię
 часы (наручные),zegarek
-вокруг,dookoła
 тяжёлый,ciężki
 градусов,stopni
 связь,połączenie
@@ -446,7 +431,6 @@
 наступит,nadejdzie
 уверяю,zapewniam
 воняет,śmierdzi
-луна,księżyc
 территории,terenie
 предчувствие,przeczucie
 почти,niemal
@@ -552,7 +536,6 @@
 ценности,wartości
 проверяю,sprawdzam
 рисковать,ryzykować
-буря,burza
 компании,towarzystwa
 толпа,tłum
 направляется,zmierza
@@ -599,7 +582,6 @@
 лба,czoła
 сторожить,pilnować
 гнев,gniew
-шум,hałas
 бывает,miewa
 выходи,wysiadaj
 влезай,włąź
@@ -645,7 +627,6 @@
 сообщить,zgłosić
 подразделение,jednostka
 вежливый,grzeczny
-тень,cień
 встречает,spotyka
 преимущество,przewagę
 живот,brzuch
