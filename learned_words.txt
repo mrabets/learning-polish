@@ -158,3 +158,25 @@
 подходящее,odpowiednie
 тратить впустую,marnować
 заключается в,polega
+буря,burza
+ветер,wiatr
+как будто,jakby
+вокруг,dookoła
+шум,hałas
+ни,ani
+совсем/довольно,całkiem
+боюсь,boję
+темнота,ciemności
+тогда,wtedy
+странное,dziwne
+страх,strach
+тень,cień
+луна,księżyc
+огонь,ogień
+внутри,wewnątrz
+тихо,cicho
+сон,sen
+охватить/осознать,ogarnąć
+снаружи,na zewnątrz
+итак/поэтому,więc
+наконец,wreszcie
