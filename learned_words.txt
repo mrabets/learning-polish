@@ -180,3 +180,18 @@
 снаружи,na zewnątrz
 итак/поэтому,więc
 наконец,wreszcie
+наконец-то,nareszcie
+выступление,występ
+любимое,ulubione
+собираюсь/намерен,zamierzam
+уверена (ж.р.),pewna
+поддержка,wsparcie
+благодарный,wdzięczny
+опыт,doświadczenie
+ощущение/чувство,poczucie
+улыбка,uśmiech
+удовольствие,przyjemność
+требует,wymaga
+уважение,szacunek
+фигура/персонаж,postać
+мечты,marzenia
