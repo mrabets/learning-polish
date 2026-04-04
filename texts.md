@@ -128,3 +128,15 @@ Wreszcie umówiliśmy się na spotkanie. Wkrótce przyjedzie do mnie na weekend.
 
 ---
 
+## 12. Pierwszy koncert na żywo (2026-04-04)
+
+Dawno marzyłem o tym, żeby pójść na koncert na żywo. Nareszcie udało mi się kupić bilety na występ mojego ulubionego zespołu. Zamierzam pójść razem z żoną — jestem pewna, że jej się spodoba.
+
+Kiedy byłem młodszy, nie miałem wsparcia od rodziców w tej kwestii. Uważali, że muzyka to strata czasu. Ale teraz jestem wdzięczny za to doświadczenie — sam musiałem szukać muzyki, która mi się podoba, i dzięki temu mam swój własny gust.
+
+Poczucie, które daje muzyka na żywo, jest niesamowite. To nie to samo, co słuchać przez słuchawki. Atmosfera, energia tłumu, uśmiech na twarzach ludzi — wszystko to sprawia ogromną przyjemność. Każdy występ wymaga od artystów nie tylko talentu, ale też szacunku do publiczności.
+
+Na scenie główna postać zespołu zawsze rozmawia z publicznością między utworami. To buduje połączenie między artystą a słuchaczami. Zastanawiam się, czy powinienem częściej chodzić na takie wydarzenia. Marzenia się spełniają, jeśli nie odkładamy ich na później.
+
+---
+
