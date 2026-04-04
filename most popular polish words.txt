@@ -61,7 +61,6 @@
 осталась,została
 против,przeciwko
 я мог бы,mógłbym
-уверена,pewna
 волнует (obchodzi mnie),obchodzi
 от (ode mnie — от меня),ode
 лицо,twarz
@@ -133,7 +132,6 @@
 мёртвый,martwy
 должны были,musieli
 офиса,biura
-собираюсь,zamierzam
 отпусти,puść
 части,części
 проверь,sprawdź
@@ -200,7 +198,6 @@
 покинуть,opuścić
 потерял (я),straciłem
 согласен (zgadzam się),zgadzam
-удовольствие,przyjemność
 признать,przyznać
 жертвы,ofiary
 солнце,słońce
@@ -332,14 +329,10 @@
 твоего,twego
 жалею,żałuję
 власти,władze
-требует,wymaga
 бедный,biedny
-улыбка,uśmiech
-наконец-то,nareszcie
 пригодится,przyda
 колени,kolana
 пережить,przeżyć
-поддержка,wsparcie
 майор (обращение),majorze
 весёлых (wesołych świąt),wesołych
 дыхание,oddech
@@ -350,7 +343,6 @@
 случилось,zdarzyło
 палуба,pokład
 правил,zasad
-чувство,poczucie
 действия,działania
 снять,zdjąć
 пошёл (я),poszedłem
@@ -404,7 +396,6 @@
 всякие,wszelkie
 победа,zwycięstwo
 отдел,wydział
-благодарный,wdzięczny
 захочет,zechce
 отступить,wycofać
 будьте,bądźcie
@@ -426,7 +417,6 @@
 спасать,ratować
 впрочем,zresztą
 угадай,zgadnij
-уважение,szacunek
 гордая,dumna
 наступит,nadejdzie
 уверяю,zapewniam
@@ -445,8 +435,6 @@
 судья,sędzia
 прошёл,minął
 с ума сошёл,oszalałeś
-мечты,marzenia
-опыт,doświadczenie
 лагерь,obóz
 потерял (ты),straciłeś
 обеспечить,zapewnić
@@ -600,7 +588,6 @@
 плёнку,taśmę
 трогать,dotykać
 членом,członkiem
-фигура/персонаж,postać
 груз,ładunek
 ревнивый,zazdrosny
 пялишься,gapisz
@@ -620,7 +607,6 @@
 тем временем,tymczasem
 взяли,wzięli
 провёл,spędziłem
-выступление,występ
 отследить,namierzyć
 всего лишь,zaledwie
 содержит,zawiera
@@ -633,7 +619,6 @@
 радости,radości
 притворяйся,udawaj
 поиск,poszukiwanie
-любимое,ulubione
 предупреждаю,ostrzegam
 горсть,garść
 на помощь (ratunku!),ratunku
