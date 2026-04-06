@@ -140,3 +140,17 @@ Na scenie główna postać zespołu zawsze rozmawia z publicznością między ut
 
 ---
 
+## 13. Tradycje i święta w Polsce (2026-04-06)
+
+Skoro mieszkam w Polsce od kilku lat, chętnie poznaję lokalne tradycje. Szczerze mówiąc, na początku wiele rzeczy wydawało mi się dziwnych. Na przykład Wielkanoc — to jedno z najważniejszych świąt w Polsce, które nadal odgrywa ogromną rolę w życiu rodzin.
+
+Najbardziej zrobiło na mnie wrażenie śniadanie wielkanocne. Cała rodzina zbiera się przy stole, a na nim stoją kolorowe pisanki, biała kiełbasa i mazurek — tradycyjne ciasto. Według mojej teściowej każde danie ma swoje znaczenie. Brzmi to pięknie, ale przygotowanie wszystkiego zajmie sporo czasu. Przecież trzeba wszystko upiec i udekorować!
+
+W poniedziałek wielkanocny jest tak zwany „Śmigus-dyngus", czyli tradycja polewania się wodą. Kiedy pierwszy raz usłyszałem o tym, nie mogłem uwierzyć. Ale teraz rozumiem — to zabawa, która łączy ludzi. Szkoda, że w moim kraju nie mamy czegoś podobnego.
+
+Zastanawiam się, wobec jakich tradycji czuję się najbliżej. Chętnie bym wymyślił własną rodzinną tradycję — na przykład wspólne gotowanie w każdą niedzielę. Uważam, że takie zwyczaje zasługują na szacunek, bo budują poczucie wspólnoty. Przychodzi mi na myśl, że od dawna chciałem odwiedzić Kraków podczas świąt — mówią, że atmosfera tam jest wyjątkowa.
+
+**Nowe słowa:** skoro, chętnie, szczerze, wrażenie, według, brzmi, przecież, czyli, szkoda, wobec, wymyślić, zasługuje, przychodzi, od dawna, nadal, sporo, łączy
+
+---
+
