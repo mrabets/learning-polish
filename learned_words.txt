@@ -195,3 +195,20 @@
 уважение,szacunek
 фигура/персонаж,postać
 мечты,marzenia
+раз уж/поскольку,skoro
+с удовольствием,chętnie
+честно/откровенно,szczerze
+впечатление,wrażenie
+по мнению/согласно,według
+звучит,brzmi
+ведь/же,przecież
+то есть,czyli
+жаль,szkoda
+по отношению к,wobec
+придумать,wymyślić
+заслуживает,zasługuje
+приходит,przychodzi
+давно (od dawna),od dawna
+по-прежнему,nadal
+немало,sporo
+соединяет/объединяет,łączy

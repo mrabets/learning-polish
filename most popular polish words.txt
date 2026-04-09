@@ -29,7 +29,6 @@
 ничего,niczego
 вот,oto
 господа,panowie
-раз уж/поскольку,skoro
 позволь,pozwól
 Боже (восклицание),jezu
 снова,znów
@@ -46,7 +45,6 @@
 земли,ziemi
 какую,jaką
 дерьмо (ругат.),gówno
-звучит,brzmi
 возможно,możliwe
 согласен (zgadza się),zgadza
 великий/большой,wielki
@@ -84,12 +82,9 @@
 вниз (na dół),dół
 этим путём,tędy
 более чем,ponad
-по мнению/согласно,według
 как-то,jakoś
-то есть,czyli
 проблемы/неприятности,kłopoty
 ваша,wasza
-жаль,szkoda
 проверить,sprawdzić
 двигаться,ruszać
 самого,samego
@@ -137,7 +132,6 @@
 проверь,sprawdź
 достаточно/хватит,dosyć
 но ведь,ależ
-немало,sporo
 новости,wieści
 намерение (mieć zamiar),zamiar
 глаз,oko
@@ -181,14 +175,11 @@
 очевидно,najwyraźniej
 сесть,usiąść
 убийство,morderstwo
-с удовольствием,chętnie
 к чёрту (ругат.),pieprzyć
 команда,zespół
 короля,króla
 машина/повозка,wóz
 долларов,dolarów
-впечатление,wrażenie
-давно (od dawna),dawna
 кому,komu
 вышел,wyszedł
 лейтенант (обращение),poruczniku
@@ -206,8 +197,6 @@
 участие,udział
 прощай,żegnaj
 странно,dziwnie
-приходит,przychodzi
-по отношению к,wobec
 скачано,pobrane
 территория,teren
 приказал,kazał
@@ -392,7 +381,6 @@
 придурком,dupkiem
 навестить,odwiedzić
 возьмём,weźmiemy
-соединяет,łączy
 всякие,wszelkie
 победа,zwycięstwo
 отдел,wydział
@@ -469,7 +457,6 @@
 отстань,odpuść
 враг,wróg
 шляпа,kapelusz
-заслуживает,zasługuje
 чётко,wyraźnie
 отличный,doskonały
 хотя бы,choćby
@@ -579,7 +566,6 @@
 района,dzielnicy
 пенсию (na emeryturę),emeryturę
 чрезвычайно,niezwykle
-придумать,wymyślić
 прямо-таки,wręcz
 толстый,gruby
 преступление,przestępstwo
