@@ -154,3 +154,17 @@ Zastanawiam się, wobec jakich tradycji czuję się najbliżej. Chętnie bym wym
 
 ---
 
+## 14. Co to znaczy odnieść sukces? (2026-04-09)
+
+Wiele osób marzy o sukcesie, ale każdy rozumie to pojęcie inaczej. Dla jednych sukces to zwycięstwo w pracy — wysoka pensja, prestiżowe stanowisko, uznanie kolegów. Dla innych to spokojne życie z rodziną i poczucie radości z codziennych chwil.
+
+Mój sąsiad Tomek poświęcił dwadzieścia lat kariery, żeby dokonać czegoś wielkiego w swojej branży. Pracował wiecznie — wieczorami, w weekendy, nawet podczas wakacji. Jego działania przyniosły rezultat: został szefem dużej firmy. Ale pewnego dnia przyznał mi szczerze, że żałuje wielu rzeczy. Stracił osobiste relacje, a jego żona odeszła. Wręcz powiedział: „Jestem samotny i biedny emocjonalnie, mimo że mam dużo pieniędzy."
+
+Ta historia dała mi do myślenia. Zastanawiam się, jakie wartości są naprawdę ważne w życiu. Czy warto przekonywać siebie, że kariera jest najważniejsza? Mam uczucie, że prawdziwy sukces to równowaga — między pracą, rodziną i zdrowiem. Każdy z nas bierze udział w tym wyścigu, ale mądry człowiek wie, kiedy się zatrzymać.
+
+Myślę o przyszłości i chcę żyć inaczej. Nie chcę, żeby ktoś powiedział o mnie: „Miał wszystko, ale nie miał nikogo." Uważam, że sukces to nie sława — to spokój w sercu.
+
+**Nowe słowa:** pojęcie, zwycięstwo, radości, dokonać, wiecznie, działania, przyznał, żałuje, osobiste, wręcz, samotny, biedny, wartości, przekonywać, uczucie, udział, wyścigu, mądry, przyszłości
+
+---
+
