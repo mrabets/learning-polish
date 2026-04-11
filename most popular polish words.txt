@@ -156,11 +156,9 @@
 свадьба,ślub
 умер,umarł
 да (подтверждение),owszem
-чувство,uczucie
 положи,odłóż
 прямо/рядом,tuż
 среди,wśród
-будущего,przyszłości
 поймать,złapać
 немного,nieco
 вытворяешь,wyprawiasz
@@ -189,12 +187,10 @@
 покинуть,opuścić
 потерял (я),straciłem
 согласен (zgadzam się),zgadzam
-признать,przyznać
 жертвы,ofiary
 солнце,słońce
 понравится,spodoba
 оба (м.р.),obaj
-участие,udział
 прощай,żegnaj
 странно,dziwnie
 скачано,pobrane
@@ -236,7 +232,6 @@
 приближается,nadchodzi
 чертовски,cholernie
 бой,walka
-убедить,przekonać
 расслабься,wyluzuj
 башка (сленг),łeb
 стреляй,strzelaj
@@ -316,9 +311,7 @@
 невероятный,niewiarygodny
 друг/приятель,kumpel
 твоего,twego
-жалею,żałuję
 власти,władze
-бедный,biedny
 пригодится,przyda
 колени,kolana
 пережить,przeżyć
@@ -332,7 +325,6 @@
 случилось,zdarzyło
 палуба,pokład
 правил,zasad
-действия,działania
 снять,zdjąć
 пошёл (я),poszedłem
 казалось,wydawało
@@ -349,7 +341,6 @@
 прямо,wprost
 машины,wozu
 мужик (обращение),chłopie
-умный,mądry
 отпечатки,odciski
 убийца,morderca
 душ,prysznic
@@ -382,19 +373,16 @@
 навестить,odwiedzić
 возьмём,weźmiemy
 всякие,wszelkie
-победа,zwycięstwo
 отдел,wydział
 захочет,zechce
 отступить,wycofać
 будьте,bądźcie
 через (przeze mnie),przeze
 врёт,kłamie
-одинокий,samotny
 подробности,szczegóły
 ордер,nakaz
 кошмар,koszmar
 крутит/снимает,kręci
-вечно,wiecznie
 воде,wodzie
 чушь,bzdura
 остаться,pozostać
@@ -414,7 +402,6 @@
 почти,niemal
 заберёт,zabierze
 грустное,smutne
-личное,osobiste
 чужой,obcy
 представь,wyobraź
 понятие,pojęcie
@@ -462,7 +449,6 @@
 хотя бы,choćby
 чудом,cudem
 мешаю,przeszkadzam
-совершить,dokonać
 не совсем,niezupełnie
 попрощаться,pożegnać
 бросил,rzucił
@@ -508,7 +494,6 @@
 невероятный,niesamowity
 правит,rządzi
 адвокатом,prawnikiem
-ценности,wartości
 проверяю,sprawdzam
 рисковать,ryzykować
 компании,towarzystwa
@@ -566,7 +551,6 @@
 района,dzielnicy
 пенсию (na emeryturę),emeryturę
 чрезвычайно,niezwykle
-прямо-таки,wręcz
 толстый,gruby
 преступление,przestępstwo
 начать,rozpocząć
@@ -579,7 +563,6 @@
 пялишься,gapisz
 грузовика,ciężarówki
 задержать,wstrzymać
-гонка,wyścig
 ворота,bramę
 солдат,żołnierz
 сломать,złamać
@@ -602,7 +585,6 @@
 встречает,spotyka
 преимущество,przewagę
 живот,brzuch
-радости,radości
 притворяйся,udawaj
 поиск,poszukiwanie
 предупреждаю,ostrzegam
