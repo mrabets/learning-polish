@@ -81,11 +81,9 @@
 везде,wszędzie
 вниз (na dół),dół
 этим путём,tędy
-более чем,ponad
 как-то,jakoś
 проблемы/неприятности,kłopoty
 ваша,wasza
-проверить,sprawdzić
 двигаться,ruszać
 самого,samego
 какую-то,jakąś
@@ -96,10 +94,8 @@
 гость/чувак,gość
 достаточно,wystarczająco
 дашь/справишься,dasz
-вероятно,prawdopodobnie
 возьму,wezmę
 ничем,niczym
-полностью,całkowicie
 около/примерно,około
 прошёл,przeszedł
 умереть,umrzeć
@@ -113,12 +109,9 @@
 приказ,rozkaz
 оба (м.р. + ж.р.),oboje
 с тех пор как,odkąd
-голос,głos
 сбежать,uciec
 занять,zająć
 такие (м.р. мн.ч.),tacy
-боюсь (obawiam się),obawiam
-умеет,potrafi
 оттуда,stamtąd
 перестать,przestać
 остановить,powstrzymać
@@ -133,11 +126,9 @@
 достаточно/хватит,dosyć
 но ведь,ależ
 новости,wieści
-намерение (mieć zamiar),zamiar
 глаз,oko
 красиво/мило,ładnie
 кто-либо,ktokolwiek
-множество,mnóstwo
 бери,bierz
 займёт,zajmie
 круг/около,koło
@@ -145,22 +136,17 @@
 начал,zaczął
 собственное,własne
 между,pomiędzy
-беспокоиться,martwić
-отлично,doskonale
 чёртов (ругат.),pieprzony
 спасти,uratować
 мозга,mózgu
 пора,pora
 уничтожить,zniszczyć
-лично,osobiście
 свадьба,ślub
 умер,umarł
 да (подтверждение),owszem
 положи,odłóż
 прямо/рядом,tuż
-среди,wśród
 поймать,złapać
-немного,nieco
 вытворяешь,wyprawiasz
 чтобы ты (книжн.),abyś
 копы (сленг),gliny
@@ -174,7 +160,6 @@
 сесть,usiąść
 убийство,morderstwo
 к чёрту (ругат.),pieprzyć
-команда,zespół
 короля,króla
 машина/повозка,wóz
 долларов,dolarów
@@ -209,7 +194,6 @@
 деньги (сленг),forsę
 садись,wsiadaj
 придурок,dupek
-делает/причиняет,sprawia
 вредит (nie szkodzi — ничего),szkodzi
 поезд,pociąg
 вернуть,odzyskać
@@ -228,7 +212,6 @@
 произошло,wydarzyło
 в другом месте (gdzie indziej),indziej
 дядя,wujek
-поблагодарить,podziękować
 приближается,nadchodzi
 чертовски,cholernie
 бой,walka
@@ -236,7 +219,6 @@
 башка (сленг),łeb
 стреляй,strzelaj
 выстрел,strzał
-удержать,utrzymać
 окрестностях,okolicy
 прошло,minęło
 борту (na pokładzie),pokładzie
