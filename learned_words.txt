@@ -231,3 +231,24 @@
 будущего/будущее,przyszłości/przyszłość
 радости,radości
 слава,sława
+лично,osobiście
+более чем,ponad
+опасаюсь (obawiam się),obawiam się
+беспокоиться,martwić się
+намерение (mam zamiar),zamiar
+полностью,całkowicie
+вероятно,prawdopodobnie
+среди,wśród
+немного,nieco
+проверить,sprawdzić
+отлично,doskonale
+обрадовался,ucieszyłem się
+голос,głos
+команда,zespół
+множество,mnóstwo
+поддерживать,wspierać
+уметь/быть способным,potrafić
+бегло,płynnie
+правильный/подходящий,właściwy
+взаимно/друг другу,nawzajem
+доставлять удовольствие,sprawiać przyjemność
