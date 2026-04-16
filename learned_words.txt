@@ -238,7 +238,6 @@
 намерение (mam zamiar),zamiar
 полностью,całkowicie
 вероятно,prawdopodobnie
-удержать,utrzymać
 среди,wśród
 немного,nieco
 проверить,sprawdzić
@@ -247,10 +246,8 @@
 голос,głos
 команда,zespół
 множество,mnóstwo
-поблагодарить,podziękować
 поддерживать,wspierać
 уметь/быть способным,potrafić
-справиться (wypaść doskonale),wypaść
 бегло,płynnie
 правильный/подходящий,właściwy
 взаимно/друг другу,nawzajem
