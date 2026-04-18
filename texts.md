@@ -184,3 +184,17 @@ Chciałbym podziękować wszystkim, którzy mnie wspierają — żonie, nauczyci
 
 ---
 
+## 16. Dziwny wypadek w mojej okolicy (2026-04-18)
+
+W zeszły piątek w mojej dzielnicy wydarzyło się coś niezwykłego. Około dziesiątej rano usłyszałem głośne uderzenie. Wyszedłem z domu i zobaczyłem wypadek — ciężarówka uderzyła w wóz osobowy. Kierowca leżał na podłodze, trzymał się za czoło i krzyczał z bólu. Na szczęście nikt nie umarł, ale obaj mężczyźni byli ranni.
+
+Szybciej, niż się spodziewałem, przyjechał lekarz. Stanął obok rannego, sprawdził dłoń i brzuch, a potem powiedział, że trzeba go natychmiast zabrać do szpitala. Tymczasem sąsiad zadzwonił na policję. Po paru minutach zjawił się porucznik z całym oddziałem. Był grzeczny, ale prowadził sprawę ściśle według zasad.
+
+Obok mnie stał świadek — starszy mężczyzna. Powiedział wprost, że kierowca ciężarówki gapił się w telefon i w ogóle nie patrzył na drogę. Drugi kierowca był wyraźnie zdenerwowany i kłamał, że to nie jego wina. Policjant ostrzegł go, że w sądzie trudno mu będzie udowodnić swoją wersję.
+
+Wróciłem do mieszkania zupełnie zaskoczony. Długo zastanawiałem się nad tym, co się wydarzyło. Zresztą takie rzeczy zdarzają się wszędzie — nawet w spokojnej okolicy. Najwyraźniej trzeba pilnować dzieci, żeby nie bawiły się blisko ulicy. Sądzę, że to przestępstwo, choć nie jestem pewien — niezbyt dużo widziałem.
+
+**Nowe słowa:** wydarzyło, okolicy, uderzenie, wypadek, ciężarówki, wóz, kierowca, podłodze, czoła, krzyczeć, umarł, obaj, szybciej, stanął, dłoń, brzuch, tymczasem, paru, porucznik, oddział, grzeczny, ściśle, świadek, wprost, gapisz, niezbyt, zdenerwowany, kłamie, ostrzegam, sądzie, udowodnić, zresztą, wszędzie, najwyraźniej, pilnować, bawić, sądzę, przestępstwo, dzielnicy
+
+---
+
