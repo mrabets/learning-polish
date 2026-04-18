@@ -184,3 +184,21 @@ Chciałbym podziękować wszystkim, którzy mnie wspierają — żonie, nauczyci
 
 ---
 
+## 16. Serial kryminalny (2026-04-18)
+
+Wczoraj wieczorem obejrzałem nowy polski serial kryminalny. Sądzę, że to świetna opowieść — trzyma w napięciu od pierwszej chwili. Uwielbiam takie produkcje, bo pokazują, jak dzieje się życie w najciemniejszych zakątkach miasta.
+
+Wszystko zaczyna się w małym miasteczku. Pewnego ranka ludzie dowiadują się o strasznym morderstwie. Ofiarą jest młody facet, a zabójca znika bez śladu. Główny bohater — porucznik policji — odkąd dostał rozkaz, prowadzi poważne śledztwo. Nie ma chwili spokoju, lecz wierzy, że rozwiąże sprawę.
+
+Razem ze swoim oddziałem sprawdza okoliczności zbrodni. Szuka dowodów wszędzie: zbiera odciski palców, nagranie z kamery, szczegóły z życia ofiary. Świadek twierdzi, że podejrzany uciekał tędy, z powrotem w stronę lasu. Przysięgam, że ta scena była niesamowita!
+
+W pewnym momencie bohater znajduje broń — pistolet ukryty w środku starego wozu. Laboratorium sprawdza sprzęt i okazuje się, że właśnie z niego padł strzał. Zagrożenie rośnie — ktoś zastawia pułapkę, żeby powstrzymać policjanta. Dopóki morderca jest na wolności, nikt nie może czuć się bezpiecznie.
+
+Finał to czysty szok. Bohater musi uciec z pułapki, pokonać przeciwnika i uratować świadka, którego chcą zabić. W tle słychać tylko oddech bohatera i bicie serca. Powodzenia, poruczniku! — krzyknąłem prawie głośno do telewizora.
+
+Żona weszła do pokoju i spojrzała na mnie dziwnie. „Zgadzam się — to wielki serial, ale przestań krzyczeć" — powiedziała. Cieszę się, że kiedykolwiek powstanie drugi sezon. Obchodzi mnie, jak skończy się ta historia, bo jeszcze parę wątków pozostało bez odpowiedzi.
+
+**Nowe słowa:** sądzę, opowieść, chwili, dzieje, morderstwo, facet, zabójca, ślad, porucznik, odkąd, rozkaz, śledztwo, lecz, wierzy, oddział, okoliczności, wszędzie, odciski, nagranie, szczegóły, świadek, tędy, z powrotem, przysięgam, niesamowita, broń, w środku, wozu, sprzęt, strzał, pułapka, powstrzymać, dopóki, morderca, uciec, pokonać, uratować, świadka, zabić, oddech, powodzenia, poruczniku, spójrz, zgadzam, wielki, przestań, kiedykolwiek, obchodzi, parę
+
+---
+
