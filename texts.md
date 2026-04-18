@@ -184,3 +184,19 @@ Chciałbym podziękować wszystkim, którzy mnie wspierają — żonie, nauczyci
 
 ---
 
+## 16. Dziwny wypadek na ulicy (2026-04-18)
+
+Pamiętam dziwny wypadek, który zdarzył się parę lat temu. Szedłem wieczorem przez okolicę, w której mieszkam, kiedy nagle usłyszałem głośny strzał. Serce zaczęło bić mi szybciej. Najpierw sądziłem, że to tylko żart, ale potem zobaczyłem wysokiego mężczyznę, który biegł w moją stronę. Uciec stamtąd nie mogłem — nogi mi się trzęsły, a ręce trzymałem głęboko w kieszeni.
+
+W drugiej ręce ten człowiek trzymał broń. Krzyknął coś niewyraźnie i kazał mi stanąć na miejscu. Miałem złe przeczucie, że chce mnie skrzywdzić. „Przestań!" — powiedziałem, choć głos mi się łamał. On tylko się zaśmiał i szepnął wyraźnie: „Jesteś świadkiem. Jeżeli piśniesz słowo, złapię cię i zabiję. Żadnego kłamstwa, żadnych plotek, rozumiesz?" Miałem wrażenie, że zaraz mnie uderzy.
+
+Ten moment trwał tylko chwilę, ale wydawał się wiecznością. Wreszcie mężczyzna uciekł, zanim pojawili się policjanci. Kiedy przyjechali, wyjaśniłem wszystko wyraźnie. Porucznik poprosił, żebym był świadkiem w sądzie, ponieważ prowadzili śledztwo w sprawie morderstwa. Powiedział, że potrzebują każdego szczegółu, bo to poważna zbrodnia.
+
+Okazało się, że ten człowiek był zabójcą, którego szukali od miesiąca. Wcześniej ukradł sporo forsy z banku, a potem zabił strażnika — prawdziwe okropne przestępstwo. Policja miała już nakaz jego aresztowania i znalazła jego odciski na miejscu zbrodni. Dzięki moim zeznaniom udało się go w końcu złapać — wpadł w pułapkę, którą przygotowali funkcjonariusze. Porucznik powiedział, że mam ogromne szczęście, bo taki zabójca potrafi zniszczyć wiele ofiar.
+
+Po tej historii długo miałem koszmary. Żona próbowała mnie chronić i pocieszać. Często zastanawiałem się, kto takiego człowieka wychował. Do dziś pamiętam jego twarz i myślę, że miałem niesamowite szczęście. Gdyby pociągnął za spust, pewnie już bym nie żył. Rzeczywiście, życie jest kruche — wystarczy jedna chwila, żeby wszystko się zmieniło.
+
+**Nowe słowa:** wypadek, zdarzył się, parę, okolicę, strzał, sądziłem, żart, uciec, stamtąd, trzymać, kieszeni, broń, przestań, przeczucie, skrzywdzić, wyraźnie, świadkiem, zabiję, kłamstwa, plotek, uderzy, porucznik, śledztwo, morderstwa, szczegółu, zbrodnia, zabójcą, ukradł, forsy, okropne, przestępstwo, nakaz, odciski, pułapkę, ofiar, koszmary, chronić, niesamowite, spust
+
+---
+
