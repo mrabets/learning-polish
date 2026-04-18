@@ -184,3 +184,19 @@ Chciałbym podziękować wszystkim, którzy mnie wspierają — żonie, nauczyci
 
 ---
 
+## 16. Mieszkać w mieście czy na wsi? (2026-04-18)
+
+Od dawna zastanawiam się, gdzie w rzeczywistości lepiej mieszkać — w dużym mieście czy na wsi. Obie opcje mają swoje zalety i wady, dlatego nie jest łatwo podjąć decyzję. Moi rodzice wychowali się na wsi, ale ja całe życie spędziłem w mieście. Stąd moje przyzwyczajenie do szybkiego tempa i hałasu wokół.
+
+Przyjaciel mojego ojca, pan Krzysztof, opuścił miasto dziesięć lat temu. Kupił mały dom w okolicy lasu i od tamtego czasu nigdy nie chciał wrócić z powrotem. Mówi, że najwyraźniej wieś dała mu spokój, którego pragnął przez całe dorosłe życie. Rzeczywiście, kiedy go odwiedziłem, poczułem odrobinę zazdrości — powietrze było czyste, a cisza wokół domu niemal idealna. Przypuszczam, że właśnie takiego stylu życia wielu ludzi szuka po trudnych latach w korporacji.
+
+Z drugiej strony, miasto oferuje mnóstwo możliwości, których na wsi w zasadzie nie ma. Mam tu świetny dostęp do lekarzy, sklepów, szkół i pracy. Kiedy coś pilnego się wydarzy, mogę w parę minut dotrzeć tam, gdzie potrzebuję. Bez samochodu na wsi trudno sobie poradzić, zwłaszcza zimą. Wątpię, czy każdy byłby w stanie znieść takie warunki — to poważna kwestia, której młodzi ludzie często nie doceniają.
+
+Moja żona uważa, że idealnym rozwiązaniem byłby dom pod miastem — niezbyt daleko od centrum, ale już poza hałasem. Zresztą, coraz więcej naszych znajomych wybiera taki kompromis. W trakcie ostatniej rozmowy zaproponowała, żebyśmy pojechali obejrzeć kilka domów w okolicy. Na początku wydawało mi się to przesadą, ale potem pomyślałem: może akurat warto zaryzykować?
+
+Uważam, że nie ma jednej właściwej odpowiedzi. Wszystko zależy od etapu życia i osobistych wartości. Kiedy jesteś młody, miasto daje energię i szanse na rozwój. Kiedy chcesz założyć rodzinę albo po prostu odpocząć, wieś może okazać się lepszym wyborem. Ważne, żeby wybierać świadomie, a nie dlatego, że „tak wszyscy robią".
+
+**Nowe słowa:** stąd, w rzeczywistości, opuścił, z powrotem, najwyraźniej, pragnął, odrobinę, niemal, przypuszczam, w zasadzie, dotrzeć, niezbyt, zresztą, w trakcie, wątpię, znieść, akurat, okazać się, wydawało mi się
+
+---
+
