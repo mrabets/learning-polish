@@ -168,6 +168,18 @@ Myślę o przyszłości i chcę żyć inaczej. Nie chcę, żeby ktoś powiedzia�
 
 ---
 
+## 16. Nieprzyjemne zdarzenie w dzielnicy (2026-04-18)
+
+W zeszłym tygodniu w mojej dzielnicy wydarzyło się coś dziwnego. Sąsiad powiedział mi, że w nocy jakiś obcy facet próbował włamać się do samochodu na parkingu. Kierowca akurat wychodził z klatki i zauważył mężczyznę, który trzymał coś w dłoni. Krzyknął głośno, a złodziej uciekł gdzieś w stronę rogu ulicy. Wszystko stało się tuż obok naszego bloku — szlag by to trafił.
+
+Policja przyjechała po paru minutach. Funkcjonariusz zapewnił nas, że niemal codziennie w tej okolicy dochodzi do takich przestępstw i że rozpocznie śledztwo, żeby namierzyć sprawcę. Sąsiad był jedynym świadkiem, więc musiał opisać wszystkie szczegóły — wzrost, ubranie, kierunek ucieczki. Na drzwiach samochodu zostały odciski palców — to może być kluczowy ślad, zwłaszcza jeśli gość wcześniej popełnił jakąś zbrodnię.
+
+Szczerze mówiąc, mam złe przeczucie. Żona twierdzi, że przesadzam, ale ja wolę być ostrożny. Zastanawiam się, czy warto nadal tu mieszkać. Takie rzeczy zdarzają się coraz częściej i trudno zachować spokój, kiedy nie wiadomo, kto mieszka za ścianą.
+
+**Nowe słowa:** dzielnicy, wydarzyło, kierowca, trzymał, dłoni, uciekł, rogu, tuż, szlag, paru, zapewnił, niemal, okolicy, przestępstw, śledztwo, namierzyć, świadkiem, szczegóły, odciski, ślad, zbrodnię, przeczucie, zdarzają
+
+---
+
 ## 15. Nauka języka i przygotowanie do egzaminu (2026-04-12)
 
 Osobiście uważam, że nauka języka obcego to jedno z najtrudniejszych zadań, jakie można sobie postawić. Ponad rok temu postanowiłem zdać egzamin z języka polskiego. Na początku nie miałem pojęcia, ile pracy mnie czeka. Teraz, kiedy egzamin zbliża się coraz bardziej, obawiam się, że nie zdążę się przygotować.
