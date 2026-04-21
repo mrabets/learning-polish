@@ -252,3 +252,39 @@
 правильный/подходящий,właściwy
 взаимно/друг другу,nawzajem
 доставлять удовольствие,sprawiać przyjemność
+произошло,wydarzyło
+удар,uderzenie
+авария,wypadek
+грузовик,ciężarówka
+машина/повозка,wóz
+водитель,kierowca
+пол,podłoga
+лоб,czoło
+кричать,krzyczeć
+умер,umarł
+оба (м.р.),obaj
+быстрее,szybciej
+встать,stanąć
+ладонь,dłoń
+живот,brzuch
+тем временем,tymczasem
+пару/несколько,paru
+лейтенант,porucznik
+вежливый,grzeczny
+строго,ściśle
+свидетель,świadek
+прямо/напрямую,wprost
+пялиться,gapić się
+не очень/не слишком,niezbyt
+нервный/взволнованный,zdenerwowany
+врать/лгать,kłamać
+суд,sąd
+доказать,udowodnić
+впрочем/кстати,zresztą
+везде,wszędzie
+очевидно,najwyraźniej
+присматривать/следить,pilnować
+играть/развлекаться,bawić się
+думать/полагать,sądzić
+преступление,przestępstwo
+район/квартал,dzielnica
