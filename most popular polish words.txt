@@ -17,7 +17,6 @@
 ты должен (м.р.),powinieneś
 причины (z powodu — из-за),powodu
 смотри,patrz
-полагаю/считаю,sądzę
 смерти,śmierci
 пару/несколько,parę
 некий/уверенный,pewien
@@ -37,7 +36,6 @@
 если бы я,gdybym
 оставь,zostaw
 верю,wierzę
-быстрее,szybciej
 неплохо,nieźle
 знал,wiedział
 момента/минуты,chwili
@@ -70,7 +68,6 @@
 муж,mąż
 кем-то,kimś
 вернусь,wrócę
-случай/авария,wypadek
 серьёзно,serio
 когда-либо,kiedykolwiek
 пойти,pójść
@@ -78,7 +75,6 @@
 летит,leci
 останься,zostań
 корабль,statek
-везде,wszędzie
 вниз (na dół),dół
 этим путём,tędy
 как-то,jakoś
@@ -142,7 +138,6 @@
 пора,pora
 уничтожить,zniszczyć
 свадьба,ślub
-умер,umarł
 да (подтверждение),owszem
 положи,odłóż
 прямо/рядом,tuż
@@ -150,18 +145,15 @@
 вытворяешь,wyprawiasz
 чтобы ты (книжн.),abyś
 копы (сленг),gliny
-суде,sądzie
 своего,swego
 минутку,chwilkę
 имени (w imieniu — от имени),imieniu
 защитить,chronić
 умоляю,błagam
-очевидно,najwyraźniej
 сесть,usiąść
 убийство,morderstwo
 к чёрту (ругат.),pieprzyć
 короля,króla
-машина/повозка,wóz
 долларов,dolarów
 кому,komu
 вышел,wyszedł
@@ -175,7 +167,6 @@
 жертвы,ofiary
 солнце,słońce
 понравится,spodoba
-оба (м.р.),obaj
 прощай,żegnaj
 странно,dziwnie
 скачано,pobrane
@@ -208,8 +199,6 @@
 договор/сделка,układ
 сомневаюсь,wątpię
 неба,nieba
-развлекаться,bawić
-произошло,wydarzyło
 в другом месте (gdzie indziej),indziej
 дядя,wujek
 приближается,nadchodzi
@@ -219,7 +208,6 @@
 башка (сленг),łeb
 стреляй,strzelaj
 выстрел,strzał
-окрестностях,okolicy
 прошло,minęło
 борту (na pokładzie),pokładzie
 беспокойся (nie przejmuj się),przejmuj
@@ -244,11 +232,9 @@
 положи,połóż
 вероятно,zapewne
 настал,nadszedł
-нескольких,paru
 честь,zaszczyt
 захочешь,zechcesz
 денег (сленг),forsy
-отряд,oddział
 принесу,przyniosę
 сними,zdejmij
 принципе (w zasadzie),zasadzie
@@ -260,12 +246,10 @@
 звёзды,gwiazdy
 где угодно,gdziekolwiek
 двое (м.р.),dwaj
-доказать,udowodnić
 спустись,zejdź
 обстоятельства,okoliczności
 брюки,spodnie
 сомнения,wątpliwości
-не очень,niezbyt
 крыши,dachu
 едва,ledwo
 делает (книжн.),czyni
@@ -276,7 +260,6 @@
 чтобы вы,żebyście
 выпить,napić
 исследований,badań
-лейтенант,porucznik
 до сих пор,dotąd
 добраться,dotrzeć
 отвечает,odpowiada
@@ -320,7 +303,6 @@
 раньше,przedtem
 лишь бы,oby
 рта (ust),ust
-прямо,wprost
 машины,wozu
 мужик (обращение),chłopie
 отпечатки,odciski
@@ -360,7 +342,6 @@
 отступить,wycofać
 будьте,bądźcie
 через (przeze mnie),przeze
-врёт,kłamie
 подробности,szczegóły
 ордер,nakaz
 кошмар,koszmar
@@ -373,7 +354,6 @@
 спуститься,zejść
 угла,rogu
 спасать,ratować
-впрочем,zresztą
 угадай,zgadnij
 гордая,dumna
 наступит,nadejdzie
@@ -407,7 +387,6 @@
 будем надеяться,miejmy
 девчонки,laski
 приглашение,zaproszenie
-полу,podłodze
 отпускай (nie puszczaj),puszczaj
 вреда,krzywdy
 чудесный,cudowny
@@ -419,7 +398,6 @@
 пустыне,pustyni
 постараюсь,postaram
 горло,gardło
-ладонь,dłoń
 убийство,zabójstwo
 получили,dostaliśmy
 пахнет,pachnie
@@ -466,7 +444,6 @@
 экипажа,załogi
 желание,życzenie
 доверие,zaufanie
-встать,stanąć
 попал (я),wpadłem
 круг (kółko),kółko
 выстрелы,strzały
@@ -486,7 +463,6 @@
 отодвинуть,odsunąć
 переспать,przespać
 вести себя,zachowywać
-пол,podłogę
 разбудить,obudzić
 упал,spadł
 взгляд,spojrzenie
@@ -494,7 +470,6 @@
 насилия,przemocy
 чудовище,potwór
 имели (вы),mieliście
-кричать,krzyczeć
 человечества,ludzkości
 ударить,uderzyć
 прикоснуться,dotknąć
@@ -504,7 +479,6 @@
 курок,spust
 сплетни,plotki
 ложись,padnij
-удар,uderzenie
 кольцо,pierścionek
 скорость,prędkość
 встречать,spotykać
@@ -521,20 +495,15 @@
 спиной (za plecami),plecami
 членов,członków
 псих,wariat
-лба,czoła
-сторожить,pilnować
 гнев,gniew
 бывает,miewa
 выходи,wysiadaj
 влезай,włąź
-водитель,kierowca
 желает,pragnie
 извинения,przeprosiny
-района,dzielnicy
 пенсию (na emeryturę),emeryturę
 чрезвычайно,niezwykle
 толстый,gruby
-преступление,przestępstwo
 начать,rozpocząć
 передаёт,nadaje
 плёнку,taśmę
@@ -542,20 +511,15 @@
 членом,członkiem
 груз,ładunek
 ревнивый,zazdrosny
-пялишься,gapisz
-грузовика,ciężarówki
 задержать,wstrzymać
 ворота,bramę
 солдат,żołnierz
 сломать,złamać
 кем угодно,kimkolwiek
 обвиняемый,oskarżony
-строго,ściśle
 пугает,przeraża
 ужасный,okropny
-нервный,zdenerwowany
 поставь,postaw
-тем временем,tymczasem
 взяли,wzięli
 провёл,spędziłem
 отследить,namierzyć
@@ -563,14 +527,10 @@
 содержит,zawiera
 сообщить,zgłosić
 подразделение,jednostka
-вежливый,grzeczny
 встречает,spotyka
 преимущество,przewagę
-живот,brzuch
 притворяйся,udawaj
 поиск,poszukiwanie
-предупреждаю,ostrzegam
 горсть,garść
 на помощь (ratunku!),ratunku
 личность,tożsamość
-свидетель,świadek
