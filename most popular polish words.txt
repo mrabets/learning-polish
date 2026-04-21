@@ -208,7 +208,6 @@
 башка (сленг),łeb
 стреляй,strzelaj
 выстрел,strzał
-окрестностях,okolicy
 прошло,minęło
 борту (na pokładzie),pokładzie
 беспокойся (nie przejmuj się),przejmuj
@@ -236,7 +235,6 @@
 честь,zaszczyt
 захочешь,zechcesz
 денег (сленг),forsy
-отряд,oddział
 принесу,przyniosę
 сними,zdejmij
 принципе (w zasadzie),zasadzie
@@ -533,7 +531,6 @@
 преимущество,przewagę
 притворяйся,udawaj
 поиск,poszukiwanie
-предупреждаю,ostrzegam
 горсть,garść
 на помощь (ratunku!),ratunku
 личность,tożsamość
