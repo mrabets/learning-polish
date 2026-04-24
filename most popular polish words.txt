@@ -132,7 +132,6 @@
 начал,zaczął
 собственное,własne
 между,pomiędzy
-чёртов (ругат.),pieprzony
 спасти,uratować
 мозга,mózgu
 пора,pora
@@ -152,7 +151,6 @@
 умоляю,błagam
 сесть,usiąść
 убийство,morderstwo
-к чёрту (ругат.),pieprzyć
 короля,króla
 долларов,dolarów
 кому,komu
@@ -391,7 +389,6 @@
 вреда,krzywdy
 чудесный,cudowny
 навести,odwiedź
-ублюдок (ругат.),skurwielu
 досягаемости,zasięgu
 след,ślad
 дойти,dojść
