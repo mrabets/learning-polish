@@ -1,536 +1,526 @@
-отсюда,stąd
-чёрт (ругательство),cholera
-происходит/случается,dzieje
+## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
+
 прекрати,przestań
 правоту (mieć rację — быть правым),rację
-чтобы ты,żebyś
-состоянии (być w stanie — быть в состоянии),stanie
-оружие,broń
-мог,mógł
-убить,zabić
 посмотри,spójrz
-парень,facet
 говори,mów
-имеете (вы),macie
-кроме/за пределами,poza
 нравится (podoba mi się),podoba
-ты должен (м.р.),powinieneś
-причины (z powodu — из-за),powodu
 смотри,patrz
-смерти,śmierci
-пару/несколько,parę
-некий/уверенный,pewien
-будь,bądź
-чтобы я,żebym
-куда,dokąd
 пойдёмте,chodźmy
 возьми,weź
-ничего,niczego
 вот,oto
 господа,panowie
 позволь,pozwól
-Боже (восклицание),jezu
-снова,znów
 делай,rób
 привет (формальн.),witaj
-если бы я,gdybym
 оставь,zostaw
 верю,wierzę
 неплохо,nieźle
-знал,wiedział
-момента/минуты,chwili
-пока (не),dopóki
-земли,ziemi
-какую,jaką
-дерьмо (ругат.),gówno
 возможно,możliwe
 согласен (zgadza się),zgadza
-великий/большой,wielki
-обратно (z powrotem),z powrotem
-было бы,byłoby
-никакого,żadnego
 вообще (w ogóle),ogóle
-чем-то,czymś
-дорогая/сокровище,skarbie
 прости,wybacz
 выйти,wyjść
-осталась,została
 против,przeciwko
-я мог бы,mógłbym
-волнует (obchodzi mnie),obchodzi
-от (ode mnie — от меня),ode
-лицо,twarz
 но (книжн.),lecz
 поверить,uwierzyć
-середине (w środku),środku
 совет (dać radę — справиться),radę
 войти,wejść
-муж,mąż
-кем-то,kimś
 вернусь,wrócę
 серьёзно,serio
-когда-либо,kiedykolwiek
 пойти,pójść
-чувак,koleś
 летит,leci
 останься,zostań
-корабль,statek
-вниз (na dół),dół
-этим путём,tędy
-как-то,jakoś
-проблемы/неприятности,kłopoty
-ваша,wasza
 двигаться,ruszać
-самого,samego
-какую-то,jakąś
-никаких,żadnych
 удачи,powodzenia
 уйти,odejść
 держать,trzymać
-гость/чувак,gość
 достаточно,wystarczająco
 дашь/справишься,dasz
 возьму,wezmę
-ничем,niczym
-около/примерно,około
-прошёл,przeszedł
-умереть,umrzeć
 разве,czyż
-задница,tyłek
-пока,póki
 якобы/вроде,niby
-ненавижу,nienawidzę
 клянусь,przysięgam
-обожаю,uwielbiam
-приказ,rozkaz
-оба (м.р. + ж.р.),oboje
-с тех пор как,odkąd
-сбежать,uciec
-занять,zająć
-такие (м.р. мн.ч.),tacy
-оттуда,stamtąd
 перестать,przestać
 остановить,powstrzymać
-кровати,łóżka
-смешное,śmieszne
-мёртвый,martwy
-должны были,musieli
-офиса,biura
 отпусти,puść
-части,części
 проверь,sprawdź
 достаточно/хватит,dosyć
 но ведь,ależ
-новости,wieści
-глаз,oko
-красиво/мило,ładnie
-кто-либо,ktokolwiek
 бери,bierz
-займёт,zajmie
-круг/около,koło
 ответы,odpowiedzi
-начал,zaczął
-собственное,własne
-между,pomiędzy
-чёртов (ругат.),pieprzony
-спасти,uratować
-мозга,mózgu
-пора,pora
-уничтожить,zniszczyć
-свадьба,ślub
 да (подтверждение),owszem
 положи,odłóż
-прямо/рядом,tuż
 поймать,złapać
 вытворяешь,wyprawiasz
-чтобы ты (книжн.),abyś
-копы (сленг),gliny
-своего,swego
-минутку,chwilkę
-имени (w imieniu — от имени),imieniu
-защитить,chronić
 умоляю,błagam
 сесть,usiąść
-убийство,morderstwo
-к чёрту (ругат.),pieprzyć
-короля,króla
-долларов,dolarów
-кому,komu
 вышел,wyszedł
-лейтенант (обращение),poruczniku
 считает/имеет значение,liczy
-выбраться,wydostać
 взглянуть,spojrzeć
-покинуть,opuścić
-потерял (я),straciłem
 согласен (zgadzam się),zgadzam
-жертвы,ofiary
-солнце,słońce
 понравится,spodoba
-прощай,żegnaj
-странно,dziwnie
-скачано,pobrane
-территория,teren
-приказал,kazał
-лодка,łódź
-умрёт,umrze
-как раз,akurat
 беру,biorę
-шутка,żart
 трогай (nie dotykaj),dotykaj
-преступления,zbrodni
-сумасшедшие,szaleni
-проваливай,spadaj
-листья,liście
-деньги (сленг),forsę
-садись,wsiadaj
-придурок,dupek
 вредит (nie szkodzi — ничего),szkodzi
-поезд,pociąg
-вернуть,odzyskać
-чувствовать,czuć
-вон отсюда,wynocha
-чтобы я (книжн.),abym
 болтать,gadać
-безумие,szaleństwo
 пришёл (ты),przyszedłeś
-причины (ze względu na),względu
 найти (отыскать),odnaleźć
-договор/сделка,układ
 сомневаюсь,wątpię
-неба,nieba
-в другом месте (gdzie indziej),indziej
-дядя,wujek
-приближается,nadchodzi
-чертовски,cholernie
-бой,walka
-расслабься,wyluzuj
-башка (сленг),łeb
-стреляй,strzelaj
-выстрел,strzał
-прошло,minęło
-борту (na pokładzie),pokładzie
-беспокойся (nie przejmuj się),przejmuj
-чёрт (ругат.),szlag
-ужасное,okropne
-смело,śmiało
-зала,sali
 вместе с,wraz
 неужели,czyżby
 задаюсь вопросом,zastanawiam
-папочка,tatuś
-спасти,ocalić
-обе,obie
-продлится,potrwa
-лёгкое,łatwe
-кармане,kieszeni
-случается,zdarza
-мешает,przeszkadza
-оборудование,sprzęt
 берёшь,bierzesz
 не правда ли,nieprawdaż
 положи,połóż
 вероятно,zapewne
-настал,nadszedł
-честь,zaszczyt
-захочешь,zechcesz
-денег (сленг),forsy
 принесу,przyniosę
-сними,zdejmij
 принципе (w zasadzie),zasadzie
-передать,przekazać
-посмотреть,obejrzeć
-отодвинь,odsuń
-через/посредством,poprzez
 вытащить,wyciągnąć
-звёзды,gwiazdy
-где угодно,gdziekolwiek
-двое (м.р.),dwaj
-спустись,zejdź
-обстоятельства,okoliczności
-брюки,spodnie
-сомнения,wątpliwości
-крыши,dachu
-едва,ledwo
 делает (книжн.),czyni
-желаю,pragnę
 поговорим,pogadamy
-скорее,prędzej
-риск,ryzyko
-чтобы вы,żebyście
-выпить,napić
-исследований,badań
-до сих пор,dotąd
-добраться,dotrzeć
 отвечает,odpowiada
-мастер,mistrz
-странная,dziwna
-классная,fajna
-дверью (za drzwiami),drzwiami
 извиниться,przeprosić
-прошлое,przeszłość
-дела (mieć do czynienia),czynienia
 принять,przyjąć
-займись,zajmij
-ребёнка,dzieciaka
-невероятный,niewiarygodny
-друг/приятель,kumpel
-твоего,twego
-власти,władze
 пригодится,przyda
-колени,kolana
-пережить,przeżyć
-майор (обращение),majorze
-весёлых (wesołych świąt),wesołych
-дыхание,oddech
-причинить боль,skrzywdzić
-расследование,śledztwo
-грудь,piersi
-убийца,zabójca
-случилось,zdarzyło
-палуба,pokład
-правил,zasad
-снять,zdjąć
 пошёл (я),poszedłem
 казалось,wydawało
-давление,ciśnienie
 предполагаю,przypuszczam
 убедиться,upewnić
-скучаю,tęsknię
-стены,ściany
-выполнить,wykonać
-прошлой (zeszłej nocy),zeszłej
-раньше,przedtem
-лишь бы,oby
-рта (ust),ust
-машины,wozu
-мужик (обращение),chłopie
-отпечатки,odciski
-убийца,morderca
-душ,prysznic
-победить,pokonać
-плечо,ramię
-часы (наручные),zegarek
-тяжёлый,ciężki
-градусов,stopni
-связь,połączenie
 задавался вопросом,zastanawiałem
 совет,rada
-украл,ukradł
-устройство,urządzenie
-красивый,przystojny
-тайны,tajemnicy
-ходе (w trakcie),trakcie
-ужасно,okropnie
-матери,matce
 реальности (w rzeczywistości),rzeczywistości
-попал,wpadł
-освободить,uwolnić
-клетки/мобильного,komórki
-милосердие,litość
-королева,królowa
-тот,tamten
-ложь,kłamstwo
 следи,pilnuj
-вынести,znieść
-придурком,dupkiem
-навестить,odwiedzić
 возьмём,weźmiemy
-всякие,wszelkie
-отдел,wydział
-захочет,zechce
-отступить,wycofać
 будьте,bądźcie
-через (przeze mnie),przeze
 подробности,szczegóły
-ордер,nakaz
-кошмар,koszmar
-крутит/снимает,kręci
-воде,wodzie
 чушь,bzdura
 остаться,pozostać
 основании (na podstawie),podstawie
-чуточку,odrobinę
-спуститься,zejść
-угла,rogu
 спасать,ratować
 угадай,zgadnij
-гордая,dumna
-наступит,nadejdzie
 уверяю,zapewniam
-воняет,śmierdzi
-территории,terenie
-предчувствие,przeczucie
-почти,niemal
 заберёт,zabierze
-грустное,smutne
-чужой,obcy
 представь,wyobraź
-понятие,pojęcie
-присутствие,obecność
-надень/вставь,włóż
-судья,sędzia
-прошёл,minął
-с ума сошёл,oszalałeś
-лагерь,obóz
-потерял (ты),straciłeś
 обеспечить,zapewnić
 объясню,wyjaśnię
-запись,nagranie
 попал,trafił
 падаем,spadamy
 указывает,wskazuje
-пари/завод,zakład
-одолжить,pożyczyć
-имеет,posiada
-выбросить,wyrzucić
 будем надеяться,miejmy
-девчонки,laski
-приглашение,zaproszenie
 отпускай (nie puszczaj),puszczaj
-вреда,krzywdy
-чудесный,cudowny
-навести,odwiedź
-ублюдок (ругат.),skurwielu
-досягаемости,zasięgu
-след,ślad
-дойти,dojść
-пустыне,pustyni
 постараюсь,postaram
-горло,gardło
-убийство,zabójstwo
 получили,dostaliśmy
-пахнет,pachnie
-отстань,odpuść
-враг,wróg
-шляпа,kapelusz
 чётко,wyraźnie
-отличный,doskonały
-хотя бы,choćby
-чудом,cudem
-мешаю,przeszkadzam
 не совсем,niezupełnie
-попрощаться,pożegnać
+войдёт,wejdzie
+приводит,sprowadza
+вытащи,wyciągnij
+попал (я),wpadłem
+проверяю,sprawdzam
+предупреждение,ostrzeżenie
+напрямую,bezpośrednio
+извинения,przeprosiny
+начать,rozpocząć
+трогать,dotykać
+взяли,wzięli
+содержит,zawiera
+
+## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
+
+происходит/случается,dzieje
+парень,facet
+некий/уверенный,pewien
+великий/большой,wielki
+волнует (obchodzi mnie),obchodzi
+проблемы/неприятности,kłopoty
+гость/чувак,gość
+ненавижу,nienawidzę
+обожаю,uwielbiam
+смешное,śmieszne
+мёртвый,martwy
+красиво/мило,ładnie
+потерял (я),straciłem
+странно,dziwnie
+шутка,żart
+чувствовать,czuć
+безумие,szaleństwo
+чертовски,cholernie
+беспокойся (nie przejmuj się),przejmuj
+ужасное,okropne
+смело,śmiało
+спасти,ocalić
+лёгкое,łatwe
+мешает,przeszkadza
+сомнения,wątpliwości
+желаю,pragnę
+странная,dziwna
+классная,fajna
+невероятный,niewiarygodny
+причинить боль,skrzywdzić
+скучаю,tęsknię
+тяжёлый,ciężki
+красивый,przystojny
+ужасно,okropnie
+попал,wpadł
+милосердие,litość
+вынести,znieść
+кошмар,koszmar
+гордая,dumna
+предчувствие,przeczucie
+грустное,smutne
+чужой,obcy
+потерял (ты),straciłeś
+чудесный,cudowny
+отстань,odpuść
+отличный,doskonały
+мешаю,przeszkadzam
 бросил,rzucił
 болело,bolało
-история/рассказ,opowieść
-пальто,płaszcz
-войдёт,wejdzie
-душа,dusza
-корабль,okręt
-украсть,ukraść
 спас,uratował
 поцеловать,pocałować
 плакать,płakać
 серьёзная,poważna
 разъярённый,wściekły
-свидание,randka
-тюрьма,więzienie
 ведёшь себя,zachowujesz
-приводит,sprowadza
-заняло,zajęło
-вытащи,wyciągnij
-пожар,pożar
-нападение,napad
-ванной,łazience
 сумасшедшая,szalona
-слепой,ślepy
-способности,zdolności
-ангел,anioł
-дыру,dziurę
-избежать,uniknąć
-остров,wyspę
 плохо,kiepsko
-экипажа,załogi
 желание,życzenie
-доверие,zaufanie
-попал (я),wpadłem
-круг (kółko),kółko
-выстрелы,strzały
 выжить,przetrwać
-сокровище,skarb
-командует,dowodzi
 невероятный,niesamowity
-правит,rządzi
-адвокатом,prawnikiem
-проверяю,sprawdzam
-рисковать,ryzykować
-компании,towarzystwa
-толпа,tłum
-направляется,zmierza
 страхов,obaw
-кража,kradzież
-отодвинуть,odsunąć
-переспать,przespać
 вести себя,zachowywać
 разбудить,obudzić
-упал,spadł
 взгляд,spojrzenie
 вылезай,wyłaź
 насилия,przemocy
 чудовище,potwór
 имели (вы),mieliście
-человечества,ludzkości
-ударить,uderzyć
 прикоснуться,dotknąć
-способный,zdolny
-чёрта (do licha),licha
-рыба,ryba
-курок,spust
-сплетни,plotki
-ложись,padnij
-кольцо,pierścionek
-скорость,prędkość
-встречать,spotykać
-чтобы мы,abyśmy
 выношу (nie znoszę),znoszę
-коробка,pudełko
-командир,dowódca
-ловушка,pułapka
-предупреждение,ostrzeżenie
-напрямую,bezpośrednio
-трупы,zwłoki
-приближаются,nadchodzą
 желания,ochoty
-спиной (za plecami),plecami
-членов,członków
-псих,wariat
 гнев,gniew
 бывает,miewa
-выходи,wysiadaj
-влезай,włąź
-желает,pragnie
-извинения,przeprosiny
-пенсию (na emeryturę),emeryturę
-чрезвычайно,niezwykle
-толстый,gruby
-начать,rozpocząć
-передаёт,nadaje
-плёнку,taśmę
-трогать,dotykać
-членом,członkiem
-груз,ładunek
 ревнивый,zazdrosny
-задержать,wstrzymać
-ворота,bramę
-солдат,żołnierz
-сломать,złamać
-кем угодно,kimkolwiek
-обвиняемый,oskarżony
 пугает,przeraża
 ужасный,okropny
+притворяйся,udawaj
+
+## GROUP 03 — Семья и отношения / Rodzina i relacje
+
+дорогая/сокровище,skarbie
+муж,mąż
+кем-то,kimś
+оба (м.р. + ж.р.),oboje
+свадьба,ślub
+дядя,wujek
+папочка,tatuś
+обе,obie
+прошлое,przeszłość
+ребёнка,dzieciaka
+друг/приятель,kumpel
+колени,kolana
+весёлых (wesołych świąt),wesołych
+тайны,tajemnicy
+матери,matce
+навестить,odwiedzić
+приглашение,zaproszenie
+навести,odwiedź
+попрощаться,pożegnać
+свидание,randka
+доверие,zaufanie
+компании,towarzystwa
+переспать,przespać
+сплетни,plotki
+кольцо,pierścionek
+встречать,spotykać
+встречает,spotyka
+
+## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
+
+кровати,łóżka
+листья,liście
+садись,wsiadaj
+кармане,kieszeni
+сними,zdejmij
+отодвинь,odsuń
+брюки,spodnie
+крыши,dachu
+дверью (za drzwiami),drzwiami
+снять,zdjąć
+стены,ściany
+душ,prysznic
+часы (наручные),zegarek
+надень/вставь,włóż
+выбросить,wyrzucić
+шляпа,kapelusz
+пальто,płaszcz
+ванной,łazience
+дыру,dziurę
+отодвинуть,odsunąć
+коробка,pudełko
+ворота,bramę
 поставь,postaw
-взяли,wzięli
 провёл,spędziłem
-отследить,namierzyć
-всего лишь,zaledwie
-содержит,zawiera
+
+## GROUP 05 — Тело и здоровье / Ciało i zdrowie
+
+смерти,śmierci
+лицо,twarz
+умереть,umrzeć
+глаз,oko
+умрёт,umrze
+едва,ledwo
+пережить,przeżyć
+дыхание,oddech
+грудь,piersi
+давление,ciśnienie
+рта (ust),ust
+плечо,ramię
+градусов,stopni
+горло,gardło
+слепой,ślepy
+упал,spadł
+ударить,uderzyć
+спиной (za plecami),plecami
+толстый,gruby
+сломать,złamać
+
+## GROUP 06 — Еда и чувства / Jedzenie i zmysły
+
+выпить,napić
+воде,wodzie
+воняет,śmierdzi
+пахнет,pachnie
+рыба,ryba
+горсть,garść
+
+## GROUP 07 — Работа и учреждения / Praca i instytucje
+
+приказ,rozkaz
+занять,zająć
+офиса,biura
+займёт,zajmie
+начал,zaczął
+имени (w imieniu — от имени),imieniu
+приказал,kazał
+договор/сделка,układ
+исследований,badań
+дела (mieć do czynienia),czynienia
+займись,zajmij
+правил,zasad
+выполнить,wykonać
+устройство,urządzenie
+ходе (w trakcie),trakcie
+отдел,wydział
+присутствие,obecność
+имеет,posiada
+заняло,zajęło
+командует,dowodzi
+членов,członków
+пенсию (na emeryturę),emeryturę
+передаёт,nadaje
+членом,członkiem
+задержать,wstrzymać
 сообщить,zgłosić
 подразделение,jednostka
-встречает,spotyka
-преимущество,przewagę
-притворяйся,udawaj
 поиск,poszukiwanie
-горсть,garść
-на помощь (ratunku!),ratunku
+
+## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
+
+долларов,dolarów
+вернуть,odzyskać
+пари/завод,zakład
+одолжить,pożyczyć
+
+## GROUP 09 — Путешествия и транспорт / Podróże i transport
+
+куда,dokąd
+середине (w środku),środku
+корабль,statek
+вниз (na dół),dół
+этим путём,tędy
+оттуда,stamtąd
+выбраться,wydostać
+покинуть,opuścić
+территория,teren
+лодка,łódź
+поезд,pociąg
+приближается,nadchodzi
+спустись,zejdź
+добраться,dotrzeć
+машины,wozu
+спуститься,zejść
+угла,rogu
+территории,terenie
+дойти,dojść
+пустыне,pustyni
+остров,wyspę
+направляется,zmierza
+скорость,prędkość
+приближаются,nadchodzą
+выходи,wysiadaj
+влезай,włąź
+груз,ładunek
+
+## GROUP 10 — Технологии и медиа / Technologia i media
+
+новости,wieści
+скачано,pobrane
+оборудование,sprzęt
+передать,przekazać
+посмотреть,obejrzeć
+связь,połączenie
+клетки/мобильного,komórki
+запись,nagranie
+досягаемости,zasięgu
+плёнку,taśmę
+
+## GROUP 11 — Культура и традиции / Kultura i tradycje
+
+земли,ziemi
+короля,króla
+солнце,słońce
+неба,nieba
+зала,sali
+королева,królowa
+крутит/снимает,kręci
+история/рассказ,opowieść
+сокровище,skarb
+
+## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
+
+бой,walka
+мастер,mistrz
+победить,pokonać
+круг (kółko),kółko
+
+## GROUP 13 — Право и общество / Prawo i społeczeństwo
+
+оружие,broń
+убить,zabić
+сбежать,uciec
+спасти,uratować
+уничтожить,zniszczyć
+защитить,chronić
+обстоятельства,okoliczności
+власти,władze
+украл,ukradł
+освободить,uwolnić
+отступить,wycofać
+судья,sędzia
+вреда,krzywdy
+след,ślad
+враг,wróg
+украсть,ukraść
+тюрьма,więzienie
+пожар,pożar
+нападение,napad
+правит,rządzi
+адвокатом,prawnikiem
+толпа,tłum
+обвиняемый,oskarżony
+
+## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
+
+честь,zaszczyt
+риск,ryzyko
+ложь,kłamstwo
+понятие,pojęcie
+способности,zdolności
+избежать,uniknąć
+рисковать,ryzykować
+человечества,ludzkości
+способный,zdolny
+ловушка,pułapka
+преимущество,przewagę
 личность,tożsamość
+
+## GROUP 15 — Время и последовательность / Czas i sekwencja
+
+отсюда,stąd
+пару/несколько,parę
+снова,znów
+момента/минуты,chwili
+пока (не),dopóki
+обратно (z powrotem),z powrotem
+когда-либо,kiedykolwiek
+как-то,jakoś
+около/примерно,około
+прошёл,przeszedł
+пока,póki
+с тех пор как,odkąd
+круг/около,koło
+пора,pora
+прямо/рядом,tuż
+минутку,chwilkę
+как раз,akurat
+в другом месте (gdzie indziej),indziej
+прошло,minęło
+продлится,potrwa
+случается,zdarza
+настал,nadszedł
+скорее,prędzej
+до сих пор,dotąd
+случилось,zdarzyło
+прошлой (zeszłej nocy),zeszłej
+раньше,przedtem
+чуточку,odrobinę
+наступит,nadejdzie
+почти,niemal
+прошёл,minął
+чрезвычайно,niezwykle
+всего лишь,zaledwie
+
+## GROUP 16 — Грамматика и логика / Gramatyka i logika
+
+чтобы ты,żebyś
+состоянии (być w stanie — быть в состоянии),stanie
+мог,mógł
+имеете (вы),macie
+кроме/за пределами,poza
+ты должен (м.р.),powinieneś
+причины (z powodu — из-за),powodu
+будь,bądź
+чтобы я,żebym
+ничего,niczego
+если бы я,gdybym
+знал,wiedział
+какую,jaką
+было бы,byłoby
+никакого,żadnego
+чем-то,czymś
+осталась,została
+я мог бы,mógłbym
+от (ode mnie — от меня),ode
+ваша,wasza
+самого,samego
+какую-то,jakąś
+никаких,żadnych
+ничем,niczym
+такие (м.р. мн.ч.),tacy
+должны были,musieli
+части,części
+кто-либо,ktokolwiek
+собственное,własne
+между,pomiędzy
+чтобы ты (книжн.),abyś
+своего,swego
+кому,komu
+чтобы я (книжн.),abym
+причины (ze względu na),względu
+захочешь,zechcesz
+через/посредством,poprzez
+где угодно,gdziekolwiek
+двое (м.р.),dwaj
+чтобы вы,żebyście
+твоего,twego
+лишь бы,oby
+тот,tamten
+всякие,wszelkie
+захочет,zechce
+через (przeze mnie),przeze
+хотя бы,choćby
+чтобы мы,abyśmy
+желает,pragnie
+кем угодно,kimkolwiek
