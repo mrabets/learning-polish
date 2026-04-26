@@ -144,7 +144,6 @@
 поймать,złapać
 вытворяешь,wyprawiasz
 чтобы ты (книжн.),abyś
-копы (сленг),gliny
 своего,swego
 минутку,chwilkę
 имени (w imieniu — от имени),imieniu
@@ -157,7 +156,6 @@
 долларов,dolarów
 кому,komu
 вышел,wyszedł
-лейтенант (обращение),poruczniku
 считает/имеет значение,liczy
 выбраться,wydostać
 взглянуть,spojrzeć
@@ -206,10 +204,7 @@
 бой,walka
 расслабься,wyluzuj
 башка (сленг),łeb
-стреляй,strzelaj
-выстрел,strzał
 прошло,minęło
-борту (na pokładzie),pokładzie
 беспокойся (nie przejmuj się),przejmuj
 чёрт (ругат.),szlag
 ужасное,okropne
@@ -280,7 +275,6 @@
 пригодится,przyda
 колени,kolana
 пережить,przeżyć
-майор (обращение),majorze
 весёлых (wesołych świąt),wesołych
 дыхание,oddech
 причинить боль,skrzywdzić
@@ -288,7 +282,6 @@
 грудь,piersi
 убийца,zabójca
 случилось,zdarzyło
-палуба,pokład
 правил,zasad
 снять,zdjąć
 пошёл (я),poszedłem
@@ -391,7 +384,6 @@
 вреда,krzywdy
 чудесный,cudowny
 навести,odwiedź
-ублюдок (ругат.),skurwielu
 досягаемости,zasięgu
 след,ślad
 дойти,dojść
@@ -417,7 +409,6 @@
 пальто,płaszcz
 войдёт,wejdzie
 душа,dusza
-корабль,okręt
 украсть,ukraść
 спас,uratował
 поцеловать,pocałować
@@ -441,12 +432,10 @@
 избежать,uniknąć
 остров,wyspę
 плохо,kiepsko
-экипажа,załogi
 желание,życzenie
 доверие,zaufanie
 попал (я),wpadłem
 круг (kółko),kółko
-выстрелы,strzały
 выжить,przetrwać
 сокровище,skarb
 командует,dowodzi
@@ -476,7 +465,6 @@
 способный,zdolny
 чёрта (do licha),licha
 рыба,ryba
-курок,spust
 сплетни,plotki
 ложись,padnij
 кольцо,pierścionek
@@ -485,11 +473,9 @@
 чтобы мы,abyśmy
 выношу (nie znoszę),znoszę
 коробка,pudełko
-командир,dowódca
 ловушка,pułapka
 предупреждение,ostrzeżenie
 напрямую,bezpośrednio
-трупы,zwłoki
 приближаются,nadchodzą
 желания,ochoty
 спиной (za plecami),plecami
@@ -506,7 +492,6 @@
 толстый,gruby
 начать,rozpocząć
 передаёт,nadaje
-плёнку,taśmę
 трогать,dotykać
 членом,członkiem
 груз,ładunek
