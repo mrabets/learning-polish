@@ -198,3 +198,17 @@ Wróciłem do mieszkania zupełnie zaskoczony. Długo zastanawiałem się nad ty
 
 ---
 
+
+---
+
+## 17. Podróż pociągiem do Gdańska (2026-04-29)
+
+Odkąd mieszkam w Polsce, chciałem pojechać do Gdańska pociągiem. Akurat po ostatnim egzaminie — który wypadł całkiem nieźle — postanowiłem w końcu to zrobić. Wiedziałem, że dotrzeć tam zajmie kilka godzin, ale zupełnie mnie to nie martwiło. Dla mnie pociąg jest bardziej wygodny niż samolot.
+
+Na dworcu kupiłem bilet, wziąłem pudełko z kanapkami i usiadłem na ławce. Obok mnie stała starsza kobieta z ogromną walizką — wyglądała na zagubioną. Nie wiedziała, jak dojść do właściwego peronu. Chętnie jej pomogłem. Gdy wsiadaliśmy do pociągu, podziękowała mi serdecznie. Mogę zapewnić — takie małe gesty sprawiają, że podróż staje się przyjemna.
+
+Siedziałem przy oknie i obserwowałem zmieniające się krajobrazy. Minęło może parę godzin, zanim niemal zasnąłem. Akurat wtedy nadszedł konduktor i sprawdził mój bilet. Zapytałem go, kiedy dotrzemy do celu — powiedział, że za chwilę będziemy na miejscu. Przez okno zobaczyłem morze. To był niesamowity widok.
+
+W Gdańsku zatrzymałem się w małym hostelu. Pokój był skromny — łóżka i mała łazienka z prysznicem. Ale z powrotem do domu wróciłem dopiero po pięciu dniach. Była to najlepsza decyzja, jaką podjąłem od dawna. Warto czasem opuścić swoją strefę komfortu i odkryć nowe miejsca.
+
+**Nowe słowa:** odkąd, pociągiem, dotrzeć, dojść, akurat, wypadł, bardziej, pudełko, podziękowała, zapewnić, krajobrazy, minęło, parę, niemal, nadszedł, konduktor, chwilę, łóżka, prysznicem, z powrotem, opuścić
