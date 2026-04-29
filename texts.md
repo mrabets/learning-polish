@@ -198,3 +198,19 @@ Wróciłem do mieszkania zupełnie zaskoczony. Długo zastanawiałem się nad ty
 
 ---
 
+## 17. Szalony wieczór z kumplem (2026-04-29)
+
+W zeszły piątek miałem cholernie dziwny wieczór. Akurat siedziałem bezczynnie w domu, kiedy nagle dzwoni mój kumpel Marek. „Stary, weź się w garść i przyjedź do mnie — mam coś fajnego do pogadania." No to pomyślałem: w zasadzie czemu nie? I tak akurat nic nie robiłem. Wskoczyłem w buty i pojechałem.
+
+Wchodzę do niego, a tu od razu widzę, że gość jest cholernie wściekły. „Co się stało, stary?" — pytam. A on na to: „Słuchaj, nie uwierzysz. Moja dziewczyna mnie rzuciła. Tak po prostu. Przysięgam, niemal spadłem z krzesła." Daję mu na to: „Daj spokój, serio? Przecież parę dni temu mówiłeś, że jest między wami nieźle." On owszem, kiwa głową, ale dodaje: „No kurczę, jakoś nagle wszystko pękło i tyle."
+
+Pogadaliśmy parę godzin. Marek gadał i gadał. Niby się kochali, niby fajna dziewczyna, niby wszystko w porządku, a tu nagle bzdura — koniec. Powiedziałem mu wprost: „Stary, weź odpuść sobie chwilę. Nie siedź tak w domu i nie myśl. Ogarnij się jakoś — idź pobiegaj, pograj w piłkę, cokolwiek." On zgadzał się ze mną, ale wyraźnie nie miał ochoty się ruszać. Czasem w takich momentach lepiej w ogóle nie naciskać, tylko być obok.
+
+Około północy zaproponowałem: „Wiesz co, chodźmy na miasto. Wpadniemy gdzieś na piwo, pogadamy z ludźmi, może się rozluźnisz." I tu się dopiero zaczęło. W barze tuż obok naszego stolika siedziała jego była! Zgadnij, kto. Marek aż zamarł — jego spojrzenie było jak u kogoś, kto zobaczył ducha. Patrzę, a on nagle wstaje i prosto do niej. Mówi spokojnie: „Pogadamy chwilę?" No szok, ja bym w życiu się tak nie odważył.
+
+Wyszli razem na zewnątrz na chwilkę. Ja siedziałem przy barze i czekałem. Pomyślałem sobie: cholernie dziwna sytuacja, ale niech sobie sami radzą. Wróciłem do domu prędzej, niż planowałem — wydawało mi się, że to już nie moja sprawa. Dziś rano znów dzwoni Marek: „Stary, nie uwierzysz — wracamy do siebie!" Serio? W rzeczywistości wątpię, czy to potrwa, ale niech mu będzie. Zobaczymy. Życie potrafi nieźle zaskoczyć — w sumie nigdy nie wiadomo, co przyniesie kolejny dzień.
+
+**Nowe słowa:** cholernie, akurat, bezczynnie, kumpel, weź się w garść, fajny, w zasadzie, wskoczyłem, gość, wściekły, przysięgam, niemal, daj spokój, serio, parę, nieźle, owszem, kurczę, jakoś, niby, bzdura, wprost, odpuść, ogarnąć, zgadzać się, w ogóle, naciskać, wpadniemy, rozluźnić się, tuż, zgadnij, spojrzenie, no szok, w życiu, odważyć się, na zewnątrz, chwilkę, niech sobie radzą, prędzej, znów, w rzeczywistości, wątpię, potrwa, niech mu będzie, zaskoczyć, w sumie, gadać, pogadać
+
+---
+
