@@ -128,25 +128,18 @@
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 
-происходит/случается,dzieje
 парень,facet
 некий/уверенный,pewien
 великий/большой,wielki
-волнует (obchodzi mnie),obchodzi
-проблемы/неприятности,kłopoty
 гость/чувак,gość
 ненавижу,nienawidzę
 обожаю,uwielbiam
-смешное,śmieszne
 мёртвый,martwy
 красиво/мило,ładnie
-потерял (я),straciłem
-странно,dziwnie
 шутка,żart
 чувствовать,czuć
 безумие,szaleństwo
 чертовски,cholernie
-беспокойся (nie przejmuj się),przejmuj
 ужасное,okropne
 смело,śmiało
 спасти,ocalić
@@ -266,34 +259,22 @@
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
 
 смерти,śmierci
-лицо,twarz
 умереть,umrzeć
 глаз,oko
 умрёт,umrze
 едва,ledwo
 пережить,przeżyć
-дыхание,oddech
-грудь,piersi
-давление,ciśnienie
-рта (ust),ust
-плечо,ramię
-градусов,stopni
-горло,gardło
 слепой,ślepy
 упал,spadł
 ударить,uderzyć
 спиной (za plecami),plecami
 толстый,gruby
-сломать,złamać
 
 ## GROUP 06 — Еда и чувства / Jedzenie i zmysły
 
 выпить,napić
 воде,wodzie
 воняет,śmierdzi
-пахнет,pachnie
-рыба,ryba
-горсть,garść
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
 

@@ -291,3 +291,22 @@
 окрестности/местность,okolica
 отряд/подразделение,oddział
 предупредить,ostrzec
+происходит/случается,dzieje
+волнует/небезразлично,obchodzi
+проблемы/неприятности,kłopoty
+смешное/забавно,śmieszne
+потерял (я),straciłem
+странно,dziwnie
+беспокойся (nie przejmuj się),przejmuj
+лицо,twarz
+дыхание,oddech
+грудь,piersi
+давление,ciśnienie
+рот (usta),ust
+плечо/рука,ramię
+градусов,stopni
+горло,gardło
+сломать,złamać
+пахнет,pachnie
+рыба,ryba
+горсть,garść
