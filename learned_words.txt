@@ -310,3 +310,44 @@
 пахнет,pachnie
 рыба,ryba
 горсть,garść
+кровати,łóżka
+листья,liście
+садись,wsiadaj
+кармане,kieszeni
+брюки,spodnie
+крыши,dachu
+стены,ściany
+часы (наручные),zegarek
+шляпа,kapelusz
+пальто,płaszcz
+ванной,łazience
+провёл,spędziłem
+куда,dokąd
+середине (w środku),środku
+корабль,statek
+оттуда,stamtąd
+покинуть,opuścić
+территория,teren
+лодка,łódź
+добраться,dotrzeć
+спуститься,zejść
+направляется,zmierza
+скорость,prędkość
+влезай,włąź
+груз,ładunek
+снова,znów
+обратно (z powrotem),z powrotem
+когда-либо,kiedykolwiek
+как-то,jakoś
+круг/около,koło
+пора,pora
+прямо/рядом,tuż
+минутку,chwilkę
+как раз,akurat
+случается,zdarza
+настал,nadszedł
+раньше,przedtem
+чуточку,odrobinę
+почти,niemal
+чрезвычайно,niezwykle
+всего лишь,zaledwie

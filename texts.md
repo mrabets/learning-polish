@@ -198,3 +198,19 @@ Wróciłem do mieszkania zupełnie zaskoczony. Długo zastanawiałem się nad ty
 
 ---
 
+## 17. Wyprawa na wyspę (2026-04-29)
+
+W zeszłym miesiącu spędziłem cały tydzień na małej wyspie na północy Polski. Pomysł nadszedł zupełnie niespodziewanie — kolega zapytał, dokąd chciałbym pojechać tego lata, a ja od razu odpowiedziałem, że chcę opuścić miasto i dotrzeć tam, gdzie nieczęsto zdarza się tłum turystów. Wyspę wybraliśmy razem, koło tygodnia później mieliśmy już bilety w kieszeni.
+
+Pamiętam, jak rano stałem przed bramą dworca i czekałem na pociąg. Akurat padał deszcz, więc włożyłem płaszcz i kapelusz. Pociąg się spóźniał — czekałem zaledwie chwilkę, kiedy z głośnika ogłoszono, że trzeba zejść z peronu i przejść na drugą stronę. Tuż obok stał starszy mężczyzna, który odrobinę się uśmiechnął i zapytał: „Dokąd pan zmierza?". Odpowiedziałem mu krótko — okazało się, że jedzie w tę samą stronę.
+
+Po dotarciu nad morze trzeba było jeszcze przesiąść się na statek. Stałem przy wejściu, gdy konduktor krzyknął do spóźnialskich: „Wsiadaj! Włąź szybciej, łódź zaraz odpływa!". W środku było ciasno — pasażerowie kładli swój ładunek koło ścian, niektórzy spali na ławkach jak na łóżka. Statek płynął niezwykle wolno, z prędkością zaledwie kilku węzłów, ale widok był piękny. Z dachu kabiny widziałem, jak fala znów uderza o burtę.
+
+Na wyspie spędziliśmy pięć dni. Mieszkaliśmy w małym domku tuż przy plaży. Każdego ranka brałem prysznic w łazience, zakładałem zegarek, zdejmowałem piżamę i wkładałem spodnie. Potem szliśmy nad wodę. Liście drzew szumiały, a powietrze pachniało solą. Stamtąd, z pagórka koło latarni, widać było cały teren wyspy. Byliśmy niemal sami — tylko czasem na horyzoncie pojawiała się jakaś łódź rybacka.
+
+Z powrotem ruszyliśmy w niedzielę. Pora była już późna, słońce zachodziło. Odkąd wróciłem, ciągle myślę o tej podróży. Nigdy przedtem nie czułem takiego spokoju. Jeśli kiedykolwiek znów uda mi się tam pojechać, na pewno wrócę. Bo niektóre miejsca trudno opuścić — jakoś zostają w głowie na zawsze.
+
+**Nowe słowa:** spędziłem, nadszedł, dokąd, opuścić, dotrzeć, zdarza, koło, kieszeni, bramą, akurat, włożyłem, płaszcz, kapelusz, zaledwie, chwilkę, zejść, tuż, odrobinę, zmierza, statek, włąź, łódź, środku, ładunek, ściany, łóżka, prędkość, dachu, znów, łazience, zegarek, spodnie, liście, stamtąd, teren, niemal, z powrotem, pora, odkąd, przedtem, kiedykolwiek, jakoś, niezwykle, wsiadaj
+
+---
+
