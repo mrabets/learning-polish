@@ -231,30 +231,18 @@
 
 ## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
 
-кровати,łóżka
-листья,liście
-садись,wsiadaj
-кармане,kieszeni
 сними,zdejmij
 отодвинь,odsuń
-брюки,spodnie
-крыши,dachu
 дверью (za drzwiami),drzwiami
 снять,zdjąć
-стены,ściany
 душ,prysznic
-часы (наручные),zegarek
 надень/вставь,włóż
 выбросить,wyrzucić
-шляпа,kapelusz
-пальто,płaszcz
-ванной,łazience
 дыру,dziurę
 отодвинуть,odsunąć
 коробка,pudełko
 ворота,bramę
 поставь,postaw
-провёл,spędziłem
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
 
@@ -316,33 +304,20 @@
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
 
-куда,dokąd
-середине (w środku),środku
-корабль,statek
 вниз (na dół),dół
 этим путём,tędy
-оттуда,stamtąd
 выбраться,wydostać
-покинуть,opuścić
-территория,teren
-лодка,łódź
 поезд,pociąg
 приближается,nadchodzi
 спустись,zejdź
-добраться,dotrzeć
 машины,wozu
-спуститься,zejść
 угла,rogu
 территории,terenie
 дойти,dojść
 пустыне,pustyni
 остров,wyspę
-направляется,zmierza
-скорость,prędkość
 приближаются,nadchodzą
 выходи,wysiadaj
-влезай,włąź
-груз,ładunek
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
 
@@ -421,37 +396,20 @@
 
 отсюда,stąd
 пару/несколько,parę
-снова,znów
 момента/минуты,chwili
 пока (не),dopóki
-обратно (z powrotem),z powrotem
-когда-либо,kiedykolwiek
-как-то,jakoś
 около/примерно,około
 прошёл,przeszedł
 пока,póki
-с тех пор как,odkąd
-круг/около,koło
-пора,pora
-прямо/рядом,tuż
-минутку,chwilkę
-как раз,akurat
 в другом месте (gdzie indziej),indziej
 прошло,minęło
 продлится,potrwa
-случается,zdarza
-настал,nadszedł
 скорее,prędzej
 до сих пор,dotąd
 случилось,zdarzyło
 прошлой (zeszłej nocy),zeszłej
-раньше,przedtem
-чуточку,odrobinę
 наступит,nadejdzie
-почти,niemal
 прошёл,minął
-чрезвычайно,niezwykle
-всего лишь,zaledwie
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 
