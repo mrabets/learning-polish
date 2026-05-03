@@ -401,6 +401,7 @@
 около/примерно,około
 прошёл,przeszedł
 пока,póki
+с тех пор как,odkąd
 в другом месте (gdzie indziej),indziej
 прошло,minęło
 продлится,potrwa
