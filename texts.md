@@ -214,3 +214,17 @@ Z powrotem ruszyliśmy w niedzielę. Pora była już późna, słońce zachodzi�
 
 ---
 
+
+## 18. Zmiana pracy (2026-05-03)
+
+Od kilku miesięcy pracowałem w tym samym wydziale małej firmy budowlanej. Wydawało mi się, że to zaszczyt — szef w moim imieniu podpisywał ważne umowy i powierzał mi trudne zadania. W trakcie codziennej pracy starałem się wykonać każde polecenie dokładnie i na czas. Zresztą taka była zasada całego zespołu: nie mieć do czynienia z błędami, bo to kosztuje wszystkich.
+
+Pewnego dnia szef kazał mi wstrzymać ważne badania i zająć się czymś zupełnie innym. Nie miałem pojęcia, dlaczego — po prostu wydał rozkaz i oczekiwał, że go wykonam. Poczułem, że to pułapka: albo zostanę i utracę własną tożsamość zawodową, albo odejdę i zaryzykuję utratę stałych zarobków. Ciśnienie rosło z tygodnia na tydzień.
+
+Zacząłem się zastanawiać, co tak naprawdę mnie obchodzi. Zdolności, które posiadam, zasługują na lepsze wykorzystanie. Wolałem ryzykować i szukać nowego miejsca, niż godzić się na kłamstwo: udawać, że wszystko jest w porządku, kiedy w środku czuję coś zupełnie innego. Kolega z biura, który od lat czeka na emeryturę, powiedział mi wprost: „Nie masz pojęcia, ile lat ci zajmie żałowanie tej decyzji".
+
+W końcu zdecydowałem się odejść. Porozmawiałem szczerze z kierownikiem i podziękowałem mu za wszystko, czego się nauczyłem. Teraz pracuję w innej jednostce — mniejszej, ale bardziej zgodnej z moimi wartościami. Myślę, że wypadłem dobrze na rozmowie kwalifikacyjnej, bo nowy szef zapewnił mnie, że szuka właśnie takiej osoby. Obecność w pracy, która ma sens, to dla mnie przewaga nie do przecenienia.
+
+**Nowe słowa:** wydział, zaszczyt, imieniu, trakcie, wykonać, czynienia, zasad, kazał, wstrzymać, badań, zająć, pojęcie, pułapka, tożsamość, ciśnienie, obchodzi, zdolności, posiada, ryzykować, kłamstwo, biura, emeryturę, jednostka, podziękować, wypaść, zapewnić, obecność, przewagę, bardziej
+
+---
