@@ -22,23 +22,18 @@
 прости,wybacz
 выйти,wyjść
 против,przeciwko
-но (книжн.),lecz
 поверить,uwierzyć
-совет (dać radę — справиться),radę
 войти,wejść
 вернусь,wrócę
 серьёзно,serio
 пойти,pójść
 летит,leci
 останься,zostań
-двигаться,ruszać
 удачи,powodzenia
-уйти,odejść
 держать,trzymać
 достаточно,wystarczająco
 дашь/справишься,dasz
 возьму,wezmę
-разве,czyż
 якобы/вроде,niby
 клянусь,przysięgam
 перестать,przestać
@@ -49,7 +44,6 @@
 но ведь,ależ
 бери,bierz
 ответы,odpowiedzi
-да (подтверждение),owszem
 положи,odłóż
 поймать,złapać
 вытворяешь,wyprawiasz
@@ -66,10 +60,8 @@
 болтать,gadać
 пришёл (ты),przyszedłeś
 найти (отыскать),odnaleźć
-сомневаюсь,wątpię
 вместе с,wraz
 неужели,czyżby
-задаюсь вопросом,zastanawiam
 берёшь,bierzesz
 не правда ли,nieprawdaż
 положи,połóż
@@ -129,27 +121,19 @@
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 
 парень,facet
-некий/уверенный,pewien
 великий/большой,wielki
-гость/чувак,gość
 ненавижу,nienawidzę
 обожаю,uwielbiam
 мёртвый,martwy
 красиво/мило,ładnie
-шутка,żart
 чувствовать,czuć
-безумие,szaleństwo
-чертовски,cholernie
 ужасное,okropne
-смело,śmiało
 спасти,ocalić
 лёгкое,łatwe
 мешает,przeszkadza
-сомнения,wątpliwości
 желаю,pragnę
 странная,dziwna
 классная,fajna
-невероятный,niewiarygodny
 причинить боль,skrzywdzić
 скучаю,tęsknię
 тяжёлый,ciężki
@@ -157,16 +141,12 @@
 ужасно,okropnie
 попал,wpadł
 милосердие,litość
-вынести,znieść
-кошмар,koszmar
-гордая,dumna
 предчувствие,przeczucie
 грустное,smutne
 чужой,obcy
 потерял (ты),straciłeś
 чудесный,cudowny
 отстань,odpuść
-отличный,doskonały
 мешаю,przeszkadzam
 бросил,rzucił
 болело,bolało
@@ -193,11 +173,9 @@
 выношу (nie znoszę),znoszę
 желания,ochoty
 гнев,gniew
-бывает,miewa
 ревнивый,zazdrosny
 пугает,przeraża
 ужасный,okropny
-притворяйся,udawaj
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
 
@@ -250,7 +228,6 @@
 умереть,umrzeć
 глаз,oko
 умрёт,umrze
-едва,ledwo
 пережить,przeżyć
 слепой,ślepy
 упал,spadł
@@ -382,30 +359,20 @@
 честь,zaszczyt
 риск,ryzyko
 ложь,kłamstwo
-понятие,pojęcie
-способности,zdolności
-избежать,uniknąć
-рисковать,ryzykować
 человечества,ludzkości
 способный,zdolny
-ловушка,pułapka
-преимущество,przewagę
-личность,tożsamość
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
 
-отсюда,stąd
 пару/несколько,parę
 момента/минуты,chwili
 пока (не),dopóki
 около/примерно,około
 прошёл,przeszedł
-пока,póki
 с тех пор как,odkąd
 в другом месте (gdzie indziej),indziej
 прошло,minęło
 продлится,potrwa
-скорее,prędzej
 до сих пор,dotąd
 случилось,zdarzyło
 прошлой (zeszłej nocy),zeszłej
