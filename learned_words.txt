@@ -351,3 +351,34 @@
 почти,niemal
 чрезвычайно,niezwykle
 всего лишь,zaledwie
+избегала (unikać),unikała
+осторожный,ostrożny
+сомневался (wątpić),wątpiłem
+рисковать,ryzykować
+понятие/представление,pojęcie
+парень/чувак,gość
+едва,ledwo
+шутка,żart
+безумие,szaleństwo
+способности,zdolności
+справимся (dać radę),damy radę
+пока (книжн.),póki
+размышляю/задумываюсь,zastanawiam
+сомнения,wątpliwości
+личность/идентичность,tożsamość
+да/согласен,owszem
+быстрее/скорее,prędzej
+давление (кровяное),ciśnienie
+невероятный,niewiarygodny
+чертовски,cholernie
+бывали (miewać),miewałem
+кошмар,koszmar
+получаться (wypaść doskonale),wypadać
+поблагодарил,podziękowałem
+рискнуть,zaryzykować
+гордый,dumny
+смело,śmiało
+двигай (ruszać),ruszaj
+отличный/идеальный,doskonałe
+ловушка/западня,pułapka
+уйти/отойти,odejść
