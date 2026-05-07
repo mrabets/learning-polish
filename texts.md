@@ -228,3 +228,15 @@ Dziś, po dwóch latach, jestem dumny z tej decyzji. Gdyby ktoś mnie spytał, c
 
 ---
 
+## 19. Tajemnicza taśma na strychu (2026-05-07)
+
+W zeszły piątek kolega Tomek zadzwonił do mnie zupełnie zdenerwowany. „Posłuchaj, musisz to obejrzeć!" — krzyczał do komórki tak głośno, że ledwo trzymałem słuchawkę przy uchu. Okazało się, że jego dziadek znalazł na strychu starą kamerę z lat dziewięćdziesiątych. W środku tkwiła zakurzona taśma z jakimś tajemniczym nagraniem.
+
+Pojechałem do niego od razu, lecz na miejscu pojawił się problem: nikt z nas nie posiadał odpowiedniego sprzętu, żeby tę taśmę odtworzyć. „Czy ktokolwiek jeszcze tego używa?" — zastanawiałem się. W końcu wsiedliśmy do auta i ruszyliśmy do lombardu po sąsiedzku. Akurat mieli tam stary magnetofon — pożyczyliśmy go i wracaliśmy z nim niczym z prawdziwym skarbem. Po drodze zasięgu komórki właściwie nie było, więc nie mogliśmy nawet sprawdzić w internecie, jak to coś włączyć.
+
+Kiedy wreszcie udało nam się uruchomić urządzenie, najpierw słyszeliśmy tylko szum. Połączenie obrazu z dźwiękiem było okropne. Lecz nagle pojawił się kadr: rodzina przy stole, ojciec przekazuje synowi srebrny zegarek. Tomek zaniemówił, a po chwili krzyknął: „To mój pradziadek! A ten chłopak — to dziadek jako dziecko!". Wieści o nagraniu szybko rozeszły się po całej rodzinie. Pomyślałem sobie, że choćby technologia była dziś niewiarygodnie nowoczesna, żaden plik pobrany z internetu nie odda takich emocji. Czasem warto sięgnąć po stare sprzęty — nawet jeśli trzeba pojechać tam, gdzie żadnego zasięgu nie ma.
+
+**Nowe słowa:** strychu, zakurzona, taśma, nagraniem, posiadał, sprzętu, odtworzyć, ktokolwiek, lombardu, magnetofon, niczym, skarbem, zasięgu, komórki, połączenie, szum, kadr, przekazuje, pradziadek, zaniemówił, wieści, choćby, plik, pobrany, sięgnąć, sprzęty, żadnego
+
+---
+
