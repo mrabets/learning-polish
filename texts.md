@@ -228,3 +228,19 @@ Dziś, po dwóch latach, jestem dumny z tej decyzji. Gdyby ktoś mnie spytał, c
 
 ---
 
+## 19. Świadek przed sądem (2026-05-13)
+
+Wszystko zaczęło się w zwyczajny piątkowy wieczór. Wracałem z biura do domu i akurat przechodziłem koło banku, gdy zauważyłem dziwną scenę. Pod drzwiami stało dwóch mężczyzn w czarnych kurtkach. Jeden z nich trzymał coś, co wyglądało jak broń, a drugi w napięciu obserwował ulicę. W zasadzie od razu zrozumiałem, że nie chodzi tu o nic dobrego. Schowałem się za rogiem, wyciągnąłem telefon i postanowiłem zgłosić sprawę policji. Ręce mi się trzęsły, lecz starałem się mówić spokojnie i bezpośrednio — operator kazał mi zostać na linii i niczego nie ruszać.
+
+Po chwili usłyszałem krzyki — okazało się, że to był prawdziwy napad. Sprawcy próbowali ukraść pieniądze i uciec samochodem zaparkowanym tuż obok. Tłum przechodniów stanął w pewnej odległości; niektórzy nagrywali wszystko telefonami, inni krzyczeli, żeby ktoś chronił dzieci stojące przy przystanku. Bałem się, że ktoś dozna krzywdy, ale na szczęście nikt nie został ranny. Władze przyjechały bardzo szybko — w trakcie kilku minut na miejscu była już cała jednostka policji, a z drugiej strony ulicy zatrzymał się wóz strażacki, na wypadek gdyby napastnicy próbowali wzniecić pożar.
+
+Następnego dnia funkcjonariusz z wydziału kryminalnego poprosił, żebym zeznawał jako świadek. Niezupełnie wiedziałem, co mam mówić — w rzeczywistości widziałem tylko fragment zdarzenia. Mimo to obiecałem, że opiszę dokładnie wszystkie okoliczności. Spisali moje zeznania, pokazali mi zdjęcia kilku osób i zapytali, czy rozpoznaję któregoś z nich. Jednego z mężczyzn poznałem od razu po sylwetce. Funkcjonariusz pochwalił, że dzięki mojemu telefonowi udało im się trafić na ślad sprawców już w pierwszej godzinie poszukiwań.
+
+W przyszłym tygodniu mam stawić się przed sędzią. Mój prawnik powiedział, że muszę być spokojny i odpowiadać wprost na pytania, a nie domyślać się intencji obrońcy. Zastanawiam się, jak to będzie wyglądało w sali sądowej. Nigdy wcześniej nie miałem do czynienia z sądem ani z oskarżonym twarzą w twarz. Trochę się obawiam, że adwokat strony przeciwnej spróbuje mnie zdezorientować albo wycofać moje słowa. Lecz uważam, że zasady są proste: mówić prawdę, nie zmyślać, nie ozdabiać — sędzia sam oceni, co jest istotne.
+
+Mój kolega z pracy twierdzi, że niepotrzebnie się mieszam. „Po co ci wrogowie? Ktoś może chcieć się zemścić" — mówi. Zapewniam go jednak, że nie odstąpię. Gdyby nikt nie zeznawał, sąd nie zdołałby ani uwolnić niewinnych, ani skazać winnych, a sprawcy spokojnie wróciliby na ulice, żeby zniszczyć życie kolejnej osobie. Mam nadzieję, że oskarżeni trafią do więzienia na długie lata. W zasadzie każdy obywatel powinien zachować odwagę przynajmniej w takich momentach — bo właśnie z drobnych decyzji pojedynczych ludzi składa się to, jak naprawdę rządzi się państwem.
+
+**Nowe słowa:** zwyczajny, piątkowy, akurat, przechodziłem, scenę, broń, napięciu, w zasadzie, schowałem się, zgłosić, trzęsły, kazał, na linii, ruszać, napad, sprawcy, ukraść, uciec, zaparkowanym, tłum, przechodniów, odległości, nagrywali, chronił, przystanku, doznać krzywdy, ranny, władze, w trakcie, jednostka, wóz strażacki, na wypadek, napastnicy, wzniecić, pożar, funkcjonariusz, wydziału, zeznawał, świadek, niezupełnie, w rzeczywistości, fragment, okoliczności, zeznania, rozpoznaję, sylwetce, ślad, poszukiwań, stawić się, sędzią, wprost, domyślać się, intencji, obrońcy, sali sądowej, mieć do czynienia, oskarżonym, adwokat, strony przeciwnej, zdezorientować, wycofać, zmyślać, ozdabiać, oceni, istotne, mieszam, wrogowie, zemścić, zapewniam, odstąpię, uwolnić, skazać, niewinnych, winnych, zniszczyć, więzienia, obywatel, rządzi się, państwem
+
+---
+
