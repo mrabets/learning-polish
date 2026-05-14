@@ -228,3 +228,19 @@ Dziś, po dwóch latach, jestem dumny z tej decyzji. Gdyby ktoś mnie spytał, c
 
 ---
 
+## 19. Wesele siostry (2026-05-14)
+
+Dostałem zaproszenie na ślub siostry trzy miesiące wcześniej. Kiedy je otworzyłem, poczułem coś dziwnego — połączenie radości i smutku zarazem. Moja siostra i jej facet znali się od lat, ale jakoś zawsze myślałem, że to zbyt wcześnie na taki krok. Mama powiedziała, że martwię się bez powodu. „Uwielbiam Marcina" — dodała — „to poważna osoba, możesz mu zaufać".
+
+W przeddzień ślubu pojechałem odwiedzić rodziców. Tata — dla nas zawsze po prostu tatuś — otworzył drzwi i od razu mnie przytulił. Przy stole siedział już wujek Marek, który przyjechał z drugiego końca Polski. Oboje z ciocią wyglądali zmęczeni po długiej podróży. Usiedliśmy razem i rozmawialiśmy do późna. Przy herbacie wujek zaczął opowiadać stare historyjki — te same, które znam od dziecka — ale dla dzieciaka przy stole były zupełnie nowe. Mały Kacper, syn siostry z poprzedniego związku, słuchał z przejęciem i nie chciał iść spać.
+
+Ceremonia była prosta, ale piękna. Kiedy Marcin wkładał pierścionek na palec siostry, spojrzenie, które sobie wymienili, mówiło więcej niż jakiekolwiek słowa. Chciałem płakać — i nie tylko ja. Mama płakała już od pierwszych chwil, trzymając chusteczkę na kolanach. Tata stał obok z lekkim uśmiechem, ale widziałem, jak bardzo go to wzruszyło. Oboje rozumieli, że ich córka zaczyna nowe życie.
+
+Na weselu spotykałem krewnych, których nie widziałem od lat. Rozmowy były głośne i radosne — wesołych wspomnień nie brakowało. Naturalnie pojawiły się też plotki o dawnych znajomych. Jedna kuzynka szepnęła mi do ucha, że pewien wujek z tamtej strony rodziny podobno skrywa jakąś tajemnicę z przeszłości. Nie pytałem o szczegóły. Pewne sprawy lepiej zostawić w spokoju — każdy ma prawo do własnej historii.
+
+Wieczorem, kiedy para młoda już odjechała, poczułem tęsknotę — i sam się zdziwiłem. Chyba tęskniłem za tym, jak nasze rodziny kiedyś spotykały się częściej. Zanim pożegnałem się z rodzicami, powiedziałem mamie, że ją kocham. Wzruszyła się. „Przyjedź częściej" — powiedziała cicho. Wróciłem do domu z myślą, że zaufanie i towarzystwo bliskich to coś, czego nie można kupić ani zastąpić. Niezależnie od tego, co przyniesie przyszłość.
+
+**Nowe słowa:** zaproszenie, ślub, facet, uwielbiam, poważna, tatuś, odwiedzić, wujek, oboje, dzieciaka, pierścionek, spojrzenie, płakać, kolanach, plotki, tajemnicę, przeszłości, pożegnałem, tęsknotę, tęskniłem, zaufanie, towarzystwo
+
+---
+
