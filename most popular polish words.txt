@@ -94,7 +94,6 @@
 уверяю,zapewniam
 заберёт,zabierze
 представь,wyobraź
-обеспечить,zapewnić
 объясню,wyjaśnię
 попал,trafił
 падаем,spadamy
@@ -126,12 +125,10 @@
 обожаю,uwielbiam
 мёртвый,martwy
 красиво/мило,ładnie
-чувствовать,czuć
 ужасное,okropne
 спасти,ocalić
 лёгкое,łatwe
 мешает,przeszkadza
-желаю,pragnę
 странная,dziwna
 классная,fajna
 причинить боль,skrzywdzić
@@ -145,7 +142,6 @@
 грустное,smutne
 чужой,obcy
 потерял (ты),straciłeś
-чудесный,cudowny
 отстань,odpuść
 мешаю,przeszkadzam
 бросил,rzucił
@@ -157,8 +153,6 @@
 разъярённый,wściekły
 ведёшь себя,zachowujesz
 сумасшедшая,szalona
-плохо,kiepsko
-желание,życzenie
 выжить,przetrwać
 невероятный,niesamowity
 страхов,obaw
@@ -231,13 +225,11 @@
 пережить,przeżyć
 слепой,ślepy
 упал,spadł
-ударить,uderzyć
 спиной (za plecami),plecami
 толстый,gruby
 
 ## GROUP 06 — Еда и чувства / Jedzenie i zmysły
 
-выпить,napić
 воде,wodzie
 воняет,śmierdzi
 

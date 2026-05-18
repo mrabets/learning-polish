@@ -228,3 +228,17 @@ Dziś, po dwóch latach, jestem dumny z tej decyzji. Gdyby ktoś mnie spytał, c
 
 ---
 
+
+## 19. Zdrowe życie zaczyna się od jednej decyzji (2026-05-18, T05, G05+G06+G02)
+
+Przez kilka lat nie dbałem o siebie. Jadłem, co popadnie — fast food, słodkie napoje, za mało warzyw. Czułem się kiepsko prawie każdego ranka: bolała mnie głowa, brakowało mi energii. Pewna znajoma powiedziała, że wyglądam bardziej zmęczony niż mam na to lat. Tamto zdanie uderzyło mnie mocno.
+
+Postanowiłem coś zmienić. Zacząłem od prostych rzeczy: zrezygnowałem z napojów gazowanych i zacząłem napić się wody zamiast słodkich soków. Po tygodniu naprawdę poczułem różnicę. Potem przyszła kolej na ruch — co rano wychodziłem na krótki spacer. Wiele osób mówi, że zdrowe nawyki są trudne do utrzymania, ale w moim przypadku okazało się inaczej.
+
+Najtrudniejsze było pierwsze wyjście do lekarza. Trochę się bałem, co usłyszę. Lekarz zmierzył ciśnienie, spojrzał mi w oko i spokojnie zapewnił mnie, że jeśli będę konsekwentny, wyniki szybko się poprawią. Pragnąłem usłyszeć właśnie coś takiego. Co ciekawe, w tym samym miesiącu wreszcie skończyło mi się przeziębienie, które ciągnęło się przez całą zimę.
+
+Po kilku miesiącach widziałem efekty. Czułem się lżejszy i pełen energii — to naprawdę cudowne uczucie. Moje życzenie jest proste: nie wracać do starych nawyków. Życie jest zbyt krótkie, żeby każdego dnia czuć się kiepsko.
+
+**Nowe słowa:** kiepsko, uderzyło, napić się, wody, oko, przeżyć, czuć, bardziej, zapewnił, przeziębienie, pragnąłem, życzenie, cudowne, dbałem, nawyki, gazowanych, ciśnienie, konsekwentny
+
+---
