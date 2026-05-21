@@ -242,3 +242,19 @@ Po kilku miesiącach widziałem efekty. Czułem się lżejszy i pełen energii �
 **Nowe słowa:** kiepsko, uderzyło, napić się, wody, oko, przeżyć, czuć, bardziej, zapewnił, przeziębienie, pragnąłem, życzenie, cudowne, dbałem, nawyki, gazowanych, ciśnienie, konsekwentny
 
 ---
+
+---
+
+## 20. Nieplanowana podróż (2026-05-21, T09, G09+G15)
+
+Minęło już kilka lat odkąd po raz pierwszy wsiadłem do pociągu bez żadnego planu. Było to zwykłe wtorkowe popołudnie — miałem wolne i nagle pomyślałem: czemu nie? Kupiłem bilet na najbliższy pociąg i po chwili siedziałem przy oknie, patrząc na pola i lasy za szybą.
+
+Pociąg zatrzymał się w małym miasteczku. Wysiadłem, bo nazwa stacji brzmiała ciekawie. Z dworca doszłem do centrum — parę ulic, stary kościół, kawiarnia na rogu. Usiadłem, zamówiłem kawę i przez chwilę patrzyłem na ludzi wokół. Nikt mnie tu nie znał. To było przyjemne uczucie.
+
+Przypadkowo zdarzyło się, że właściciel kawiarni zapytał, skąd jestem. Zaczęliśmy rozmawiać — okazało się, że niedaleko jest mała wyspa na jeziorze, dokąd można dojść pieszo przez las. Nie wahałem się ani chwili.
+
+Wróciłem do domu późnym wieczorem, zmęczony, ale spokojny. Odkąd tamtego dnia, staram się przynajmniej raz w miesiącu gdzieś pojechać bez planu — nie daleko, nie drogo. Dotąd każda taka podróż była warta zachodu.
+
+**Nowe słowa:** minęło, odkąd, pociąg, po chwili, doszłem, rogu, parę, zdarzyło się, wyspę, dojść, dotąd, chwili
+
+---
