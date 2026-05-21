@@ -258,3 +258,23 @@ Wróciłem do domu późnym wieczorem, zmęczony, ale spokojny. Odkąd tamtego d
 **Nowe słowa:** minęło, odkąd, pociąg, po chwili, doszłem, rogu, parę, zdarzyło się, wyspę, dojść, dotąd, chwili
 
 ---
+
+## 21. Niespodziewane zaproszenie (2026-05-21, T03, G03+G01+G02)
+
+Wczoraj wróciłem z pracy zmęczony jak nigdy. Otworzyłem drzwi i od razu poczułem, że coś okropnie śmierdzi. Pożar?! Pobiegłem do kuchni — okazało się, że żona zasnęła na kanapie i zapomniała o garnku. Nieźle, pomyślałem, ale bez paniki.
+
+— Skarbie, spójrz, co ty wyprawiasz? — zawołałem ze śmiechem.
+— Wybacz, padałam z nóg. Tęsknię już za normalnym weekendem — odpowiedziała cicho.
+
+Usiadłem obok niej i położyłem rękę na jej kolanach. Zgadzam się, ostatnio oboje pracujemy za dużo. Możliwe, że to znak, żeby gdzieś razem wyjechać.
+
+Nagle zadzwonił telefon. To był wujek z Krakowa.
+— Witaj! Mam dla ciebie świetne wieści — mój syn bierze ślub! Oto twoje oficjalne zaproszenie.
+— Serio? — nie wierzyłem własnym uszom. — Kuzyn ma już dziewczynę?
+— Przysięgam, że to poważna sprawa. Kupili nawet pierścionek. Pozwól, że przekażę ci szczegóły jutro.
+
+Powiedziałem "powodzenia" i odłożyłem telefon. Spojrzałem na żonę — uśmiechała się fajnie, jakby od razu wiedziała, o co chodzi. Dosyć wrażeń jak na jeden wieczór. Wzięliśmy prysznic i poszliśmy spać. Nadchodzi miesiąc pełen wesołych planów.
+
+**Nowe słowa:** śmierdzi, pożar, nieźle, skarbie, spójrz, wyprawiasz, wybacz, tęsknię, kolanach, zgadzam, oboje, możliwe, wujek, witaj, wieści, ślub, oto, zaproszenie, serio, przysięgam, pierścionek, pozwól, powodzenia, dosyć, prysznic, wesołych, nadchodzi, fajnie, szczegóły
+
+---
