@@ -276,15 +276,11 @@
 вниз (na dół),dół
 этим путём,tędy
 выбраться,wydostać
-поезд,pociąg
 приближается,nadchodzi
 спустись,zejdź
 машины,wozu
-угла,rogu
 территории,terenie
-дойти,dojść
 пустыне,pustyni
-остров,wyspę
 приближаются,nadchodzą
 выходи,wysiadaj
 
@@ -356,17 +352,11 @@
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
 
-пару/несколько,parę
-момента/минуты,chwili
 пока (не),dopóki
 около/примерно,około
 прошёл,przeszedł
-с тех пор как,odkąd
 в другом месте (gdzie indziej),indziej
-прошло,minęło
 продлится,potrwa
-до сих пор,dotąd
-случилось,zdarzyło
 прошлой (zeszłej nocy),zeszłej
 наступит,nadejdzie
 прошёл,minął
