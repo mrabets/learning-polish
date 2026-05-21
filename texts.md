@@ -258,3 +258,17 @@ Wróciłem do domu późnym wieczorem, zmęczony, ale spokojny. Odkąd tamtego d
 **Nowe słowa:** minęło, odkąd, pociąg, po chwili, doszłem, rogu, parę, zdarzyło się, wyspę, dojść, dotąd, chwili
 
 ---
+
+## 21. Zaproszenie na ślub (2026-05-21, T03, G03+G02+G14)
+
+W ubiegłym tygodniu dostałem zaproszenie na ślub mojego kumpla Tomka. Serio — nie mogłem uwierzyć. Zaledwie rok temu opowiadał mi o swojej pierwszej randce z Anią, a teraz wręczył jej pierścionek i razem planują wesele. Uwielbiam takie wiadomości — poczułem natychmiastową radość i trochę wzruszenia.
+
+Tęsknię za czasami, kiedy spotykaliśmy się prawie co tydzień. Teraz każdy żyje swoim życiem. Ale właśnie taki moment przypomina, że pewne rzeczy z przeszłości miały prawdziwą wartość — tamte rozmowy, tamto zaufanie, które budowaliśmy latami. Mógłbym wiele mówić o tym, czym jest dla mnie przyjaźń. Powiem krótko: to coś, co przetrwa każdą odległość.
+
+Moja żona jest trochę zazdrosna — oboje z Tomkiem znamy się od szkoły, a ona poznała go dopiero rok temu. Zapytała z uśmiechem: „Może o mnie plotkujecie?" Zapewniłem ją, że Tomek nie zna kłamstw — zawsze mówi wprost. Zgadzam się, że takich ludzi jest coraz mniej i warto być w towarzystwie podobnych osób.
+
+Na uroczystości chcę wygłosić krótkie przemówienie. To dla mnie prawdziwy zaszczyt. Tomek jest zdolny, uczciwy i na pewno zasługuje na szczęście. Zastanawiam się, jak się pożegnać z publicznością po przemowie. Rada mojej żony była prosta: „Mów z serca." Myślę, że to lepsza rada niż jakakolwiek przygotowana wcześniej.
+
+**Nowe słowa:** zaproszenie, ślub, kumpel, randka, pierścionek, uwielbiam, tęsknię, przeszłość, zaufanie, zazdrosna, oboje, plotkujecie, kłamstw, towarzystwa, zaszczyt, zdolny, pożegnać, mógłbym
+
+---
