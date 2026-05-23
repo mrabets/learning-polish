@@ -272,3 +272,17 @@ Na uroczystości chcę wygłosić krótkie przemówienie. To dla mnie prawdziwy 
 **Nowe słowa:** zaproszenie, ślub, kumpel, randka, pierścionek, uwielbiam, tęsknię, przeszłość, zaufanie, zazdrosna, oboje, plotkujecie, kłamstw, towarzystwa, zaszczyt, zdolny, pożegnać, mógłbym
 
 ---
+
+## 22. Pierwsza walka w kółku (2026-05-23, T04, G12+G02+G15)
+
+Około miesiąca temu zapisałem się na małe kółko bokserskie niedaleko pracy. Kolega zaproponował, a ja pomyślałem — czemu nie, lepsze to niż siedzieć w domu wieczorami. Na pierwszym treningu byłem przerażony. Wokół sami wielcy faceci, każdy z poważnym spojrzeniem. Miałem przeczucie, że długo to nie potrwa.
+
+Trener okazał się niesamowity. Spokojnie powiedział, żebym się nie martwił, bo każdy kiedyś zaczynał. Pierwsze dni były ciężkie, bolało mnie dosłownie wszystko. Zachowywałem się jak dziecko — chciałem to rzucić po dwóch tygodniach. Ale dopóki ktoś nie powie ci wprost „dasz radę", trudno samemu w to uwierzyć.
+
+Wczoraj nadeszła moja pierwsza walka. Przeciwnik był wyższy ode mnie, ze wściekłym spojrzeniem. Pomyślałem: „Ten facet pokona mnie w pół minuty." Lecz gdy tylko zaczęliśmy, coś się we mnie zmieniło — zapomniałem o strachu i po prostu walczyłem. Przegrałem na punkty, ale trener stwierdził, że wypadłem zaskakująco dobrze.
+
+Wracałem do domu zmęczony, lecz dumny. Nigdy wcześniej nie czułem czegoś podobnego. Gdzie indziej — w pracy, w domu — czuję się zwyczajnie. Tu czuję się żywy. Mam zamiar trenować dalej. Może kiedyś zostanę mistrzem naszego małego kółka.
+
+**Nowe słowa:** kółko, walka, wielcy, spojrzeniem, przeczucie, potrwa, niesamowity, zachowywałem, rzucić, dopóki, nadeszła, wściekłym, pokona, lecz, indziej, mistrzem
+
+---
