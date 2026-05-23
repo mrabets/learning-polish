@@ -272,3 +272,15 @@ Na uroczystości chcę wygłosić krótkie przemówienie. To dla mnie prawdziwy 
 **Nowe słowa:** zaproszenie, ślub, kumpel, randka, pierścionek, uwielbiam, tęsknię, przeszłość, zaufanie, zazdrosna, oboje, plotkujecie, kłamstw, towarzystwa, zaszczyt, zdolny, pożegnać, mógłbym
 
 ---
+
+## 22. Wizyta wujka (2026-05-23, T03, G03+G04+G01)
+
+W zeszłą sobotę odwiedził mnie wujek. Spojrzał na mnie, uśmiechnął się i powiedział: „Oto i jesteś! Niesamowite, ile czasu się nie widzieliśmy". Wziąłem od niego płaszcz, postawiłem pudełko z prezentami koło drzwi i zaprosiłem go do kuchni. Czyżby coś przyniósł na obiad? Niby tak — w torbie miał ser, chleb i butelkę wina.
+
+Wujek to fajny facet, ale czasem zachowuje się dziwnie. Akurat tego wieczoru opowiadał, jak kiedyś spadł z roweru pomiędzy dwoma autobusami. „Przysięgam, dopóki żyję, nie zapomnę tamtej chwili!" — śmiał się. Słuchałem i myślałem: ależ ten człowiek ma ciekawe życie. Około dziesiątej zauważyłem, że coś śmierdzi z kuchni — garnek z zupą zostawiłem na ogniu. Wyrzuciłem wszystko do kosza, choćby było mi szkoda.
+
+Wujek zaproponował spacer. „Chodźmy tędy, niedaleko jest park!" — powiedział. Zeszliśmy schodami, włożyłem kurtkę, on swój kapelusz, i ruszyliśmy. Pomyślałem, że oby takie wizyty zdarzały się częściej. Czasem warto zostawić wszystko gdzie indziej i po prostu pogadać z kimś bliskim.
+
+**Nowe słowa:** wujek, spojrzał, oto, niesamowite, wziąłem, pudełko, postawiłem, czyżby, niby, fajny, facet, dziwnie, spadł, pomiędzy, przysięgam, dopóki, ależ, około, śmierdzi, wyrzuciłem, choćby, tędy, zeszliśmy, włożyłem, oby, indziej
+
+---
