@@ -272,3 +272,15 @@ Na uroczystości chcę wygłosić krótkie przemówienie. To dla mnie prawdziwy 
 **Nowe słowa:** zaproszenie, ślub, kumpel, randka, pierścionek, uwielbiam, tęsknię, przeszłość, zaufanie, zazdrosna, oboje, plotkujecie, kłamstw, towarzystwa, zaszczyt, zdolny, pożegnać, mógłbym
 
 ---
+
+## 22. Stara taśma w piwnicy (2026-05-23, T07, G10+G04+G01)
+
+W zeszłą sobotę pomagałem tatusiowi posprzątać piwnicę. Między starymi pudełkami znalazłem coś, czego nie widziałem od lat — starą taśmę magnetofonową z czasów szkoły. Na pudełku, moim własnym pismem: „Najlepsze piosenki, 2005". Serio, ledwo mogłem uwierzyć, że to nadal istnieje.
+
+Problem polega na tym, że w ogóle nie mam już sprzętu, który mógłby cokolwiek odtworzyć. Spojrzałem na taśmę i pomyślałem: kiedyś każda piosenka była dla mnie jak skarb. Trzeba było czekać, aż leci w radiu, a wtedy szybko nacisnąć guzik „nagranie". Dziś wystarczy jakiekolwiek połączenie z internetem — i już słuchasz, czego chcesz.
+
+Pokazałem znalezisko żonie. Spojrzała na mnie z uśmiechem i powiedziała: „Skarbie, na czym ty to w ogóle chcesz odtworzyć? Wyrzuć." Ależ ja nie chcę wyrzucać! Bzdura — ten mały kawałek plastiku zawiera w sobie więcej wspomnień niż jakikolwiek plik na komórce. Odłożyłem taśmę z powrotem do pudełka i schowałem ją głębiej. Nigdy nie wiadomo — może kiedyś jeszcze raz ją znajdę i się uśmiechnę.
+
+**Nowe słowa:** piwnicy, taśmę, magnetofonową, pudełkami, własnym, pismem, ledwo, nadal, polega, sprzętu, odtworzyć, leci, nacisnąć, guzik, nagranie, jakiekolwiek, połączenie, znalezisko, ależ, bzdura, kawałek, wspomnień, jakikolwiek, komórce, z powrotem, schowałem, głębiej
+
+---
