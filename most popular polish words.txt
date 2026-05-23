@@ -122,7 +122,6 @@
 парень,facet
 великий/большой,wielki
 ненавижу,nienawidzę
-обожаю,uwielbiam
 мёртвый,martwy
 красиво/мило,ładnie
 ужасное,okropne
@@ -132,7 +131,6 @@
 странная,dziwna
 классная,fajna
 причинить боль,skrzywdzić
-скучаю,tęsknię
 тяжёлый,ciężki
 красивый,przystojny
 ужасно,okropnie
@@ -167,7 +165,6 @@
 выношу (nie znoszę),znoszę
 желания,ochoty
 гнев,gniew
-ревнивый,zazdrosny
 пугает,przeraża
 ужасный,okropny
 
@@ -176,28 +173,17 @@
 дорогая/сокровище,skarbie
 муж,mąż
 кем-то,kimś
-оба (м.р. + ж.р.),oboje
-свадьба,ślub
 дядя,wujek
 папочка,tatuś
 обе,obie
-прошлое,przeszłość
 ребёнка,dzieciaka
-друг/приятель,kumpel
 колени,kolana
 весёлых (wesołych świąt),wesołych
 тайны,tajemnicy
 матери,matce
 навестить,odwiedzić
-приглашение,zaproszenie
 навести,odwiedź
-попрощаться,pożegnać
-свидание,randka
-доверие,zaufanie
-компании,towarzystwa
 переспать,przespać
-сплетни,plotki
-кольцо,pierścionek
 встречать,spotykać
 встречает,spotyka
 
@@ -344,11 +330,8 @@
 
 ## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
 
-честь,zaszczyt
 риск,ryzyko
-ложь,kłamstwo
 человечества,ludzkości
-способный,zdolny
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
 
@@ -380,7 +363,6 @@
 никакого,żadnego
 чем-то,czymś
 осталась,została
-я мог бы,mógłbym
 от (ode mnie — от меня),ode
 ваша,wasza
 самого,samego
