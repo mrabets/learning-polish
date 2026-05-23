@@ -412,3 +412,21 @@
 до сих пор,dotąd
 с тех пор как,odkąd
 спустя мгновение (po + локатив),po chwili
+приглашение,zaproszenie
+свадьба,ślub
+приятель/дружок,kumpel
+свидание,randka
+кольцо,pierścionek
+скучаю (tęsknić za),tęsknię
+прошлое,przeszłość
+доверие,zaufanie
+ревнивый/-ая,zazdrosny/zazdrosna
+оба (м. + ж.),oboje
+сплетни,plotki
+ложь,kłamstwo
+компания/общество,towarzystwo
+способный,zdolny
+попрощаться,pożegnać się
+я мог бы,mógłbym
+обожаю,uwielbiam
+честь,zaszczyt
