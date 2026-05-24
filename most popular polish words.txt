@@ -272,16 +272,6 @@
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
 
-новости,wieści
-скачано,pobrane
-оборудование,sprzęt
-передать,przekazać
-посмотреть,obejrzeć
-связь,połączenie
-клетки/мобильного,komórki
-запись,nagranie
-досягаемости,zasięgu
-плёнку,taśmę
 
 ## GROUP 11 — Культура и традиции / Kultura i tradycje
 
@@ -347,21 +337,14 @@
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 
 чтобы ты,żebyś
-состоянии (być w stanie — быть в состоянии),stanie
-мог,mógł
 имеете (вы),macie
-кроме/за пределами,poza
 ты должен (м.р.),powinieneś
 причины (z powodu — из-за),powodu
 будь,bądź
 чтобы я,żebym
 ничего,niczego
-если бы я,gdybym
-знал,wiedział
 какую,jaką
-было бы,byłoby
 никакого,żadnego
-чем-то,czymś
 осталась,została
 от (ode mnie — от меня),ode
 ваша,wasza
@@ -372,8 +355,6 @@
 такие (м.р. мн.ч.),tacy
 должны были,musieli
 части,części
-кто-либо,ktokolwiek
-собственное,własne
 между,pomiędzy
 чтобы ты (книжн.),abyś
 своего,swego
