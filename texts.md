@@ -288,3 +288,17 @@ Byłoby dobrze, gdyby ktokolwiek z nas przynajmniej raz w tygodniu wyłączył t
 **Nowe słowa:** komórki, połączenia, zasięgu, wieści, mógł, nagrania, taśmę, pobrane, sprzęt, obejrzałem, przekazać, stanie, gdybym, wiedział, byłoby, czymś, własnym, ktokolwiek, poza, wytrzymać, szuflady, powiadomień, filtrów, trzeszczał
 
 ---
+
+## 23. Sobota na targu (2026-05-24, T06, G08+G01+G15)
+
+W sobotę rano moja żona powiedziała spokojnie: „Weź torbę i idź na targ — potrzebujemy warzyw i czegoś słodkiego." Serio, o siódmej trzydzieści? Ale cóż, nie chciałem się kłócić. Wziąłem torbę i wyszedłem bez śniadania.
+
+Na miejscu panował typowy targ-chaos. Sprzedawca krzyknął do mnie: „Spójrz tutaj, mam najświeższe pomidory!" Podszedłem. Zapytałem o cenę. Powiedział kwotę — wydawało mi się, że to trochę drogo. On odpowiedział z uśmiechem: „W zasadzie to uczciwa cena jak na targ." Wzruszyłem ramionami: „No dobra, biorę."
+
+Przy następnym stoisku stała starsza pani z miodem. Dała mi spróbować łyżeczkę. Spojrzałem na nią z pytaniem w oczach: „Ile płacę?" Odpowiedziała, że dwadzieścia pięć złotych za słoik. Pomyślałem przez chwilę — to chyba wystarczająco uczciwie. Kupiłem dwa.
+
+Wróciłem do domu około dziewiątej. Żona spojrzała na torbę i powiedziała: „Nieźle — kupiłeś wszystko." Potem zobaczyła miód i dodała: „I coś ekstra." Wzruszyłem ramionami: „Przyda się." Roześmiała się — i to był najlepszy moment całego ranka.
+
+**Nowe słowa:** targ (рынок), panował (царил), kwotę (сумму), uczciwa cena (честная цена), łyżeczkę (ложечку), złotych (злотых), roześmiała się (засмеялась)
+
+---
