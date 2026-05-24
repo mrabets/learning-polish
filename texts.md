@@ -272,3 +272,19 @@ Na uroczystości chcę wygłosić krótkie przemówienie. To dla mnie prawdziwy 
 **Nowe słowa:** zaproszenie, ślub, kumpel, randka, pierścionek, uwielbiam, tęsknię, przeszłość, zaufanie, zazdrosna, oboje, plotkujecie, kłamstw, towarzystwa, zaszczyt, zdolny, pożegnać, mógłbym
 
 ---
+
+## 22. Jeden dzień bez komórki (2026-05-23, T07, G10+G16+G01)
+
+Tydzień temu postanowiłem sprawdzić, czy jestem w stanie wytrzymać cały dzień bez komórki. Serio — bez żadnego połączenia, bez zasięgu, bez powiadomień. Schowałem telefon do szuflady o ósmej rano i od razu poczułem, że coś jest nie tak.
+
+Przez pierwsze godziny nie wiedziałem, co zrobić z rękami. Żadnych wieści ze świata, żaden znajomy nie mógł do mnie dotrzeć. Zrobiło mi się trochę dziwnie, ale po jakimś czasie poczułem coś wyjątkowego — że mogłem wreszcie pomyśleć o czymś własnym.
+
+Po południu wyszłem na spacer, nie robiąc żadnego nagrania. Po prostu patrzyłem wokół — bez filtrów, bez ekranu. Gdybym wiedział wcześniej, że to tak działa, zacząłbym dużo wcześniej.
+
+Wieczorem obejrzałem stary film — ojciec kiedyś nagrał go na taśmę. To była zupełnie inna przyjemność niż pobrane seriale. Sprzęt trochę trzeszczał, ale właśnie dlatego miało to swój klimat. Poza tym nie musiałem nikomu niczego przekazać ani pokazywać.
+
+Byłoby dobrze, gdyby ktokolwiek z nas przynajmniej raz w tygodniu wyłączył telefon. W ogóle nie chodzi o to, żeby uciec od świata — chodzi o to, żeby przez chwilę być tylko sobą.
+
+**Nowe słowa:** komórki, połączenia, zasięgu, wieści, mógł, nagrania, taśmę, pobrane, sprzęt, obejrzałem, przekazać, stanie, gdybym, wiedział, byłoby, czymś, własnym, ktokolwiek, poza, wytrzymać, szuflady, powiadomień, filtrów, trzeszczał
+
+---

@@ -430,3 +430,36 @@
 я мог бы,mógłbym
 обожаю,uwielbiam
 честь,zaszczyt
+новости,wieści
+скачано,pobrane
+оборудование,sprzęt
+передать,przekazać
+посмотреть,obejrzeć
+связь,połączenie
+клетки/мобильного,komórki
+запись,nagranie
+зона покрытия,zasięg
+плёнка,taśma
+в состоянии (być w stanie),stanie
+мог,mógł
+кроме/за пределами,poza
+если бы я,gdybym
+знал,wiedział
+было бы,byłoby
+чем-то,czymś
+кто угодно,ktokolwiek
+собственный,własny
+выдержать,wytrzymać
+ящик стола,szuflada
+уведомление,powiadomienie
+фильтр,filtr
+трещать,trzeszczeć
+наконец,wreszcie
+особенный/необычный,wyjątkowy
+на мгновение,przez chwilę
+волновать/быть важным (mnie obchodzi),obchodzić
+знать факт (не znać),wiedzieć
+видеть (не wiedzieć),widzieć
+с отрицанием: ни (не lub),ani
+дело в том,chodzić o coś
+wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
