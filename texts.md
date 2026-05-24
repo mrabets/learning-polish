@@ -288,3 +288,17 @@ Byłoby dobrze, gdyby ktokolwiek z nas przynajmniej raz w tygodniu wyłączył t
 **Nowe słowa:** komórki, połączenia, zasięgu, wieści, mógł, nagrania, taśmę, pobrane, sprzęt, obejrzałem, przekazać, stanie, gdybym, wiedział, byłoby, czymś, własnym, ktokolwiek, poza, wytrzymać, szuflady, powiadomień, filtrów, trzeszczał
 
 ---
+
+## 23. Wizyta u wujka (2026-05-24, T08, G11+G03+G02)
+
+Mój wujek Staszek jest niesamowitym gawędziarzem. Odwiedziłem go w ubiegłym tygodniu — serio, nie widziałem go chyba ze dwa lata. Mieszka sam w starym domu pełnym tajemnicy. Kiedy wchodzę do jego salonu, zawsze mam dziwne przeczucie, że zaraz usłyszę coś nowego o naszej rodzinie.
+
+Tego wieczoru wujek wyciągnął stare pudełko ze zdjęciami. Oto moja matka jako mała dziewczynka, oto tatuś z rowerem, oto cała rodzina razem na łące — wesołe twarze, słońce nad głowami, piękna ziemia wokół domu. Zapewne każda rodzina ma swój skarb. Te zwykłe chwile, które ktoś kiedyś uchwycił na zdjęciu, mówią więcej niż tysiąc słów.
+
+Okazało się też, że wujek od lat kręci krótkie filmy na starą kamerę. Jeden film był smutny — pogrzeb dziadka sprzed wielu lat. Ale inne były naprawdę niesamowite: rodzinne kolacje, śmiech dzieci w ogrodzie, opowieść o tym, jak tata jako dzieciak wygrał konkurs śpiewu. Ładnie to wyglądało. Dotknąłem czegoś, o czym w ogóle nie wiedziałem.
+
+W zasadzie miałem wyjść wcześnie. Ale wujek powiedział: „Zostań na kolację — pogadamy." Zostałem. I w drodze do domu pomyślałem, że takie spotkania są ważniejsze, niż nam się często wydaje.
+
+**Nowe słowa:** niesamowitym, tajemnicy, dziwne, przeczucie, wesołe, słońce, ziemia, skarb, kręci, smutny, opowieść, ładnie, dotknąłem, zapewne, w zasadzie, w ogóle, zostań, pogadamy
+
+---
