@@ -288,3 +288,17 @@ Byłoby dobrze, gdyby ktokolwiek z nas przynajmniej raz w tygodniu wyłączył t
 **Nowe słowa:** komórki, połączenia, zasięgu, wieści, mógł, nagrania, taśmę, pobrane, sprzęt, obejrzałem, przekazać, stanie, gdybym, wiedział, byłoby, czymś, własnym, ktokolwiek, poza, wytrzymać, szuflady, powiadomień, filtrów, trzeszczał
 
 ---
+
+## 23. Dziwny sąsiad z naprzeciwka (2026-05-29, T11, G01+G02)
+
+W zeszłym tygodniu poznałem nowego sąsiada. To dość dziwny facet — mieszka sam, rzadko z kimś gada i ciągle nosi czarny płaszcz, nawet gdy jest ciepło. Na początku wydawał mi się obcy i trochę nieprzyjemny. „Spójrz tylko na niego" — powiedziała moja żona — „zachowujesz się, jakbyś go znał, a przecież widzimy go pierwszy raz."
+
+Pewnego wieczoru zapukał do naszych drzwi. Serio, byłem zaskoczony. „Wybacz, że przeszkadzam" — powiedział spokojnie — „ale czy mógłbyś mi pożyczyć trochę cukru?" Zgadzam się, brzmi to zwyczajnie, lecz jego spojrzenie było jakieś smutne. Zaprosiłem go do środka. „Chodźmy do kuchni, oto cukier — bierz, ile chcesz."
+
+Okazało się, że ten facet wcale nie jest dziwny — po prostu niedawno stracił żonę i czuje się samotny. Gadaliśmy prawie dwie godziny. Opowiedział mi o swoim życiu, a ja po prostu słuchałem. W pewnej chwili poczułem coś niesamowitego: że nie wolno oceniać ludzi po wyglądzie. „Wyobraź sobie" — pomyślałem — „ile razy się myliłem."
+
+Zapewniam was: czasem wystarczy jedna rozmowa, żeby zmienić zdanie o kimś. Teraz spotykamy się prawie co tydzień. Rada jest prosta — nie bój się zapukać do obcych drzwi. Nigdy nie wiesz, kogo poznasz.
+
+**Nowe słowa:** facet, dziwny, gadać, obcy, spójrz, zachowujesz, serio, wybacz, przeszkadzam, pożyczyć, zgadzam, spojrzenie, smutne, chodźmy, oto, bierz, niesamowity, wyobraź, zapewniam, rada, stracił, spotykać
+
+---
