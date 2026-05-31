@@ -2,13 +2,10 @@
 
 прекрати,przestań
 правоту (mieć rację — быть правым),rację
-посмотри,spójrz
 говори,mów
 нравится (podoba mi się),podoba
 смотри,patrz
-пойдёмте,chodźmy
 возьми,weź
-вот,oto
 господа,panowie
 позволь,pozwól
 делай,rób
@@ -19,13 +16,11 @@
 возможно,możliwe
 согласен (zgadza się),zgadza
 вообще (w ogóle),ogóle
-прости,wybacz
 выйти,wyjść
 против,przeciwko
 поверить,uwierzyć
 войти,wejść
 вернусь,wrócę
-серьёзно,serio
 пойти,pójść
 летит,leci
 останься,zostań
@@ -42,7 +37,6 @@
 проверь,sprawdź
 достаточно/хватит,dosyć
 но ведь,ależ
-бери,bierz
 ответы,odpowiedzi
 положи,odłóż
 поймать,złapać
@@ -52,12 +46,10 @@
 вышел,wyszedł
 считает/имеет значение,liczy
 взглянуть,spojrzeć
-согласен (zgadzam się),zgadzam
 понравится,spodoba
 беру,biorę
 трогай (nie dotykaj),dotykaj
 вредит (nie szkodzi — ничего),szkodzi
-болтать,gadać
 пришёл (ты),przyszedłeś
 найти (отыскать),odnaleźć
 вместе с,wraz
@@ -80,7 +72,6 @@
 предполагаю,przypuszczam
 убедиться,upewnić
 задавался вопросом,zastanawiałem
-совет,rada
 реальности (w rzeczywistości),rzeczywistości
 следи,pilnuj
 возьмём,weźmiemy
@@ -91,9 +82,7 @@
 основании (na podstawie),podstawie
 спасать,ratować
 угадай,zgadnij
-уверяю,zapewniam
 заберёт,zabierze
-представь,wyobraź
 объясню,wyjaśnię
 попал,trafił
 падаем,spadamy
@@ -119,7 +108,6 @@
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 
-парень,facet
 великий/большой,wielki
 ненавижу,nienawidzę
 мёртвый,martwy
@@ -128,7 +116,6 @@
 спасти,ocalić
 лёгкое,łatwe
 мешает,przeszkadza
-странная,dziwna
 классная,fajna
 причинить боль,skrzywdzić
 тяжёлый,ciężki
@@ -137,11 +124,7 @@
 попал,wpadł
 милосердие,litość
 предчувствие,przeczucie
-грустное,smutne
-чужой,obcy
-потерял (ты),straciłeś
 отстань,odpuść
-мешаю,przeszkadzam
 бросил,rzucił
 болело,bolało
 спас,uratował
@@ -149,14 +132,11 @@
 плакать,płakać
 серьёзная,poważna
 разъярённый,wściekły
-ведёшь себя,zachowujesz
 сумасшедшая,szalona
 выжить,przetrwać
-невероятный,niesamowity
 страхов,obaw
 вести себя,zachowywać
 разбудить,obudzić
-взгляд,spojrzenie
 вылезай,wyłaź
 насилия,przemocy
 чудовище,potwór
@@ -184,7 +164,6 @@
 навестить,odwiedzić
 навести,odwiedź
 переспать,przespać
-встречать,spotykać
 встречает,spotyka
 
 ## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
@@ -255,7 +234,6 @@
 долларов,dolarów
 вернуть,odzyskać
 пари/завод,zakład
-одолжить,pożyczyć
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
 
