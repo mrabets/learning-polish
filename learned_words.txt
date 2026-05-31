@@ -463,3 +463,25 @@
 с отрицанием: ни (не lub),ani
 дело в том,chodzić o coś
 wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
+тип/мужик (разг.),facet
+странный,dziwny
+болтать/разговаривать,gadać
+чужой/посторонний,obcy
+взгляни (повелит.),spójrz
+ведёшь себя,zachowujesz się
+серьёзно,serio
+извини/прости,wybacz
+мешаю/беспокою,przeszkadzam
+одолжить/занять,pożyczyć
+согласен,zgadzam się
+взгляд,spojrzenie
+грустное,smutne
+пойдём/идём,chodźmy
+вот,oto
+бери,bierz
+невероятный/потрясающий,niesamowity
+представь себе,wyobraź sobie
+заверяю/уверяю,zapewniam
+совет,rada
+он потерял,stracił
+встречаться,spotykać się
