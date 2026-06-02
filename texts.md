@@ -302,3 +302,17 @@ Zapewniam was: czasem wystarczy jedna rozmowa, żeby zmienić zdanie o kimś. Te
 **Nowe słowa:** facet, dziwny, gadać, obcy, spójrz, zachowujesz, serio, wybacz, przeszkadzam, pożyczyć, zgadzam, spojrzenie, smutne, chodźmy, oto, bierz, niesamowity, wyobraź, zapewniam, rada, stracił, spotykać
 
 ---
+
+## 24. Nieprzyjemna sprawa w urzędzie (2026-05-31, T13, G13+G07+G01)
+
+W zeszły poniedziałek musiałem załatwić ważną sprawę w urzędzie. Chodziło o moją kartę pobytu — w zasadzie od tego jednego dokumentu zależy całe moje życie tutaj. Wstałem skoro świt, bo wiedziałem, że trzeba zająć miejsce w kolejce. „Patrz, weź wszystkie papiery i sprawdź je dwa razy, żebyś niczego nie zapomniał" — powiedziała żona.
+
+Kiedy wszedłem do biura, urzędniczka spojrzała na mnie bez uśmiechu. „Proszę usiąść i czekać." Czekałem dosyć długo — w ogóle nie spodziewałem się, że będzie tylu ludzi. Wreszcie kazała mi podejść i zaczęła sprawdzać dokumenty. Nagle wyraźnie oświadczyła, że brakuje jednego zaświadczenia. „Bez tego nie mogę przyjąć wniosku."
+
+Przyznam szczerze: w tamtej chwili miałem ochotę po prostu wyjść i nigdy tu nie wrócić. Ależ to było frustrujące! Lecz pomyślałem — nie wolno się poddawać z powodu jednego papierka. Zapytałem grzecznie, gdzie mogę zdobyć to zaświadczenie. Ku mojemu zdziwieniu urzędniczka zrobiła się milsza i spokojnie wszystko mi wyjaśniła. Wskazała nawet, na którym piętrze jest właściwy wydział.
+
+Ostatecznie udało mi się złożyć wniosek tego samego dnia. Wychodząc, pomyślałem, że warto zachować spokój, choćby sprawa wydawała się beznadziejna. Czasem wystarczy jedno uprzejme pytanie, żeby ktoś po drugiej stronie biurka przestał być urzędnikiem, a stał się zwykłym człowiekiem. Następnym razem na pewno przygotuję wszystkie papiery wcześniej.
+
+**Nowe słowa:** załatwić, sprawa, urząd, w zasadzie, zająć, kolejka, patrz, weź, sprawdź, żebyś, niczego, urzędniczka, spojrzała, usiąść, dosyć, w ogóle, kazała, wyraźnie, oświadczyć, przyjąć, wniosek, zaświadczenie, ależ, z powodu, wyjaśniła, wskazała, wydział, choćby, beznadziejna, uprzejme
+
+---
