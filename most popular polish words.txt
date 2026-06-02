@@ -15,7 +15,6 @@
 неплохо,nieźle
 возможно,możliwe
 согласен (zgadza się),zgadza
-вообще (w ogóle),ogóle
 выйти,wyjść
 против,przeciwko
 поверить,uwierzyć
@@ -34,18 +33,13 @@
 перестать,przestać
 остановить,powstrzymać
 отпусти,puść
-проверь,sprawdź
-достаточно/хватит,dosyć
-но ведь,ależ
 ответы,odpowiedzi
 положи,odłóż
 поймать,złapać
 вытворяешь,wyprawiasz
 умоляю,błagam
-сесть,usiąść
 вышел,wyszedł
 считает/имеет значение,liczy
-взглянуть,spojrzeć
 понравится,spodoba
 беру,biorę
 трогай (nie dotykaj),dotykaj
@@ -59,13 +53,11 @@
 положи,połóż
 вероятно,zapewne
 принесу,przyniosę
-принципе (w zasadzie),zasadzie
 вытащить,wyciągnąć
 делает (книжн.),czyni
 поговорим,pogadamy
 отвечает,odpowiada
 извиниться,przeprosić
-принять,przyjąć
 пригодится,przyda
 пошёл (я),poszedłem
 казалось,wydawało
@@ -83,15 +75,12 @@
 спасать,ratować
 угадай,zgadnij
 заберёт,zabierze
-объясню,wyjaśnię
 попал,trafił
 падаем,spadamy
-указывает,wskazuje
 будем надеяться,miejmy
 отпускай (nie puszczaj),puszczaj
 постараюсь,postaram
 получили,dostaliśmy
-чётко,wyraźnie
 не совсем,niezupełnie
 войдёт,wejdzie
 приводит,sprowadza
@@ -201,12 +190,10 @@
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
 
 приказ,rozkaz
-занять,zająć
 офиса,biura
 займёт,zajmie
 начал,zaczął
 имени (w imieniu — от имени),imieniu
-приказал,kazał
 договор/сделка,układ
 исследований,badań
 дела (mieć do czynienia),czynienia
@@ -215,7 +202,6 @@
 выполнить,wykonać
 устройство,urządzenie
 ходе (w trakcie),trakcie
-отдел,wydział
 присутствие,obecność
 имеет,posiada
 заняло,zajęło
@@ -314,13 +300,10 @@
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 
-чтобы ты,żebyś
 имеете (вы),macie
 ты должен (м.р.),powinieneś
-причины (z powodu — из-за),powodu
 будь,bądź
 чтобы я,żebym
-ничего,niczego
 какую,jaką
 никакого,żadnego
 осталась,została
@@ -350,7 +333,6 @@
 всякие,wszelkie
 захочет,zechce
 через (przeze mnie),przeze
-хотя бы,choćby
 чтобы мы,abyśmy
 желает,pragnie
 кем угодно,kimkolwiek
