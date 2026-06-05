@@ -118,6 +118,20 @@ Uważam, że odpowiednie zarządzanie pieniędzmi to wartość, której warto si
 
 ---
 
+## 11. Niedziela u wujka (2026-06-05)
+
+W niedzielę mamy odwiedzić mojego wujka. Rano żona mówi do mnie: „Skarbie, wstawaj, nie leż tak długo!". Zastanawiałem się, co włożyć, bo chciałem wyglądać ładnie. Żona patrzy na mnie i mówi: „Weź tę niebieską koszulę, w niej wyglądasz nieźle". Zgadzam się z nią — ona zawsze ma rację.
+
+„Sprawdzam jeszcze, czy mamy prezent" — mówię. Na stole leży małe pudełko. „Połóż je do torby i nie zapomnij" — przypomina żona. Przypuszczam, że wujek się ucieszy. Powinienem był kupić coś więcej, ale myślę, że to wystarczy. Liczy się przecież to, że w ogóle przyjdziemy.
+
+Po drodze żona pyta, o czym pogadamy przy stole. „Nie martw się, jakoś to będzie" — odpowiadam. Wujek to poważny człowiek, ale w gruncie rzeczy bardzo fajny. Kiedy byłem mały, sadzał mnie na kolana i opowiadał różne historie. Wydawało mi się wtedy, że wie wszystko na świecie.
+
+Gdy wreszcie dojeżdżamy, wujek już czeka przed domem. „Wejdźcie, wejdźcie!" — woła. Ściska mi rękę i mówi: „Dobrze, że jesteście. Siadajcie, zaraz coś zjemy". Żona kładzie pudełko na stole. Cieszę się, że tu wróciłem — między nami zawsze była dobra atmosfera. Postaram się odwiedzać go częściej.
+
+**Nowe słowa:** odwiedzić, wujek, skarbie, zastanawiałem, włóż, ładnie, patrz, weź, nieźle, zgadza, rację, sprawdzam, pudełko, połóż, przypuszczam, powinieneś, liczy, pogadamy, poważna, fajna, kolana, wydawało, wejść, wrócę, pomiędzy, postaram
+
+---
+
 ## 11. Przyjaźń na odległość (2026-03-13)
 
 Dawno nie rozmawiałem z moim najlepszym przyjacielem. Kiedyś mieszkał obok, ale teraz jest daleko, w innym mieście. Przecież obiecywaliśmy sobie, że będziemy w kontakcie. Ale codzienne życie sprawia, że to jest trudne.
