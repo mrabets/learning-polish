@@ -332,3 +332,17 @@ Ostatecznie przegrałem na punkty. A jednak, gdy sędzia podniósł rękę przec
 **Nowe słowa:** walka, namówił, osiedlowego, kółka, ochoty, okropnie, ciężki, przetrwam, mistrz, obijał się, wściekły, poddać się, mijał, około, nadejdzie, obaw, kłębiło się, zachowam się, tchórz, przeciwnik, pokona, nadszedł, potrwać, runda, jak z waty, minęła, ciosów, pękło, przegrałem, sędzia, gniewu, wstydu, wręcz przeciwnie, pokonać, puchar, dopóki
 
 ---
+
+## 26. Opowieść wujka o skarbie (2026-06-05, T08, G11+G03+G02)
+
+W zeszłą niedzielę pojechałem odwiedzić mojego wujka, który mieszka w małym miasteczku na południu. Dawno go nie widziałem i szczerze mówiąc, trochę się stęskniłem. Kiedy tylko wszedłem do środka, od razu poczułem ten znajomy zapach domu — tak samo pachniało kiedyś u mojej matki.
+
+Wujek to niesamowity gawędziarz. Usiedliśmy w dużej sali przy kominku, a on zaczął opowiadać starą opowieść o królu i królowej, którzy podobno żyli w zamku na pobliskim wzgórzu. „Patrz" — powiedział, zniżając głos — „gdzieś tam, głęboko w ziemi, do dziś leży ukryty ich skarb."
+
+Słuchałem jak dziecko, z otwartymi ustami. Słońce powoli zachodziło, niebo zrobiło się różowe, a ja siedziałem z rękami na kolanach i wcale nie chciałem, żeby ta chwila się skończyła. „To tylko legenda, prawda?" — zapytałem. Wujek uśmiechnął się tajemniczo: „Kto wie, kto wie. Pewne tajemnice lepiej zostawić w spokoju."
+
+Wróciłem do domu późnym wieczorem, ale ta historia nie dawała mi spokoju. Może kiedyś znów tam pojadę i razem poszukamy tego skarbu. W gruncie rzeczy wcale nie chodzi o złoto — chodzi o to, żeby spędzić czas z kimś bliskim. Takie chwile są warte więcej niż jakikolwiek skarb.
+
+**Nowe słowa:** odwiedzić, wujek, matce, sali, opowieść, króla, królowa, patrz, ziemi, skarb, słońce, nieba, kolana, tajemnicy, kimś
+
+---
