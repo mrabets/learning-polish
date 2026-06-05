@@ -332,3 +332,17 @@ Ostatecznie przegrałem na punkty. A jednak, gdy sędzia podniósł rękę przec
 **Nowe słowa:** walka, namówił, osiedlowego, kółka, ochoty, okropnie, ciężki, przetrwam, mistrz, obijał się, wściekły, poddać się, mijał, około, nadejdzie, obaw, kłębiło się, zachowam się, tchórz, przeciwnik, pokona, nadszedł, potrwać, runda, jak z waty, minęła, ciosów, pękło, przegrałem, sędzia, gniewu, wstydu, wręcz przeciwnie, pokonać, puchar, dopóki
 
 ---
+
+## 26. Pudełko dziadka (2026-06-05, T03, G03+G02+G04)
+
+Rzadko odwiedzam wujka Staszka — mieszka po drugiej stronie miasta i zawsze ma pełno zajęć. Ale tamtego ranka miałem jakieś dziwne przeczucie, że powinienem do niego zajrzeć. Sprawdzam więc, czy mam czas — owszem, sobota wolna — i jadę bez zapowiedzi. „Powinieneś najpierw zadzwonić, skarbie" — powiedziała żona. „Możliwe, ale co mi szkodzi zajrzeć?"
+
+Kiedy przyjechałem, wujek grzebał przy bramie. Spojrzał na mnie i roześmiał się. „No, popatrz, kto przyjechał! Postaw sobie krzesło, zaraz zrobię herbatę." W ogrodzie było ładnie — zielono, spokojnie. Siedziałem i patrzyłem na stare drzewa, gdy w pewnej chwili wujek przyniósł duże pudełko i postawił je pomiędzy nami na stole.
+
+„Co to takiego?" — zapytałem. „Znalazłem w piwnicy — wszelkie stare rzeczy po twoim dziadku: listy, fotografie, drobne pamiątki. Już miałem to wyrzucić, ale jakoś nie mogłem." Sięgnąłem do środka i na chwilę odebrało mi mowę. Na jednym zdjęciu wujek i mój tata jako dzieciaki, stoją przed tymi samymi bramami co teraz. Wierzę, że dziadek wiedział, że kiedyś to znajdziemy.
+
+Siedzieliśmy tam do wieczora. Wujek opowiadał o matce, o dawnych czasach, kiedy cała rodzina się spotykała. Wychodząc, objął mnie mocno. „Następnym razem przyjedź z żoną." „Powodzenia, wujku" — odpowiedziałem, chociaż to trochę głupie słowo na pożegnanie. Wsiadając do auta, pomyślałem tylko jedno: jak okropnie rzadko odwiedzamy tych, których kochamy.
+
+**Nowe słowa:** przeczucie, powinieneś, skarbie, sprawdzam, popatrz, możliwe, szkodzi, wierzę, ładnie, pudełko, bramie, wyrzucić, postaw, pomiędzy, wszelkie, okropnie, wujek, dzieciaki, matce, spotykała, odwiedzam, powodzenia
+
+---
