@@ -106,7 +106,6 @@
 мешает,przeszkadza
 классная,fajna
 причинить боль,skrzywdzić
-тяжёлый,ciężki
 красивый,przystojny
 ужасно,okropnie
 попал,wpadł
