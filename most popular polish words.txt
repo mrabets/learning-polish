@@ -101,13 +101,11 @@
 ненавижу,nienawidzę
 мёртвый,martwy
 красиво/мило,ładnie
-ужасное,okropne
 спасти,ocalić
 лёгкое,łatwe
 мешает,przeszkadza
 классная,fajna
 причинить боль,skrzywdzić
-тяжёлый,ciężki
 красивый,przystojny
 ужасно,okropnie
 попал,wpadł
@@ -120,11 +118,7 @@
 поцеловать,pocałować
 плакать,płakać
 серьёзная,poważna
-разъярённый,wściekły
 сумасшедшая,szalona
-выжить,przetrwać
-страхов,obaw
-вести себя,zachowywać
 разбудить,obudzić
 вылезай,wyłaź
 насилия,przemocy
@@ -132,8 +126,6 @@
 имели (вы),mieliście
 прикоснуться,dotknąć
 выношу (nie znoszę),znoszę
-желания,ochoty
-гнев,gniew
 пугает,przeraża
 ужасный,okropny
 
@@ -251,10 +243,6 @@
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
 
-бой,walka
-мастер,mistrz
-победить,pokonać
-круг (kółko),kółko
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
 
@@ -269,7 +257,6 @@
 украл,ukradł
 освободить,uwolnić
 отступить,wycofać
-судья,sędzia
 вреда,krzywdy
 след,ślad
 враг,wróg
@@ -289,14 +276,9 @@
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
 
-пока (не),dopóki
-около/примерно,około
 прошёл,przeszedł
 в другом месте (gdzie indziej),indziej
-продлится,potrwa
 прошлой (zeszłej nocy),zeszłej
-наступит,nadejdzie
-прошёл,minął
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 
