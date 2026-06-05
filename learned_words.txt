@@ -513,3 +513,37 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 хотя бы/даже если,choćby
 безнадёжный,beznadziejny
 вежливый/любезный,uprzejmy
+бой/борьба,walka
+уговорить,namówić
+районный/дворовый,osiedlowy
+кружок (секция),kółko
+желание/охота,ochota
+ужасно,okropnie
+тяжёлый,ciężki
+пережить/выстоять,przetrwać
+чемпион/мастер,mistrz
+халтурить/отлынивать,obijać się
+разъярённый/бешеный,wściekły
+сдаться,poddać się
+проходить (о времени),mijać
+около/примерно,około
+наступить/настать,nadejść
+опасения/страхи,obawy
+роиться/клубиться,kłębić się
+вести себя,zachowywać się
+трус,tchórz
+противник/соперник,przeciwnik
+победить/одолеть,pokonać
+продлиться,potrwać
+раунд,runda
+ноги как ватные,nogi jak z waty
+пройти/миновать,minąć
+удар,cios
+лопнуть/надломиться,pęknąć
+проиграть,przegrać
+судья,sędzia
+гнев,gniew
+стыд,wstyd
+наоборот,wręcz przeciwnie
+кубок,puchar
+пока/до тех пор пока,dopóki
