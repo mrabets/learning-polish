@@ -547,3 +547,29 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 наоборот,wręcz przeciwnie
 кубок,puchar
 пока/до тех пор пока,dopóki
+навестить,odwiedzić
+дядя,wujek
+дорогая/сокровище,skarbie
+задавался вопросом,zastanawiałem
+надень/вставь,włóż
+красиво/мило,ładnie
+смотри,patrz
+возьми,weź
+неплохо,nieźle
+согласен (zgadza się),zgadza
+правоту (mieć rację — быть правым),rację
+проверяю,sprawdzam
+коробка,pudełko
+положи,połóż
+предполагаю,przypuszczam
+ты должен (м.р.),powinieneś
+считает/имеет значение,liczy
+поговорим,pogadamy
+серьёзная,poważna
+классная,fajna
+колени,kolana
+казалось,wydawało
+войти,wejść
+вернусь,wrócę
+между,pomiędzy
+постараюсь,postaram
