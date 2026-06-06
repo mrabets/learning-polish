@@ -1,25 +1,18 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 
 прекрати,przestań
-правоту (mieć rację — быть правым),rację
 говори,mów
 нравится (podoba mi się),podoba
-смотри,patrz
-возьми,weź
 господа,panowie
 позволь,pozwól
 делай,rób
 привет (формальн.),witaj
 оставь,zostaw
 верю,wierzę
-неплохо,nieźle
 возможно,możliwe
-согласен (zgadza się),zgadza
 выйти,wyjść
 против,przeciwko
 поверить,uwierzyć
-войти,wejść
-вернусь,wrócę
 пойти,pójść
 летит,leci
 останься,zostań
@@ -39,7 +32,6 @@
 вытворяешь,wyprawiasz
 умоляю,błagam
 вышел,wyszedł
-считает/имеет значение,liczy
 понравится,spodoba
 беру,biorę
 трогай (nie dotykaj),dotykaj
@@ -50,20 +42,15 @@
 неужели,czyżby
 берёшь,bierzesz
 не правда ли,nieprawdaż
-положи,połóż
 вероятно,zapewne
 принесу,przyniosę
 вытащить,wyciągnąć
 делает (книжн.),czyni
-поговорим,pogadamy
 отвечает,odpowiada
 извиниться,przeprosić
 пригодится,przyda
 пошёл (я),poszedłem
-казалось,wydawało
-предполагаю,przypuszczam
 убедиться,upewnić
-задавался вопросом,zastanawiałem
 реальности (w rzeczywistości),rzeczywistości
 следи,pilnuj
 возьмём,weźmiemy
@@ -79,14 +66,12 @@
 падаем,spadamy
 будем надеяться,miejmy
 отпускай (nie puszczaj),puszczaj
-постараюсь,postaram
 получили,dostaliśmy
 не совсем,niezupełnie
 войдёт,wejdzie
 приводит,sprowadza
 вытащи,wyciągnij
 попал (я),wpadłem
-проверяю,sprawdzam
 предупреждение,ostrzeżenie
 напрямую,bezpośrednio
 извинения,przeprosiny
@@ -100,11 +85,9 @@
 великий/большой,wielki
 ненавижу,nienawidzę
 мёртвый,martwy
-красиво/мило,ładnie
 спасти,ocalić
 лёгкое,łatwe
 мешает,przeszkadza
-классная,fajna
 причинить боль,skrzywdzić
 красивый,przystojny
 ужасно,okropnie
@@ -117,7 +100,6 @@
 спас,uratował
 поцеловать,pocałować
 плакать,płakać
-серьёзная,poważna
 сумасшедшая,szalona
 разбудить,obudzić
 вылезай,wyłaź
@@ -131,18 +113,14 @@
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
 
-дорогая/сокровище,skarbie
 муж,mąż
 кем-то,kimś
-дядя,wujek
 папочка,tatuś
 обе,obie
 ребёнка,dzieciaka
-колени,kolana
 весёлых (wesołych świąt),wesołych
 тайны,tajemnicy
 матери,matce
-навестить,odwiedzić
 навести,odwiedź
 переспать,przespać
 встречает,spotyka
@@ -154,11 +132,9 @@
 дверью (za drzwiami),drzwiami
 снять,zdjąć
 душ,prysznic
-надень/вставь,włóż
 выбросить,wyrzucić
 дыру,dziurę
 отодвинуть,odsunąć
-коробка,pudełko
 ворота,bramę
 поставь,postaw
 
@@ -283,7 +259,6 @@
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 
 имеете (вы),macie
-ты должен (м.р.),powinieneś
 будь,bądź
 чтобы я,żebym
 какую,jaką
@@ -298,7 +273,6 @@
 такие (м.р. мн.ч.),tacy
 должны были,musieli
 части,części
-между,pomiędzy
 чтобы ты (книжн.),abyś
 своего,swego
 кому,komu
