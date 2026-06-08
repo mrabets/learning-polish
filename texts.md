@@ -346,3 +346,17 @@ Ostatecznie przegrałem na punkty. A jednak, gdy sędzia podniósł rękę przec
 **Nowe słowa:** walka, namówił, osiedlowego, kółka, ochoty, okropnie, ciężki, przetrwam, mistrz, obijał się, wściekły, poddać się, mijał, około, nadejdzie, obaw, kłębiło się, zachowam się, tchórz, przeciwnik, pokona, nadszedł, potrwać, runda, jak z waty, minęła, ciosów, pękło, przegrałem, sędzia, gniewu, wstydu, wręcz przeciwnie, pokonać, puchar, dopóki
 
 ---
+
+## 26. Tajemnica mojego brata (2026-06-06, T03, G01+G02+G03)
+
+Od kilku tygodni nie odzywałem się do mojego brata. Wszystko przez głupią kłótnię — okazało się, że ukrywał przede mną pewną tajemnicę. Kiedy się o tym dowiedziałem, serce mnie bolało. Niby drobiazg, a jednak miałem ochotę płakać ze złości. Z początku myślałem, że to jakaś bzdura, ale szczegóły okazały się naprawdę poważne.
+
+W końcu poszedłem do niego. „Mów prawdę — czemu mi nie powiedziałeś?" — zacząłem ostro. „Przestań krzyczeć, pozwól mi wszystko wyjaśnić" — odparł spokojnie. „Niczego nie chcę słuchać! Przysięgam, że tego nie zapomnę" — rzuciłem mu w twarz. Chciałem wyjść, lecz on złapał mnie za rękaw. „Błagam cię, zostań choć chwilę. Zostaw te emocje i po prostu mnie wysłuchaj — zgadnij, ile razy chciałem ci o tym powiedzieć."
+
+Brat spojrzał na mnie i zaczął mówić. Wyjaśnił, że milczał, bo nie chciał mnie skrzywdzić. Cała tajemnica dotyczyła choroby naszej matki — obiecała mu, że nikomu nie powie. „Nie miałem wyboru, musiałem dochować słowa" — tłumaczył. Czyżby naprawdę chciał mnie tylko chronić? W głębi duszy wiedziałem, że ma rację, i powoli zacząłem mu wierzyć. Zapewne sam na jego miejscu zachowałbym się tak samo.
+
+Po tej rozmowie poczułem ulgę. „Wybacz mi, że tak na ciebie krzyczałem — powinienem był cię najpierw wysłuchać" — powiedziałem. „Daj spokój, ja też nie byłem bez winy" — odpowiedział z uśmiechem. Chciałem go porządnie przeprosić, lecz on tylko machnął ręką. Teraz wiem jedno: zanim kogoś osądzę, lepiej się upewnić, że znam całą prawdę. Oby nigdy więcej nie doszło między nami do takiej kłótni.
+
+**Nowe słowa:** tajemnica, bolało, niby, płakać, bzdura, szczegóły, mów, przestań, pozwól, przysięgam, rzucił, wyjść, złapał, błagam, zostań, zostaw, zgadnij, skrzywdzić, matce, musieli, czyżby, chronić, wierzyć, zapewne, przeprosić, upewnić, oby
+
+---

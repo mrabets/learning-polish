@@ -1,36 +1,25 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 
-прекрати,przestań
-говори,mów
 нравится (podoba mi się),podoba
 господа,panowie
-позволь,pozwól
 делай,rób
 привет (формальн.),witaj
-оставь,zostaw
-верю,wierzę
 возможно,możliwe
-выйти,wyjść
 против,przeciwko
 поверить,uwierzyć
 пойти,pójść
 летит,leci
-останься,zostań
 удачи,powodzenia
 держать,trzymać
 достаточно,wystarczająco
 дашь/справишься,dasz
 возьму,wezmę
-якобы/вроде,niby
-клянусь,przysięgam
 перестать,przestać
 остановить,powstrzymać
 отпусти,puść
 ответы,odpowiedzi
 положи,odłóż
-поймать,złapać
 вытворяешь,wyprawiasz
-умоляю,błagam
 вышел,wyszedł
 понравится,spodoba
 беру,biorę
@@ -39,28 +28,21 @@
 пришёл (ты),przyszedłeś
 найти (отыскать),odnaleźć
 вместе с,wraz
-неужели,czyżby
 берёшь,bierzesz
 не правда ли,nieprawdaż
-вероятно,zapewne
 принесу,przyniosę
 вытащить,wyciągnąć
 делает (книжн.),czyni
 отвечает,odpowiada
-извиниться,przeprosić
 пригодится,przyda
 пошёл (я),poszedłem
-убедиться,upewnić
 реальности (w rzeczywistości),rzeczywistości
 следи,pilnuj
 возьмём,weźmiemy
 будьте,bądźcie
-подробности,szczegóły
-чушь,bzdura
 остаться,pozostać
 основании (na podstawie),podstawie
 спасать,ratować
-угадай,zgadnij
 заберёт,zabierze
 попал,trafił
 падаем,spadamy
@@ -88,18 +70,14 @@
 спасти,ocalić
 лёгкое,łatwe
 мешает,przeszkadza
-причинить боль,skrzywdzić
 красивый,przystojny
 ужасно,okropnie
 попал,wpadł
 милосердие,litość
 предчувствие,przeczucie
 отстань,odpuść
-бросил,rzucił
-болело,bolało
 спас,uratował
 поцеловать,pocałować
-плакать,płakać
 сумасшедшая,szalona
 разбудить,obudzić
 вылезай,wyłaź
@@ -119,8 +97,6 @@
 обе,obie
 ребёнка,dzieciaka
 весёлых (wesołych świąt),wesołych
-тайны,tajemnicy
-матери,matce
 навести,odwiedź
 переспать,przespać
 встречает,spotyka
@@ -227,7 +203,6 @@
 сбежать,uciec
 спасти,uratować
 уничтожить,zniszczyć
-защитить,chronić
 обстоятельства,okoliczności
 власти,władze
 украл,ukradł
@@ -271,7 +246,6 @@
 никаких,żadnych
 ничем,niczym
 такие (м.р. мн.ч.),tacy
-должны были,musieli
 части,części
 чтобы ты (книжн.),abyś
 своего,swego
@@ -284,7 +258,6 @@
 двое (м.р.),dwaj
 чтобы вы,żebyście
 твоего,twego
-лишь бы,oby
 тот,tamten
 всякие,wszelkie
 захочет,zechce
