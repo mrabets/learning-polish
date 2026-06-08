@@ -1,21 +1,15 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 
-прекрати,przestań
-говори,mów
 нравится (podoba mi się),podoba
 господа,panowie
 позволь,pozwól
 делай,rób
 привет (формальн.),witaj
-оставь,zostaw
-верю,wierzę
 возможно,możliwe
-выйти,wyjść
 против,przeciwko
 поверить,uwierzyć
 пойти,pójść
 летит,leci
-останься,zostań
 удачи,powodzenia
 держать,trzymać
 достаточно,wystarczająco
@@ -47,7 +41,6 @@
 вытащить,wyciągnąć
 делает (книжн.),czyni
 отвечает,odpowiada
-извиниться,przeprosić
 пригодится,przyda
 пошёл (я),poszedłem
 убедиться,upewnić
@@ -55,8 +48,6 @@
 следи,pilnuj
 возьмём,weźmiemy
 будьте,bądźcie
-подробности,szczegóły
-чушь,bzdura
 остаться,pozostać
 основании (na podstawie),podstawie
 спасать,ratować
@@ -96,10 +87,8 @@
 предчувствие,przeczucie
 отстань,odpuść
 бросил,rzucił
-болело,bolało
 спас,uratował
 поцеловать,pocałować
-плакать,płakać
 сумасшедшая,szalona
 разбудить,obudzić
 вылезай,wyłaź
@@ -119,7 +108,6 @@
 обе,obie
 ребёнка,dzieciaka
 весёлых (wesołych świąt),wesołych
-тайны,tajemnicy
 матери,matce
 навести,odwiedź
 переспать,przespać

@@ -573,3 +573,15 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 вернусь,wrócę
 между,pomiędzy
 постараюсь,postaram
+тайны,tajemnicy
+болело,bolało
+плакать,płakać
+подробности,szczegóły
+чушь,bzdura
+говори,mów
+прекрати,przestań
+оставь,zostaw
+верю,wierzę
+выйти,wyjść
+останься,zostań
+извиниться,przeprosić
