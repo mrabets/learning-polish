@@ -585,3 +585,18 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 выйти,wyjść
 останься,zostań
 извиниться,przeprosić
+якобы/вроде,niby
+умоляю,błagam
+угадай,zgadnij
+неужели,czyżby
+вероятно,zapewne
+лишь бы,oby
+позволь,pozwól
+клянусь,przysięgam
+бросил,rzucił
+поймать,złapać
+причинить боль,skrzywdzić
+матери,matce
+должны были,musieli
+защитить,chronić
+убедиться,upewnić
