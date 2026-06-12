@@ -10,12 +10,9 @@
 пойти,pójść
 летит,leci
 удачи,powodzenia
-держать,trzymać
 достаточно,wystarczająco
 дашь/справишься,dasz
 возьму,wezmę
-перестать,przestać
-остановить,powstrzymać
 отпусти,puść
 ответы,odpowiedzi
 положи,odłóż
@@ -29,14 +26,12 @@
 найти (отыскать),odnaleźć
 вместе с,wraz
 берёшь,bierzesz
-не правда ли,nieprawdaż
 принесу,przyniosę
 вытащить,wyciągnąć
 делает (книжн.),czyni
 отвечает,odpowiada
 пригодится,przyda
 пошёл (я),poszedłem
-реальности (w rzeczywistości),rzeczywistości
 следи,pilnuj
 возьмём,weźmiemy
 будьте,bądźcie
@@ -58,35 +53,26 @@
 напрямую,bezpośrednio
 извинения,przeprosiny
 начать,rozpocząć
-трогать,dotykać
 взяли,wzięli
 содержит,zawiera
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 
-великий/большой,wielki
 ненавижу,nienawidzę
 мёртвый,martwy
 спасти,ocalić
 лёгкое,łatwe
 мешает,przeszkadza
 красивый,przystojny
-ужасно,okropnie
 попал,wpadł
-милосердие,litość
-предчувствие,przeczucie
 отстань,odpuść
-спас,uratował
 поцеловать,pocałować
 сумасшедшая,szalona
-разбудить,obudzić
 вылезай,wyłaź
 насилия,przemocy
-чудовище,potwór
 имели (вы),mieliście
 прикоснуться,dotknąć
 выношу (nie znoszę),znoszę
-пугает,przeraża
 ужасный,okropny
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
@@ -105,13 +91,10 @@
 
 сними,zdejmij
 отодвинь,odsuń
-дверью (za drzwiami),drzwiami
 снять,zdjąć
 душ,prysznic
 выбросить,wyrzucić
 дыру,dziurę
-отодвинуть,odsunąć
-ворота,bramę
 поставь,postaw
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
@@ -120,7 +103,6 @@
 умереть,umrzeć
 глаз,oko
 умрёт,umrze
-пережить,przeżyć
 слепой,ślepy
 упал,spadł
 спиной (za plecami),plecami
@@ -169,7 +151,6 @@
 
 вниз (na dół),dół
 этим путём,tędy
-выбраться,wydostać
 приближается,nadchodzi
 спустись,zejdź
 машины,wozu
@@ -198,9 +179,7 @@
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
 
-оружие,broń
 убить,zabić
-сбежать,uciec
 спасти,uratować
 уничтожить,zniszczyć
 обстоятельства,okoliczności
@@ -213,7 +192,6 @@
 враг,wróg
 украсть,ukraść
 тюрьма,więzienie
-пожар,pożar
 нападение,napad
 правит,rządzi
 адвокатом,prawnikiem
@@ -237,7 +215,6 @@
 будь,bądź
 чтобы я,żebym
 какую,jaką
-никакого,żadnego
 осталась,została
 от (ode mnie — от меня),ode
 ваша,wasza

@@ -360,3 +360,19 @@ Po tej rozmowie poczułem ulgę. „Wybacz mi, że tak na ciebie krzyczałem —
 **Nowe słowa:** tajemnica, bolało, niby, płakać, bzdura, szczegóły, mów, przestań, pozwól, przysięgam, rzucił, wyjść, złapał, błagam, zostań, zostaw, zgadnij, skrzywdzić, matce, musieli, czyżby, chronić, wierzyć, zapewne, przeprosić, upewnić, oby
 
 ---
+
+## 27. Dziwny sen (2026-06-08, G02+G13+G04)
+
+Wczoraj w nocy miałem naprawdę dziwny sen. Do dziś nie mogę przestać o nim myśleć. Od rana mam jakieś złe przeczucie, choć dobrze wiem, że w rzeczywistości nic złego się nie stało.
+
+We śnie szedłem powoli przez wielki, pusty dom. Nagle usłyszałem jakiś hałas za drzwiami. Miałem wrażenie, że ktoś tam jest. Odsunąłem stary stół, otworzyłem drzwi — a tam stał ogromny potwór! Wyglądał okropnie i śmiertelnie mnie przeraził. Chciałem uciec, ale nogi miałem jak z waty.
+
+Potwór szedł prosto na mnie i nie miał żadnej litości. „Nie dotykaj mnie!" — krzyknąłem. Rozejrzałem się za jakąś bronią, ale w ręku trzymałem tylko stary kij. W tym momencie poczułem dym — w drugim pokoju zaczął się pożar. Pomyślałem sobie: muszę się stąd jakoś wydostać, póki jeszcze mogę. Muszę uciec, żeby przeżyć.
+
+Pobiegłem prosto do bramy, ale, jak na złość, była zamknięta. Nie mogłem jej otworzyć i nic nie było w stanie powstrzymać mojej paniki. Na szczęście w tym właśnie momencie obudziła mnie żona — można powiedzieć, że mnie uratowała. „Krzyczałeś przez sen" — powiedziała. Byłem cały mokry. Wstałem, wziąłem prysznic i powoli doszedłem do siebie.
+
+Teraz, przy porannej kawie, śmieję się sam z siebie. To był przecież tylko sen, nieprawdaż? Ale jedno wiem na pewno — wieczorem nie będę już oglądał takich strasznych filmów.
+
+**Nowe słowa:** przestać, przeczucie, rzeczywistość, wielki, drzwiami, odsunąć, potwór, okropnie, przeraził, uciec, żadnej, litość, dotykać, broń, trzymać, pożar, wydostać, przeżyć, bramy, powstrzymać, obudzić, uratować, prysznic, nieprawdaż
+
+---
