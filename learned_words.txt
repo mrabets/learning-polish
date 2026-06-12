@@ -600,3 +600,16 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 должны были,musieli
 защитить,chronić
 убедиться,upewnić
+держать,trzymać
+перестать,przestać
+реальности (w rzeczywistości),rzeczywistości
+великий/большой,wielki
+ужасно,okropnie
+предчувствие,przeczucie
+чудовище,potwór
+дверью (za drzwiami),drzwiami
+ворота,bramę
+оружие,broń
+сбежать,uciec
+пожар,pożar
+никакого,żadnego

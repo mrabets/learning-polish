@@ -10,11 +10,9 @@
 пойти,pójść
 летит,leci
 удачи,powodzenia
-держать,trzymać
 достаточно,wystarczająco
 дашь/справишься,dasz
 возьму,wezmę
-перестать,przestać
 остановить,powstrzymać
 отпусти,puść
 ответы,odpowiedzi
@@ -36,7 +34,6 @@
 отвечает,odpowiada
 пригодится,przyda
 пошёл (я),poszedłem
-реальности (w rzeczywistości),rzeczywistości
 следи,pilnuj
 возьмём,weźmiemy
 будьте,bądźcie
@@ -64,17 +61,14 @@
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 
-великий/большой,wielki
 ненавижу,nienawidzę
 мёртвый,martwy
 спасти,ocalić
 лёгкое,łatwe
 мешает,przeszkadza
 красивый,przystojny
-ужасно,okropnie
 попал,wpadł
 милосердие,litość
-предчувствие,przeczucie
 отстань,odpuść
 спас,uratował
 поцеловать,pocałować
@@ -82,7 +76,6 @@
 разбудить,obudzić
 вылезай,wyłaź
 насилия,przemocy
-чудовище,potwór
 имели (вы),mieliście
 прикоснуться,dotknąć
 выношу (nie znoszę),znoszę
@@ -105,13 +98,11 @@
 
 сними,zdejmij
 отодвинь,odsuń
-дверью (za drzwiami),drzwiami
 снять,zdjąć
 душ,prysznic
 выбросить,wyrzucić
 дыру,dziurę
 отодвинуть,odsunąć
-ворота,bramę
 поставь,postaw
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
@@ -198,9 +189,7 @@
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
 
-оружие,broń
 убить,zabić
-сбежать,uciec
 спасти,uratować
 уничтожить,zniszczyć
 обстоятельства,okoliczności
@@ -213,7 +202,6 @@
 враг,wróg
 украсть,ukraść
 тюрьма,więzienie
-пожар,pożar
 нападение,napad
 правит,rządzi
 адвокатом,prawnikiem
@@ -237,7 +225,6 @@
 будь,bądź
 чтобы я,żebym
 какую,jaką
-никакого,żadnego
 осталась,została
 от (ode mnie — от меня),ode
 ваша,wasza
