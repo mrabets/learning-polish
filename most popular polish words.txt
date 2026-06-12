@@ -13,7 +13,6 @@
 достаточно,wystarczająco
 дашь/справишься,dasz
 возьму,wezmę
-остановить,powstrzymać
 отпусти,puść
 ответы,odpowiedzi
 положи,odłóż
@@ -27,7 +26,6 @@
 найти (отыскать),odnaleźć
 вместе с,wraz
 берёшь,bierzesz
-не правда ли,nieprawdaż
 принесу,przyniosę
 вытащить,wyciągnąć
 делает (книжн.),czyni
@@ -55,7 +53,6 @@
 напрямую,bezpośrednio
 извинения,przeprosiny
 начать,rozpocząć
-трогать,dotykać
 взяли,wzięli
 содержит,zawiera
 
@@ -68,18 +65,14 @@
 мешает,przeszkadza
 красивый,przystojny
 попал,wpadł
-милосердие,litość
 отстань,odpuść
-спас,uratował
 поцеловать,pocałować
 сумасшедшая,szalona
-разбудить,obudzić
 вылезай,wyłaź
 насилия,przemocy
 имели (вы),mieliście
 прикоснуться,dotknąć
 выношу (nie znoszę),znoszę
-пугает,przeraża
 ужасный,okropny
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
@@ -102,7 +95,6 @@
 душ,prysznic
 выбросить,wyrzucić
 дыру,dziurę
-отодвинуть,odsunąć
 поставь,postaw
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
@@ -111,7 +103,6 @@
 умереть,umrzeć
 глаз,oko
 умрёт,umrze
-пережить,przeżyć
 слепой,ślepy
 упал,spadł
 спиной (za plecami),plecami
@@ -160,7 +151,6 @@
 
 вниз (na dół),dół
 этим путём,tędy
-выбраться,wydostać
 приближается,nadchodzi
 спустись,zejdź
 машины,wozu

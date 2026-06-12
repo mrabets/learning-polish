@@ -613,3 +613,13 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 сбежать,uciec
 пожар,pożar
 никакого,żadnego
+остановить,powstrzymać
+не правда ли,nieprawdaż
+трогать,dotykać
+милосердие,litość
+спас,uratował
+разбудить,obudzić
+пугает,przeraża
+отодвинуть,odsunąć
+пережить,przeżyć
+выбраться,wydostać
