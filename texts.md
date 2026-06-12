@@ -376,3 +376,19 @@ Teraz, przy porannej kawie, śmieję się sam z siebie. To był przecież tylko 
 **Nowe słowa:** przestać, przeczucie, rzeczywistość, wielki, drzwiami, odsunąć, potwór, okropnie, przeraził, uciec, żadnej, litość, dotykać, broń, trzymać, pożar, wydostać, przeżyć, bramy, powstrzymać, obudzić, uratować, prysznic, nieprawdaż
 
 ---
+
+## 28. Stara księga z legendą (2026-06-12, T08, G11+G13+G16)
+
+W zeszłą sobotę na pchlim targu **trafił**em na starą, zniszczoną księgę. Sprzedawca uśmiechnął się i rzekł: „Niech pan ją **weźmie** — to ostatnia **część** pewnej dawnej **opowieści**. Sam nie wiem, **komu** mógłbym ją sprzedać". Zapłaciłem kilka złotych, a wieczorem usiadłem w fotelu i zacząłem czytać. Nie mogłem **uwierzyć**, jak szybko ta historia mnie wciągnęła.
+
+Dawno temu pewnym krajem **rządził** mądry **król**. Razem ze **swoją królową** strzegł ogromnego **skarbu**, ukrytego głęboko pod **ziemią**. Ludzie wierzyli, że klejnoty spadły prosto z **nieba** którejś nocy, gdy **słońce** już dawno zaszło. Władca często powtarzał poddanym: „**Bądźcie** czujni, bo nasz **wróg** tylko czeka, **żebym** stracił czujność, a wtedy spróbuje wszystko **ukraść**".
+
+Niestety, król zlekceważył **ostrzeżenie**. Pewnej nocy doszło do **napadu**. **Tamten** zdrajca, którego nikt nie podejrzewał, obrócił się **przeciwko** władcy, **ukradł** skarb i zatarł za sobą **wszelkie** **ślady**. Pragnął nie tylko okraść króla, ale wręcz **zniszczyć** całe królestwo. „Ruszajcie **tędy**, w stronę gór! **Zejdźcie** na **dół**, do lochów!" — krzyczał król, bo wydawało mu się, że **wróg nadchodzi** z każdej strony. Lecz złodziej dawno **wycofał** się w zupełnie inny rejon.
+
+Po wielu dniach **władze** w końcu **trafiły** na trop. **Tłum** zebrał się w wielkiej **sali**, gdzie stał **oskarżony**. Mądry **prawnik** bronił go słowami: „Wysoki sądzie, **macie** mnie za głupca? Nie wolno nikogo skazać bez **żadnych** dowodów". Króla jednak **niczym** nie dało się przekonać — w takich **okolicznościach** kazał wtrącić zdrajcę do **więzienia**. Skarbu mimo to nie udało się **odnaleźć**; przepadł **gdziekolwiek** w górach. Dopiero po latach postanowiono **uwolnić** starca, lecz on do **śmierci** nie zdradził, gdzie ukrył łup.
+
+Zamknąłem księgę dopiero nad ranem. Pomyślałem, że taka **opowieść pragnie** czegoś nas nauczyć: że chciwość prowadzi prosto do **krzywdy** i nieszczęścia. Ze **względu** na to, jak mocno mnie poruszyła, postanowiłem **rozpocząć** poszukiwania **pozostałych** tomów. Kto wie — być może **gdziekolwiek** na półce czeka jeszcze ciąg dalszy. „**Powodzenia** w szukaniu" — powiedziałem sam do siebie z uśmiechem.
+
+**Nowe słowa:** trafił, weźmie, część, opowieść, komu, uwierzyć, rządził, król, królowa, skarb, ziemią, nieba, słońce, bądźcie, wróg, żebym, ukraść, ostrzeżenie, napad, tamten, przeciwko, ukradł, wszelkie, ślady, zniszczyć, tędy, zejdźcie, dół, nadchodzi, wycofał, władze, tłum, sali, oskarżony, prawnik, macie, żadnych, niczym, okoliczności, więzienia, odnaleźć, gdziekolwiek, uwolnić, śmierci, pragnie, krzywdy, względu, rozpocząć, pozostałych, powodzenia
+
+---
