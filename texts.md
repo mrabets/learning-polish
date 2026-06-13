@@ -392,3 +392,19 @@ Następnego dnia **król** postanowił **odzyskać** zaufanie ludu i **uwolnić*
 **Nowe słowa:** opowieść, ziemi, podoba, rządzi, król, czyni, zasad, skarb, dolarów, wróg, ukraść, napad, tędy, zejdź, dół, bądź, dotykaj, rozkaz, wycofać, tacy, przemocy, zabić, sali, oko, odłóż, tłum, trafił, władze, ocalić, odzyskać, uwolnić, więzienie, ostrzeżenie, bezpośrednio, przeprosiny, pozostać, uwierzyć
 
 ---
+
+## 29. Pierwszy dzień w nowej firmie (2026-06-13, T02, G07+G01+G16)
+
+W poniedziałek **zacząłem** pracę w nowej firmie. Szef przywitał mnie krótko: „**Witaj**, dobrze, że jesteś. **Powodzenia**!". Od progu czułem się trochę nieswojo, ale pomyślałem sobie: jakoś to będzie. Pokazał mi moje **biuro** i powiedział, **żebym** się rozgościł.
+
+„**Macie** tu wszystko, czego potrzebujecie" — dodał. Na biurku stało stare **urządzenie**, które ledwo działało. Pomyślałem, że trzeba je **wyrzucić**, lecz nie chciałem od razu nikomu **przeszkadzać**. Kolega z zespołu, niejaki Marek, **dowodzi** całym projektem. „**Zajmij** się najpierw dokumentami" — rzucił. „**Wykonaj** to do piątku, a potem **weźmiemy** się za resztę".
+
+Praca **zajęła** mi więcej czasu, niż myślałem. W **trakcie** dnia kilka razy chciałem **wyciągnąć** telefon i sprawdzić wiadomości, ale **pilnowałem** się — nie wypada pierwszego dnia. Marek **posiada** ogromną wiedzę i chętnie **odpowiada** na pytania. „Bez **względu** na to, ile to **zajmie**, **rób** wszystko dokładnie" — powiedział. „**Zgłoś** mi, jeśli coś będzie nie tak".
+
+Po kilku godzinach **wyszedłem** na chwilę na korytarz. Zastanawiałem się, **jaką** drogę wybrałem i czy **dam** radę. Przecież nie chodzi o **emeryturę** — do niej jeszcze daleko — chodzi o to, żeby **rozpocząć** coś nowego. **Możliwe**, że na początku będzie trudno, lecz wierzę, że to doświadczenie jeszcze mi się **przyda**.
+
+Wieczorem żona zapytała, jak minął dzień. „Całkiem nieźle, choć **niezupełnie** tak, jak sobie wyobrażałem" — odparłem z uśmiechem. „**Spodobało** mi się, ale jestem skonany". Wziąłem **prysznic**, **zdjąłem** koszulę i padłem na łóżko. Zanim zasnąłem, pomyślałem: **bądźmy** cierpliwi, wszystko przyjdzie z czasem. Pierwszy krok zawsze jest najtrudniejszy.
+
+**Nowe słowa:** zaczął, witaj, powodzenia, biura, żebym, macie, urządzenie, wyrzucić, przeszkadza, dowodzi, zajmij, wykonać, weźmiemy, zajęło, trakcie, wyciągnąć, pilnuj, posiada, odpowiada, względu, zajmie, rób, zgłosić, wyszedł, jaką, dasz, emeryturę, rozpocząć, możliwe, przyda, niezupełnie, spodoba, prysznic, zdjąć, bądźcie
+
+---
