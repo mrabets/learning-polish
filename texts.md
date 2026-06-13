@@ -376,3 +376,19 @@ Teraz, przy porannej kawie, śmieję się sam z siebie. To był przecież tylko 
 **Nowe słowa:** przestać, przeczucie, rzeczywistość, wielki, drzwiami, odsunąć, potwór, okropnie, przeraził, uciec, żadnej, litość, dotykać, broń, trzymać, pożar, wydostać, przeżyć, bramy, powstrzymać, obudzić, uratować, prysznic, nieprawdaż
 
 ---
+
+## 28. Opowieść dziadka o skradzionym skarbie (2026-06-13, T08, G11+G13+G02)
+
+Kiedy byłem mały, dziadek często opowiadał mi pewną **opowieść**. Sadzał mnie na kolana, gasił światło i zaczynał zawsze tak samo: „Słuchaj uważnie, bo ta historia wydarzyła się dawno temu, na naszej **ziemi**". Uwielbiałem te wieczory — do dziś **podoba** mi się, jak potrafił trzymać mnie w napięciu.
+
+Dawno, dawno temu pewnym krajem **rządził** mądry **król**. Ludzie go kochali, bo **czynił** wiele dobra i sprawiedliwie trzymał się **zasad**. W zamku przechowywał ogromny **skarb** — złoto warte miliony **dolarów**. Niestety, miał też groźnego **wroga**, który od lat marzył, żeby ten **skarb ukraść**.
+
+Pewnej nocy **wróg** przygotował **napad**. „Wejdziemy **tędy**, **zejdź** po cichu na **dół** i **bądź** gotowy" — rozkazał swoim ludziom. „Niczego nie **dotykaj** bez mojego **rozkazu**. Jeśli ktoś nas usłyszy, musimy się **wycofać**". **Tacy** ludzie nie cofają się przed **przemocą** — gotowi byli nawet **zabić** strażnika.
+
+Złodzieje weszli do **sali**, w której spał **król**. Niemal udało im się **ukraść** złoto, lecz nagle stary sługa otworzył **oko** i krzyknął: „**Odłóż** to natychmiast!". Wybuchł hałas, zbiegł się cały **tłum** strażników. **Wróg** chciał uciec, ale **trafił** prosto w ręce **władzy**. Sługa swoją odwagą zdołał **ocalić** i **króla**, i **skarb**.
+
+Następnego dnia **król** postanowił **odzyskać** zaufanie ludu i **uwolnić** wszystkich, których niesłusznie wtrącono wcześniej do **więzienia**. **Wrogowi** darował życie, lecz **ostrzegł** go **bezpośrednio**: „Następnym razem nie będzie żadnych **przeprosin**". Dziadek kończył słowami: „Pamiętaj, odwagi nie da się **ukraść** — ona **pozostaje** w sercu na zawsze". Może to tylko bajka, ale do dziś nie potrafię w nią nie **uwierzyć**.
+
+**Nowe słowa:** opowieść, ziemi, podoba, rządzi, król, czyni, zasad, skarb, dolarów, wróg, ukraść, napad, tędy, zejdź, dół, bądź, dotykaj, rozkaz, wycofać, tacy, przemocy, zabić, sali, oko, odłóż, tłum, trafił, władze, ocalić, odzyskać, uwolnić, więzienie, ostrzeżenie, bezpośrednio, przeprosiny, pozostać, uwierzyć
+
+---

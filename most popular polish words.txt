@@ -1,12 +1,10 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 
-нравится (podoba mi się),podoba
 господа,panowie
 делай,rób
 привет (формальн.),witaj
 возможно,możliwe
 против,przeciwko
-поверить,uwierzyć
 пойти,pójść
 летит,leci
 удачи,powodzenia
@@ -15,12 +13,10 @@
 возьму,wezmę
 отпусти,puść
 ответы,odpowiedzi
-положи,odłóż
 вытворяешь,wyprawiasz
 вышел,wyszedł
 понравится,spodoba
 беру,biorę
-трогай (nie dotykaj),dotykaj
 вредит (nie szkodzi — ничего),szkodzi
 пришёл (ты),przyszedłeś
 найти (отыскать),odnaleźć
@@ -28,18 +24,15 @@
 берёшь,bierzesz
 принесу,przyniosę
 вытащить,wyciągnąć
-делает (книжн.),czyni
 отвечает,odpowiada
 пригодится,przyda
 пошёл (я),poszedłem
 следи,pilnuj
 возьмём,weźmiemy
 будьте,bądźcie
-остаться,pozostać
 основании (na podstawie),podstawie
 спасать,ratować
 заберёт,zabierze
-попал,trafił
 падаем,spadamy
 будем надеяться,miejmy
 отпускай (nie puszczaj),puszczaj
@@ -49,9 +42,6 @@
 приводит,sprowadza
 вытащи,wyciągnij
 попал (я),wpadłem
-предупреждение,ostrzeżenie
-напрямую,bezpośrednio
-извинения,przeprosiny
 начать,rozpocząć
 взяли,wzięli
 содержит,zawiera
@@ -60,7 +50,6 @@
 
 ненавижу,nienawidzę
 мёртвый,martwy
-спасти,ocalić
 лёгкое,łatwe
 мешает,przeszkadza
 красивый,przystojny
@@ -69,7 +58,6 @@
 поцеловать,pocałować
 сумасшедшая,szalona
 вылезай,wyłaź
-насилия,przemocy
 имели (вы),mieliście
 прикоснуться,dotknąć
 выношу (nie znoszę),znoszę
@@ -101,7 +89,6 @@
 
 смерти,śmierci
 умереть,umrzeć
-глаз,oko
 умрёт,umrze
 слепой,ślepy
 упал,spadł
@@ -115,7 +102,6 @@
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
 
-приказ,rozkaz
 офиса,biura
 займёт,zajmie
 начал,zaczął
@@ -124,7 +110,6 @@
 исследований,badań
 дела (mieć do czynienia),czynienia
 займись,zajmij
-правил,zasad
 выполнить,wykonać
 устройство,urządzenie
 ходе (w trakcie),trakcie
@@ -143,16 +128,11 @@
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
 
-долларов,dolarów
-вернуть,odzyskać
 пари/завод,zakład
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
 
-вниз (na dół),dół
-этим путём,tędy
 приближается,nadchodzi
-спустись,zejdź
 машины,wozu
 территории,terenie
 пустыне,pustyni
@@ -164,38 +144,23 @@
 
 ## GROUP 11 — Культура и традиции / Kultura i tradycje
 
-земли,ziemi
-короля,króla
 солнце,słońce
 неба,nieba
-зала,sali
 королева,królowa
 крутит/снимает,kręci
-история/рассказ,opowieść
-сокровище,skarb
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
 
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
 
-убить,zabić
 спасти,uratować
 уничтожить,zniszczyć
 обстоятельства,okoliczności
-власти,władze
 украл,ukradł
-освободить,uwolnić
-отступить,wycofać
 вреда,krzywdy
 след,ślad
-враг,wróg
-украсть,ukraść
-тюрьма,więzienie
-нападение,napad
-правит,rządzi
 адвокатом,prawnikiem
-толпа,tłum
 обвиняемый,oskarżony
 
 ## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
@@ -212,7 +177,6 @@
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 
 имеете (вы),macie
-будь,bądź
 чтобы я,żebym
 какую,jaką
 осталась,została
@@ -222,7 +186,6 @@
 какую-то,jakąś
 никаких,żadnych
 ничем,niczym
-такие (м.р. мн.ч.),tacy
 части,części
 чтобы ты (книжн.),abyś
 своего,swego

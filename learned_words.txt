@@ -623,3 +623,40 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 отодвинуть,odsunąć
 пережить,przeżyć
 выбраться,wydostać
+нравится (podoba mi się),podoba
+поверить,uwierzyć
+положи,odłóż
+трогай (nie dotykaj),dotykaj
+делает (книжн.),czyni
+остаться,pozostać
+попал,trafił
+предупреждение,ostrzeżenie
+напрямую,bezpośrednio
+извинения,przeprosiny
+спасти,ocalić
+насилия,przemocy
+глаз,oko
+приказ,rozkaz
+правил,zasad
+долларов,dolarów
+вернуть,odzyskać
+вниз (na dół),dół
+этим путём,tędy
+спустись,zejdź
+земли,ziemi
+короля,króla
+зала,sali
+история/рассказ,opowieść
+сокровище,skarb
+убить,zabić
+власти,władze
+освободить,uwolnić
+отступить,wycofać
+враг,wróg
+украсть,ukraść
+тюрьма,więzienie
+нападение,napad
+правит,rządzi
+толпа,tłum
+будь,bądź
+такие (м.р. мн.ч.),tacy
