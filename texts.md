@@ -408,3 +408,19 @@ Pod koniec dnia byłem zmęczony, ale zadowolony. Pomyślałem: oby zawsze tak s
 **Nowe słowa:** biura, układ, zaczął, pragnie, żebyśmy, rozpocząć, wykonać, urządzenie, możliwe, zajmie, biorę, wezmę, wraz, damy, rób, powodzenia, pilnuj, zgłosić, odpowiedzi, przyniosę, wziąłem, macie, względu, została, jaką, pójść, weźmiemy, przeszkadza, wejdzie, okropny, łatwe, przyda, bądźcie
 
 ---
+
+## 30. Fałszywe oskarżenie (2026-06-14, T13, G13+G01+G16)
+
+Wczoraj u sąsiada ktoś **ukradł** drogi zegarek. Policja od razu zaczęła **poszukiwanie** złodzieja. Najgorsze, że to właśnie ja zostałem **oskarżony** — **niezupełnie** rozumiem dlaczego. Rano spokojnie **wyszedłem** z domu, niczego złego nie robiłem, a tu nagle **wpadłem** w poważne kłopoty.
+
+„Nie **znoszę** takich sytuacji" — pomyślałem. Bałem się nawet, że policja mnie **zabierze** na komisariat. Zadzwoniłem więc do kolegi, który pracuje **prawnikiem**. „Spokojnie, **miejmy** nadzieję, że szybko się wyjaśni" — **odpowiada** mi przez telefon. „Opowiedz wszystkie **okoliczności**. Na **podstawie** faktów na pewno da się coś **odnaleźć**."
+
+Następnego dnia **poszedłem** na miejsce sam. W **trakcie** spaceru chciałem znaleźć jakiś **ślad**, **żebym** mógł udowodnić swoją niewinność. Nagle pod oknem zauważyłem **jakąś** **dziurę** w ziemi — a w niej leżał zgubiony zegarek! „**Wyciągnij** go ostrożnie" — powiedziałem sam do siebie.
+
+Okazało się, że prawdziwym złodziejem był **tamten** chłopak z naprzeciwka. Zrozumiałem, że mam do **czynienia** z prawdziwym kłamcą. **Poprzez** kłamstwo chciał **zniszczyć** moją reputację i zrzucić winę na kogoś innego. Na szczęście **żadnych** dowodów **przeciwko** mnie nie było. Musiałem bronić **samego** siebie — i udało się.
+
+Mój kolega powiedział z uśmiechem: „Widzisz? Cierpliwość zawsze się **przyda**. Udało ci się **uratować** dobre imię." Wieczorem odetchnąłem z ulgą. Teraz wiem jedno: zanim kogoś oskarżysz o **krzywdy**, sprawdź **wszelkie** fakty. Bo jeden fałszywy trop potrafi **sprowadzić** na człowieka mnóstwo kłopotów.
+
+**Nowe słowa:** ukradł, poszukiwanie, oskarżony, niezupełnie, wyszedł, wpadłem, znoszę, zabierze, prawnikiem, miejmy, odpowiada, okoliczności, podstawie, odnaleźć, poszedłem, trakcie, ślad, żebym, jakąś, dziurę, wyciągnij, tamten, czynienia, poprzez, zniszczyć, żadnych, przeciwko, samego, przyda, uratować, krzywdy, wszelkie, sprowadza
+
+---
