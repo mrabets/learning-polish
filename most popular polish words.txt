@@ -1,35 +1,22 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 
 господа,panowie
-делай,rób
 привет (формальн.),witaj
-возможно,możliwe
 против,przeciwko
-пойти,pójść
 летит,leci
-удачи,powodzenia
 достаточно,wystarczająco
-дашь/справишься,dasz
-возьму,wezmę
 отпусти,puść
-ответы,odpowiedzi
 вытворяешь,wyprawiasz
 вышел,wyszedł
 понравится,spodoba
-беру,biorę
 вредит (nie szkodzi — ничего),szkodzi
 пришёл (ты),przyszedłeś
 найти (отыскать),odnaleźć
-вместе с,wraz
+пригодится,przyda
 берёшь,bierzesz
-принесу,przyniosę
 вытащить,wyciągnąć
 отвечает,odpowiada
-пригодится,przyda
 пошёл (я),poszedłem
-следи,pilnuj
-возьмём,weźmiemy
-будьте,bądźcie
 основании (na podstawie),podstawie
 спасать,ratować
 заберёт,zabierze
@@ -38,19 +25,15 @@
 отпускай (nie puszczaj),puszczaj
 получили,dostaliśmy
 не совсем,niezupełnie
-войдёт,wejdzie
 приводит,sprowadza
 вытащи,wyciągnij
 попал (я),wpadłem
-начать,rozpocząć
-взяли,wzięli
 содержит,zawiera
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 
 ненавижу,nienawidzę
 мёртвый,martwy
-лёгкое,łatwe
 мешает,przeszkadza
 красивый,przystojny
 попал,wpadł
@@ -61,7 +44,6 @@
 имели (вы),mieliście
 прикоснуться,dotknąć
 выношу (nie znoszę),znoszę
-ужасный,okropny
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
 
@@ -102,16 +84,10 @@
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
 
-офиса,biura
-займёт,zajmie
-начал,zaczął
 имени (w imieniu — от имени),imieniu
-договор/сделка,układ
 исследований,badań
 дела (mieć do czynienia),czynienia
 займись,zajmij
-выполнить,wykonać
-устройство,urządzenie
 ходе (w trakcie),trakcie
 присутствие,obecność
 имеет,posiada
@@ -122,7 +98,6 @@
 передаёт,nadaje
 членом,członkiem
 задержать,wstrzymać
-сообщить,zgłosić
 подразделение,jednostka
 поиск,poszukiwanie
 
@@ -176,10 +151,7 @@
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 
-имеете (вы),macie
 чтобы я,żebym
-какую,jaką
-осталась,została
 от (ode mnie — от меня),ode
 ваша,wasza
 самого,samego
@@ -191,7 +163,6 @@
 своего,swego
 кому,komu
 чтобы я (книжн.),abym
-причины (ze względu na),względu
 захочешь,zechcesz
 через/посредством,poprzez
 где угодно,gdziekolwiek
@@ -202,6 +173,4 @@
 всякие,wszelkie
 захочет,zechce
 через (przeze mnie),przeze
-чтобы мы,abyśmy
-желает,pragnie
 кем угодно,kimkolwiek

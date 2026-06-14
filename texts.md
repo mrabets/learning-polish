@@ -392,3 +392,19 @@ Następnego dnia **król** postanowił **odzyskać** zaufanie ludu i **uwolnić*
 **Nowe słowa:** opowieść, ziemi, podoba, rządzi, król, czyni, zasad, skarb, dolarów, wróg, ukraść, napad, tędy, zejdź, dół, bądź, dotykaj, rozkaz, wycofać, tacy, przemocy, zabić, sali, oko, odłóż, tłum, trafił, władze, ocalić, odzyskać, uwolnić, więzienie, ostrzeżenie, bezpośrednio, przeprosiny, pozostać, uwierzyć
 
 ---
+
+## 29. Nowy projekt w biurze (2026-06-14, T02, G07+G01+G16)
+
+W poniedziałek rano szef wezwał mnie do swojego **biura**. „Mam dla ciebie nowy **układ**" — **zaczął** bez wstępu. „Pewna firma **pragnie**, **żebyśmy** wspólnie **rozpoczęli** ważny projekt. Trzeba **wykonać** całkiem nowe **urządzenie**, i to do końca miesiąca". Pomyślałem sobie: **możliwe**, że **zajmie** mi to mnóstwo czasu, ale od razu powiedziałem: „**Biorę** to na siebie".
+
+„**Wezmę** do pomocy Marka — **wraz** z nim na pewno **damy** radę" — dodałem. Szef kiwnął głową: „Dobrze, **rób**, jak uważasz. **Powodzenia**! Tylko **pilnuj** terminu i od razu **zgłoś** mi, gdyby coś poszło nie tak". „Jasne, nie ma sprawy — pierwsze **odpowiedzi przyniosę** ci już jutro".
+
+Po południu **wziąłem** Marka na bok. „Słuchaj, wiem, że **macie** z zespołem dużo na głowie, ale ze **względu** na termin musimy **zacząć** od zaraz. Najpierw **weźmiemy** się za tę część, która **została** z zeszłego tygodnia". „A **jaką** dokładnie?" — zapytał. „Tę najtrudniejszą. Lepiej **pójść** prosto do sedna, niż później gonić czas".
+
+Praca szła nam całkiem nieźle. Owszem, czasem coś **przeszkadza** — to telefon zadzwoni, to ktoś **wejdzie** bez pukania — ale ogólnie nie było tak **okropnie**, jak się bałem. Marek powiedział nawet, że ta część jest **łatwa**, jeśli się ją dobrze rozpisze. „Widzisz? **Przyda** się nam to doświadczenie na przyszłość" — uśmiechnąłem się.
+
+Pod koniec dnia byłem zmęczony, ale zadowolony. Pomyślałem: oby zawsze tak szło. Czasem wystarczy po prostu **zacząć**, zamiast się bać. **Bądźcie** spokojni — kto **pragnie** coś osiągnąć, ten prędzej czy później da radę. A my? My dopiero **rozpoczęliśmy**.
+
+**Nowe słowa:** biura, układ, zaczął, pragnie, żebyśmy, rozpocząć, wykonać, urządzenie, możliwe, zajmie, biorę, wezmę, wraz, damy, rób, powodzenia, pilnuj, zgłosić, odpowiedzi, przyniosę, wziąłem, macie, względu, została, jaką, pójść, weźmiemy, przeszkadza, wejdzie, okropny, łatwe, przyda, bądźcie
+
+---

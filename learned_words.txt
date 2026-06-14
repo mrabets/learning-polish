@@ -660,3 +660,33 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 толпа,tłum
 будь,bądź
 такие (м.р. мн.ч.),tacy
+беру,biorę
+желает,pragnie
+начать,rozpocząć
+офиса,biura
+начал,zaczął
+чтобы мы,żebyśmy
+выполнить,wykonać
+устройство,urządzenie
+возможно,możliwe
+займёт,zajmie
+возьму,wezmę
+делай,rób
+удачи,powodzenia
+следи,pilnuj
+сообщить,zgłosić
+ответы,odpowiedzi
+принесу,przyniosę
+я взял,wziąłem
+имеете (вы),macie
+из-за/ввиду (ze względu na),ze względu na
+пойти,pójść
+возьмём,weźmiemy
+войдёт,wejdzie
+ужасный,okropny
+лёгкое,łatwe
+будьте,bądźcie
+договор/сделка,układ
+вместе с,wraz
+осталась,została
+какую,jaką
