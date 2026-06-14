@@ -13,6 +13,7 @@
 пришёл (ты),przyszedłeś
 найти (отыскать),odnaleźć
 вместе с,wraz
+пригодится,przyda
 берёшь,bierzesz
 вытащить,wyciągnąć
 отвечает,odpowiada

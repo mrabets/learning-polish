@@ -661,7 +661,6 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 будь,bądź
 такие (м.р. мн.ч.),tacy
 беру,biorę
-пригодится,przyda się
 желает,pragnie
 начать,rozpocząć
 офиса,biura
