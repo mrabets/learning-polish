@@ -686,3 +686,7 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 ужасный,okropny
 лёгкое,łatwe
 будьте,bądźcie
+договор/сделка,układ
+вместе с,wraz
+осталась,została
+какую,jaką

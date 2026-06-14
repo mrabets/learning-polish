@@ -12,7 +12,6 @@
 вредит (nie szkodzi — ничего),szkodzi
 пришёл (ты),przyszedłeś
 найти (отыскать),odnaleźć
-вместе с,wraz
 пригодится,przyda
 берёшь,bierzesz
 вытащить,wyciągnąć
@@ -86,7 +85,6 @@
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
 
 имени (w imieniu — от имени),imieniu
-договор/сделка,układ
 исследований,badań
 дела (mieć do czynienia),czynienia
 займись,zajmij
@@ -154,8 +152,6 @@
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 
 чтобы я,żebym
-какую,jaką
-осталась,została
 от (ode mnie — от меня),ode
 ваша,wasza
 самого,samego
