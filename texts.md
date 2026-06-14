@@ -408,3 +408,21 @@ Pod koniec dnia byłem zmęczony, ale zadowolony. Pomyślałem: oby zawsze tak s
 **Nowe słowa:** biura, układ, zaczął, pragnie, żebyśmy, rozpocząć, wykonać, urządzenie, możliwe, zajmie, biorę, wezmę, wraz, damy, rób, powodzenia, pilnuj, zgłosić, odpowiedzi, przyniosę, wziąłem, macie, względu, została, jaką, pójść, weźmiemy, przeszkadza, wejdzie, okropny, łatwe, przyda, bądźcie
 
 ---
+
+## 30. Niedziela u teściów (2026-06-14, T03, G01+G02+G03+G16)
+
+Nie **znoszę** za dużo hałasu i sam **nienawidzę** siedzieć w domu przez cały weekend. Dlatego w **zeszłej** niedzieli pojechaliśmy do rodziców żony. Gdy wysiadałem z autobusu, teść już stał przy furtce: „**Witaj**, **przyszedłeś** nareszcie — **miejmy** nadzieję, że jesteś głodny!"
+
+W domu siedziały **obie** siostry żony. Jej szwagier Kacper — całkiem **przystojny** facet — **wpadł** do salonu tuż po nas. „**Bierzesz** udział w sporze o wakacje?" — zagadał wesoło. Rodzina od dawna kłóciła się, gdzie **spotyka** się co roku — nad morzem czy w górach. „**Odpuść**, wszystko się ułoży" — powiedział teść i temat jakoś sam znikł.
+
+**Poszedłem** do kuchni po kieliszki. W **trakcie** **poszukiwania** kieliszków usłyszałem, jak teściowa rozmawia z **kimś** przez telefon — planowała przywrócić **jakąś** starą rodzinną tradycję. Miło to usłyszeć.
+
+Wróciłem do salonu z kieliszkami. Teść **wyszedł** na chwilę i wrócił z butelką wina. „**Postaw** to na stole, Kacper, i **wyciągnij** korkociąg" — powiedział. **Dostaliśmy** po kieliszku i nastrój od razu się poprawił.
+
+Pod koniec obiadu żona zapytała: „**Nie szkodzi**, że zostaniemy jeszcze chwilkę?" „Zostańcie!" — ucieszył się teść. **Wystarczająco** długo szukaliśmy takiego spokojnego wieczoru. **Żebym** wiedział wcześniej, jak tu jest miło, przyjeżdżałbym dużo częściej.
+
+To właśnie **odpowiada** mi w tej rodzinie — **gdziekolwiek** usiądziesz, czujesz się jak u siebie. Nawet gdy **przeszkadza** mi głośna rozmowa, wracam tu chętnie. Bo **żadnych** chwil tak nie cenię jak tych z bliskimi. Wiem, że **przyda** mi się ta myśl — szczególnie w te dni, gdy sam czuję się **niezupełnie** na miejscu.
+
+**Nowe słowa:** znoszę, nienawidzę, zeszłej, witaj, przyszedłeś, miejmy, obie, przystojny, wpadł, bierzesz, spotyka, odpuść, poszedłem, trakcie, poszukiwania, kimś, jakąś, wyszedł, postaw, wyciągnij, dostaliśmy, szkodzi, wystarczająco, żebym, odpowiada, gdziekolwiek, przeszkadza, żadnych, przyda, niezupełnie
+
+---
