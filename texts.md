@@ -408,3 +408,19 @@ Pod koniec dnia byłem zmęczony, ale zadowolony. Pomyślałem: oby zawsze tak s
 **Nowe słowa:** biura, układ, zaczął, pragnie, żebyśmy, rozpocząć, wykonać, urządzenie, możliwe, zajmie, biorę, wezmę, wraz, damy, rób, powodzenia, pilnuj, zgłosić, odpowiedzi, przyniosę, wziąłem, macie, względu, została, jaką, pójść, weźmiemy, przeszkadza, wejdzie, okropny, łatwe, przyda, bądźcie
 
 ---
+
+## 30. Fałszywe oskarżenie (2026-06-15, T13, G13+G07+G16)
+
+Był to zwykły wieczór. Siedziałem sam przy stole, gdy nagle ktoś zapukał do drzwi. „**Witaj**" — powiedziałem, otwierając, choć nie wiedziałem, **komu** otwieram. Na progu stali **dwaj panowie** w mundurach. „Dobry wieczór. Przychodzimy w **imieniu** prawa" — oznajmił ten wyższy, dość **gruby** mężczyzna. „Jestem **członkiem jednostki**, która **dowodzi poszukiwaniem** skradzionych aut. Jest pan **oskarżony** o kradzież".
+
+Zamarłem. Czułem, że **nadchodzi** katastrofa. „Słucham? Przecież nie zrobiłem nikomu **żadnej krzywdy**!" Policjant spojrzał spokojnie: „Ktoś **ukradł** auto pańskiego sąsiada. **Ślad** prowadzi prosto do pańskiego **wozu**, który stoi na **terenie** przed domem. Same **okoliczności** wyglądają źle". W głowie miałem chaos — nie wiedziałem, **komu** wierzyć ani jak się bronić.
+
+„Proszę się uspokoić" — wtrącił drugi. „Jeśli jest pan niewinny, **wystarczająco** szybko to wyjaśnimy. Ale rada **prawnika** na pewno by się **przydała**". Pomyślałem: nie znam **żadnego prawnika**! Musimy jak najszybciej **odnaleźć** prawdziwego złodzieja, zanim ta sprawa **zniszczy** mi życie. Akurat wtedy z pokoju wyszły **obie** moje córki, a za nimi mały **dzieciak** sąsiada, którego pilnowaliśmy.
+
+I właśnie ten **dzieciak** pociągnął policjanta za rękaw. „Proszę pana, ja wiem! To mój **tatuś** pożyczył samochód wujkowi i zapomniał powiedzieć". Zapadła cisza. **Gruby** policjant westchnął: „No proszę... Czyli **niezupełnie** mamy złodzieja". Odetchnąłem z ulgą — ten chłopiec właśnie mnie **uratował**.
+
+Gdy **panowie** wyszli, długo siedziałem w ciszy. **Tamten** wieczór czegoś mnie nauczył: jak łatwo oskarżyć kogoś na **podstawie** jednego drobnego **śladu**. Potem wziąłem długi **prysznic**, żeby się uspokoić. **Miejmy** nadzieję, że już nigdy w taki sposób nie **wpadnę** w podobne tarapaty — a jeśli **wpadnę**, niech znów obok będzie ktoś, kto **zechce** powiedzieć prawdę.
+
+**Nowe słowa:** witaj, komu, dwaj, panowie, imieniu, gruby, członkiem, jednostka, dowodzi, poszukiwanie, oskarżony, nadchodzi, żadnej, krzywdy, ukradł, ślad, wozu, terenie, okoliczności, wystarczająco, prawnika, przyda, odnaleźć, zniszczyć, obie, dzieciaka, tatuś, niezupełnie, uratować, tamten, podstawie, prysznic, miejmy, wpadłem, zechce
+
+---
