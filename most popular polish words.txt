@@ -2,7 +2,6 @@
 
 против,przeciwko
 летит,leci
-достаточно,wystarczająco
 отпусти,puść
 вытворяешь,wyprawiasz
 вышел,wyszedł
@@ -13,13 +12,11 @@
 вытащить,wyciągnąć
 отвечает,odpowiada
 пошёл (я),poszedłem
-основании (na podstawie),podstawie
 спасать,ratować
 заберёт,zabierze
 падаем,spadamy
 отпускай (nie puszczaj),puszczaj
 получили,dostaliśmy
-не совсем,niezupełnie
 приводит,sprowadza
 вытащи,wyciągnij
 содержит,zawiera
@@ -111,7 +108,6 @@
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
 
 уничтожить,zniszczyć
-обстоятельства,okoliczności
 
 ## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
 

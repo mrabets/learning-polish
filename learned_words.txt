@@ -720,3 +720,7 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 будем надеяться,miejmy
 попал (я),wpadłem
 захочет,zechce
+обстоятельства,okoliczności
+достаточно,wystarczająco
+не совсем,niezupełnie
+на основании,podstawie
