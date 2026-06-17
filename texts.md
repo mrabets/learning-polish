@@ -424,3 +424,19 @@ Gdy **panowie** wyszli, długo siedziałem w ciszy. **Tamten** wieczór czegoś 
 **Nowe słowa:** witaj, komu, dwaj, panowie, imieniu, gruby, członkiem, jednostka, dowodzi, poszukiwanie, oskarżony, nadchodzi, żadnej, krzywdy, ukradł, ślad, wozu, terenie, okoliczności, wystarczająco, prawnika, przyda, odnaleźć, zniszczyć, obie, dzieciaka, tatuś, niezupełnie, uratować, tamten, podstawie, prysznic, miejmy, wpadłem, zechce
 
 ---
+
+## 31. Pies w rzece (2026-06-17, T03, G03+G02+G16)
+
+**Zeszłej** nocy znów pokłóciłem się z żoną. Jako jej **mąż** wiem, że nie powinienem, ale czasem po prostu nie **znoszę** takich rozmów — wręcz ich **nienawidzę**. Ona chce, **żebym** ciągle z **kimś** mówił o uczuciach, a mnie to tylko **przeszkadza**. „**Odpuść** już" — powiedziałem cicho i odwróciłem się do niej **plecami**. Długo nie mogłem zasnąć.
+
+Rano **wyszedłem** z domu wcześniej niż zwykle. **Słońce** dopiero wschodziło, a na **niebie** nie było jeszcze chmur — choć od zachodu **nadchodziły** już ciemniejsze. Nagle od strony rzeki usłyszałem **jakiś** dziwny dźwięk. Podszedłem bliżej i zobaczyłem małego psa. Biedak **wpadł** do **wody** i nie mógł sam się wydostać. Jeszcze chwila i mógłby **umrzeć** w tej zimnej rzece.
+
+Nie zastanawiałem się ani sekundy. Wiedziałem, że muszę go **ratować** — nie mogłem zostawić go **samego**. Gdyby to było gdzie **indziej**, może bym przeszedł obojętnie, ale nie tym razem. „Spokojnie, zaraz cię stąd **wyciągnę**" — powiedziałem. Wszedłem do **wody**, choć to było pewne **ryzyko**: kamienie były śliskie i jeden nawet **spadł** mi prosto pod nogi. W końcu chwyciłem psa i powoli **przeszedłem** z powrotem na brzeg.
+
+Przyniosłem go do domu. „**Postaw** go tu, na kocu, i **zajmij** się nim chwilę" — krzyknąłem do żony. Spojrzała na mnie jak na wariata. „Oszalałeś? On cały **śmierdzi** i jest mokry! No dobrze, **bierzesz** to zwierzę na siebie" — westchnęła. „**Zdejmij** tę kurtkę, bo sam zmokłeś". Chciałem psa tylko **dotknąć**, a on nagle polizał mnie po twarzy. Żona nie wytrzymała i parsknęła śmiechem.
+
+I właśnie wtedy coś zrozumiałem — **poprzez** ten drobny przypadek. Takiej radości nie da się kupić **niczym**. Ten mały pies pogodził nas lepiej niż jakakolwiek rozmowa. „Możemy go zatrzymać?" — zapytałem. „Rób, jak **zechcesz**" — **odpowiedziała** z uśmiechem. Wiedziałem, że w głębi serca jej się **spodoba**. **Pocałowałem** ją w czoło. Wieczorem **odwiedzili** nas sąsiedzi, żeby zobaczyć nowego mieszkańca. Tego dnia naprawdę coś **dostaliśmy** od losu. Teraz, **gdziekolwiek** idę, ten psiak biegnie tuż za mną.
+
+**Nowe słowa:** zeszłej, mąż, znoszę, nienawidzę, żebym, kimś, przeszkadza, odpuść, plecami, wyszedł, słońce, nieba, nadchodzą, jakąś, wpadł, wodzie, umrzeć, ratować, samego, indziej, wyciągnąć, ryzyko, spadł, przeszedł, postaw, zajmij, śmierdzi, bierzesz, zdejmij, dotknąć, poprzez, niczym, zechcesz, odpowiada, spodoba, pocałować, odwiedź, dostaliśmy, gdziekolwiek
+
+---
