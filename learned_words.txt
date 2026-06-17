@@ -724,3 +724,4 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 достаточно,wystarczająco
 не совсем,niezupełnie
 на основании,podstawie
+уничтожить,zniszczyć
