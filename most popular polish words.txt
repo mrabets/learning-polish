@@ -1,33 +1,24 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 
-господа,panowie
-привет (формальн.),witaj
 против,przeciwko
 летит,leci
-достаточно,wystarczająco
 отпусти,puść
 вытворяешь,wyprawiasz
 вышел,wyszedł
 понравится,spodoba
 вредит (nie szkodzi — ничего),szkodzi
 пришёл (ты),przyszedłeś
-найти (отыскать),odnaleźć
-пригодится,przyda
 берёшь,bierzesz
 вытащить,wyciągnąć
 отвечает,odpowiada
 пошёл (я),poszedłem
-основании (na podstawie),podstawie
 спасать,ratować
 заберёт,zabierze
 падаем,spadamy
-будем надеяться,miejmy
 отпускай (nie puszczaj),puszczaj
 получили,dostaliśmy
-не совсем,niezupełnie
 приводит,sprowadza
 вытащи,wyciągnij
-попал (я),wpadłem
 содержит,zawiera
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
@@ -49,9 +40,6 @@
 
 муж,mąż
 кем-то,kimś
-папочка,tatuś
-обе,obie
-ребёнка,dzieciaka
 весёлых (wesołych świąt),wesołych
 навести,odwiedź
 переспать,przespać
@@ -62,7 +50,6 @@
 сними,zdejmij
 отодвинь,odsuń
 снять,zdjąć
-душ,prysznic
 выбросить,wyrzucić
 дыру,dziurę
 поставь,postaw
@@ -75,7 +62,6 @@
 слепой,ślepy
 упал,spadł
 спиной (za plecami),plecami
-толстый,gruby
 
 ## GROUP 06 — Еда и чувства / Jedzenie i zmysły
 
@@ -84,7 +70,6 @@
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
 
-имени (w imieniu — от имени),imieniu
 исследований,badań
 дела (mieć do czynienia),czynienia
 займись,zajmij
@@ -92,14 +77,10 @@
 присутствие,obecność
 имеет,posiada
 заняло,zajęło
-командует,dowodzi
 членов,członków
 пенсию (na emeryturę),emeryturę
 передаёт,nadaje
-членом,członkiem
 задержать,wstrzymać
-подразделение,jednostka
-поиск,poszukiwanie
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
 
@@ -107,9 +88,6 @@
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
 
-приближается,nadchodzi
-машины,wozu
-территории,terenie
 пустыне,pustyni
 приближаются,nadchodzą
 выходи,wysiadaj
@@ -129,14 +107,6 @@
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
 
-спасти,uratować
-уничтожить,zniszczyć
-обстоятельства,okoliczności
-украл,ukradł
-вреда,krzywdy
-след,ślad
-адвокатом,prawnikiem
-обвиняемый,oskarżony
 
 ## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
 
@@ -156,21 +126,16 @@
 ваша,wasza
 самого,samego
 какую-то,jakąś
-никаких,żadnych
 ничем,niczym
 части,części
 чтобы ты (книжн.),abyś
 своего,swego
-кому,komu
 чтобы я (книжн.),abym
 захочешь,zechcesz
 через/посредством,poprzez
 где угодно,gdziekolwiek
-двое (м.р.),dwaj
 чтобы вы,żebyście
 твоего,twego
-тот,tamten
 всякие,wszelkie
-захочет,zechce
 через (przeze mnie),przeze
 кем угодно,kimkolwiek

@@ -690,3 +690,38 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 вместе с,wraz
 осталась,została
 какую,jaką
+привет (формальн.),witaj
+кому,komu
+двое (м.р.),dwaj
+господа,panowie
+от имени,imieniu
+толстый,gruby
+членом,członkiem
+подразделение,jednostka
+командует,dowodzi
+поиск,poszukiwanie
+обвиняемый,oskarżony
+приближается,nadchodzi
+никаких,żadnych
+вреда,krzywdy
+украл,ukradł
+след,ślad
+машины,wozu
+территории,terenie
+адвокатом,prawnikiem
+пригодится,przyda
+найти,odnaleźć
+обе,obie
+ребёнка,dzieciaka
+папочка,tatuś
+спасать,uratować
+тот,tamten
+душ,prysznic
+будем надеяться,miejmy
+попал (я),wpadłem
+захочет,zechce
+обстоятельства,okoliczności
+достаточно,wystarczająco
+не совсем,niezupełnie
+на основании,podstawie
+уничтожить,zniszczyć
