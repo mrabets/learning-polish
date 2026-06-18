@@ -424,3 +424,21 @@ Gdy **panowie** wyszli, długo siedziałem w ciszy. **Tamten** wieczór czegoś 
 **Nowe słowa:** witaj, komu, dwaj, panowie, imieniu, gruby, członkiem, jednostka, dowodzi, poszukiwanie, oskarżony, nadchodzi, żadnej, krzywdy, ukradł, ślad, wozu, terenie, okoliczności, wystarczająco, prawnika, przyda, odnaleźć, zniszczyć, obie, dzieciaka, tatuś, niezupełnie, uratować, tamten, podstawie, prysznic, miejmy, wpadłem, zechce
 
 ---
+
+## 31. Szalona sobota w domu (2026-06-18, T03/T04, G02+G03+G04+G11+G07)
+
+W **zeszłą** sobotę obudziłem się dopiero, gdy **słońce** stało już wysoko na **niebie**. Najchętniej **przespałbym** cały dzień, ale moja żona — czasem naprawdę **szalona** kobieta — stała nade mną. „Wstawaj, śpiochu! **Wyłaź** spod kołdry!". Jako jej **mąż** wiem jedno: lepiej od razu wstać, bo inaczej cały dzień będzie **przeciwko** mnie.
+
+„Co ty właściwie **wyprawiasz**? **Mieliśmy** dziś posprzątać!" — powiedziała. „Najpierw **zdejmij** tę starą firankę, potem **odsuń** szafę od ściany. Za nią jest brzydka **dziura** w tynku". Wziąłem się do roboty. Chciałem sam **wyciągnąć** szafę, ale była tak ciężka, że prawie **spadła** mi na **plecy**. „**Puść** to natychmiast, bo zrobisz sobie krzywdę!" — krzyknęła. Jej ciągła **obecność** trochę mi **przeszkadza**, lecz tym razem miała rację.
+
+W **trakcie** sprzątania znalazłem stare pudło. **Zawierało** ono mnóstwo zdjęć sprzed lat. Na jednym wyglądałem tak **przystojny**, że żona aż chciała mnie **pocałować**. „Popatrz, jak ten czas **leci**" — westchnęła. „Pamiętasz, jak **poszedłem** z tobą na pierwszą randkę?". „Jasne, wtedy **przyszedłeś** spóźniony pół godziny!". Mało brakowało, a **umarłbym** ze śmiechu.
+
+„**Część** tych rzeczy trzeba **wyrzucić**" — oznajmiła. „**Nienawidzę** bałaganu". Niektóre pudła **śmierdziały** wilgocią, jakby ktoś trzymał je w **wodzie**. „Tę lampę **postaw** na półce, a resztę niech **zabierze** śmieciarka. I nie **dotykaj** tego brudnymi rękami!".
+
+Po południu **wpadł** do nas mój teść. Niedawno **przeszedł** na **emeryturę**, więc teraz często nas **odwiedza**. „**Dostaliśmy** zaproszenie na rodzinny obiad" — oznajmił. „W niedzielę **spotyka się** cała rodzina, wszyscy jej **członkowie**. Życzę **wesołych** chwil!". Włączył telewizor, gdzie akurat **nadawano jakąś** audycję. Reporter **kręcił** materiał o nowych **badaniach** — coś o przyszłości **ludzkości**.
+
+Wieczorem usiedliśmy razem. „**Założę się**, że w niedzielę nikt nie **odpuści** sobie babcinego rosołu" — powiedziała żona. „**Spodoba** ci się, zobaczysz". I rzeczywiście — **gdziekolwiek** bym pojechał, z **kimkolwiek** bym się spotkał, ten dom zawsze **sprowadza** mnie z powrotem. Moja żona rządzi tu **niczym** prawdziwa **królowa**, a ja się na to godzę — i wcale **nie szkodzi**. Z taką kobietą nie ma **żadnego ryzyka**, że się kiedyś w życiu znudzę.
+
+**Nowe słowa:** zeszłej, słońce, nieba, przespać, szalona, wyłaź, mąż, przeciwko, wyprawiasz, mieliście, zdejmij, odsuń, dziurę, wyciągnąć, spadł, plecami, puść, obecność, przeszkadza, trakcie, zawiera, przystojny, pocałować, leci, poszedłem, przyszedłeś, umrzeć, części, wyrzucić, nienawidzę, śmierdzi, wodzie, postaw, zabierze, dotknąć, wpadł, przeszedł, emeryturę, odwiedź, dostaliśmy, spotyka, członków, wesołych, nadaje, jakąś, kręci, badań, ludzkości, zakład, odpuść, spodoba, gdziekolwiek, kimkolwiek, sprowadza, niczym, królowa, szkodzi, ryzyko
+
+---
