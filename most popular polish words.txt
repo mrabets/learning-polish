@@ -4,14 +4,9 @@
 летит,leci
 отпусти,puść
 вытворяешь,wyprawiasz
-вышел,wyszedł
 понравится,spodoba
 вредит (nie szkodzi — ничего),szkodzi
-пришёл (ты),przyszedłeś
-берёшь,bierzesz
-вытащить,wyciągnąć
 отвечает,odpowiada
-пошёл (я),poszedłem
 спасать,ratować
 заберёт,zabierze
 падаем,spadamy
@@ -25,25 +20,16 @@
 
 ненавижу,nienawidzę
 мёртвый,martwy
-мешает,przeszkadza
 красивый,przystojny
 попал,wpadł
-отстань,odpuść
-поцеловать,pocałować
-сумасшедшая,szalona
 вылезай,wyłaź
 имели (вы),mieliście
-прикоснуться,dotknąć
-выношу (nie znoszę),znoszę
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
 
 муж,mąż
-кем-то,kimś
 весёлых (wesołych świąt),wesołych
-навести,odwiedź
 переспать,przespać
-встречает,spotyka
 
 ## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
 
@@ -56,12 +42,7 @@
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
 
-смерти,śmierci
-умереть,umrzeć
-умрёт,umrze
 слепой,ślepy
-упал,spadł
-спиной (za plecami),plecami
 
 ## GROUP 06 — Еда и чувства / Jedzenie i zmysły
 
@@ -78,7 +59,6 @@
 имеет,posiada
 заняло,zajęło
 членов,członków
-пенсию (na emeryturę),emeryturę
 передаёт,nadaje
 задержать,wstrzymać
 
@@ -90,15 +70,12 @@
 
 пустыне,pustyni
 приближаются,nadchodzą
-выходи,wysiadaj
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
 
 
 ## GROUP 11 — Культура и традиции / Kultura i tradycje
 
-солнце,słońce
-неба,nieba
 королева,królowa
 крутит/снимает,kręci
 
@@ -115,27 +92,17 @@
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
 
-прошёл,przeszedł
 в другом месте (gdzie indziej),indziej
 прошлой (zeszłej nocy),zeszłej
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 
-чтобы я,żebym
 от (ode mnie — от меня),ode
 ваша,wasza
-самого,samego
-какую-то,jakąś
-ничем,niczym
-части,części
-чтобы ты (книжн.),abyś
 своего,swego
 чтобы я (книжн.),abym
-захочешь,zechcesz
 через/посредством,poprzez
-где угодно,gdziekolwiek
 чтобы вы,żebyście
 твоего,twego
-всякие,wszelkie
 через (przeze mnie),przeze
 кем угодно,kimkolwiek
