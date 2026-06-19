@@ -424,3 +424,19 @@ Gdy **panowie** wyszli, długo siedziałem w ciszy. **Tamten** wieczór czegoś 
 **Nowe słowa:** witaj, komu, dwaj, panowie, imieniu, gruby, członkiem, jednostka, dowodzi, poszukiwanie, oskarżony, nadchodzi, żadnej, krzywdy, ukradł, ślad, wozu, terenie, okoliczności, wystarczająco, prawnika, przyda, odnaleźć, zniszczyć, obie, dzieciaka, tatuś, niezupełnie, uratować, tamten, podstawie, prysznic, miejmy, wpadłem, zechce
 
 ---
+
+## 31. Niedziela u dziadków (2026-06-18, T03, G03+G02+G05)
+
+W zeszłą niedzielę **wyszedłem** z domu wcześnie rano, żeby **odwiedzić** moich dziadków. Babcia niedawno **przeszła** na **emeryturę**, więc ma teraz mnóstwo wolnego czasu. **Słońce** dopiero wstawało, a kawałek **nieba** nad miastem był jeszcze różowy. **Poszedłem** prosto na przystanek, a w autobusie zadrzemałem, aż kierowca zawołał: „**Wysiadaj**, to już twój przystanek!". Gdy podszedłem pod dom, babcia **wyszła** mi naprzeciw. „Nareszcie **przyszedłeś**!" — ucieszyła się i mocno mnie przytuliła.
+
+W kuchni babcia od razu **wyciągnęła** z piekarnika świeże ciasto. „**Bierzesz** za mało!" — śmiała się, dokładając mi kolejny kawałek. Powiedziała, że dziadek rzadko teraz **spotyka** się z **kimś** i prawie nie wstaje z łóżka.
+
+Wszedłem do niego cicho. Bałem się **dotknąć** jego dłoni — była taka zimna. „Dziadku, dobrze się czujesz?" — szepnąłem. „Nie martw się, jeszcze nie **umrę**" — zażartował. „Każdy kiedyś musi **umrzeć**, ale ja o **śmierci** nawet nie myślę". W tym momencie łyżeczka **spadła** mu z ręki na podłogę i oboje się roześmialiśmy.
+
+„Nie **znoszę** tego leżenia" — narzekał. „Wiem, że babcia gada o mnie **za plecami**, że niby jestem **szalony** i uparty". Babcia udała, że jej to **przeszkadza**: „**Odpuść** sobie te żarty!". Pochyliłem się i **pocałowałem** dziadka w czoło. Pomyślałem, że nigdy nie spotkałem ludzi, którzy kochaliby się tak bardzo.
+
+W drodze powrotnej obiecałem sobie, **żebym** częściej ich odwiedzał. Babcia na pożegnanie poprosiła: „Przyjedź znów, kiedy tylko **zechcesz**, i proszę, **abyś** dbał o siebie". **Gdziekolwiek** mnie życie zaprowadzi, zostawię tu **jakąś** **część** serca. Mimo **wszelkich** problemów zrozumiałem, że żadne pieniądze nie zastąpią **samego** ciepła rodziny — takiego uczucia **niczym** nie da się kupić.
+
+**Nowe słowa:** wyszedł, odwiedzić, przeszła, emeryturę, słońce, nieba, poszedłem, wysiadaj, wyszła, przyszedłeś, wyciągnęła, bierzesz, spotyka, kimś, dotknąć, umrę, umrzeć, śmierci, spadła, znoszę, plecami, szalony, przeszkadza, odpuść, pocałować, żebym, zechcesz, abyś, gdziekolwiek, jakąś, część, samego, niczym, wszelkie
+
+---

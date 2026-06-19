@@ -725,3 +725,37 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 не совсем,niezupełnie
 на основании,podstawie
 уничтожить,zniszczyć
+вышел,wyszedł
+навестить,odwiedzić
+прошла (на пенсию),przeszła
+пенсию,emeryturę
+солнце,słońce
+неба,nieba
+пошёл,poszedłem
+выходи (из транспорта),wysiadaj
+вышла,wyszła
+ты пришёл,przyszedłeś
+достала/вытащить,wyciągnęła
+берёшь,bierzesz
+встречается,spotyka
+кем-то,kimś
+дотронуться,dotknąć
+умру,umrę
+умереть,umrzeć
+смерти,śmierci
+упала,spadła
+выношу/терплю (nie znoszę),znoszę
+спиной (za plecami),plecami
+сумасшедший,szalony
+мешает,przeszkadza
+брось/прекрати,odpuść
+поцеловать,pocałować
+чтобы я,żebym
+захочешь,zechcesz
+чтобы ты,abyś
+где угодно,gdziekolwiek
+какую-то,jakąś
+часть,część
+самого,samego
+ничем,niczym
+всякие,wszelkie
