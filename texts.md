@@ -440,3 +440,19 @@ W drodze powrotnej obiecałem sobie, **żebym** częściej ich odwiedzał. Babci
 **Nowe słowa:** wyszedł, odwiedzić, przeszła, emeryturę, słońce, nieba, poszedłem, wysiadaj, wyszła, przyszedłeś, wyciągnęła, bierzesz, spotyka, kimś, dotknąć, umrę, umrzeć, śmierci, spadła, znoszę, plecami, szalony, przeszkadza, odpuść, pocałować, żebym, zechcesz, abyś, gdziekolwiek, jakąś, część, samego, niczym, wszelkie
 
 ---
+
+## 32. Awaria w kuchni (2026-06-19, G01+G04+G07)
+
+**Zeszłej** nocy obudził mnie dziwny dźwięk. Poszedłem do kuchni i od razu poczułem, że coś tam **śmierdzi**. Spojrzałem pod zlew i zobaczyłem małą **dziurę** w starej rurze — nasz dom **posiada** instalację sprzed wielu lat. „No pięknie, znowu mam do **czynienia** z **wodą**" — pomyślałem.
+
+Zawołałem żonę. „Co ty **wyprawiasz** o tej porze?" — zapytała zaspana. „Rura puściła, woda **leci** prosto na podłogę! Jeszcze chwila i **zabierze** nam całą kuchnię" — odpowiedziałem. Jako **mąż** poczułem, że muszę to jakoś **ratować**. „Spokojnie, nie **szkodzi**, zaraz coś wymyślimy" — uspokoiła mnie.
+
+„**Zdejmij** te garnki, **odsuń** szafkę i **postaw** wszystko gdzie **indziej**" — komenderowała moja żona niczym prawdziwa **królowa**. „Potem **wyciągnij** ścierki spod zlewu". Robiłem dokładnie, co mówiła, choć **kręciło** mi się w głowie ze zmęczenia. Całe to sprzątanie **zajęło** nam prawie godzinę, a brudną **wodę** trzeba było **wyrzucić**.
+
+W **trakcie** tego zamieszania **wpadł** nasz sąsiad — usłyszał hałas **przeze** mnie. „**Wyłaź** spod tego zlewu, dawaj, pomogę ci **wstrzymać** wodę" — zawołał. Razem zakręciliśmy zawór. Mój telefon był zupełnie **martwy**, więc to sąsiad zadzwonił po fachowca. „Tę rurę trzeba wymienić, bo zupełnie się nie **nadaje**" — ocenił.
+
+Nad ranem usiedliśmy zmęczeni. „**Dostaliśmy** dobrą nauczkę. To było za duże **ryzyko**, żeby naprawiać taką rzecz samemu" — przyznałem. „Następnym razem dzwonimy do fachowca, a nie radzimy się z **kimkolwiek**" — dodała żona. „Tym razem nie usłyszysz **ode** mnie ani słowa krytyki". Uśmiechnąłem się — czasem zwykła awaria **sprowadza** ludzi bliżej siebie.
+
+**Nowe słowa:** zeszłej, śmierdzi, dziurę, posiada, czynienia, wodą, wyprawiasz, leci, zabierze, mąż, ratować, szkodzi, zdejmij, odsuń, postaw, indziej, królowa, wyciągnij, kręci, zajęło, wodę, wyrzucić, trakcie, wpadł, przeze, wyłaź, wstrzymać, martwy, nadaje, dostaliśmy, ryzyko, kimkolwiek, ode, sprowadza
+
+---
