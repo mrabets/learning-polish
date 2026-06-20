@@ -440,3 +440,19 @@ W drodze powrotnej obiecałem sobie, **żebym** częściej ich odwiedzał. Babci
 **Nowe słowa:** wyszedł, odwiedzić, przeszła, emeryturę, słońce, nieba, poszedłem, wysiadaj, wyszła, przyszedłeś, wyciągnęła, bierzesz, spotyka, kimś, dotknąć, umrę, umrzeć, śmierci, spadła, znoszę, plecami, szalony, przeszkadza, odpuść, pocałować, żebym, zechcesz, abyś, gdziekolwiek, jakąś, część, samego, niczym, wszelkie
 
 ---
+
+## 32. Awaria w łazience (2026-06-19, T04, G01+G02+G04)
+
+Zwykle potrafię **przespać** całą noc, ale **zeszłej** nocy obudził mnie dziwny dźwięk. Z łazienki **leciała** woda — stara rura miała małą **dziurę**, a strużka sączyła się **poprzez** sufit. Po podłodze **spadały** wielkie krople, w całym mieszkaniu zaczęło **śmierdzieć** wilgocią, a ja stałem boso w zimnej **wodzie**. Od razu poczułem, że **nadchodzą** kłopoty. Byłem **ślepy** — wcześniej w ogóle nie zauważyłem przecieku, choć teraz wiem, że stało się to trochę **przeze** mnie, bo zapomniałem o przeglądzie.
+
+„Wstawaj! Co ty **wyprawiasz**, śpisz dalej?" — krzyknąłem do żony. Hałas obudził zresztą wszystkich **członków** rodziny. „Szybko, **odsuń** szafkę i **wyciągnij** wszystkie ręczniki! **Postaw** wiadro pod rurą, a te mokre szmaty trzeba od razu **wyrzucić**. I **zdejmij** dywanik, zanim całkiem nasiąknie!". Żona spojrzała na mnie zaspana: „Jaki z ciebie **mąż**, skoro boisz się zwykłej rury?".
+
+Nasz kot **wpadł** prosto do kałuży i nie chciał wyłazić. „**Wyłaź** stamtąd!" — wołałem, a syn ciągnął go za łapę. „**Puść** go, nie szarp!" — krzyknąłem, a zaraz potem do żony: „Tylko nie **puszczaj** więcej wody z kranu!". Od całego tego zamieszania **kręciło** mi się w głowie. Naprawdę **nienawidzę** takich poranków, a na dodatek mój telefon był **martwy** — bateria padła w nocy.
+
+W końcu udało mi się zadzwonić po hydraulika. Mówię o tym otwarcie, **żebyście** wiedzieli, że nie zmyślam — naprawdę trzeba było **ratować** sytuację. Akurat **wpadł** też sąsiad, **przystojny** starszy pan, który **posiada** w garażu chyba każde narzędzie. „**Mieliście** już kiedyś taką awarię?" — zapytał hydraulik. „Nie, mam z tym do **czynienia** pierwszy raz" — odparłem. „Idę o **zakład**, że to wina starej rury. **Wasza** instalacja jest za stara; **gdzie indziej** takie rury dawno by wymieniono. **W trakcie** naprawy trzeba będzie **wstrzymać** całą wodę, ale to **zabierze** tylko chwilę".
+
+Cała naprawa **zajęła** nam ledwie godzinę, a cena całkiem mi **odpowiada** — umowa **zawiera** nawet roczną gwarancję. „Nie **szkodzi**" — powiedziała żona — „najważniejsze, że jesteśmy cali. Taki drobny remont to przecież nie koniec **ludzkości**". W **obecności** sąsiada poczułem się raźniej i zrobiłem wszystko głównie dla **swego** spokoju. To mieszkanie **dostaliśmy** kilka lat temu i nigdy nie wymienialiśmy w nim rur. Hydraulik wziął **ode** mnie zapłatę, uśmiechnął się i rzucił, że nowa rura na pewno mi się **spodoba**. Wieczorem, gdy w telewizji **nadawali** spokojny film, wreszcie odpocząłem. Obiecałem sobie, **abym** następnym razem od razu sprawdzał rury — zanim znów obudzi mnie woda **lecąca** po ścianie. Wilgoć **sprowadza** przecież tylko pleśń i nerwy.
+
+**Nowe słowa:** przespać, zeszłej, leciała, dziurę, poprzez, spadały, śmierdzieć, wodzie, nadchodzą, ślepy, przeze, wyprawiasz, członków, odsuń, wyciągnij, postaw, wyrzucić, zdejmij, mąż, wpadł, wyłaź, puść, puszczaj, kręciło, nienawidzę, martwy, żebyście, ratować, przystojny, posiada, mieliście, czynienia, zakład, wasza, indziej, trakcie, wstrzymać, zabierze, zajęła, odpowiada, zawiera, szkodzi, ludzkości, obecności, swego, dostaliśmy, ode, spodoba, nadawali, abym, sprowadza
+
+---

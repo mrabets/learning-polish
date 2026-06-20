@@ -1,83 +1,35 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 
-против,przeciwko
-летит,leci
-отпусти,puść
-вытворяешь,wyprawiasz
-понравится,spodoba
-вредит (nie szkodzi — ничего),szkodzi
-отвечает,odpowiada
-спасать,ratować
-заберёт,zabierze
-падаем,spadamy
-отпускай (nie puszczaj),puszczaj
-получили,dostaliśmy
-приводит,sprowadza
-вытащи,wyciągnij
-содержит,zawiera
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 
-ненавижу,nienawidzę
-мёртвый,martwy
-красивый,przystojny
-попал,wpadł
-вылезай,wyłaź
-имели (вы),mieliście
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
 
-муж,mąż
-весёлых (wesołych świąt),wesołych
-переспать,przespać
 
 ## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
 
-сними,zdejmij
-отодвинь,odsuń
-снять,zdjąć
-выбросить,wyrzucić
-дыру,dziurę
-поставь,postaw
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
 
-слепой,ślepy
 
 ## GROUP 06 — Еда и чувства / Jedzenie i zmysły
 
-воде,wodzie
-воняет,śmierdzi
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
 
-исследований,badań
-дела (mieć do czynienia),czynienia
-займись,zajmij
-ходе (w trakcie),trakcie
-присутствие,obecność
-имеет,posiada
-заняло,zajęło
-членов,członków
-передаёт,nadaje
-задержать,wstrzymać
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
 
-пари/завод,zakład
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
 
-пустыне,pustyni
-приближаются,nadchodzą
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
 
 
 ## GROUP 11 — Культура и традиции / Kultura i tradycje
 
-королева,królowa
-крутит/снимает,kręci
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
 
@@ -87,22 +39,8 @@
 
 ## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
 
-риск,ryzyko
-человечества,ludzkości
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
 
-в другом месте (gdzie indziej),indziej
-прошлой (zeszłej nocy),zeszłej
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
-
-от (ode mnie — от меня),ode
-ваша,wasza
-своего,swego
-чтобы я (книжн.),abym
-через/посредством,poprzez
-чтобы вы,żebyście
-твоего,twego
-через (przeze mnie),przeze
-кем угодно,kimkolwiek

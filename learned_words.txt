@@ -759,3 +759,64 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 самого,samego
 ничем,niczym
 всякие,wszelkie
+проспать,przespać
+прошлой,zeszłej
+текла/летит,leciała
+дыру,dziurę
+сквозь/через,poprzez
+падали,spadały
+вонять,śmierdzieć
+воде,wodzie
+надвигаются,nadchodzą
+слепой,ślepy
+из-за меня,przeze mnie
+вытворяешь,wyprawiasz
+членов,członków
+отодвинь,odsuń
+вытащи,wyciągnij
+поставь,postaw
+выбросить,wyrzucić
+сними,zdejmij
+муж,mąż
+попал/угодил,wpadł
+вылезай,wyłaź
+отпусти,puść
+пускай (nie puszczaj),puszczaj
+кружилась (голова),kręciło
+ненавижу,nienawidzę
+мёртвый,martwy
+чтобы вы,żebyście
+спасать,ratować
+красивый/симпатичный,przystojny
+обладает/имеет,posiada
+вы имели,mieliście
+иметь дело (mieć do czynienia),czynienia
+пари/спор,zakład
+ваша,wasza
+в другом месте,gdzie indziej
+во время/в ходе,trakcie
+перекрыть/остановить,wstrzymać
+займёт,zabierze
+заняла (о времени),zajęła
+устраивает/подходит,odpowiada
+содержит,zawiera
+ничего страшного (nie szkodzi),szkodzi
+человечества,ludzkości
+в присутствии,obecności
+своего,swego
+получили/досталась,dostaliśmy
+от меня,ode mnie
+понравится,spodoba
+транслировали,nadawali
+чтобы я,abym
+приводит/влечёт,sprowadza
+против,przeciwko
+весёлых (Wesołych Świąt),wesołych
+снять,zdjąć
+исследований/анализов,badań
+займись,zajmij
+пустыни,pustyni
+королева,królowa
+риск,ryzyko
+твоего,twego
+кем угодно/кем-либо,kimkolwiek
