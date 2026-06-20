@@ -47,3 +47,4 @@
 
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
+действие/занятие,czynność
