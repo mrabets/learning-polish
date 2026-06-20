@@ -3,6 +3,7 @@
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 обращение/отношение,traktowanie
+бесполезный,bezużyteczny
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
