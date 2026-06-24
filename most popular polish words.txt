@@ -23,6 +23,7 @@
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
 заказ/поручение,zlecenie
+обучить/подготовить,przeszkolić
 
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
