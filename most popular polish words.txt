@@ -1,11 +1,15 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 жаловаться,narzekać
+предложение (идея/оферта),propozycja
+обосновывать,uzasadniać
 
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 обращение/отношение,traktowanie
 бесполезный,bezużyteczny
 срочно/усердно,pilnie
+втягивать/увлекать,wciągać
+стройный/ладный,zgrabny
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
@@ -15,6 +19,8 @@
 
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
+травма,kontuzja
+фигура/силуэт,sylwetka
 
 
 ## GROUP 06 — Еда и чувства / Jedzenie i zmysły
@@ -24,6 +30,7 @@
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
 заказ/поручение,zlecenie
 обучить/подготовить,przeszkolić
+штаб-квартира/резиденция,siedziba
 
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
@@ -32,6 +39,7 @@
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
 приют/убежище,schronisko
 спальный мешок,śpiwór
+пещера,jaskinia
 
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
@@ -41,6 +49,7 @@
 
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
+развлечение,rozrywka
 
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
@@ -48,6 +57,8 @@
 
 ## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
 вынуждать/принуждать,zmuszać
+запускать/пренебрегать,zaniedbywać
+прошло как по маслу/легко,poszło śpiewająco
 
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
@@ -55,3 +66,5 @@
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 действие/занятие,czynność
+основанный (на),oparty
+исключительно,wyłącznie
