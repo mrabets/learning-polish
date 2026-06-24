@@ -2,6 +2,8 @@
 жаловаться,narzekać
 предложение (идея/оферта),propozycja
 обосновывать,uzasadniać
+настаивать,nalegać
+отговаривать,odradzać
 
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
@@ -10,12 +12,14 @@
 срочно/усердно,pilnie
 втягивать/увлекать,wciągać
 стройный/ладный,zgrabny
+потрясающе/великолепно,rewelacyjnie
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
 
 
 ## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
+переезд,przeprowadzka
 
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
@@ -40,6 +44,7 @@
 приют/убежище,schronisko
 спальный мешок,śpiwór
 пещера,jaskinia
+экскурсия/поездка,wycieczka
 
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
@@ -50,6 +55,7 @@
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
 развлечение,rozrywka
+жеребьёвка/розыгрыш,losowanie
 
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
@@ -59,6 +65,9 @@
 вынуждать/принуждать,zmuszać
 запускать/пренебрегать,zaniedbywać
 прошло как по маслу/легко,poszło śpiewająco
+отказаться/бросить,zrezygnować
+репутация/реноме,renoma
+дилемма,dylemat
 
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
@@ -68,3 +77,4 @@
 действие/занятие,czynność
 основанный (на),oparty
 исключительно,wyłącznie
+вопреки видимости/как ни странно,wbrew pozorom
