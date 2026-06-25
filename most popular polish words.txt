@@ -1,46 +1,213 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
+жаловаться,narzekać
+предложение (идея/оферта),propozycja
+обосновывать,uzasadniać
+настаивать,nalegać
+отговаривать,odradzać
+рекомендовать,polecać
+отозваться/связаться,odezwać się
+уточнить/конкретизировать,sprecyzować
+уговаривать,namawiać
+убедить/убеждать,przekonać
+желать,życzyć
+шутить,żartować
 
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
+обращение/отношение,traktowanie
+бесполезный,bezużyteczny
+срочно/усердно,pilnie
+втягивать/увлекать,wciągać
+стройный/ладный,zgrabny
+потрясающе/великолепно,rewelacyjnie
+обычный/обыкновенный,zwyczajny
+сожалеть/скорбеть,ubolewać
+великолепный/замечательный,wspaniały
+пропадать/обожать (za czymś),przepadać
+страсть/увлечение,pasja
+обидеться/обиженный,obrazić się
+завидовать,zazdrościć
+ожидать/рассчитывать,spodziewać się
+скрывать/прятать,ukrywać
+увлекать/завораживать,fascynować
+захватывающий/волнующий,ekscytujący
+беспомощный,bezradny
+злить/злиться,złościć się
+питать чувства/одаривать,darzyć
+восхищённый/восхищать,zachwycony
+мешать,przeszkadzać
+беспокоиться,martwić się
+благодарный,wdzięczny
+превосходный/совершенный,doskonały
+удовольствие,przyjemność
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
+ссориться,kłócić się
+изменять/предавать (выдавать тайну),zdradzać
 
 
 ## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
+переезд,przeprowadzka
+стена,mur
+ожерелье,naszyjnik
+жемчуг/жемчужина,perła
+верёвка/шнур/нить,sznur
+оснащённый/оборудованный,wyposażony
+навес,wiata
+мусорный бак/помойка,śmietnik
+дверная ручка,klamka
+качели,huśtawka
+неисправность/дефект,usterka
+барахло/пожитки,graty
 
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
+травма,kontuzja
+фигура/силуэт,sylwetka
+спасение/помощь,ratunek
+отдохнуть,odpocząć
+спасать,ratować
 
 
 ## GROUP 06 — Еда и чувства / Jedzenie i zmysły
+разведение/выращивание,hodowla
+закуска,przekąska
 
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
+заказ/поручение,zlecenie
+обучить/подготовить,przeszkolić
+штаб-квартира/резиденция,siedziba
+переговоры,negocjacje
+образование,wykształcenie
+промышленный,przemysłowy
+отменить/отозвать,odwołać
+взаимодействие/сотрудничество,współdziałanie
+выполнить,wykonać
+подучить/подтянуть,podszkolić
 
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
+доставлять/поставлять,dostarczać
+одолжить/занять,pożyczyć
+тратить впустую,marnować
 
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
+приют/убежище,schronisko
+спальный мешок,śpiwór
+пещера,jaskinia
+экскурсия/поездка,wycieczka
+добраться/попасть,dostać się
+приключение,przygoda
+разместить/поселить,zakwaterować
+далёкий/отдалённый,odległy
+пойти,pójść
+отправиться (в путь),wyruszyć
+груз/заряд,ładunek
+осматривать (достопримечательности),zwiedzać
+забежать/нагрянуть/прийти в голову,wpaść
 
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
+лозунг/пароль,hasło
+размещённый/опубликованный,zamieszczony
+зона покрытия/радиус действия,zasięg
+оборудование/снаряжение,sprzęt
 
 
 ## GROUP 11 — Культура и традиции / Kultura i tradycje
+природа,przyroda
+торжественный,uroczysty
+торжество/празднество,uroczystość
+окружение/среда,otoczenie
+нить/сюжетная линия/тема,wątek
+сюжет/фабула,fabuła
+фигура/персонаж,postać
 
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
+развлечение,rozrywka
+жеребьёвка/розыгрыш,losowanie
+авангард/лидеры/заставка,czołówka
+участвовать,uczestniczyć
+любитель/поклонник,miłośnik
+игра/играть,gra (grać)
 
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
+подкрадываться/подворовывать,podkradać się
+насилие,przemoc
 
 
 ## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
+вынуждать/принуждать,zmuszać
+запускать/пренебрегать,zaniedbywać
+прошло как по маслу/легко,poszło śpiewająco
+отказаться/бросить,zrezygnować
+репутация/реноме,renoma
+дилемма,dylemat
+обмануть,oszukać
+решимость/решительность,determinacja
+козырь/преимущество,atut
+достижение/свершение,dokonanie
+подвергать (опасности),narażać
+отклонить/отказ,odrzucić
+эффективный/действенный,skuteczny
+принуждение,przymus
+приспособиться/подстроиться,dopasować się
+исполнять/сбываться,spełniać
+справиться/посоветовать,poradzić
+выдержать/вытерпеть,wytrzymać
 
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
+случай/возможность/повод,okazja
+воспоминание,wspomnienie
+продлевать,przedłużać
+одновременно,jednocześnie
+останавливать/задерживать,zatrzymywać
+пятиться/отодвигать назад,cofać
+каникулы,ferie
+медлить/тянуть,zwlekać
+заранее/заблаговременно (z wyprzedzeniem),wyprzedzenie
+событие,wydarzenie
+отсутствие,nieobecność
+в настоящее время/сейчас,obecnie
 
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
+действие/занятие,czynność
+основанный (на),oparty
+исключительно,wyłącznie
+вопреки видимости/как ни странно,wbrew pozorom
+достаточно/довольно,dość
+якобы/говорят/мол,ponoć
+составлять/представлять собой,stanowić
+существенный/важный,istotny
+необходимый,niezbędny
+охватывать/включать (обнимать),obejmować
+отражать,odzwierciedlać
+повлиять,wpłynąć
+необходимость,konieczność
+формировать,kształtować
+доставать/тянуться/достигать,sięgać
+предлог/повод,pretekst
+сомнения,wątpliwości
+подход/отношение,podejście
+никакой,żaden
+подходящий/соответствующий,odpowiedni
+хватать/быть достаточным,wystarczyć
+даже,nawet
+особенно,zwłaszcza
+найти,odnaleźć
+более чем/свыше,ponad
+немного,nieco
+зависеть,zależeć
+получаться (выпадать),wypadać
+пригодиться,przydać się
+единица/особь/подразделение,jednostka
+установить (правила)/договориться,ustalić
+вытаскивать/вытягивать,wyciągać
+прямо-таки,wręcz
