@@ -456,3 +456,19 @@ Cała naprawa **zajęła** nam ledwie godzinę, a cena całkiem mi **odpowiada**
 **Nowe słowa:** przespać, zeszłej, leciała, dziurę, poprzez, spadały, śmierdzieć, wodzie, nadchodzą, ślepy, przeze, wyprawiasz, członków, odsuń, wyciągnij, postaw, wyrzucić, zdejmij, mąż, wpadł, wyłaź, puść, puszczaj, kręciło, nienawidzę, martwy, żebyście, ratować, przystojny, posiada, mieliście, czynienia, zakład, wasza, indziej, trakcie, wstrzymać, zabierze, zajęła, odpowiada, zawiera, szkodzi, ludzkości, obecności, swego, dostaliśmy, ode, spodoba, nadawali, abym, sprowadza
 
 ---
+
+## 33. Trudna decyzja (2026-06-25, T11, G14+G02+G01+G16)
+
+Od kilku tygodni mam pewien **dylemat**. Dostałem **propozycję** nowej pracy, ale nie wiem, czy ją przyjąć, czy **odrzucić**. Moja obecna firma ma dobrą **renomę**, lecz nowe stanowisko mogłoby **wpłynąć** na całą moją przyszłość. Ta decyzja jest naprawdę **istotna**.
+
+Żona od razu zaczęła **narzekać**. „Nie **namawiam** cię na nic, ale po co **narażać** to, co już mamy?" — powiedziała. Próbowałem **uzasadnić** swój pomysł i **przekonać** ją, że to świetna **okazja**. Ona jednak **nalegała**, żebym wszystko dokładnie **ustalił**, zanim podejmę decyzję.
+
+Szczerze mówiąc, mam mnóstwo **wątpliwości**. Z jednej strony nowe zajęcie mnie **fascynuje** i jest naprawdę **ekscytujące** — to praca, za którą wręcz **przepadam**. Z drugiej strony boję się, że nie **wytrzymam przymusu** ciągłych zmian. Czasem czuję się przez to zupełnie **bezradny**.
+
+Mój kolega **poradził** mi coś prostego. „**Wbrew pozorom** taka decyzja **zależy** tylko od ciebie. Nie słuchaj **wyłącznie** innych — **żaden** doradca nie zna cię lepiej niż ty sam". „Jestem ci **wdzięczny** za te słowa" — odpowiedziałem. **Ponoć** najlepsze decyzje podejmujemy sercem.
+
+W końcu postanowiłem **zrezygnować** ze starej pracy. Może to ryzyko, ale czułem, że było **konieczne**. Mam ogromną **determinację** i wierzę, że wszystko **pójdzie śpiewająco**. Najważniejsze, żeby się nie **martwić** na zapas. Jeśli człowiek ma prawdziwą **pasję**, prędzej czy później **odnajdzie** swoją drogę — **wystarczy dopasować się** do nowej sytuacji.
+
+**Nowe słowa:** dylemat, propozycję, odrzucić, renomę, wpłynąć, istotna, narzekać, namawiam, narażać, uzasadnić, przekonać, okazja, nalegała, ustalił, wątpliwości, fascynuje, ekscytujące, przepadam, wręcz, wytrzymam, przymusu, bezradny, poradził, wbrew pozorom, zależy, wyłącznie, żaden, wdzięczny, ponoć, zrezygnować, konieczne, determinację, pójdzie śpiewająco, martwić, pasję, odnajdzie, wystarczy, dopasować się
+
+---
