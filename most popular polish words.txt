@@ -4,6 +4,7 @@
 обосновывать,uzasadniać
 настаивать,nalegać
 отговаривать,odradzać
+рекомендовать,polecać
 
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
@@ -16,6 +17,11 @@
 обычный/обыкновенный,zwyczajny
 сожалеть/скорбеть,ubolewać
 великолепный/замечательный,wspaniały
+пропадать/обожать (za czymś),przepadać
+страсть/увлечение,pasja
+обидеться/обиженный,obrazić się
+завидовать,zazdrościć
+ожидать/рассчитывать,spodziewać się
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
@@ -46,6 +52,7 @@
 штаб-квартира/резиденция,siedziba
 переговоры,negocjacje
 образование,wykształcenie
+промышленный,przemysłowy
 
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
@@ -66,6 +73,8 @@
 
 ## GROUP 11 — Культура и традиции / Kultura i tradycje
 природа,przyroda
+торжественный,uroczysty
+торжество/празднество,uroczystość
 
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
@@ -86,9 +95,13 @@
 дилемма,dylemat
 обмануть,oszukać
 решимость/решительность,determinacja
+козырь/преимущество,atut
+достижение/свершение,dokonanie
 
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
+случай/возможность/повод,okazja
+воспоминание,wspomnienie
 
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
@@ -98,3 +111,7 @@
 вопреки видимости/как ни странно,wbrew pozorom
 достаточно/довольно,dość
 якобы/говорят/мол,ponoć
+составлять/представлять собой,stanowić
+существенный/важный,istotny
+необходимый,niezbędny
+охватывать/включать (обнимать),obejmować
