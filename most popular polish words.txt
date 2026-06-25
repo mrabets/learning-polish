@@ -5,6 +5,8 @@
 настаивать,nalegać
 отговаривать,odradzać
 рекомендовать,polecać
+отозваться/связаться,odezwać się
+уточнить/конкретизировать,sprecyzować
 
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
@@ -22,10 +24,19 @@
 обидеться/обиженный,obrazić się
 завидовать,zazdrościć
 ожидать/рассчитывать,spodziewać się
+скрывать/прятать,ukrywać
+увлекать/завораживать,fascynować
+захватывающий/волнующий,ekscytujący
+беспомощный,bezradny
+злить/злиться,złościć się
+питать чувства/одаривать,darzyć
+восхищённый/восхищать,zachwycony
+мешать,przeszkadzać
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
 ссориться,kłócić się
+изменять/предавать (выдавать тайну),zdradzać
 
 
 ## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
@@ -35,15 +46,23 @@
 жемчуг/жемчужина,perła
 верёвка/шнур/нить,sznur
 оснащённый/оборудованный,wyposażony
+навес,wiata
+мусорный бак/помойка,śmietnik
+дверная ручка,klamka
+качели,huśtawka
+неисправность/дефект,usterka
+барахло/пожитки,graty
 
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
 травма,kontuzja
 фигура/силуэт,sylwetka
+спасение/помощь,ratunek
 
 
 ## GROUP 06 — Еда и чувства / Jedzenie i zmysły
 разведение/выращивание,hodowla
+закуска,przekąska
 
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
@@ -53,9 +72,12 @@
 переговоры,negocjacje
 образование,wykształcenie
 промышленный,przemysłowy
+отменить/отозвать,odwołać
+взаимодействие/сотрудничество,współdziałanie
 
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
+доставлять/поставлять,dostarczać
 
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
@@ -65,25 +87,35 @@
 экскурсия/поездка,wycieczka
 добраться/попасть,dostać się
 приключение,przygoda
+разместить/поселить,zakwaterować
+далёкий/отдалённый,odległy
 
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
 лозунг/пароль,hasło
+размещённый/опубликованный,zamieszczony
 
 
 ## GROUP 11 — Культура и традиции / Kultura i tradycje
 природа,przyroda
 торжественный,uroczysty
 торжество/празднество,uroczystość
+окружение/среда,otoczenie
+нить/сюжетная линия/тема,wątek
+сюжет/фабула,fabuła
 
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
 развлечение,rozrywka
 жеребьёвка/розыгрыш,losowanie
 авангард/лидеры/заставка,czołówka
+участвовать,uczestniczyć
+любитель/поклонник,miłośnik
+игра/играть,gra (grać)
 
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
+подкрадываться/подворовывать,podkradać się
 
 
 ## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
@@ -97,11 +129,24 @@
 решимость/решительность,determinacja
 козырь/преимущество,atut
 достижение/свершение,dokonanie
+подвергать (опасности),narażać
+отклонить/отказ,odrzucić
+эффективный/действенный,skuteczny
+принуждение,przymus
+приспособиться/подстроиться,dopasować się
+исполнять/сбываться,spełniać
 
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
 случай/возможность/повод,okazja
 воспоминание,wspomnienie
+продлевать,przedłużać
+одновременно,jednocześnie
+останавливать/задерживать,zatrzymywać
+пятиться/отодвигать назад,cofać
+каникулы,ferie
+медлить/тянуть,zwlekać
+заранее/заблаговременно (z wyprzedzeniem),wyprzedzenie
 
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
@@ -115,3 +160,9 @@
 существенный/важный,istotny
 необходимый,niezbędny
 охватывать/включать (обнимать),obejmować
+отражать,odzwierciedlać
+повлиять,wpłynąć
+необходимость,konieczność
+формировать,kształtować
+доставать/тянуться/достигать,sięgać
+предлог/повод,pretekst
