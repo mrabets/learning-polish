@@ -820,3 +820,29 @@ wiele/wielu + 3 лицо ед.ч.,wiele/wielu + 3os. lp.
 риск,ryzyko
 твоего,twego
 кем угодно/кем-либо,kimkolwiek
+дилемма,dylemat
+предложение,propozycja
+отклонить/отказ,odrzucić
+репутация/реноме,renoma
+повлиять,wpłynąć
+существенный/важный,istotny
+убедить/убеждать,przekonać
+случай/возможность/повод,okazja
+сомнения,wątpliwości
+обожать (za czymś),przepadać
+выдержать/вытерпеть,wytrzymać
+принуждение,przymus
+беспомощный,bezradny
+справиться/посоветовать,poradzić
+зависеть,zależeć
+исключительно,wyłącznie
+никакой,żaden
+благодарный,wdzięczny
+якобы/говорят/мол,ponoć
+решимость/решительность,determinacja
+прошло как по маслу/легко,poszło śpiewająco
+беспокоиться,martwić się
+страсть/увлечение,pasja
+найти/отыскать,odnaleźć
+хватать/быть достаточным,wystarczyć
+приспособиться/подстроиться,dopasować się
