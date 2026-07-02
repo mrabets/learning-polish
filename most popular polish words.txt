@@ -1,10 +1,7 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 отговаривать,odradzać
-рекомендовать,polecać
-отозваться/связаться,odezwać się
 уточнить/конкретизировать,sprecyzować
 желать,życzyć
-шутить,żartować
 
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
@@ -13,20 +10,14 @@
 срочно/усердно,pilnie
 втягивать/увлекать,wciągać
 стройный/ладный,zgrabny
-потрясающе/великолепно,rewelacyjnie
 обычный/обыкновенный,zwyczajny
 сожалеть/скорбеть,ubolewać
-великолепный/замечательный,wspaniały
 обидеться/обиженный,obrazić się
 завидовать,zazdrościć
-ожидать/рассчитывать,spodziewać się
 скрывать/прятать,ukrywać
 злить/злиться,złościć się
 питать чувства/одаривать,darzyć
-восхищённый/восхищать,zachwycony
-мешать,przeszkadzać
 превосходный/совершенный,doskonały
-удовольствие,przyjemność
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
@@ -53,7 +44,6 @@
 травма,kontuzja
 фигура/силуэт,sylwetka
 спасение/помощь,ratunek
-отдохнуть,odpocząć
 спасать,ratować
 
 
@@ -82,33 +72,20 @@
 
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
-приют/убежище,schronisko
-спальный мешок,śpiwór
-пещера,jaskinia
-экскурсия/поездка,wycieczka
-добраться/попасть,dostać się
-приключение,przygoda
 разместить/поселить,zakwaterować
-далёкий/отдалённый,odległy
 пойти,pójść
-отправиться (в путь),wyruszyć
 груз/заряд,ładunek
-осматривать (достопримечательности),zwiedzać
-забежать/нагрянуть/прийти в голову,wpaść
 
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
 лозунг/пароль,hasło
 размещённый/опубликованный,zamieszczony
 зона покрытия/радиус действия,zasięg
-оборудование/снаряжение,sprzęt
 
 
 ## GROUP 11 — Культура и традиции / Kultura i tradycje
-природа,przyroda
 торжественный,uroczysty
 торжество/празднество,uroczystość
-окружение/среда,otoczenie
 нить/сюжетная линия/тема,wątek
 сюжет/фабула,fabuła
 фигура/персонаж,postać
@@ -119,7 +96,6 @@
 жеребьёвка/розыгрыш,losowanie
 авангард/лидеры/заставка,czołówka
 участвовать,uczestniczyć
-любитель/поклонник,miłośnik
 игра/играть,gra (grać)
 
 
@@ -139,37 +115,25 @@
 
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
-воспоминание,wspomnienie
 продлевать,przedłużać
-одновременно,jednocześnie
 останавливать/задерживать,zatrzymywać
 пятиться/отодвигать назад,cofać
 каникулы,ferie
 медлить/тянуть,zwlekać
 заранее/заблаговременно (z wyprzedzeniem),wyprzedzenie
-событие,wydarzenie
 отсутствие,nieobecność
-в настоящее время/сейчас,obecnie
 
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
 действие/занятие,czynność
 основанный (на),oparty
-достаточно/довольно,dość
 составлять/представлять собой,stanowić
-необходимый,niezbędny
 охватывать/включать (обнимать),obejmować
 отражать,odzwierciedlać
 формировать,kształtować
 доставать/тянуться/достигать,sięgać
 предлог/повод,pretekst
 подход/отношение,podejście
-подходящий/соответствующий,odpowiedni
-даже,nawet
-особенно,zwłaszcza
-более чем/свыше,ponad
-немного,nieco
 получаться (выпадать),wypadać
-пригодиться,przydać się
 единица/особь/подразделение,jednostka
 вытаскивать/вытягивать,wyciągać
