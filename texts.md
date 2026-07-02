@@ -472,3 +472,19 @@ W końcu postanowiłem **zrezygnować** ze starej pracy. Może to ryzyko, ale cz
 **Nowe słowa:** dylemat, propozycję, odrzucić, renomę, wpłynąć, istotna, narzekać, namawiam, narażać, uzasadnić, przekonać, okazja, nalegała, ustalił, wątpliwości, fascynuje, ekscytujące, przepadam, wręcz, wytrzymam, przymusu, bezradny, poradził, wbrew pozorom, zależy, wyłącznie, żaden, wdzięczny, ponoć, zrezygnować, konieczne, determinację, pójdzie śpiewająco, martwić, pasję, odnajdzie, wystarczy, dopasować się
 
 ---
+
+## 34. Górska przygoda (2026-07-02, T09, G09+G02+G15+G16)
+
+Od dawna marzyłem o prawdziwej górskiej **przygodzie**. W tym roku wreszcie postanowiłem **wyruszyć** w góry razem z kolegą. Nie chcieliśmy zwykłej **wycieczki** autokarem — planowaliśmy **dostać się** w **odległy** rejon pieszo i spać w górskim **schronisku**.
+
+Przygotowanie zajęło **ponad** tydzień. Kolega, który jest prawdziwym **miłośnikiem** gór, **polecił** mi, jaki **sprzęt** będzie **niezbędny**. Kupiłem ciepły **śpiwór** i **odpowiednie** buty. „Weź **nawet** apteczkę — w górach zawsze może się **przydać**" — **żartował**, choć w gruncie rzeczy mówił poważnie.
+
+Pierwszego dnia szliśmy **dość** długo. **Przyroda** wokół była **wspaniała** — nie **spodziewałem się**, że **otoczenie** może robić takie wrażenie. W pewnym momencie **wpadliśmy** na pomysł, żeby **zwiedzić** starą **jaskinię** niedaleko szlaku. W środku było ciemno i zimno, ale **jednocześnie** pięknie.
+
+Wieczorem w schronisku mogliśmy wreszcie **odpocząć**. Byłem **zachwycony** widokiem gór o zachodzie słońca. To była czysta **przyjemność** — żaden telefon, żaden hałas nie **przeszkadzał**. Powiem szczerze: **rewelacyjnie** się czułem, **zwłaszcza** po całym dniu marszu.
+
+**Obecnie**, kiedy wracam myślami do tamtego **wydarzenia**, wiem, że było warto. To **wspomnienie** zostanie ze mną na długo. Gdy tylko kolega się do mnie **odezwie**, na pewno zaplanujemy kolejną wyprawę. Takie chwile są **nieco** lepsze niż zwykłe wakacje nad morzem.
+
+**Nowe słowa:** przygoda, wyruszyć, wycieczka, dostać się, odległy, schronisko, ponad, miłośnik, polecać, sprzęt, niezbędny, śpiwór, odpowiedni, nawet, przydać się, żartować, dość, przyroda, wspaniały, spodziewać się, otoczenie, wpaść, zwiedzać, jaskinia, jednocześnie, odpocząć, zachwycony, przyjemność, przeszkadzać, rewelacyjnie, zwłaszcza, obecnie, wydarzenie, wspomnienie, odezwać się, nieco
+
+---
