@@ -34,16 +34,6 @@
 
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
-заказ/поручение,zlecenie
-обучить/подготовить,przeszkolić
-штаб-квартира/резиденция,siedziba
-переговоры,negocjacje
-образование,wykształcenie
-промышленный,przemysłowy
-отменить/отозвать,odwołać
-взаимодействие/сотрудничество,współdziałanie
-выполнить,wykonać
-подучить/подтянуть,podszkolić
 
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
