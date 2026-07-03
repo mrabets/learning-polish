@@ -1,7 +1,6 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
 отговаривать,odradzać
 уточнить/конкретизировать,sprecyzować
-желать,życzyć
 
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
@@ -10,34 +9,16 @@
 срочно/усердно,pilnie
 втягивать/увлекать,wciągać
 стройный/ладный,zgrabny
-обычный/обыкновенный,zwyczajny
 сожалеть/скорбеть,ubolewać
-обидеться/обиженный,obrazić się
-завидовать,zazdrościć
 скрывать/прятать,ukrywać
-злить/злиться,złościć się
 питать чувства/одаривать,darzyć
-превосходный/совершенный,doskonały
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
-ссориться,kłócić się
 изменять/предавать (выдавать тайну),zdradzać
 
 
 ## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
-переезд,przeprowadzka
-стена,mur
-ожерелье,naszyjnik
-жемчуг/жемчужина,perła
-верёвка/шнур/нить,sznur
-оснащённый/оборудованный,wyposażony
-навес,wiata
-мусорный бак/помойка,śmietnik
-дверная ручка,klamka
-качели,huśtawka
-неисправность/дефект,usterka
-барахло/пожитки,graty
 
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
@@ -66,9 +47,6 @@
 
 
 ## GROUP 08 — Деньги и покупки / Pieniądze i zakupy
-доставлять/поставлять,dostarczać
-одолжить/занять,pożyczyć
-тратить впустую,marnować
 
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
@@ -111,7 +89,6 @@
 козырь/преимущество,atut
 достижение/свершение,dokonanie
 эффективный/действенный,skuteczny
-исполнять/сбываться,spełniać
 
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
@@ -119,8 +96,6 @@
 останавливать/задерживать,zatrzymywać
 пятиться/отодвигать назад,cofać
 каникулы,ferie
-медлить/тянуть,zwlekać
-заранее/заблаговременно (z wyprzedzeniem),wyprzedzenie
 отсутствие,nieobecność
 
 
@@ -133,7 +108,6 @@
 формировать,kształtować
 доставать/тянуться/достигать,sięgać
 предлог/повод,pretekst
-подход/отношение,podejście
 получаться (выпадать),wypadać
 единица/особь/подразделение,jednostka
 вытаскивать/вытягивать,wyciągać
