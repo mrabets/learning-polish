@@ -488,3 +488,19 @@ Wieczorem w schronisku mogliśmy wreszcie **odpocząć**. Byłem **zachwycony** 
 **Nowe słowa:** przygoda, wyruszyć, wycieczka, dostać się, odległy, schronisko, ponad, miłośnik, polecać, sprzęt, niezbędny, śpiwór, odpowiedni, nawet, przydać się, żartować, dość, przyroda, wspaniały, spodziewać się, otoczenie, wpaść, zwiedzać, jaskinia, jednocześnie, odpocząć, zachwycony, przyjemność, przeszkadzać, rewelacyjnie, zwłaszcza, obecnie, wydarzenie, wspomnienie, odezwać się, nieco
 
 ---
+
+## 35. Nasza przeprowadzka (2026-07-02, T06, G04+G02+G16)
+
+Od dawna marzyliśmy z żoną o większym mieszkaniu. Długo jednak **zwlekaliśmy** z decyzją, bo **przeprowadzka** to zawsze mnóstwo pracy. W końcu żona powiedziała: „Nie ma na co czekać". Zmieniłem swoje **podejście** i zacząłem szukać czegoś nowego z **wyprzedzeniem**, żeby nie robić wszystkiego w ostatniej chwili.
+
+Nowe mieszkanie od razu nam się spodobało. Było w pełni **wyposażone** — nie musieliśmy kupować mebli. Prawda, gruby **mur** oddzielał kuchnię od salonu, a jedna **klamka** w drzwiach była trochę luźna. „To drobna **usterka**, naprawię ją w pięć minut" — pomyślałem. Na podwórku stała **wiata** na rowery, obok **śmietnik**, a dla dzieci — stara **huśtawka**.
+
+Najtrudniejsze było spakować wszystkie **graty**. Okazało się, że przez lata zebraliśmy mnóstwo rzeczy, których w ogóle nie używamy. „Po co to trzymać? Szkoda **marnować** miejsce" — powiedziała żona. Część pudeł kolega zgodził się **dostarczyć** swoim autem, a drabinę musieliśmy **pożyczyć** od sąsiada. Wśród starych rzeczy znalazłem **naszyjnik** mojej babci — prawdziwe **perły** na cienkim **sznurze**. Aż się wzruszyłem.
+
+Niestety, podczas pakowania trochę się **pokłóciliśmy**. Ja chciałem wyrzucić stary fotel, a żona zaczęła się **złościć**, bo to pamiątka po jej ojcu. Przyznam, że przez chwilę się **obraziłem**, ale szybko mi przeszło. Nie ma sensu **zazdrościć** innym idealnego porządku — każdy dom ma swoje historie. To zupełnie **zwyczajna** sprawa w każdej rodzinie.
+
+Po tygodniu wszystko było gotowe. Usiedliśmy wieczorem na balkonie i patrzyliśmy na miasto. Czułem, że nasze marzenie właśnie się **spełnia**. Mieszkanie nie jest może **doskonałe**, ale jest nasze. **Życzę** każdemu, żeby kiedyś poczuł to samo — że wreszcie jest u siebie, w domu.
+
+**Nowe słowa:** zwlekać, przeprowadzka, podejście, wyprzedzenie, wyposażony, mur, klamka, usterka, wiata, śmietnik, huśtawka, graty, marnować, dostarczać, pożyczyć, naszyjnik, perła, sznur, kłócić się, złościć się, obrazić się, zazdrościć, zwyczajny, spełniać, doskonały, życzyć
+
+---
