@@ -4,13 +4,6 @@
 
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
-бесполезный,bezużyteczny
-срочно/усердно,pilnie
-втягивать/увлекать,wciągać
-стройный/ладный,zgrabny
-сожалеть/скорбеть,ubolewać
-скрывать/прятать,ukrywać
-питать чувства/одаривать,darzyć
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
@@ -59,11 +52,6 @@
 
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
-развлечение,rozrywka
-жеребьёвка/розыгрыш,losowanie
-авангард/лидеры/заставка,czołówka
-участвовать,uczestniczyć
-игра/играть,gra (grać)
 
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
@@ -81,11 +69,6 @@
 
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
-продлевать,przedłużać
-останавливать/задерживать,zatrzymywać
-пятиться/отодвигать назад,cofać
-каникулы,ferie
-отсутствие,nieobecność
 
 
 ## GROUP 16 — Грамматика и логика / Gramatyka i logika
