@@ -1,28 +1,19 @@
 ## GROUP 01 — Говорение и дискурс / Mówienie i dyskusja
-отговаривать,odradzać
-уточнить/конкретизировать,sprecyzować
 
 
 ## GROUP 02 — Эмоции и характеристики / Emocje i charakterystyka
 
 
 ## GROUP 03 — Семья и отношения / Rodzina i relacje
-изменять/предавать (выдавать тайну),zdradzać
 
 
 ## GROUP 04 — Дом и предметы быта / Dom i przedmioty codzienne
 
 
 ## GROUP 05 — Тело и здоровье / Ciało i zdrowie
-травма,kontuzja
-фигура/силуэт,sylwetka
-спасение/помощь,ratunek
-спасать,ratować
 
 
 ## GROUP 06 — Еда и чувства / Jedzenie i zmysły
-разведение/выращивание,hodowla
-закуска,przekąska
 
 
 ## GROUP 07 — Работа и учреждения / Praca i instytucje
@@ -32,40 +23,21 @@
 
 
 ## GROUP 09 — Путешествия и транспорт / Podróże i transport
-разместить/поселить,zakwaterować
-пойти,pójść
-груз/заряд,ładunek
 
 
 ## GROUP 10 — Технологии и медиа / Technologia i media
-лозунг/пароль,hasło
-размещённый/опубликованный,zamieszczony
-зона покрытия/радиус действия,zasięg
 
 
 ## GROUP 11 — Культура и традиции / Kultura i tradycje
-торжественный,uroczysty
-торжество/празднество,uroczystość
-нить/сюжетная линия/тема,wątek
-сюжет/фабула,fabuła
-фигура/персонаж,postać
 
 
 ## GROUP 12 — Спорт и соревнования / Sport i rywalizacja
 
 
 ## GROUP 13 — Право и общество / Prawo i społeczeństwo
-подкрадываться/подворовывать,podkradać się
-насилие,przemoc
 
 
 ## GROUP 14 — Успех, ценности, решения / Sukces, wartości i decyzje
-вынуждать/принуждать,zmuszać
-запускать/пренебрегать,zaniedbywać
-обмануть,oszukać
-козырь/преимущество,atut
-достижение/свершение,dokonanie
-эффективный/действенный,skuteczny
 
 
 ## GROUP 15 — Время и последовательность / Czas i sekwencja
