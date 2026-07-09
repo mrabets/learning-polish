@@ -7,3 +7,5 @@
 непринуждённо/свободно,swobodnie
 костюм (деловой),garnitur
 одетый,ubrany
+свитер,sweter
+рубашка,koszula
