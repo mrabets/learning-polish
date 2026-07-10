@@ -11,6 +11,8 @@
 | `mowienie/01_format_egzaminu.md` | Формат обоих экзаменов, критерии, официальные требования, примеры zestawów |
 | `mowienie/02_setka_na_mowienie_konspekt.md` | Полный конспект книги «Setka na mówienie»: структуры ответов, ВСЕ zwroty, образцовые тексты — **канон языка** |
 | `mowienie/03_zwroty_do_zapamietania.md` | Минимальный каркас фраз для заучивания (агент отмечает прогресс `[ ]`→`[~]`→`[x]`) |
+| `mowienie/04_katalog_zestawow.md` | Каталог зеставов №3–100 из книги: задания 2–3, статус прохождения, команда извлечения фото |
+| `mowienie/setka_na_mowienie_zestawy.pdf` | 98 зеставов книги с фотографиями (стр. = № зестава − 2) — **основной источник заданий** |
 | `mowienie/moje_bledy.md` | Журнал ошибок ученика (агент ведёт, повторяет в начале сессий) |
 | `mowienie/postepy.md` | Прогресс: вехи, журнал сессий |
 | `mowienie/setka_na_mowienie_wstep.pdf` | Скан методической части книги (источник) |
@@ -28,12 +30,14 @@
 
 Экзамен (оба!) = 3 задания: **фото → монолог → диалог**. Тренируем именно этот цикл. По просьбе ученика можно дриллить одно задание отдельно.
 
-### Zadanie 1 — Opis fotografii (тренировка с реальной картинкой)
+**Источник заданий — зеставы книги** (`04_katalog_zestawow.md`, №3–100): один zestaw = фото + монолог + диалог одним комплектом. Выбор: непройденный `[ ]` зестав (подряд или по теме, которая слабее по `postepy.md`). После прохождения — отметить `[x]` с датой.
 
-1. Агент скачивает тематическое фото в scratchpad:
-   `curl -sL -o foto.jpg "https://loremflickr.com/900/600/<keywords>"`
-   Ключевые слова по теме сессии: rodzina → `family,dinner` / `family,home`; praca → `office,meeting`; zakupy → `market,shopping`; podróże → `tourists,travel` / `airport`; sport → `sport,people`; edukacja → `students,classroom`; czas wolny → `picnic,park` / `concert`; dom → `kitchen,interior`; zdrowie → `doctor,patient`; miasto → `street,people`.
-2. Агент **обязательно смотрит скачанное фото (Read)** и проверяет: есть люди или ясная сцена; можно описать osoby + miejsce + czynności; картинка не мусорная. Плохая → перекачать с другими словами (до 3 попыток; fallback: `https://picsum.photos/900/600` или словесное описание сцены).
+### Zadanie 1 — Opis fotografii (фото из книги)
+
+1. Агент извлекает фото зестава N в scratchpad (страница PDF = N − 2):
+   `pdfimages -f $((N-2)) -l $((N-2)) -png mowienie/setka_na_mowienie_zestawy.pdf foto` → файл `foto-000.png` (серый smask игнорировать).
+2. Агент **обязательно смотрит фото (Read)** — он должен видеть картинку, чтобы потом проверять соответствие описания содержанию.
+   Fallback (фото не извлеклось / нужна внеплановая картинка): `curl -sL -o foto.jpg "https://loremflickr.com/900/600/<keywords>"` (rodzina → `family,home`; praca → `office,meeting`; zakupy → `market,shopping`; podróże → `tourists,travel`; sport → `sport,people`; edukacja → `students,classroom`; czas wolny → `picnic,park`; dom → `kitchen,interior`; zdrowie → `doctor,patient`; miasto → `street,people`) — проверить качество через Read, до 3 попыток.
 3. Отправить фото ученику (SendUserFile, display: render) с поручением: **«Proszę opisać fotografię i przedstawioną na niej sytuację.»**
 4. Ученик пишет описание по-польски (10+ предложений, скелет A из `03_zwroty_do_zapamietania.md`, порядок «od ogółu do szczegółu»).
 5. Агент проверяет: (а) полнота по 12 pytań pomocniczych (все ли элементы: osoby, ubiór, emocje, relacje, miejsce, plany, kolory, pora, nastrój); (б) ошибки языка. Так как агент видел фото — проверяет и соответствие содержания.
@@ -41,13 +45,13 @@
 
 ### Zadanie 2 — Monolog
 
-1. Тема из банков: официальные примеры (`01_format_egzaminu.md` §1.7), 7 форм монолога с примерами заданий (`02_…` этап 2), темы T01–T14 (TELC-гайд). Формулировать по-экзаменационному: «Proszę opowiedzieć… / Proszę opisać… / Czy zgadza się Pan z opinią, że…? Proszę uzasadnić.»
+1. Тема — из текущего зестава (`04_katalog_zestawow.md`). Для отдельного дрилла: официальные примеры (`01_format_egzaminu.md` §1.7), 7 форм монолога (`02_…` этап 2), темы T01–T14 (TELC-гайд).
 2. Ученик отвечает письменно по скелету B (wstęp → po pierwsze/drugie/trzecie → podsumowując). Ориентир: 12–15 предложений (~1,5–2 мин речи).
 3. Проверка → исправление → wzorcowy monolog из канонических zwrotów.
 
 ### Zadanie 3 — Dialog (сценка по ролям)
 
-1. Агент формулирует ситуацию как на экзамене («Chce Pan zapisać się na kurs… Proszę zadzwonić i…»), указывает роль агента (recepcjonista, sąsiad, kolega…) и регистр: **oficjalnie (Pan/Pani) или nieoficjalnie (ty)**.
+1. Ситуация — из текущего зестава (`04_katalog_zestawow.md`); агент указывает свою роль (ekspedientka, recepcjonista, sąsiad, kolega…) и регистр: **oficjalnie (Pan/Pani) или nieoficjalnie (ty)**.
 2. Играем по репликам: агент — одна реплика, ученик — ответ, и т.д. Агент НЕ подсказывает по ходу; мелкие ошибки разбирает ПОСЛЕ сценки.
 3. Типы задач (все 10 отработать): zapraszanie, odmawianie/przyjmowanie zaproszenia, proponowanie, składanie życzeń, doradzanie, odradzanie, przekonywanie, rezerwowanie, umawianie wizyty, negocjowanie.
 4. После сценки: разбор ошибок → повторить сценку ещё раз начисто (та же или зеркальная ситуация).
