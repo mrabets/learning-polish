@@ -8,18 +8,20 @@
 
 Порядок ответа всегда один: **od ogółu do szczegółu** (общее → первый план → второй план → фон → погода/время → настроение).
 
-- [ ] 1. **Zdjęcie przedstawia…** *(вводное: кто/что + где — одним предложением)*
-- [ ] 2. **Na pierwszym planie widzimy…** *(главные люди/объекты)*
+- [x] 1. **Zdjęcie przedstawia…** *(вводное: кто/что + где — одним предложением)*
+- [x] 2. **Na pierwszym planie widzimy…** *(главные люди/объекты)*
 - [ ] 3. **Kobieta/Mężczyzna ma… lat, jest…** *(возраст «około 30 lat», рост, телосложение, волосы)*
-- [ ] 4. **Jest ubrany/ubrana w… / Ma na sobie…** *(одежда)*
-- [ ] 5. **Wygląda na… / Wydaje się…** *(впечатление: zmęczonego, studentkę, miłego człowieka)*
-- [ ] 6. **Myślę, że… / Przypuszczam, że…** *(догадка: кем приходятся друг другу, что происходит)*
-- [ ] 7. **Osoby na zdjęciu + czasownik** *(действия: siedzi, stoi, rozmawia, bawi się, trzyma…)*
-- [ ] 8. **Na drugim planie… / Po lewej/prawej stronie… / W rogu…** *(второй план)*
-- [ ] 9. **W tle / W głębi widać…** *(фон)*
-- [ ] 10. **Jest słoneczny letni dzień. / Przypuszczam, że jest…** *(время года, суток, погода)*
-- [ ] 11. **Na zdjęciu dominują jasne/ciemne/ciepłe kolory.** *(цвета)*
-- [ ] 12. **Na zdjęciu panuje radosny/spokojny/wesoły nastrój.** *(настроение — финальная фраза)*
+- [x] 4. **Jest ubrany/ubrana w… / Ma na sobie…** *(одежда)*
+- [~] 5. **Wygląda na… / Wydaje się…** *(впечатление: zmęczonego, studentkę, miłego człowieka)* — использовал `wyglądają na szczęśliwych`
+- [x] 6. **Myślę, że… / Przypuszczam, że…** *(догадка: кем приходятся друг другу, что происходит)*
+- [~] 7. **Osoby na zdjęciu + czasownik** *(действия: siedzi, stoi, rozmawia, bawi się, trzyma…)* — `całują się, uśmiechają się`
+- [x] 8. **Na drugim planie… / Po lewej/prawej stronie… / W rogu…** *(второй план)*
+- [x] 9. **W tle / W głębi widać…** *(фон)*
+- [~] 10. **Jest słoneczny letni dzień. / Przypuszczam, że jest…** *(время года, суток, погода)* — путал `jest lato` / `latem`
+- [x] 11. **Na zdjęciu dominują jasne/ciemne/ciepłe kolory.** *(цвета)*
+- [x] 12. **Na zdjęciu panuje radosny/spokojny/wesoły nastrój.** *(настроение — финальная фраза)*
+- [x] Доп.: **Ta sytuacja / To wydarzenie ma miejsce / odbywa się w…** *(универсальный оборот «где/когда происходит»)*
+- [x] Доп.: **Moim zdaniem… / Uważam, że…** *(мнение в конце описания)*
 
 Запасные: Na zdjęciu widzimy… • Prawdopodobnie… • Sądzę, że… • Na twarzy … maluje się uśmiech/smutek… • Przedmiot stoi/leży/wisi/znajduje się…
 
