@@ -6,6 +6,45 @@
 
 ---
 
+## 0. Карта «ЧТО описывать» — 4 блока с примерами из 3 фото
+
+> Структура ОДНА для любого фото. Меняются только слова. В блоках 2 и 3 называй **по 2–3 вещи**, а не одну.
+
+### 🟦 Блок 1 — О чём фото (1 предложение)
+| | пример |
+|---|---|
+| свадьба | `Zdjęcie przedstawia uroczystość ślubną.` |
+| парикмахерская | `Zdjęcie przedstawia salon fryzjerski.` |
+| шахматы | `Na zdjęciu widzę, jak dwie osoby grają w szachy.` |
+
+### 🟦 Блок 2 — Первый план (главные люди + предметы)
+| элемент | свадьба | парикмахерская | шахматы |
+|---|---|---|---|
+| сколько людей | `Na pierwszym planie widzimy parę młodą.` | `…widzimy fryzjera i klienta.` | `…są starszy i młodszy mężczyzna.` |
+| внешность (волосы, возраст) | `Panna młoda ma długie włosy, a pan młody krótkie, ciemne włosy.` | `Fryzjer jest młody i ma czarne włosy.` | `Starszy ma krótkie, szare włosy, a młodszy ma czarne, długie włosy.` |
+| одежда | `…ma na sobie długą, białą suknię ślubną, a pan młody szary garnitur.` | `Fryzjer ma na sobie czarną koszulkę.` | `Starszy ma na sobie zieloną kurtkę i brązowe spodnie.` |
+| что делают | `Oni się całują.` | `Fryzjer strzyże klienta.` | `Oni grają w szachy.` |
+| ⭐ предметы рядом | `Stoją pod łukiem z kwiatów.` | `nie widać ubrania klienta, bo siedzi w fotelu` | `Na kamiennym stole stoją figury szachowe.` |
+| эмоции | `Wyglądają na szczęśliwych.` | `Fryzjer jest skupiony na swojej pracy.` | `Oni są skupieni.` |
+
+### 🟦 Блок 3 — По бокам и сзади (2–3 вещи!)
+| элемент | свадьба | парикмахерская | шахматы |
+|---|---|---|---|
+| по бокам | `Po lewej stronie są kobiety, a po prawej mężczyźni.` | `Po lewej stronie są lustra, a po prawej jeszcze jeden fotel.` | `Po bokach stoją kamienne ławki.` |
+| ⭐ фон (w tle) | `W tle widać duże okno.` | `Na ścianie widać zdjęcia miasta.` | `W tle widać budynek z szyldem sklepu i zaparkowane samochody.` |
+| догадка (кто друг другу) | `Myślę, że goście to rodzina lub przyjaciele pary młodej.` | — | `Myślę, że mężczyźni są znajomymi.` |
+
+### 🟦 Блок 4 — Общее (по 1 предложению)
+| элемент | свадьба | парикмахерская | шахматы |
+|---|---|---|---|
+| где происходит | `To wydarzenie odbywa się w dużej sali.` | `To dzieje się w salonie fryzjerskim.` | `To odbywa się na ulicy w mieście.` |
+| время года + признак | `Przypuszczam, że jest lato lub wiosna, ponieważ za oknem widać zieleń.` | `Trudno powiedzieć, jaka jest pora roku, ponieważ zdjęcie zrobiono w środku.` | `Jest zima, ponieważ drzewa nie mają liści, a ludzie noszą grube kurtki.` |
+| цвета | `Na zdjęciu dominują jasne kolory: biały i zielony.` | `…dominują białe, czarne i szare kolory.` | `…dominują szare kolory.` |
+| настроение | `Panuje radosny nastrój.` | `Panuje spokojny, codzienny nastrój.` | `Panuje spokojny nastrój.` |
+| мнение | `Moim zdaniem to piękne zdjęcie, ponieważ pokazuje miłość.` | `Moim zdaniem to ciekawe zdjęcie.` | `Podoba mi się to zdjęcie, ponieważ jest spokojne.` |
+
+---
+
 ## 1. Эталон-образец (моё описание, zestaw 3 — свадьба, доведено до высокого балла)
 
 > Zdjęcie przedstawia uroczystość ślubną.
