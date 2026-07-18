@@ -85,6 +85,24 @@
 - расположение: `na pierwszym/drugim planie`, `po lewej/prawej stronie`, `w tle`, `w rogu`
 - итог: `Na zdjęciu dominują… kolory`, `Panuje… nastrój`
 
+### Кубик ОТНОШЕНИЯ (всегда догадка — впереди слово-догадка, ошибиться нельзя)
+Формула: **[Myślę, że / Może / Wydaje mi się, że] + [кто они]**
+Кто они: `rodzina` • `przyjaciele` / `znajomi` • `para` • `koledzy z pracy` • `klient i pracownik`
+- `Myślę, że to rodzina lub przyjaciele.`
+- `Może to znajomi.`
+- если совсем не ясно: `Trudno powiedzieć, kim są dla siebie, ale może to rodzina.`
+
+### Кубик ЭМОЦИИ (3 простые формулы)
+1. через глагол (легче всего): `Oni się uśmiechają` / `rozmawiają` / `pracują` / `odpoczywają`
+2. `wyglądają na` + готовый кусок: `szczęśliwych` / `zadowolonych` / `spokojnych` / `zmęczonych` / `skupionych`
+3. через настроение (обходит людей): `Panuje wesoły / spokojny / poważny nastrój`
+
+### Кубик «НЕ ВИДНО / НЕ ЗНАЮ» (превращает пробел в баллы)
+- `nie widać…` (после отрицания — родительный: `nie widać zieleni`)
+- `trudno powiedzieć, co to jest`
+- `nie wiem, jak to się nazywa po polsku`
+- предметы без узких слов: `różne rzeczy`, `jedzenie`, `naczynia`
+
 ---
 
 ## ⚠️ Мои частые ошибки (проверять себя перед сдачей)
