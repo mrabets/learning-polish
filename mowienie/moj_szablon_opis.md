@@ -97,6 +97,14 @@
 2. `wyglądają na` + готовый кусок: `szczęśliwych` / `zadowolonych` / `spokojnych` / `zmęczonych` / `skupionych`
 3. через настроение (обходит людей): `Panuje wesoły / spokojny / poważny nastrój`
 
+### Кубик ГОЛОВНОЙ УБОР / волосы не видно
+- `Ma na głowie…`: `czapkę` (шапка/кепка) • `kapelusz` (шляпа) • `kask` (шлем) • `chustę` (платок)
+- волос не видно: `Nie widać włosów, ponieważ ma na głowie czapkę.` / `Trudno powiedzieć, jakie ma włosy, bo ma na głowie kask.`
+
+### Кубик ОБУВЬ (obuwie)
+- `Na nogach ma…`: `buty` (ботинки/туфли) • `adidasy` / `sportowe buty` (кроссовки) • `trampki` (кеды) • `kozaki` (сапоги) • `sandały` (сандалии)
+- не видно: `Nie widać, jakie buty ma na nogach.`
+
 ### Кубик «НЕ ВИДНО / НЕ ЗНАЮ» (превращает пробел в баллы)
 - `nie widać…` (после отрицания — родительный: `nie widać zieleni`)
 - `trudno powiedzieć, co to jest`

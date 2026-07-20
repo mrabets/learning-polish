@@ -19,6 +19,9 @@
 ## Zestaw 7 — папа с ребёнком на велосипеде в городе (rower w mieście) · ~6,5/7
 > Na zdjęciu widzę scenę w mieście. Na pierwszym planie są mężczyzna i dziecko. Mężczyzna ma na sobie zieloną kurtkę, dżinsy i niebieską kaskę. Dziecko ma na sobie dżinsy, brązową kurtkę i pomarańczową kaskę. Oni jadą na rowerze. Mężczyzna jest skupiony i patrzy przed sobą. Myślę, że to rodzina, ojciec i syn. Na drugim planie jest kilka osób. One siedzą przy stole w kawiarni i rozmawiają. Wyglądają na szczęśliwych. Na drugim planie, po lewej stronie, widzimy niebieski baner tej kawiarni. Myślę, że to wieczór. Trudno powiedzieć, jaka jest pora roku, ale to chyba wiosna lub jesień, bo ludzie noszą kurtki. Na zdjęciu dominują ciepłe kolory. Panuje spokojny, codzienny nastrój. Podoba mi się to zdjęcie, bo pokazuje codzienność. Sam lubię spacerować w mieście oraz jeździć na rowerze.
 
+## Zestaw 8 — кемпинг у озера, ужин у костра (ognisko nad jeziorem) · ~6,5/7
+> Na zdjęciu widzę scenę na świeżym powietrzu. Na pierwszym planie widzę kilka osób: dwie kobiety, mężczyznę i dziecko. Kobieta po lewej stronie ma na sobie zieloną kurtkę i czarne spodnie. Mężczyzna ma na sobie biało-zieloną koszulkę i krótkie spodnie. Dziecko ma na sobie niebieską koszulkę. Kobieta po prawej stronie ma na sobie czarną kurtkę i czarne spodnie. Przypuszczam, że to rodzina lub przyjaciele. Wszyscy starsi patrzą przed sobą na ognisko, a dziecko piecze coś nad ogniem. Myślę, że to coś słodkiego. Oni wyglądają na spokojnych. Na drugim planie są jezioro i las. Na zdjęciu dominują ciepłe kolory, dlatego przypuszczam, że to wieczór. Myślę, że to jesień lub wiosna, ponieważ kobiety mają na sobie kurtki. Panuje spokojny i codzienny nastrój. Podoba mi się to zdjęcie, bo pokazuje codzienność na świeżym powietrzu. Sam lubię spacerować na świeżym powietrzu i piec coś nad ogniem. Lubię podróżować razem z rodziną i przyjaciółmi.
+
 ---
 
-**Пройдено фото: 5** (zestawy 3, 4, 5, 6, 7). Средний уровень — уверенный проходной, растёт от раза к разу.
+**Пройдено фото: 6** (zestawy 3, 4, 5, 6, 7, 8). Средний уровень — уверенный проходной, растёт от раза к разу.
