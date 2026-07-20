@@ -7,7 +7,7 @@
 >
 > Статус: `[ ]` не пройден → `[x]` пройден (дата). Пройденные отмечать и в `postepy.md`.
 
-### Zestaw 3 — стр. 1 `[ ]`
+### Zestaw 3 — стр. 1 `[x]` (2026-07-13, opis ~7/7)
 - **Zadanie 2 (monolog):** Jaką porę roku lubi Pan/Pani najbardziej? Proszę uzasadnić swoją odpowiedź.
 - **Zadanie 3 (dialog):** Niedawno kupił Pan/kupiła Pani mieszkanie. W sklepie meblowym prosi Pan/Pani ekspedientkę o pomoc w wyborze mebli do salonu.
 
@@ -15,23 +15,23 @@
 - **Zadanie 2 (monolog):** Proszę opowiedzieć, jak Pan/Pani dba o zdrowie.
 - **Zadanie 3 (dialog):** Chce Pan/Pani zaprosić mamę do kina z okazji Dnia Matki. Dzwoni Pan/Pani do kina i pyta o repertuar, godziny seansów oraz cenę.
 
-### Zestaw 5 — стр. 3 `[ ]`
+### Zestaw 5 — стр. 3 `[x]` (2026-07-17, opis ~6/7)
 - **Zadanie 2 (monolog):** Zakupy w supermarkecie czy na lokalnym bazarku - co Pan/Pani woli? Proszę uzasadnić swój wybór.
 - **Zadanie 3 (dialog):** Pana/Pani babcia jest chora. Chce Pan/Pani zrobić jej niespodziankę, więc idzie do biblioteki, żeby wypożyczyć dla niej kilka książek. Prosi Pan/Pani bibliotekarkę o pomoc.
 
-### Zestaw 6 — стр. 4 `[ ]`
+### Zestaw 6 — стр. 4 `[x]` (2026-07-17, opis ~6/7)
 - **Zadanie 2 (monolog):** “Jesteś tym, co jesz” - czy zgadza się Pan/Pani z tym twierdzeniem? Proszę uzasadnić swoją odpowiedź.
 - **Zadanie 3 (dialog):** Zbliża się lato, chce Pan/Pani zadbać o kondycję fizyczną i zrzucić kilka kilogramów. Dzwoni Pan/Pani do klubu fitness, pyta o ofertę i dokonuje zakupu.
 
-### Zestaw 7 — стр. 5 `[ ]`
+### Zestaw 7 — стр. 5 `[x]` (opis ~6/7)
 - **Zadanie 2 (monolog):** Proszę wymienić trzy rzeczy, które zabrałby Pan/zabrałaby Pani ze sobą na bezludną wyspę. Proszę uzasadnić swój wybór.
 - **Zadanie 3 (dialog):** Pana/Pani przyjaciel/przyjaciółka, którego/którą zostawiła sympatia, jest przygnębiony/a. Próbuje Pan/Pani go/ją pocieszyć.
 
-### Zestaw 8 — стр. 6 `[ ]`
+### Zestaw 8 — стр. 6 `[x]` (opis ~6,5/7)
 - **Zadanie 2 (monolog):** Jaką kuchnię najbardziej Pan/Pani lubi i dlaczego? Proszę podać kilka przykładowych dań.
 - **Zadanie 3 (dialog):** Pana/Pani współlokator/ka jest bardzo towarzyską osobą, która ciągle zaprasza gości. W mieszkaniu jest głośno do późnych godzin, a Pan/Pani wstaje bardzo wcześnie rano. Proszę porozmawiać z nim/nią na ten temat i znaleźć rozwiązanie.
 
-### Zestaw 9 — стр. 7 `[ ]`
+### Zestaw 9 — стр. 7 `[x]` (opis ~6,5/7)
 - **Zadanie 2 (monolog):** Proszę opowiedzieć o swoim ulubionym przedmiocie szkolnym. Czy wiedza na nim zdobyta przydaje się Panu/Pani w życiu?
 - **Zadanie 3 (dialog):** Kolega zaprosił/Koleżanka zaprosiła Pana/Panią na swój ślub. Niestety w tym terminie będzie Pan/Pani w podróży służbowej. Dzwoni Pan/Pani do kolegi/koleżanki, tłumaczy sytuację i składa życzenia.
 
