@@ -97,6 +97,17 @@
 2. `wyglądają na` + готовый кусок: `szczęśliwych` / `zadowolonych` / `spokojnych` / `zmęczonych` / `skupionych`
 3. через настроение (обходит людей): `Panuje wesoły / spokojny / poważny nastrój`
 
+### Кубик ГОЛОВНОЙ УБОР / волосы не видно ⭐ (не различать тип — общее слово + цвет)
+- универсально: `Na głowie ma [цвет] nakrycie głowy.` (напр. `niebieskie nakrycie głowy`) — `nakrycie głowy` = любой головной убор
+- ещё проще: `Ma coś [цвет]ego na głowie.` (напр. `coś niebieskiego`)
+- волос не видно: `Nie widać włosów, ponieważ ma na głowie nakrycie głowy.`
+- (если хочешь точнее: `czapka` шапка/кепка • `kapelusz` шляпа • `kask` шлем • `chusta` платок)
+
+### Кубик ОБУВЬ (obuwie) ⭐ (не различать тип — просто `buty` + цвет)
+- универсально: `Na nogach ma [цвет] buty.` (напр. `czarne buty`) — `buty` = любая обувь
+- не видно: `Nie widać, jakie buty ma na nogach.`
+- (точнее по желанию: `adidasy` кроссовки • `trampki` кеды • `kozaki` сапоги • `sandały` сандалии)
+
 ### Кубик «НЕ ВИДНО / НЕ ЗНАЮ» (превращает пробел в баллы)
 - `nie widać…` (после отрицания — родительный: `nie widać zieleni`)
 - `trudno powiedzieć, co to jest`
