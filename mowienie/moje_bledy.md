@@ -17,6 +17,9 @@
 - [ ] 2026-07-13 | ❌ (kobiety) Oni są ubrane → ✅ One są ubrane | `Oni` — мужчины/смешанная группа; `One` — только женщины/предметы
 - [ ] 2026-07-13 | ❌ są lustro → ✅ jest lustro (одно) / są lustra (несколько) | `lustro` ед.ч., `lustra` мн.ч.; глагол согласовать с числом
 - [ ] 2026-07-13 | ❌ siedzi na fotelu → ✅ siedzi w fotelu | с креслом предлог `w`
+- [ ] 2026-07-20 | ❌ ma na sobie koszulkę i długie włosy → ✅ ma na sobie koszulkę i MA długie włosy | ⭐ ПОВТОРЯЕТСЯ: `mieć na sobie` — ТОЛЬКО про одежду; волосы/очки отдельным `ma` (`ma okulary`, `ma długie włosy`)
+- [ ] 2026-07-20 | ❌ cztery dzieci / dwa dzieci → ✅ czworo / dwoje dzieci (или ОБХОД: без числа `dzieci`, `kilka osób`, `jedno/drugie dziecko`) | ⭐ ПОВТОРЯЕТСЯ: дети считаются собирательными числительными; проще — обходить, число не называть
+- [ ] 2026-07-20 | ❌ Myślę, że ta rodzina → ✅ Myślę, że to rodzina | «это» = `to` (не `ta`)
 
 ## Słownictwo (не то слово / калька с русского)
 

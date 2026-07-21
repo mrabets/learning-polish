@@ -108,6 +108,18 @@
 - не видно: `Nie widać, jakie buty ma na nogach.`
 - (точнее по желанию: `adidasy` кроссовки • `trampki` кеды • `kozaki` сапоги • `sandały` сандалии)
 
+### Кубик ВОЗРАСТ (одна фраза = дешёвый балл, работает везде)
+- категория: `młody` • `w średnim wieku` • `starszy` • дети `małe` • `nastolatek`
+- смешанная группа ⭐: `Osoby są w różnym wieku.` / `Rodzice są dorośli, a dzieci są jeszcze małe.`
+- число (если уверен): `Ma około trzydziestu lat.` / `Wygląda na jakieś 40 lat.`
+- через `wyglądać na` (+ бирник): `Wygląda na młodego / starszą osobę.`
+
+### Кубик СЧЁТ ДЕТЕЙ — ОБХОД (собирательные `dwoje/troje/czworo` трудны)
+- проще всего — **без числа**: `matka i dzieci` / `Widzę matkę z dziećmi.`
+- считать людей: `Na pierwszym planie jest kilka osób: matka i dzieci.`
+- по одному: `Jedno dziecko czyta, a drugie dziecko siedzi obok.` (`jedno/drugie dziecko` — легко)
+- (точные `dwoje, troje, czworo dzieci` — на потом, не критично)
+
 ### Кубик «НЕ ВИДНО / НЕ ЗНАЮ» (превращает пробел в баллы)
 - `nie widać…` (после отрицания — родительный: `nie widać zieleni`)
 - `trudno powiedzieć, co to jest`
