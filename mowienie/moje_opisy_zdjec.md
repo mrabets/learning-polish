@@ -37,8 +37,11 @@
 ## Zestaw 50 — бабушка помогает внуку мыть руки на кухне (rodzina) · ~6,5–7/7 (независимо подтверждено субагентом)
 > Na zdjęciu widzę, jak osoby myją ręce. Na pierwszym planie widzę kobietę i chłopca. Kobieta ma na sobie niebieską koszulę oraz czarne spodnie i ma długie, czarne włosy. Chłopiec natomiast ma na sobie szaro-czerwoną koszulkę i ma krótkie, czarne włosy. Oni są skupieni na wodzie i patrzą przed sobą. Myślę, że to rodzina: matka i syn lub babcia i wnuk. Oni wyglądają na spokojnych. Na drugim planie widzimy szarą lodówkę, a po prawej stronie trochę zieleni i okno. Trudno powiedzieć, jaka jest pora roku, bo ten moment odbywa się wewnątrz. Ale mogę powiedzieć, że to dzień, bo na zdjęciu dominują jasne kolory. Panuje spokojny, codzienny nastrój. Podoba mi się to zdjęcie, bo pokazuje codzienność w domu. Sam codziennie myję ręce razem z dziećmi po spacerze.
 
+## Zestaw 71 — дочь закрывает отцу глаза, подарок (rodzina, niespodzianka) · ~6,5/7
+> Na zdjęciu widzę mężczyznę i dziewczynkę. Mężczyzna ma na sobie czarną koszulkę i ma krótkie, jasne włosy. Nie widzę, co dziewczynka ma na sobie, ale ma jasne włosy. Myślę, że to rodzina: ojciec i córka. Ojciec ma w rękach jakiś prezent. Mężczyzna siedzi na sofie, a dziewczynka zakrywa oczy mężczyźnie. Myślę, że córka robi tacie niespodziankę, dlatego zakrywa mu oczy. Na drugim planie widzimy białą ścianę. Oni wyglądają na szczęśliwych i radosnych. Trudno powiedzieć, jaka jest pora roku, ponieważ ten moment odbywa się wewnątrz, ale mogę powiedzieć, że to jest dzień, bo dominują jasne kolory. Panuje radosny nastrój. Podoba mi się to zdjęcie, bo pokazuje radość i miłość między ojcem a córką.
+
 ---
 
-**Пройдено фото: 11** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 50). Из них в Ярусе 1 (обязательные): 7, 8, 9, 11, 21, 23, 24, 50 — уже **8 из 37**. Уровень — уверенный проходной, лучшие (з.50) независимо подтверждены на высокий балл.
+**Пройдено фото: 12** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 50, 71). Ярус 1 (обязательные) — **9 из 37**; тема `rodzina` пройдена ПОЛНОСТЬЮ (11, 21, 23, 24, 50, 71). Уровень — уверенный проходной, лучшие независимо подтверждены на высокий балл.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
