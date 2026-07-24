@@ -40,8 +40,12 @@
 ## Zestaw 71 — дочь закрывает отцу глаза, подарок (rodzina, niespodzianka) · ~6,5/7
 > Na zdjęciu widzę mężczyznę i dziewczynkę. Mężczyzna ma na sobie czarną koszulkę i ma krótkie, jasne włosy. Nie widzę, co dziewczynka ma na sobie, ale ma jasne włosy. Myślę, że to rodzina: ojciec i córka. Ojciec ma w rękach jakiś prezent. Mężczyzna siedzi na sofie, a dziewczynka zakrywa oczy mężczyźnie. Myślę, że córka robi tacie niespodziankę, dlatego zakrywa mu oczy. Na drugim planie widzimy białą ścianę. Oni wyglądają na szczęśliwych i radosnych. Trudno powiedzieć, jaka jest pora roku, ponieważ ten moment odbywa się wewnątrz, ale mogę powiedzieć, że to jest dzień, bo dominują jasne kolory. Panuje radosny nastrój. Podoba mi się to zdjęcie, bo pokazuje radość i miłość między ojcem a córką.
 
+## Zestaw 25 — семья обедает за столом (jedzenie, wspólny posiłek) · ~6/7 (строгая панель: 5,5–6)
+> Na zdjęciu widzę, jak osoby jedzą przy stole. Na pierwszym planie widzimy mężczyznę, dziewczynkę i kobietę. Mężczyzna ma na sobie jasną koszulę i ma czarne, krótkie włosy. Dziewczynka ma na sobie różową koszulę i ma czarne, długie włosy. Kobieta ma na sobie pomarańczową koszulkę i ma czarne, krótkie włosy. Dziewczynka daje jedzenie kobiecie, a kobieta i mężczyzna patrzą na dziewczynkę. Myślę, że to rodzina: ojciec, matka i córka. Oni siedzą przy stole i wyglądają na zadowolonych i szczęśliwych. Na stole widzimy jedzenie: ryż i coś jeszcze. Na drugim planie widzimy ścianę, a po prawej stronie na drugim planie kuchnię. Trudno powiedzieć, jaka jest pora roku, ponieważ ten moment odbywa się wewnątrz, ale mogę powiedzieć, że to dzień, ponieważ na zdjęciu dominują jasne kolory. Panuje codzienny i radosny nastrój. Podoba mi się to zdjęcie, bo pokazuje radość i miłość między córką a rodzicami. Sam lubię jeść razem ze swoją rodziną.
+> _Зона роста (по строгой панели, для 7/7): разнообразить синтаксис (не только `widzę…`, `ma… i ma…`), точнее ключевое действие (`córka karmi mamę`), живые эмоции (`śmieją się`)._
+
 ---
 
-**Пройдено фото: 12** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 50, 71). Ярус 1 (обязательные) — **9 из 37**; тема `rodzina` пройдена ПОЛНОСТЬЮ (11, 21, 23, 24, 50, 71). Уровень — уверенный проходной, лучшие независимо подтверждены на высокий балл.
+**Пройдено фото: 13** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 50, 71). Ярус 1 (обязательные) — **10 из 37**; тема `rodzina` — полностью; `jedzenie` — начата (7, 25). Уровень — уверенный проходной.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
