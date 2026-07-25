@@ -47,8 +47,11 @@
 ## Zestaw 40 — гриль на природе (jedzenie, grill) · ~6,5/7
 > Na zdjęciu widzę, jak osoby gotują jedzenie na świeżym powietrzu. Na pierwszym planie widzę mężczyznę; on ma na sobie koszulę i dżinsy, i ma jasne, długie włosy. Chłopak ma na sobie biało-czerwoną koszulkę i ma krótkie, czarne włosy. Trudno powiedzieć, co dokładnie ma na sobie kobieta, ale przypuszczam, że ma czarną koszulkę i ciemne, długie włosy. Kobieta i mężczyzna grillują coś. Myślę, że to rodzina: ojciec, matka i syn. Wyglądają na szczęśliwych i zadowolonych. Na drugim planie są las, chmury i góry, a także domek. Na zdjęciu dominują naturalne kolory: zielone i szare. Ten moment odbywa się na zewnątrz, na świeżym powietrzu. Mogę powiedzieć, że jest to dzień, ponieważ jest jasno. Także mogę powiedzieć, że jest to lato, ponieważ wszyscy mają na sobie koszulki. Na zdjęciu panuje radosny i codzienny nastrój. Podoba mi się to zdjęcie, bo pokazuje miły, codzienny moment. Lubię, kiedy ludzie spędzają czas razem. Sam też lubię spędzać czas z rodziną na świeżym powietrzu i grillować.
 
+## Zestaw 44 — подруги на пикнике (jedzenie, piknik) · ~6/7
+> Na zdjęciu widzimy dwie osoby, które robią piknik. Na pierwszym planie, po lewej stronie, widzę kobietę. Ona ma na sobie białą koszulkę i dżinsy, a także ma jasne, długie włosy. Po prawej stronie jest druga kobieta, ma na sobie szarą koszulę i też dżinsy, a także ma długie, ciemne włosy. Obie patrzą przed sobą i wyglądają na zadowolone i szczęśliwe. Rozmawiają o życiu i jedzą. Myślę, że to przyjaciółki. Na drugim planie widzimy las i duże drzewo. Mogę powiedzieć, że to lato, bo widzimy zieleń na drzewach. Na zdjęciu dominują jasne kolory, dlatego mogę powiedzieć, że to dzień. Panuje radosny, codzienny nastrój na świeżym powietrzu. Podoba mi się to zdjęcie, bo pokazuje miły i radosny moment. Lubię, kiedy ludzie spędzają czas razem. Sam lubię robić piknik z rodziną, dziećmi i przyjaciółmi na świeżym powietrzu.
+
 ---
 
-**Пройдено фото: 14** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 40, 50, 71). Ярус 1 (обязательные) — **11 из 37**; тема `rodzina` — полностью; `jedzenie` — 7, 25, 40. Уровень — уверенный проходной.
+**Пройдено фото: 15** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 40, 44, 50, 71). Ярус 1 (обязательные) — **12 из 37**; темы `rodzina` — полностью, `jedzenie` — 7, 25, 40, 44. Уровень — уверенный проходной; синтаксис начал разнообразиться.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
