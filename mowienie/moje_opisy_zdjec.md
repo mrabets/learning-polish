@@ -50,8 +50,11 @@
 ## Zestaw 44 — подруги на пикнике (jedzenie, piknik) · ~6/7
 > Na zdjęciu widzimy dwie osoby, które robią piknik. Na pierwszym planie, po lewej stronie, widzę kobietę. Ona ma na sobie białą koszulkę i dżinsy, a także ma jasne, długie włosy. Po prawej stronie jest druga kobieta, ma na sobie szarą koszulę i też dżinsy, a także ma długie, ciemne włosy. Obie patrzą przed sobą i wyglądają na zadowolone i szczęśliwe. Rozmawiają o życiu i jedzą. Myślę, że to przyjaciółki. Na drugim planie widzimy las i duże drzewo. Mogę powiedzieć, że to lato, bo widzimy zieleń na drzewach. Na zdjęciu dominują jasne kolory, dlatego mogę powiedzieć, że to dzień. Panuje radosny, codzienny nastrój na świeżym powietrzu. Podoba mi się to zdjęcie, bo pokazuje miły i radosny moment. Lubię, kiedy ludzie spędzają czas razem. Sam lubię robić piknik z rodziną, dziećmi i przyjaciółmi na świeżym powietrzu.
 
+## Zestaw 65 — компания чокается в ресторане (jedzenie, spotkanie) · ~6/7
+> Na zdjęciu widzimy, jak osoby piją piwo w restauracji. Na pierwszym planie, po lewej stronie, widzimy mężczyznę. On ma na sobie czerwoną koszulkę i ma okulary i czarne włosy. Dalej widzę mężczyznę; on ma na sobie jasną koszulkę i ma czarne włosy i brodę. Po prawej stronie widzę jeszcze jednego mężczyznę. On ma na sobie zielono-niebieską koszulkę i ma krótkie, jasne włosy. Oni wszyscy wyglądają na szczęśliwych i zadowolonych. Uśmiechają się i piją piwo. Myślę, że to są przyjaciele. Na drugim planie widzę duże okno. Na zdjęciu dominują jasne kolory, dlatego mogę powiedzieć, że to dzień. Za oknem widzę zieleń, dlatego mogę przypuszczać, że to lato lub wiosna. Na zdjęciu panuje codzienny, radosny nastrój. Podoba mi się to zdjęcie, bo pokazuje radość między przyjaciółmi. Lubię, kiedy ludzie spędzają czas razem. Sam lubię być z przyjaciółmi lub rodziną w kawiarni lub restauracji.
+
 ---
 
-**Пройдено фото: 15** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 40, 44, 50, 71). Ярус 1 (обязательные) — **12 из 37**; темы `rodzina` — полностью, `jedzenie` — 7, 25, 40, 44. Уровень — уверенный проходной; синтаксис начал разнообразиться.
+**Пройдено фото: 16** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 40, 44, 50, 65, 71). Ярус 1 (обязательные) — **13 из 37**; темы `rodzina` — полностью, `jedzenie` — полностью (7, 25, 40, 44, 65). Уровень — уверенный проходной.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
