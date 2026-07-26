@@ -59,8 +59,11 @@
 ## Zestaw 83 — пара на пикнике на закате (czas wolny) · ~6,5/7
 > Na zdjęciu widzę, jak dwie osoby obejmują się. Na pierwszym planie widzę kobietę. Ona ma na sobie jasną sukienkę i ma czarne, długie włosy. Mężczyzna ma na sobie białą koszulkę i ma krótkie, jasne włosy. Oni się obejmują i wyglądają na szczęśliwych. Myślę, że to zakochana para. Na drugim planie widzę drzewo. Osoby siedzą na kocu i robią piknik. Widzę na ziemi butelkę wina i czapkę. Na zdjęciu dominują naturalne kolory — zielone — dlatego mogę powiedzieć, że to lato i dzień. Na zdjęciu panuje romantyczny nastrój. Podoba mi się to zdjęcie, bo pokazuje miłość między kobietą a mężczyzną. Lubię, kiedy ludzie się kochają. Sam lubię spędzać romantyczny czas razem z żoną.
 
+## Zestaw 92 — девочки лепят снеговика (czas wolny, zima) · ~6,5/7
+> Na zdjęciu widzę dwie dziewczynki. Po lewej stronie dziewczynka ma na sobie różową kurtkę i czerwone spodnie. Dziewczynka po prawej stronie ma jasną kurtkę i czerwone spodnie. One mają jasne czapki. Lepią bałwana. Jeszcze widzę, że dziewczynka po lewej stronie ma na sobie rękawiczki. One wyglądają na skupione i spokojne. Myślę, że to rodzina — dwie siostry lub przyjaciółki. Na drugim planie widzę tylko śnieg. Na zdjęciu dominują białe kolory. Mogę powiedzieć, że to zima i dzień. Na zdjęciu panuje codzienny nastrój. Podoba mi się to zdjęcie, bo pokazuje zimową zabawę z dziećmi. Lubię, kiedy dzieci spędzają czas na świeżym powietrzu, a nie w domu. Sam lubię bawić się ze swoją córką na świeżym powietrzu i lepić bałwana.
+
 ---
 
-**Пройдено фото: 18** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 38, 40, 44, 50, 65, 71, 83). Ярус 1 (обязательные) — **15 из 37**; темы `rodzina`, `jedzenie` — полностью; `czas wolny` — 9, 38, 83. Уровень — уверенный проходной.
+**Пройдено фото: 19** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 38, 40, 44, 50, 65, 71, 83, 92). Ярус 1 (обязательные) — **16 из 37**; темы `rodzina`, `jedzenie`, `czas wolny` — полностью. Уровень — уверенный проходной.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
