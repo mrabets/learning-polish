@@ -56,8 +56,11 @@
 ## Zestaw 38 — компания пьёт вино в саду (czas wolny) · ~6,5/7 (лучший синтаксис)
 > Na zdjęciu widzę, jak osoby piją wino. Na pierwszym planie, po lewej stronie, widzę kobietę. Ona ma na sobie czarny płaszcz, czarne spodnie i białą koszulkę. Ma czarne, długie włosy. Następnie widzę kolejną kobietę. Ona ma na sobie czarne spodnie i czerwoną koszulkę. Ma długie, jasne włosy. Kolejna kobieta, którą widzę, ma na sobie dżinsy i białą koszulkę. Również ma długie, jasne włosy. Po prawej stronie widzę jeszcze jedną kobietę. Ona ma na sobie dżinsy i białą koszulkę, a na głowie czapkę. Ona oraz dwie inne kobiety trzymają kieliszki wina. Na drugim planie widzę las i wiele zieleni. Na dole po lewej stronie widzę pień. Wszystkie wyglądają na zadowolone i szczęśliwe. Myślę, że to przyjaciółki. Na zdjęciu dominują naturalne kolory. Uważam, że to jest lato, ponieważ widzę wiele zieleni. Na zdjęciu panuje codzienny i radosny nastrój. Podoba mi się to zdjęcie, bo pokazuje radość między przyjaciółkami. Lubię, kiedy ludzie spędzają czas razem. Sam lubię spędzać czas z rodziną i przyjaciółkami, robić piknik, grillować i tak dalej.
 
+## Zestaw 83 — пара на пикнике на закате (czas wolny) · ~6,5/7
+> Na zdjęciu widzę, jak dwie osoby obejmują się. Na pierwszym planie widzę kobietę. Ona ma na sobie jasną sukienkę i ma czarne, długie włosy. Mężczyzna ma na sobie białą koszulkę i ma krótkie, jasne włosy. Oni się obejmują i wyglądają na szczęśliwych. Myślę, że to zakochana para. Na drugim planie widzę drzewo. Osoby siedzą na kocu i robią piknik. Widzę na ziemi butelkę wina i czapkę. Na zdjęciu dominują naturalne kolory — zielone — dlatego mogę powiedzieć, że to lato i dzień. Na zdjęciu panuje romantyczny nastrój. Podoba mi się to zdjęcie, bo pokazuje miłość między kobietą a mężczyzną. Lubię, kiedy ludzie się kochają. Sam lubię spędzać romantyczny czas razem z żoną.
+
 ---
 
-**Пройдено фото: 17** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 38, 40, 44, 50, 65, 71). Ярус 1 (обязательные) — **14 из 37**; темы `rodzina`, `jedzenie` — полностью; `czas wolny` — 9, 38. Синтаксис заметно разнообразился (z.38 — лучший пример).
+**Пройдено фото: 18** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 38, 40, 44, 50, 65, 71, 83). Ярус 1 (обязательные) — **15 из 37**; темы `rodzina`, `jedzenie` — полностью; `czas wolny` — 9, 38, 83. Уровень — уверенный проходной.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
