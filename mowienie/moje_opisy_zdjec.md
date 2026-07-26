@@ -62,8 +62,11 @@
 ## Zestaw 92 — девочки лепят снеговика (czas wolny, zima) · ~6,5/7
 > Na zdjęciu widzę dwie dziewczynki. Po lewej stronie dziewczynka ma na sobie różową kurtkę i czerwone spodnie. Dziewczynka po prawej stronie ma jasną kurtkę i czerwone spodnie. One mają jasne czapki. Lepią bałwana. Jeszcze widzę, że dziewczynka po lewej stronie ma na sobie rękawiczki. One wyglądają na skupione i spokojne. Myślę, że to rodzina — dwie siostry lub przyjaciółki. Na drugim planie widzę tylko śnieg. Na zdjęciu dominują białe kolory. Mogę powiedzieć, że to zima i dzień. Na zdjęciu panuje codzienny nastrój. Podoba mi się to zdjęcie, bo pokazuje zimową zabawę z dziećmi. Lubię, kiedy dzieci spędzają czas na świeżym powietrzu, a nie w domu. Sam lubię bawić się ze swoją córką na świeżym powietrzu i lepić bałwana.
 
+## Zestaw 31 — пара с чемоданами у моря (podróże, turyści) · ~6/7
+> Na zdjęciu widzę, jak turyści patrzą na morze. Na pierwszym planie widzę kobietę. Ona ma na sobie białą koszulkę, czarne spodnie i jasną czapkę. Mężczyzna ma na sobie szarą koszulkę oraz jasne, krótkie spodnie. Ma jasną czapkę. Kobieta trzyma w prawej ręce bagaż. Widzę cztery walizki: czerwoną, czarną, szarą i jeszcze jedną czerwoną. Nie widać twarzy, ale wyglądają na zrelaksowanych. Na drugim planie widzę piękne morze. Jeszcze widzę chmury i niebo. Po prawej stronie widzę plażę i skały. Na zdjęciu dominują naturalne kolory. Mogę powiedzieć, że to dzień i lato. Myślę, że dwie osoby są rodziną — mąż i żona, którzy pojechali na urlop. Na zdjęciu panuje urlopowy nastrój. Podoba mi się to zdjęcie, bo pokazuje wakacje nad morzem. Sam lubię podróżować i odpoczywać nad morzem razem ze swoją rodziną.
+
 ---
 
-**Пройдено фото: 19** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 38, 40, 44, 50, 65, 71, 83, 92). Ярус 1 (обязательные) — **16 из 37**; темы `rodzina`, `jedzenie`, `czas wolny` — полностью. Уровень — уверенный проходной.
+**Пройдено фото: 20** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 31, 38, 40, 44, 50, 65, 71, 83, 92). Ярус 1 (обязательные) — **17 из 37**; темы `rodzina`, `jedzenie`, `czas wolny` — полностью; `podróże` — начата (31). Уровень — уверенный проходной.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.

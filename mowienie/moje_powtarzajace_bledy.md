@@ -28,6 +28,11 @@
 - ❌ `w miaste` · `na fotelu` · `wewnątrz w sali`
 - ✅ `w mieście` · `w fotelu` · `wewnątrz` (или `w pokoju`) — без задвоения
 
+## 6b. `który/które/którzy` — согласуется со СЛОВОМ, к которому относится
+- ❌ `osoby, którzy podróżują` · `mąż i żona, które pojechali`
+- ✅ `osoby, które…` (osoby — жен. → które) · `mąż i żona, którzy…` (есть мужчина → którzy)
+- Правило: смотри на само существительное: `kobieta → która`, `mężczyzna → który`, `osoby/kobiety → które`, `mężczyźni/mąż i żona → którzy`.
+
 ## 7. Подлежащее для `odbywa się` / `ma miejsce`
 - ❌ `Zdjęcie odbywa się…`
 - ✅ `Ta sytuacja / To wydarzenie / Ten moment odbywa się…` (фото само не «происходит»)
