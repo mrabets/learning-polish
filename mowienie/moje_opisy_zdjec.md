@@ -68,8 +68,11 @@
 ## Zestaw 61 — друзья с рюкзаками в горах (podróże, wędrówka) · ~6,5/7
 > Na zdjęciu widzę, jak osoby podróżują w górach. Na pierwszym planie, po lewej stronie, widzę kobietę. Ona ma na sobie czarną koszulkę i czarne spodnie, nosi plecak, ma czarne, długie włosy. Kolejna osoba to mężczyzna. On ma na sobie ciemną koszulkę oraz czarne, krótkie spodnie. Także on ma krótkie, ciemne włosy. Kolejna osoba to mężczyzna. On ma na sobie ciemną koszulę. Także on ma ciemne, krótkie włosy. Kolejna osoba to kobieta. Ona ma na sobie jasną, brązową koszulę. Także ona ma jasne, długie włosy. Ona nosi czerwony plecak. Na drugim planie widzę skały oraz jasne niebo. Myślę, że to przyjaciele. Oni wyglądają na radosnych i szczęśliwych. Na zdjęciu dominują jasne kolory, dlatego mogę powiedzieć, że to dzień i lato. Panuje radosny nastrój. Podoba mi się to zdjęcie, bo pokazuje radość w podróży między przyjaciółmi. Lubię, kiedy ludzie się uśmiechają i spędzają czas razem. Sam lubię spędzać czas z przyjaciółmi i rodziną.
 
+## Zestaw 99 — пара у кемпингового прицепа (podróże, kemping) · ~6/7
+> Na zdjęciu widzimy dwie osoby. Na pierwszym planie znajduje się mężczyzna. Ma na sobie czarną kurtkę i dżinsy, a także ma czarne włosy. Po prawej stronie widzę kobietę, która ma szarą kurtkę i również dżinsy. Ona ma długie, czarne włosy. Mężczyzna trzyma w rękach walizkę. Wygląda na szczęśliwego i radosnego. Nie widzę twarzy kobiety. Myślę, że oni przyjechali na wakacje i będą mieszkać w przyczepie turystycznej. Myślę, że to rodzina: mąż i żona lub chłopak i dziewczyna. W tle dominują naturalne kolory: zielony. Mogę powiedzieć, że to lato lub jesień. Na zdjęciu panuje wakacyjny nastrój. Podoba mi się to zdjęcie, bo pokazuje wakacje i to, jak ludzie spędzają czas razem na świeżym powietrzu. Lubię też spędzać czas na świeżym powietrzu z rodziną lub przyjaciółmi.
+
 ---
 
-**Пройдено фото: 21** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 31, 38, 40, 44, 50, 61, 65, 71, 83, 92). Ярус 1 (обязательные) — **18 из 37 = 49%**; темы `rodzina`, `jedzenie`, `czas wolny` — полностью; `podróże` — 31, 61. Уровень — уверенный проходной.
+**Пройдено фото: 22** (zestawy 3, 5, 6, 7, 8, 9, 11, 21, 23, 24, 25, 31, 38, 40, 44, 50, 61, 65, 71, 83, 92, 99). Ярус 1 (обязательные) — **19 из 37 = 51%**; темы `rodzina`, `jedzenie`, `czas wolny`, `podróże` — полностью. Уровень — уверенный проходной.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
