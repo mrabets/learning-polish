@@ -33,6 +33,16 @@
 - ✅ `osoby, które…` (osoby — жен. → które) · `mąż i żona, którzy…` (есть мужчина → którzy)
 - Правило: смотри на само существительное: `kobieta → która`, `mężczyzna → który`, `osoby/kobiety → które`, `mężczyźni/mąż i żona → którzy`.
 
+## 6c. `skupiony na` + ПРЕДЛОЖНЫЙ падеж ⭐⭐ (повторялось 3 раза)
+- ❌ `skupiona na grę` · `skupiony na wodę` · `skupiona na pracę` · `na dzieci`
+- ✅ `na grze` · `na wodzie` · `na pracy` · `na dzieciach`
+- ОБХОД (если не уверен): просто `jest skupiony` (без дополнения) или `patrzy na grę/wodę` (бирник — легче).
+
+## 6d. `dominują` (цвета) vs `panuje` (настроение) ⭐⭐
+- ❌ `panują jasne kolory` · `na zdjęciu panuje jasny kolor`
+- ✅ `Na zdjęciu **dominują** jasne kolory` · `Panuje spokojny **nastrój**`
+- Правило: `dominują` — только про kolory; `panuje` — только про nastrój/atmosferę.
+
 ## 7. Подлежащее для `odbywa się` / `ma miejsce`
 - ❌ `Zdjęcie odbywa się…`
 - ✅ `Ta sytuacja / To wydarzenie / Ten moment odbywa się…` (фото само не «происходит»)

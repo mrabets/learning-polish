@@ -20,6 +20,38 @@
 - [ ] 2026-07-20 | ❌ ma na sobie koszulkę i długie włosy → ✅ ma na sobie koszulkę i MA długie włosy | ⭐ ПОВТОРЯЕТСЯ: `mieć na sobie` — ТОЛЬКО про одежду; волосы/очки отдельным `ma` (`ma okulary`, `ma długie włosy`)
 - [ ] 2026-07-20 | ❌ cztery dzieci / dwa dzieci → ✅ czworo / dwoje dzieci (или ОБХОД: без числа `dzieci`, `kilka osób`, `jedno/drugie dziecko`) | ⭐ ПОВТОРЯЕТСЯ: дети считаются собирательными числительными; проще — обходить, число не называть
 - [ ] 2026-07-20 | ❌ Myślę, że ta rodzina → ✅ Myślę, że to rodzina | «это» = `to` (не `ta`)
+- [ ] 2026-07-21 | ❌ skupiona na grę / na wodę / na pracę / na dzieci → ✅ na grze / na wodzie / na pracy / na dzieciach | ⭐ `skupiony na` + предложный; обход: просто `jest skupiony` или `patrzy na…`
+- [ ] 2026-07-21 | ❌ panują jasne kolory → ✅ dominują jasne kolory | ⭐ `dominują` — про цвета, `panuje` — только про nastrój
+- [ ] 2026-07-21 | ❌ patrzą nad morze → ✅ patrzą na morze | `patrzeć na` + бирник
+- [ ] 2026-07-21 | ❌ w prawej ręke → ✅ w prawej ręce | предложный от `ręka`
+- [ ] 2026-07-21 | ❌ pisze na tablete → ✅ pisze na tablecie | предложный от `tablet`
+- [ ] 2026-07-21 | ❌ będą mieszkać w przyczepę → ✅ mieszkać w przyczepie | `mieszkać w` + предложный
+- [ ] 2026-07-21 | ❌ Obe patrzą → ✅ Obie patrzą | «обе» (женщины) = `obie`
+- [ ] 2026-07-21 | ❌ Oba nosi czerwony plecak (про женщину) → ✅ Ona nosi… | `oba` — мужской род/двое
+- [ ] 2026-07-21 | ❌ to przyjacieli → ✅ to są przyjaciele | после `to` — именительный
+- [ ] 2026-07-21 | ❌ one są przyjaciółmi (про женщин) → ✅ to przyjaciółki | женская форма `przyjaciółki`
+- [ ] 2026-07-21 | ❌ dwa laptopa → ✅ dwa laptopy | мн.ч. `laptopy`
+- [ ] 2026-07-21 | ❌ widzę duże sofa → ✅ widzę dużą sofę | бирник жен. рода
+- [ ] 2026-07-21 | ❌ Na stole są laptopa → ✅ Na stole są laptop i notatki | именительный после `są`
+- [ ] 2026-07-21 | ❌ pracuję jako programistą → ✅ jako programista | `jako` + именительный
+- [ ] 2026-07-21 | ❌ cztery bagaże: czerwoną, czarną → ✅ cztery walizki: czerwoną, czarną | согласование рода (проще брать `walizki`)
+
+## Kalki z rosyjskiego (калька — отдельно, частая беда)
+
+- [ ] 2026-07-21 | ❌ krome jednej kobiety → ✅ oprócz jednej kobiety | «кроме» = `oprócz` / `poza`
+- [ ] 2026-07-21 | ❌ pracowałem jak zdalnie tak i w biurze → ✅ zarówno zdalnie, jak i w biurze | «как… так и» = `zarówno…, jak i…`
+- [ ] 2026-07-21 | ❌ widzę dwer → ✅ widzę drzwi | «дверь» = `drzwi` (всегда мн.ч.)
+- [ ] 2026-07-21 | ❌ czasy na ręce → ✅ zegarek na ręce | «часы» (наручные) = `zegarek`; `czasy` = «времена»
+- [ ] 2026-07-21 | ❌ szapkę → ✅ czapkę | шапка = `czapka`
+- [ ] 2026-07-21 | ❌ kaminek / skarpienki → ✅ kominek / skarpetki | камин / носки
+- [ ] 2026-07-21 | ❌ Sam lubię robic romantycy → ✅ spędzać romantyczny czas | нет такого оборота
+- [ ] 2026-07-21 | ❌ pokazuje grze zimową → ✅ pokazuje zimową zabawę | `gra` = игра по правилам; лепка снеговика = `zabawa`; + бирник `zabawę`
+- [ ] 2026-07-21 | ❌ Sam lubię grać z córką → ✅ bawić się z córką | с ребёнком — `bawić się`
+- [ ] 2026-07-21 | ❌ podróżowy / pracowny nastrój → ✅ wakacyjny / roboczy nastrój | таких прилагательных нет
+- [ ] 2026-07-21 | ❌ Pogoda jest chmura → ✅ Jest pochmurno / Pogoda jest pochmurna | `chmura` = облако (сущ.)
+- [ ] 2026-07-21 | ❌ pokazuje prezentację na deskę → ✅ na tablicy | `deska` = доска-планка; маркерная = `tablica`
+- [ ] 2026-07-21 | ❌ osoba po centrum → ✅ osoba w centrum / na środku | предлог
+- [ ] 2026-07-21 | ❌ jedzą jedzenie → ✅ jedzą / jedzą posiłek | тавтология
 
 ## Słownictwo (не то слово / калька с русского)
 
