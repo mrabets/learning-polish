@@ -120,6 +120,16 @@
 - по одному: `Jedno dziecko czyta, a drugie dziecko siedzi obok.` (`jedno/drugie dziecko` — легко)
 - (точные `dwoje, troje, czworo dzieci` — на потом, не критично)
 
+### Кубик КОНЦОВКА ⭐ — формула [оценка] + [ПОЧЕМУ] + [личная связь]
+Причина должна объяснять ЦЕННОСТЬ, а не пересказывать картинку.
+Банк универсальных причин (`bo/ponieważ…`):
+- `…bo pokazuje pozytywne emocje.`
+- `…bo przypomina mi moje własne doświadczenia.` (или `przypomina mi o moim doświadczeniu`)
+- `…bo widać, że ludzie robią coś razem.`
+- `…bo pokazuje ważny moment w życiu człowieka.`
+- `…bo uważam, że [nauka / praca / rodzina / zdrowie] jest ważna w życiu każdego człowieka.` ⭐ (подставить тему фото)
+Усиление в конце: `Moim zdaniem takie chwile są ważne.` / `Uważam, że warto doceniać takie momenty.`
+
 ### Кубик «НЕ ВИДНО / НЕ ЗНАЮ» (превращает пробел в баллы)
 - `nie widać…` (после отрицания — родительный: `nie widać zieleni`)
 - `trudno powiedzieć, co to jest`
