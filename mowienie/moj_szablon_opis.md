@@ -130,6 +130,24 @@
 - `…bo uważam, że [nauka / praca / rodzina / zdrowie] jest ważna w życiu każdego człowieka.` ⭐ (подставить тему фото)
 Усиление в конце: `Moim zdaniem takie chwile są ważne.` / `Uważam, że warto doceniać takie momenty.`
 
+### ⭐ БЕЗОПАСНЫЙ НАБОР ГЛАГОЛОВ (чтобы не возиться с падежами)
+Говорить только теми конструкциями, чей падеж уже держу:
+- `widzę / widać` + кого/что · `ma / ma na sobie` · `trzyma` · `patrzy na` (всё — biernik)
+- `jest / są` + прилагательное · `wygląda na` + biernik
+- `siedzi / stoi / leży` + `w / na` + miejscownik (`w fotelu`, `na stole`)
+- ⭐ `lubię / chcę` + ИНФИНИТИВ (`lubię czytać`, `chcę kupić`) — полностью обходит падежи
+
+**Глаголы-ловушки → замена:**
+| Ловушка | Замена |
+|---|---|
+| `szukać` (+род.) | `chce kupić` + biernik |
+| `pomagać` (+дат.) | без дополнения: `farmaceuta pomaga` |
+| `potrzebować` (+род.) | `chce` |
+| `używać` (+род.) | `ma` |
+| `iść do` (+род.) | `jestem w` + miejscownik (`jestem w aptece`) |
+
+🔑 **Золотое правило:** не уверен в падеже → скажи через `lubię/chcę + инфинитив` или `jest + прилагательное`.
+
 ### Кубик «НЕ ВИДНО / НЕ ЗНАЮ» (превращает пробел в баллы)
 - `nie widać…` (после отрицания — родительный: `nie widać zieleni`)
 - `trudno powiedzieć, co to jest`
