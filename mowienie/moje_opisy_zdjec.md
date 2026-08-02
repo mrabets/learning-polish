@@ -110,9 +110,11 @@
 ## Zestaw 18 — выбор одежды в бутике (zakupy) · ~6/7
 > Na zdjęciu widzimy, jak kobieta wybiera ubrania. Na pierwszym planie widzę kobietę; ma na sobie czarne spodnie i szarą koszulę. Ma krótkie, jasne włosy i nosi torebkę. Nie widać twarzy tej kobiety, ale wygląda na skupioną. Wybiera odzież i chce coś kupić. Po prawej stronie widzę odzież, na przykład białą koszulę i szarą koszulę, a także spodnie i tak dalej. Po lewej stronie widzę odzież dla dzieci — tylko koszulki dla dzieci. Na drugim planie widzę duże okno i białe ściany. Na zdjęciu dominują jasne kolory, dlatego mogę powiedzieć, że jest dzień. Jednak trudno określić, jaka jest pora roku, ponieważ ten moment odbywa się wewnątrz. Panuje codzienny, spokojny nastrój. Podoba mi się to zdjęcie, bo pokazuje sklep z ubraniami. Sam lubię wybierać sobie odzież na lato, raz w roku.
 
+## Zestaw 19 — женщина с тележкой в супермаркете (zakupy) · ~6/7
+> Na zdjęciu widzimy, jak starsza pani wybiera produkty w sklepie. Na pierwszym planie widzę starszą panią. Ona ma na sobie białą koszulę i czarno-białą sukienkę, a także białą czapkę i okulary. Wygląda na spokojną i skupioną — jest skupiona na produktach, na makaronach. Po lewej stronie widzę wiele makaronów, półki z makaronami. Na drugim planie widzę też półki, a także białą ścianę. Na zdjęciu dominują jasne kolory. Widzę na dole ciemną podłogę. Trudno powiedzieć, jaka jest pora roku i pora dnia, ponieważ ten moment odbywa się wewnątrz, w sklepie. Panuje codzienny i spokojny nastrój. Podoba mi się to zdjęcie, bo sam lubię chodzić do sklepu i wybierać sobie produkty.
+
 ---
 
-**Пройдено фото: 35** (zestawy 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 21, 23, 24, 25, 29, 30, 31, 35, 38, 40, 44, 50, 52, 59, 61, 65, 69, 71, 83, 92, 99). Ярус 1 (обязательные) — **32 из 37 = 86%**; закрыты `rodzina`, `jedzenie`, `czas wolny`, `podróże`, `praca`, `edukacja`, `sport`, `zdrowie`, `dom`; `zakupy` — 18. Уровень — уверенный проходной.
-> ⚠️ Слабое место (повторяется 3 раза подряд): **пропадают эмоции людей** (`wygląda na…`). Добавлять сразу после одежды/волос.
+**Пройдено фото: 36** (zestawy 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 23, 24, 25, 29, 30, 31, 35, 38, 40, 44, 50, 52, 59, 61, 65, 69, 71, 83, 92, 99). Ярус 1 (обязательные) — **33 из 37 = 89%**; закрыты `rodzina`, `jedzenie`, `czas wolny`, `podróże`, `praca`, `edukacja`, `sport`, `zdrowie`, `dom`, `zakupy`. Уровень — уверенный проходной.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
