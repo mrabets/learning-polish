@@ -43,6 +43,12 @@
 - ✅ `Na zdjęciu **dominują** jasne kolory` · `Panuje spokojny **nastrój**`
 - Правило: `dominują` — только про kolory; `panuje` — только про nastrój/atmosferę.
 
+## 9. ⚠️ ПРОПАДАЮТ ЭМОЦИИ людей (не языковая, а ошибка полноты) ⭐⭐⭐
+- Забываю сказать, какими люди выглядят — а это обязательный пункт чек-листа.
+- ✅ Всегда вставлять сразу после одежды/волос: `wygląda na skupioną / zadowolonego / spokojnych`
+- Если лица не видно: `Nie widać twarzy, ale wygląda na skupioną.`
+- Порядок в блоке про человека: **одежда → волосы → ЭМОЦИЯ → действие**
+
 ## 7. Подлежащее для `odbywa się` / `ma miejsce`
 - ❌ `Zdjęcie odbywa się…`
 - ✅ `Ta sytuacja / To wydarzenie / Ten moment odbywa się…` (фото само не «происходит»)
