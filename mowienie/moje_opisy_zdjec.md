@@ -113,8 +113,11 @@
 ## Zestaw 19 — женщина с тележкой в супермаркете (zakupy) · ~6/7
 > Na zdjęciu widzimy, jak starsza pani wybiera produkty w sklepie. Na pierwszym planie widzę starszą panią. Ona ma na sobie białą koszulę i czarno-białą sukienkę, a także białą czapkę i okulary. Wygląda na spokojną i skupioną — jest skupiona na produktach, na makaronach. Po lewej stronie widzę wiele makaronów, półki z makaronami. Na drugim planie widzę też półki, a także białą ścianę. Na zdjęciu dominują jasne kolory. Widzę na dole ciemną podłogę. Trudno powiedzieć, jaka jest pora roku i pora dnia, ponieważ ten moment odbywa się wewnątrz, w sklepie. Panuje codzienny i spokojny nastrój. Podoba mi się to zdjęcie, bo sam lubię chodzić do sklepu i wybierać sobie produkty.
 
+## Zestaw 37 — невеста бросает букет (uroczystość) · ~6/7
+> Na zdjęciu widzę ślub. Na pierwszym planie jest kobieta. Ma na sobie białą, ślubną suknię. Rzuca bukiet i wygląda na szczęśliwą. Uśmiecha się. Na drugim planie są goście. Goście mają na sobie sukienki i eleganckie ubrania. Stoją i patrzą na pannę młodą. Myślę, że to rodzina lub przyjaciele panny młodej. Goście wyglądają na szczęśliwych i radosnych. W tle widzę zieleń i domek. Mogę powiedzieć, że to lato, ponieważ widać zieleń. To jest dzień lub wieczór, bo na zdjęciu dominują jasne kolory. Na zdjęciu panuje uroczysty, radosny nastrój. Podoba mi się to zdjęcie, ponieważ pokazuje uroczystość. Sam lubię chodzić na śluby jako gość.
+
 ---
 
-**Пройдено фото: 36** (zestawy 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 23, 24, 25, 29, 30, 31, 35, 38, 40, 44, 50, 52, 59, 61, 65, 69, 71, 83, 92, 99). Ярус 1 (обязательные) — **33 из 37 = 89%**; закрыты `rodzina`, `jedzenie`, `czas wolny`, `podróże`, `praca`, `edukacja`, `sport`, `zdrowie`, `dom`, `zakupy`. Уровень — уверенный проходной.
+**Пройдено фото: 37** (zestawy 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 23, 24, 25, 29, 30, 31, 35, 37, 38, 40, 44, 50, 52, 59, 61, 65, 69, 71, 83, 92, 99). Ярус 1 (обязательные) — **34 из 37 = 92%**; закрыты `rodzina`, `jedzenie`, `czas wolny`, `podróże`, `praca`, `edukacja`, `sport`, `zdrowie`, `dom`, `zakupy`; `uroczystość` — 37. Уровень — уверенный проходной.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
