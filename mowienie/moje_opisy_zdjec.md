@@ -122,8 +122,19 @@
 ## Zestaw 45 — две девушки зимой, секрет на ухо (relacje) · ~6/7
 > Na zdjęciu widzimy dwie kobiety. Na pierwszym planie, po lewej stronie, kobieta ma na sobie czerwoną kurtkę i niebieską czapkę. Ona jest zaskoczona. Kobieta po prawej stronie ma na sobie białą kurtkę i czarny sweter. Ona ma także jasne, długie włosy i coś szepcze do ucha. Wygląda na radosną. Myślę, że to przyjaciółki. Na drugim planie widzę las i wiele zieleni. Na zdjęciu dominują naturalne kolory: zielone i białe. Mogę powiedzieć, że to dzień, a pora roku to zima. Na zdjęciu panuje codzienny nastrój. Podoba mi się to zdjęcie, bo pokazuje, jak ludzie spędzają czas razem. Lubię, kiedy ludzie spędzają czas na świeżym powietrzu. Sam lubię spędzać czas z rodziną lub przyjaciółmi.
 
+## Zestaw 41 — девушки со смартфонами на вечеринке (technologia) · ~6,5/7 ⭐ самое чистое
+> Zdjęcie przedstawia imprezę. Na pierwszym planie widzę cztery kobiety. Kobieta po lewej stronie ma na sobie białą koszulę, a także ma czarne, długie włosy. Nosi czerwoną torebkę i robi selfie. Kolejna kobieta ma na sobie pomarańczową koszulę i dżinsową spódnicę. Również ma czarne, długie włosy. Kolejna kobieta ma na sobie ciemną sukienkę, także ma długie, czarne włosy. Wygląda na radosną i się uśmiecha. Ostatnia kobieta ma na sobie białą koszulę i dżinsową spódnicę, również ma czarne, długie włosy. Także wygląda na radosną. Pierwsze dwie kobiety wyglądają na spokojne. Wszystkie mają smartfony i robią selfie. Myślę, że to przyjaciółki. Na drugim planie widzę szczegóły imprezy. Na zdjęciu dominują jasne kolory. Ten moment odbywa się wewnątrz w sali, dlatego trudno powiedzieć, jaka jest pora roku i pora dnia. Panuje wesoły, codzienny nastrój. Podoba mi się to zdjęcie, bo pokazuje, jak ludzie spędzają czas razem. Sam lubię chodzić na imprezy z przyjaciółmi i rodziną.
+
 ---
 
-**Пройдено фото: 39** (zestawy 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 23, 24, 25, 29, 30, 31, 35, 37, 38, 40, 42, 44, 45, 50, 52, 59, 61, 65, 69, 71, 83, 92, 99). Ярус 1 (обязательные) — **36 из 37 = 97%**; осталось только `technologia` (41).
+# 🎯 ЯРУС 1 ЗАКРЫТ: 37/37 = 100%
+
+**Пройдено фото всего: 40** (zestawy 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 23, 24, 25, 29, 30, 31, 35, 37, 38, 40, 41, 42, 44, 45, 50, 52, 59, 61, 65, 69, 71, 83, 92, 99).
+
+**Все 14 тем Яруса 1 закрыты:** `rodzina` (6), `jedzenie` (5), `czas wolny` (4), `praca` (4), `podróże` (3), `edukacja` (2), `sport` (2), `zdrowie` (2), `dom` (2), `zakupy` (2), `uroczystość` (2), `relacje` (1), `technologia` (1), `miasto` (1).
+
+**Уровень:** стабильно ~6–6,5/7 за Zadanie 1 (порог сдачи — 3,5/7). Полнота 12/12 держится сама; язык — отдельные падежи и калька.
+
+**Что дальше:** Ярус 2 (резерв, 43 фото) — по желанию, для поддержания формы. Приоритет теперь — **Zadanie 2 (monolog)** и **Zadanie 3 (dialog)**, они пока на нуле.
 
 > ⚠️ Прим.: до 2026-07-20 в записях была сдвинута нумерация (со второго фото на −1). Исправлено по факту картинок книги. Настоящий zestaw 4 (макияж невесте) НЕ пройден.
