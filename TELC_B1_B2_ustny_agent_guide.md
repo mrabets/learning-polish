@@ -278,3 +278,41 @@ audience: "AI‑агент‑репетитор, генерирующий мат
 - **Opis obrazka:** “Na zdjęciu widzę…”, затем кто/где/что делает, детали, предположение “wydaje mi się, że…”, 1–2 фразы мнения.
 - **Prezentacja:** тезис → 2 аргумента → пример → 1 контраргумент (если успевает) → вывод.
 - **Dyskusja:** “Zgadzam się / Nie zgadzam się / To zależy” → аргумент → пример → вопрос партнёру.
+
+
+---
+
+## 1B — ГОТОВЫЙ КАРКАС ОТВЕТА (добавлено 2026-07-21, по просьбе ученика)
+
+> ⚠️ ВАЖНО (проверено по официальному `uebungstest_polnisch.pdf`, стр. 22):
+> - Экзаменатор обращается на **«ty»**, НЕ Pan/Pani (версия Szkoła): `pracowałeś`, `Opowiedz`, `Co sądzisz?`, `Czy możesz powtórzyć?`
+> - Вопросы 1B **открытые**, не «да/нет»: `Nad jakimi…?`, `Od czego zależy…?`, `Jakie cechy…?`
+> - Дословные официальные вопросы (тема «praca w grupie»), B1: «Nad jakimi projektami pracowałeś/łaś w grupie?» · «Od czego zależy sukces pracy w grupie?» · «Jakie cechy charakteru lub umiejętności przydają się w pracy zespołowej?»
+> - Критерий B1 для 1B (стр. 35): «Potrafi omówić swoje doświadczenia w sposób dość szczegółowy. Potrafi krótko uzasadnić i wyjaśnić opinie na znane tematy.»
+
+### Каркас ответа — 3 предложения (этого хватает для B1)
+1. **Факт о себе** (из личного банка) — `Jestem programistą.`
+2. **Опыт/конкретика** — `Pracowałem nad różnymi projektami.`
+3. **Мнение + причина** (универсальная начинка) — `Z mojego doświadczenia najważniejsza jest komunikacja.`
+
+### Универсальные начинки (работают почти на любую тему)
+- `Myślę, że najważniejsza jest komunikacja.` ⭐
+- `To zależy od sytuacji.` ⭐ (спасательный оборот)
+- `Z mojego doświadczenia…` · `Na przykład w mojej pracy…` · `Dla mnie to ważne, ponieważ…`
+- `Dlatego uważam, że…` (вывод)
+
+### Личный банк фактов ученика (выучить один раз, использовать везде)
+- `Jestem programistą.` / `Pracuję jako programista.`
+- `Pracuję zarówno zdalnie, jak i w biurze.`
+- `Mam rodzinę: żonę i dzieci.`
+- `Lubię spędzać czas z rodziną na świeżym powietrzu.`
+- `Kiedyś uczyłem się na uniwersytecie.`
+
+### Ratunkowe zwroty для TELC (форма «ty»!)
+- `Przepraszam, czy możesz powtórzyć?`
+- `Czy dobrze rozumiem, że pytasz o…?`
+- `Jak by to powiedzieć…` / `Chwileczkę…`
+
+### ✅ Первый отработанный ответ (2026-07-21)
+**Q:** Nad jakimi projektami pracowałeś w grupie?
+**A:** «Jestem programistą. Pracowałem nad różnymi projektami. Z mojego doświadczenia najważniejsza jest komunikacja.»
