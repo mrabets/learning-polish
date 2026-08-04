@@ -290,10 +290,22 @@ audience: "AI‑агент‑репетитор, генерирующий мат
 > - Дословные официальные вопросы (тема «praca w grupie»), B1: «Nad jakimi projektami pracowałeś/łaś w grupie?» · «Od czego zależy sukces pracy w grupie?» · «Jakie cechy charakteru lub umiejętności przydają się w pracy zespołowej?»
 > - Критерий B1 для 1B (стр. 35): «Potrafi omówić swoje doświadczenia w sposób dość szczegółowy. Potrafi krótko uzasadnić i wyjaśnić opinie na znane tematy.»
 
-### Каркас ответа — 3 предложения (этого хватает для B1)
-1. **Факт о себе** (из личного банка) — `Jestem programistą.`
-2. **Опыт/конкретика** — `Pracowałem nad różnymi projektami.`
-3. **Мнение + причина** (универсальная начинка) — `Z mojego doświadczenia najważniejsza jest komunikacja.`
+### ⚠️ ИСПРАВЛЕНО 2026-07-21 (независимая проверка по стр. 35 и 38 PDF)
+
+**Шкала баллов 1B (стр. 38):** B2 = 5–4 · **B1 = 3–2** · **A2 = 1** · 0 = 0.
+Критерий: **B1** — «omówić swoje doświadczenia **dość szczegółowo** + **krótko uzasadnić i wyjaśnić** opinie»; **A2** — «w sposób **krótki i ogólny**».
+
+❌ **3 общих предложения = A2 (1 балл), НЕ B1.** Ранее в этом файле был записан слишком короткий каркас — он ошибочен.
+
+### ✅ ПРАВИЛЬНЫЙ каркас 1B (для B1: 2–3 балла)
+**konkretny przykład → детали (kto, ile osób, jak długo, moja rola) → opinia + `bo` → krótki wniosek**
+
+Обязательно:
+1. **Один КОНКРЕТНЫЙ случай**, а не «różne projekty»: `Ostatnio pracowałem w zespole nad aplikacją…`
+2. **Детали:** сколько людей, как долго, **моя роль** — `W grupie było pięć osób… Ja byłem odpowiedzialny za…  Projekt trwał pół roku.`
+3. **Ответить на ключевое слово вопроса** (если спрашивают `w grupie` — говорить именно про группу!).
+4. **Мнение с обоснованием:** `Moim zdaniem najważniejsza jest komunikacja, **bo** kiedy nie rozmawialiśmy codziennie, robiliśmy tę samą pracę dwa razy.`
+5. **Объём:** 1B — часть беседы ~3 мин на человека; 3 фразы = экзаменатору нечего оценивать (страдают ещё Płynność и Słownictwo).
 
 ### Универсальные начинки (работают почти на любую тему)
 - `Myślę, że najważniejsza jest komunikacja.` ⭐
@@ -313,6 +325,8 @@ audience: "AI‑агент‑репетитор, генерирующий мат
 - `Czy dobrze rozumiem, że pytasz o…?`
 - `Jak by to powiedzieć…` / `Chwileczkę…`
 
-### ✅ Первый отработанный ответ (2026-07-21)
+### Отработка 1B (2026-07-21)
 **Q:** Nad jakimi projektami pracowałeś w grupie?
-**A:** «Jestem programistą. Pracowałem nad różnymi projektami. Z mojego doświadczenia najważniejsza jest komunikacja.»
+❌ Первая попытка (A2, 1/5 — слишком общо): «Jestem programistą. Pracowałem nad różnymi projektami. Z mojego doświadczenia najważniejsza jest komunikacja.»
+✅ Цель (B1): конкретный проект + состав команды + моя роль + срок + мнение с `bo` и примером.
+Прим.: язык в первой попытке был БЕЗ ошибок — проблема только в объёме/деталях.
