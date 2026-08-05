@@ -355,3 +355,42 @@ audience: "AI‑агент‑репетитор, генерирующий мат
 > «Pracuję jako programista. Pracowałem nad projektem razem z zespołem. Projekt łączył medycynę i sztuczną inteligencję. W moim zespole pracowałem z testerem i menedżerem. Także pracowałem nad innymi projektami, gdzie trzeba było pisać kod. Na początku mieliśmy problem z terminem. Ale postanowiliśmy spotykać się codziennie i rozmawiać o zadaniach oraz problemach. Dzięki temu skończyliśmy projekt na czas. Moim zdaniem komunikacja jest najważniejsza, bo trzeba rozmawiać o zadaniach i problemach, żeby zakończyć coś na czas.»
 
 **Динамика по независимым проверкам:** 3 общие фразы = A2 (1/5) → +детали = B1 (2/5) → +2-й пример и мини-история = уверенный B1 (2–3/5).
+
+
+---
+
+## ⚠️ 1B — ИСПРАВЛЕННЫЙ КАРКАС (после независимой проверки, 2026-07-21)
+
+**Что показала проверка по PDF (стр. 22, 36, 43):**
+- «Слотов» в документах telc НЕТ — это методическая надстройка. Ядро совпадает с критерием, но два слота были лишние.
+- ❌ Слот «Кто я» (`Pracuję jako programista`) — критерием не требуется, баллов не даёт.
+- ❌ Слот «второй пример» — критерий требует ГЛУБИНЫ, а не количества.
+- ⚠️ ГЛАВНЫЙ РИСК: **1B — это разговор, а не монолог** (стр. 43: «Prowadzący egzamin reaguje na uwagi zdającego i rozwija je»). Заготовленный блок поверх конкретного вопроса = «не слушает вопрос» → минус балл.
+- ❗ Чего не хватало: **прямого ответа на вопрос ПЕРВОЙ фразой**.
+
+### ✅ ПРАВИЛЬНАЯ структура ответа 1B (4 предложения)
+1. **Прямой ответ на вопрос** — `Moim zdaniem sukces zależy od…` / `To zależy od sytuacji.`
+2. **Пример из опыта, который ДОКАЗЫВАЕТ тезис** — `Na przykład w moim projekcie…`
+3. **Результат** — `Dzięki temu…`
+4. **Нюанс (дешёвый признак B2)** — `Ale nie zawsze, bo…`
+
+### Дешёвые обороты B1→B2 (работают в 1B, 2A И в części 3 — учить ради 50 «языковых» баллов)
+| Оборот | Функция |
+|---|---|
+| `Moim zdaniem tak, ponieważ…` / `To zależy od sytuacji.` | прямой ответ = «precyzyjnie» ⭐ |
+| `Z jednej strony…, z drugiej strony…` | сравнение |
+| `Z mojego doświadczenia wynika, że…` | обобщение опыта |
+| `Ale nie zawsze, bo…` | нюанс ⭐ самый дешёвый маркер B2 |
+| `Dzięki temu…` | следствие |
+| `Dlatego uważam, że…` | вывод |
+
+### 📊 Прагматика (баллы, стр. 39): НЕ гнаться за B2 в 1B
+1A = 5 · **1B = 5** · 2A = 10 · 2B = 10 · **Część 3 = 20** · Wymowa 10 · Płynność 10 · **Poprawność 15** · **Słownictwo 15** = 100.
+Порог: 35–74,5 = B1 · 75+ = B2.
+Разница B1→B2 в 1B ≈ **1–2 балла**. Максимальная отдача — **Część 3 (20)** и **Poprawność+Słownictwo (30 за всю речь)**.
+
+### ✅ Эталон ответа по новой структуре (отработан)
+**Q:** Od czego zależy sukces pracy w grupie?
+> «Moim zdaniem sukces zależy od komunikacji. Na przykład w moim projekcie na początku mieliśmy problemy z terminem, ale zdecydowaliśmy się spotykać codziennie i rozmawiać o zadaniach oraz problemach. Dzięki temu zakończyliśmy projekt na czas. Ale nie zawsze, bo trzeba czasem pracować samemu.»
+
+_Грамматика к запоминанию: `zależeć od` + dopełniacz (`od komunikacji`); два возвратных глагола подряд — только ОДНО `się` (`zdecydowaliśmy się spotykać`, не `spotykać się`)._
