@@ -330,3 +330,28 @@ audience: "AI‑агент‑репетитор, генерирующий мат
 ❌ Первая попытка (A2, 1/5 — слишком общо): «Jestem programistą. Pracowałem nad różnymi projektami. Z mojego doświadczenia najważniejsza jest komunikacja.»
 ✅ Цель (B1): конкретный проект + состав команды + моя роль + срок + мнение с `bo` и примером.
 Прим.: язык в первой попытке был БЕЗ ошибок — проблема только в объёме/деталях.
+
+
+### 📋 ШАБЛОН ОТВЕТА 1B — 5 слотов (рабочая версия, 2026-07-21)
+
+| Слот | Что говорить |
+|---|---|
+| 1. Кто я | `Pracuję jako programista.` (факт из личного банка) |
+| 2. Пример №1 + детали | что за проект, с кем, моя роль, срок |
+| 3. Пример №2 | `Także pracowałem nad innymi projektami…` (вопрос часто во мн.ч.! — нужно ≥2 примера) |
+| 4. Мини-история | проблема → решение → результат |
+| 5. Мнение + причина | `Moim zdaniem…, bo…` |
+
+**Универсальные кубики для слота 3:** `Innym razem…` · `Wcześniej pracowałem też nad…` · `Pamiętam też sytuację, kiedy…` · `Miałem też inne doświadczenie:…`
+
+**Универсальная мини-история (слот 4), подходит почти к любой теме:**
+`Na początku mieliśmy problem z ___. Ale postanowiliśmy ___. Dzięki temu ___.`
+Подстановки: работа → `problem z terminem` / `spotykać się codziennie` / `skończyliśmy na czas`; семья → `mało czasu` / `zaplanować weekend` / `spędziliśmy czas razem`; учёба → `trudny egzamin` / `uczyć się codziennie` / `zdałem`.
+
+> 💡 Истории НЕ обязаны быть правдой — экзаменатор оценивает язык, а не биографию.
+
+### ✅ Эталонный ответ ученика на 1B (доведён до B1)
+**Q:** Nad jakimi projektami pracowałeś w grupie?
+> «Pracuję jako programista. Pracowałem nad projektem razem z zespołem. Projekt łączył medycynę i sztuczną inteligencję. W moim zespole pracowałem z testerem i menedżerem. Także pracowałem nad innymi projektami, gdzie trzeba było pisać kod. Na początku mieliśmy problem z terminem. Ale postanowiliśmy spotykać się codziennie i rozmawiać o zadaniach oraz problemach. Dzięki temu skończyliśmy projekt na czas. Moim zdaniem komunikacja jest najważniejsza, bo trzeba rozmawiać o zadaniach i problemach, żeby zakończyć coś na czas.»
+
+**Динамика по независимым проверкам:** 3 общие фразы = A2 (1/5) → +детали = B1 (2/5) → +2-й пример и мини-история = уверенный B1 (2–3/5).
