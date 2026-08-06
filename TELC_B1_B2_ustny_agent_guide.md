@@ -394,3 +394,52 @@ audience: "AI‑агент‑репетитор, генерирующий мат
 > «Moim zdaniem sukces zależy od komunikacji. Na przykład w moim projekcie na początku mieliśmy problemy z terminem, ale zdecydowaliśmy się spotykać codziennie i rozmawiać o zadaniach oraz problemach. Dzięki temu zakończyliśmy projekt na czas. Ale nie zawsze, bo trzeba czasem pracować samemu.»
 
 _Грамматика к запоминанию: `zależeć od` + dopełniacz (`od komunikacji`); два возвратных глагола подряд — только ОДНО `się` (`zdecydowaliśmy się spotykać`, не `spotykać się`)._
+
+
+---
+
+## 💰 СТРАТЕГИЯ «МАКСИМУМ БАЛЛОВ ДЁШЕВО, БЕЗ УСЛОЖНЕНИЯ ЯЗЫКА» (проверено по PDF, стр. 33–39)
+
+> ⭐ ГЛАВНЫЙ ВЫВОД: **усложнять язык НЕ надо — усложнение снижает балл** (больше ошибок → минус Poprawność). Простые конструкции без ошибок официально дают высокий балл.
+
+### Пруфы из официального `uebungstest_polnisch.pdf`
+
+**Poprawność (15 б.), критерий B2 (стр. 36):**
+> «Wykazuje stosunkowo wysoki stopień **kontroli** gramatycznej. Popełniane błędy **nie powodują nieporozumień**.»
+→ Требуется КОНТРОЛЬ, не сложность. Простые предложения без ошибок = высокий балл.
+
+**Słownictwo (15 б.), даже на B2 (стр. 36):**
+> «Braki słownikowe mogą nadal powodować **omówienia**.»
+→ Парафраз («не знаю слова, скажу проще») разрешён даже на B2.
+
+**Wymowa/Intonacja (10 б.), B2 (стр. 36):**
+> «…mimo że czasami **obcy akcent jest oczywisty**.»
+→ Акцент прямо разрешён, нужна только понятность.
+
+**Płynność (10 б.), B1 (стр. 36):**
+> «Potrafi wyrażać się sprawnie, **pomimo przerw** w celu planowania…»
+→ Паузы «на подумать» разрешены. Наказывается молчание → заполнять: `Chwileczkę…`, `Jak by to powiedzieć…`
+
+**Prezentacja 2A — критическое ограничение (стр. 35, сноска):**
+> «W przypadku, gdy cała prezentacja jest **odczytywana**, ocena **nie może być wyższa niż A2**.»
+→ НИКОГДА не читать с листа. Только план + опорные слова.
+
+**Порог (стр. 39):** 35–74,5 = B1 · 75+ = B2. Модули: Rozumienie+Elementy 27–42 = B1; Pisanie 7–14 = B1.
+
+### Дешёвая тактика по секциям (100 баллов)
+| Секция | Баллы | Дёшево получить |
+|---|---|---|
+| Poprawność | 15 | говорить ТОЛЬКО освоенными конструкциями («безопасный набор»), короткие фразы, не рисковать |
+| Słownictwo | 15 | 5–6 универсальных оборотов: `moim zdaniem`, `z jednej strony… z drugiej strony`, `dzięki temu`, `dlatego uważam`, `to zależy od sytuacji`; незнакомое слово → описать |
+| Płynność | 10 | не молчать, заполнять паузы |
+| Wymowa | 10 | внятность; акцент не штрафуется |
+| 1A | 5 | готовый каркас описания фото |
+| 1B | 5 | прямой ответ → пример → `dzięki temu` → `po drugie…` |
+| 2A+2B | 20 | план + опорные слова, НЕ читать |
+| Część 3 | 20 | реагировать на партнёра: `Zgadzam się z tobą, bo…`, `Masz rację, ale…`, `A co ty o tym myślisz?` |
+
+### 📌 Где брать вопросы для тренировки 1B (проверено)
+- В официальном тесте telc — **только 1 тема** («praca w grupie») с 3 вопросами B1 и 3 вопросами B2 (стр. 22–23).
+- В книге «Setka na mówienie» вопросов 1B **НЕТ** (она под państwowy экзамен: фото + монолог + диалог).
+- **НО:** 98 тем монологов из `mowienie/04_katalog_zestawow.md` — это по жанру ровно вопросы 1B (мнение + обоснование + личный опыт). Например: «Jaką porę roku lubi Pan najbardziej? Proszę uzasadnić», «Proszę opowiedzieć, jak Pan dba o zdrowie». → Использовать их как банк вопросов для 1B.
+- Тематический охват сверять с мастер-списком T01–T14 (раздел 3.1 этого файла).
