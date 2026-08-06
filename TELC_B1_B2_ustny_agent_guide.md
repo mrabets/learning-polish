@@ -443,3 +443,18 @@ _Грамматика к запоминанию: `zależeć od` + dopełniacz (`
 - В книге «Setka na mówienie» вопросов 1B **НЕТ** (она под państwowy экзамен: фото + монолог + диалог).
 - **НО:** 98 тем монологов из `mowienie/04_katalog_zestawow.md` — это по жанру ровно вопросы 1B (мнение + обоснование + личный опыт). Например: «Jaką porę roku lubi Pan najbardziej? Proszę uzasadnić», «Proszę opowiedzieć, jak Pan dba o zdrowie». → Использовать их как банк вопросов для 1B.
 - Тематический охват сверять с мастер-списком T01–T14 (раздел 3.1 этого файла).
+
+
+### 🎯 ЭТАЛОН 1B на 4 балла (отработан 2026-07-21) — тема «praca w grupie», вопрос 1
+
+**Q:** Nad jakimi projektami pracowałeś w grupie?
+> «Pracowałem nad projektem, który łączył medycynę i sztuczną inteligencję. Pracowałem z testerem i menedżerem. Byłem odpowiedzialny za kod. Projekt trwał trzy miesiące. Na początku mieliśmy problem z terminem, ale spotykaliśmy się codziennie. Dzięki temu skończyliśmy projekt na czas. Moim zdaniem najważniejsza jest komunikacja, bo trzeba rozmawiać o zadaniach. Po drugie, ważny jest podział zadań, bo każdy wie, co robić.»
+
+**Схема (переносится на ЛЮБОЙ вопрос 1B и в część 3):**
+1. Прямой ответ на вопрос (что именно) — `Pracowałem nad projektem, który…`
+2. Детали: с кем · моя роль · срок
+3. **Мини-история** (даёт `szczegółowy`): `Na początku był problem z…, ale… Dzięki temu…`
+4. **Мнение из ДВУХ факторов** (даёт `precyzyjnie`): `Moim zdaniem najważniejsza jest…, bo… Po drugie, ważny jest…, bo…`
+5. Связки для `jasny`: `Na początku…` · `Dzięki temu…` · `Po drugie…` · `Dlatego…`
+
+_Почему это работает: критерий B2 (стр. 36) = `jasny i szczegółowy` + `jasno i precyzyjnie`. Пункты 3–5 закрывают ровно эти три слова. Пункты 3–4 одновременно готовят część 3 (там нужны аргумент + пример)._
