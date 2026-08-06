@@ -103,3 +103,32 @@
 
 **Глаголы действий:** siedzi, stoi, leży, idzie, biegnie, trzyma, patrzy na…, rozmawia, uśmiecha się, bawi się, czyta, je, pije, gotuje, kupuje, sprzedaje, pracuje, odpoczywa, spaceruje, wisi, znajduje się.
 - [ ] выучено
+
+
+---
+
+## ⭐ ГЕНЕРАТОР ИДЕЙ для монолога / 1B / дискуссии (когда «нет идей что сказать»)
+
+> Проблема не в языке, а в содержании. Решение: **три универсальные причины**, которыми можно обосновать почти любую тему. Не придумывать заново — подставлять.
+
+### Три причины (заучить наизусть)
+1. **ZDROWIE** → `Po pierwsze, to jest dobre dla zdrowia.`
+2. **CZAS / PIENIĄDZE** → `Po drugie, dzięki temu oszczędzam czas i pieniądze.`
+3. **RODZINA / LUDZIE** → `Po trzecie, mogę spędzać czas z rodziną.`
+
+### Как это ложится на реальные вопросы из «Setki»
+| Вопрос | Подстановка |
+|---|---|
+| `Jaką porę roku lubisz?` (lato) | zdrowie: można gulać · czas: urlop · rodzina: razem na świeżym powietrzu |
+| `Supermarket czy bazarek?` | czas: szybciej · pieniądze: taniej · rodzina: wszystko dla wszystkich naraz |
+| `Praca zdalna czy w biurze?` | czas: brak dojazdu · rodzina: więcej czasu z dziećmi · zdrowie: mniej stresu |
+| `Jak dbasz o zdrowie?` | все три напрямую |
+
+### Полный каркас монолога (канон книги + генератор)
+1. **Wstęp:** `Ostatnio wszyscy mówią o…` / `Myślę, że warto…`
+2. **Po pierwsze,** [причина 1 — zdrowie] + `Na przykład…`
+3. **Po drugie,** [причина 2 — czas/pieniądze] + `Na przykład…`
+4. **Po trzecie,** [причина 3 — rodzina] + `Na przykład…`
+5. **Zakończenie:** `Podsumowując, … jest ważną częścią mojego życia.`
+
+_Источник структуры и zwrotów: «Setka na mówienie», ЭТАП 2 (см. `02_setka_na_mowienie_konspekt.md`). Генератор трёх причин — рабочая надстройка под проблему «нет идей»._
