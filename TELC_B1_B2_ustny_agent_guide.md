@@ -458,3 +458,20 @@ _Грамматика к запоминанию: `zależeć od` + dopełniacz (`
 5. Связки для `jasny`: `Na początku…` · `Dzięki temu…` · `Po drugie…` · `Dlatego…`
 
 _Почему это работает: критерий B2 (стр. 36) = `jasny i szczegółowy` + `jasno i precyzyjnie`. Пункты 3–5 закрывают ровно эти три слова. Пункты 3–4 одновременно готовят część 3 (там нужны аргумент + пример)._
+
+
+### 🔁 Версия ученика для самостоятельного повторения (2026-07-21, собрана им самим)
+
+**Q:** Nad jakimi projektami pracowałeś w grupie?
+> «Pracowałem nad projektem, który łączył medycynę i sztuczną inteligencję. Pracowałem razem z testerem i menedżerem. Byłem odpowiedzialny za stronę internetową oraz za kod.
+> Na początku mieliśmy problem z terminem, ale zdecydowaliśmy się spotykać codziennie i rozmawiać o problemach oraz zadaniach. Dzięki temu zakończyliśmy projekt na czas.
+> Mogę powiedzieć, że moim zdaniem komunikacja jest najważniejsza dla pracy w grupie. Z drugiej strony, ważna jest samodzielność, żeby każdy wiedział, co robić.
+> Podsumowując, zarówno komunikacja, jak i samodzielność są ważne dla pracy w grupie.»
+
+**Ошибки, на которых спотыкался (гонять перед повтором):**
+- `włączył` ❌ → `łączył` ✅ (объединял; `włączyć` = включить свет)
+- `Po pierwsze` в истории ❌ → `Na początku` ✅ (`Po pierwsze` — только для списка аргументов)
+- `Z innej strony` ❌ → `Z drugiej strony` ✅
+- `również…, jak i` ❌ → `zarówno…, jak i` ✅
+- `rozumieł` ❌ → `rozumiał` ✅ (или обойти: `wiedział`)
+- `są ważny` ❌ → `są ważne` ✅ (два жен. слова)
