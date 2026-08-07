@@ -21,7 +21,7 @@
 - [ ] z.75 — Ostatnia uroczystość rodzinna, w której uczestniczyłeś
 
 ### Praca (T02) — 3 (+ официальная выше)
-- [ ] z.74 — Wady i zalety pracy zdalnej ⭐⭐⭐ (твой личный опыт!)
+- [x] z.74 — Wady i zalety pracy zdalnej — **закрыта 2026-07-21, без ошибок**
 - [ ] z.22 — Twoja pierwsza praca
 - [ ] z.31 — Praca marzeń
 
@@ -69,8 +69,8 @@
 - [ ] **T-sława** — Czy warto być sławnym? (официальная тема дискуссии telc, część 3)
 
 ## 📊 Прогресс по Ярусу 1
-- Закрыто: **1 из 30 тем ≈ 3%** (T-praca — 3 вопроса)
-- Следующая по приоритету: **T-pieniądze** (официальная telc) или z.74 (praca zdalna — личный опыт ученика)
+- Закрыто: **2 из 30 тем ≈ 7%** (T-praca — 3 вопроса; z.74 praca zdalna)
+- Следующая по приоритету: **T-pieniądze** (официальная telc) или z.25 (gdzie mieszkam) / z.44 (hobby)
 
 ## ЯРУС 2 — РЕЗЕРВ (по желанию, ~25)
 5 (supermarket czy bazarek) · 6 (jesteś tym, co jesz) · 7 (bezludna wyspa) · 8 (ulubiona kuchnia) · 10 (środki transportu) · 11 (odżywianie) · 13 (książka) · 14 (praca najważniejsza?) · 15 (kino czy TV) · 17 (rower w mieście) · 18 (dzień sam czy z przyjaciółmi) · 24 (centrum czy obrzeża) · 32 (ty za 10 lat) · 33 (książka czy rower) · 35 (ulubione miasto) · 39–40 (sport w kraju) · 42 (czas wolny kiedyś/dziś) · 43 (dieta wegetariańska) · 46 (teatr czy kino) · 52 (ważna osoba) · 56 (sport to zdrowie) · 60 (wydarzenie, w którym brałeś udział) · 62 (literatura czy filmy) · 64 (namiot czy hotel) · 66 (biuro podróży czy samemu) · 70 (przyjemna praca) · 72 (3 przedmioty) · 85 (idealny szef) · 88 (kierunki studiów) · 92 (szukanie pracy) · 96 (wynajem czy kredyt) · 99 (reklama) · 100 (samopoczucie)

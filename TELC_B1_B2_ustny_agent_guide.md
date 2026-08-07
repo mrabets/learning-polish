@@ -475,3 +475,17 @@ _Почему это работает: критерий B2 (стр. 36) = `jasny
 - `również…, jak i` ❌ → `zarówno…, jak i` ✅
 - `rozumieł` ❌ → `rozumiał` ✅ (или обойти: `wiedział`)
 - `są ważny` ❌ → `są ważne` ✅ (два жен. слова)
+
+
+### ✅ Тема «Praca zdalna» (z.74) — отработана 2026-07-21
+
+**Q:** Jakie są wady i zalety pracy zdalnej?
+> «Praca zdalna ma zarówno zalety, jak i wady. Zaletą jest to, że nie trzeba jeździć do biura oraz mam więcej czasu dla rodziny. Wadą jest to, że mam mniej kontaktu z kolegami oraz czasami trudno się skupić na zadaniach w domu. Moim zdaniem praca zdalna jest dla mnie lepsza, bo mogę pracować spokojniej.»
+
+**Каркас «плюсы/минусы» (канон книги) — переносится на любой вопрос типа «wady i zalety / X czy Y»:**
+1. `___ ma zarówno zalety, jak i wady.`
+2. `Zaletą jest to, że…` (+ причина из генератора: czas / rodzina / zdrowie)
+3. `Wadą jest to, że…`
+4. `Moim zdaniem… , bo…`
+
+_Ответ дан без ошибок с первого раза. Закрепилось: `skupić się na zadaniach` (miejscownik), `zarówno…, jak i…`, `mniej kontaktu` (dopełniacz)._
