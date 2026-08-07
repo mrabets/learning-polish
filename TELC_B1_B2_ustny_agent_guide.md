@@ -489,3 +489,14 @@ _Почему это работает: критерий B2 (стр. 36) = `jasny
 4. `Moim zdaniem… , bo…`
 
 _Ответ дан без ошибок с первого раза. Закрепилось: `skupić się na zadaniach` (miejscownik), `zarówno…, jak i…`, `mniej kontaktu` (dopełniacz)._
+
+**Версия на 4 балла (доработана учеником — добавлены мини-история и решение проблемы):**
+> «Praca zdalna ma zarówno zalety, jak i wady.
+> Zaletą jest to, że nie trzeba jeździć do biura oraz mam więcej czasu dla rodziny. Na przykład pamiętam, jak wcześniej jeździłem do biura i traciłem dużo czasu. Czułem stres, traciłem pieniądze na drogę, no i były korki. A kiedy zacząłem pracować zdalnie, nie czułem już tego stresu i nie traciłem czasu. Mogę wstawać, kiedy chcę, pić kawę i w ciągu dnia spacerować razem z dziećmi.
+> Wadą jest to, że mam mniej kontaktu z kolegami oraz czasami trudno się skupić na zadaniach w domu. Ale problem z komunikacją z kolegami można rozwiązać. Na przykład czasami można spotykać się w kawiarni.
+> Moim zdaniem praca zdalna jest dla mnie lepsza, bo mogę pracować spokojniej.»
+
+**Что превращает 3 в 4 (универсальный приём):**
+- мини-история с контрастом **«было → стало»** (`Wcześniej…, a kiedy zacząłem…`) → даёт `szczegółowy`
+- **минус + решение** (не просто назвать проблему, а показать, как справляешься) → даёт `precyzyjnie`
+- связки `Na przykład…` · `A kiedy…` · `Ale…` → дают `jasny`

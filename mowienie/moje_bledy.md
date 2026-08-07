@@ -52,6 +52,13 @@
 - [ ] 2026-07-21 | ❌ pokazuje prezentację na deskę → ✅ na tablicy | `deska` = доска-планка; маркерная = `tablica`
 - [ ] 2026-07-21 | ❌ osoba po centrum → ✅ osoba w centrum / na środku | предлог
 - [ ] 2026-07-21 | ❌ jedzą jedzenie → ✅ jedzą / jedzą posiłek | тавтология
+- [ ] 2026-07-21 | ❌ próbki (na drodze) → ✅ korki | ⭐ ЛОЖНЫЙ ДРУГ: `próbki` = образцы/пробники; пробки на дороге = `korki` (`stałem w korkach`)
+- [ ] 2026-07-21 | ❌ włączył medycynę i AI → ✅ łączył | `włączyć` = включить (свет); объединять = `łączyć`
+- [ ] 2026-07-21 | ❌ Po pierwsze, mieliśmy problem (в истории) → ✅ Na początku… | `Po pierwsze` — только для СПИСКА аргументов, не для рассказа
+- [ ] 2026-07-21 | ❌ Z innej strony → ✅ Z drugiej strony | устойчивая пара к `Z jednej strony`
+- [ ] 2026-07-21 | ❌ również komunikacja, jak i… → ✅ zarówno…, jak i… | устойчивая пара
+- [ ] 2026-07-21 | ❌ rozumieł → ✅ rozumiał (или обойти: wiedział) | прошедшее от `rozumieć`
+- [ ] 2026-07-21 | ❌ są ważny (о двух жен. словах) → ✅ są ważne | согласование
 
 ## Słownictwo (не то слово / калька с русского)
 
