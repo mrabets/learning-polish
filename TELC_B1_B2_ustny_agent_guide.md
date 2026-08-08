@@ -536,3 +536,19 @@ _Ответ дан без ошибок с первого раза. Закреп�
 - `płacić coś` ❌ → `płacić za coś` ✅
 - `wiele miejsc nie mają` ❌ → `nie ma` ✅ (после `wiele` — глагол ед.ч.)
 - `dla płaty kartą` ❌ → `do płatności kartą` ✅
+
+
+### ✅ Тема «Gdzie mieszkam» (z.25) — отработана 2026-07-21, БЕЗ ОШИБОК
+
+**Q:** Opisz miejsce, w którym mieszkasz.
+> «Mieszkam w bloku w Białymstoku. Moje mieszkanie ma trzy pokoje. Najbardziej podoba mi się balkon, bo mogę tam pić kawę. W okolicy jest sklep oraz plac zabaw dla dzieci. Z drugiej strony, czasem jest głośno, bo obok budują nowy budynek. Ogólnie jestem zadowolony ze swojego mieszkania, bo wszystko jest blisko i czuję się tam spokojnie.»
+
+**Каркас «opisz miejsce/rzecz» (6 предложений) — переносится на: mieszkanie marzeń, miasto, praca, szkoła:**
+1. Где/что — `Mieszkam w…`
+2. Характеристика — `Moje mieszkanie ma trzy pokoje.`
+3. Что нравится + причина — `Najbardziej podoba mi się…, bo…`
+4. Что рядом/детали — `W okolicy jest…`
+5. Нюанс — `Z drugiej strony, czasem…, bo…`
+6. Вывод — `Ogólnie jestem zadowolony z…, bo…`
+
+_Полезное: `w Białymstoku` (Białystok меняется внутри) · `zadowolony z` + dopełniacz (`ze swojego mieszkania`) · `obok budują` (рядом строят) · `plac zabaw` (детская площадка)._
