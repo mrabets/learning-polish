@@ -500,3 +500,21 @@ _Ответ дан без ошибок с первого раза. Закреп�
 - мини-история с контрастом **«было → стало»** (`Wcześniej…, a kiedy zacząłem…`) → даёт `szczegółowy`
 - **минус + решение** (не просто назвать проблему, а показать, как справляешься) → даёт `precyzyjnie`
 - связки `Na przykład…` · `A kiedy…` · `Ale…` → дают `jasny`
+
+
+### ✅ Тема «Pieniądze / oszczędzanie» (официальная telc) — вопрос 1, отработан 2026-07-21
+
+**Q:** Czy warto oszczędzać pieniądze?
+> «Moim zdaniem oszczędzanie jest ważne, bo czuję się spokojniej. Mogę pojechać z rodziną na wakacje. Jeśli mój samochód się zepsuje, mogę zapłacić szybko, bez stresu. Dlatego uważam, że każda rodzina powinna oszczędzać pieniądze przynajmniej raz w miesiącu. Z drugiej strony, dla innych ludzi oszczędzanie może być trudne. W tym przypadku można spróbować oszczędzać tylko 10% z pensji.»
+
+**Приём для 4 баллов, найденный учеником:** после вывода добавить **нюанс + практическое решение** —
+`Z drugiej strony, dla innych ludzi… może być trudne. W tym przypadku można spróbować…`
+Это даёт `precyzyjnie` (мнение развёрнуто, учтена другая точка зрения) и переносится на любую тему.
+
+**Ошибки этого захода (гонять):**
+- `10% od pensji` ❌ (калька) → `10% pensji` / `10% z pensji` ✅
+- `lub jeśli samochód się zepsuł, miałem…` ❌ (условие + прошедшее) → выбрать одно: `A kiedy… mogłem` (прошлое) ИЛИ `Jeśli… zepsuje, mogę` (условие) ✅
+- `czuję się spokojny` → естественнее `czuję się spokojniej`
+- `każda rodzina musi` → мягче `powinna`
+
+**Пруф про связность (важно):** в устном экзамене критерия `Kompozycja` НЕТ (он только в письменной части, стр. 33). Для **B1 (2–3 балла)** ясность не требуется — критерий говорит только `dość szczegółowo` + `krótko uzasadnić`. Для **B2 (4–5)** — уже да (`jasny`, `precyzyjnie`). То есть «слипшиеся» предложения на 3 балла не штрафуются, на 4 — влияют.
