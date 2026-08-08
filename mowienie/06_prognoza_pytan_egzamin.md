@@ -8,7 +8,7 @@
 
 ---
 
-## ЯРУС 1 — ОБЯЗАТЕЛЬНЫЕ (30) ⭐
+## ЯРУС 1 — ОБЯЗАТЕЛЬНЫЕ (32) ⭐
 
 ### Официальные из теста telc (2)
 - [x] **T-praca** — Praca w grupie: nad jakimi projektami? od czego zależy sukces? jakie cechy przydają się? — **закрыта 2026-07-21, все 3 вопроса** (эталоны в `TELC_B1_B2_ustny_agent_guide.md`)
