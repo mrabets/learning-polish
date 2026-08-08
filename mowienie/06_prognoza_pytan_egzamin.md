@@ -69,9 +69,34 @@
 - [ ] **T-sława** — Czy warto być sławnym? (официальная тема дискуссии telc, część 3)
 
 ## 📊 Прогресс по Ярусу 1
-- Закрыто: **4 из 30 тем = 13%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam)
+
+**Закрыто: 4 из 32 тем = 13%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam)
+
+| Тема | Всего | Пройдено | Осталось |
+|---|---|---|---|
+| Официальные telc (1B/2A) | 2 | 2 | **0** ✅ |
+| Rodzina / ludzie | 4 | 0 | 4 |
+| Praca | 3 | 1 | 2 |
+| Dom / mieszkanie | 3 | 1 | 2 |
+| Czas wolny / hobby | 3 | 0 | 3 |
+| Zdrowie | 3 | 0 | 3 |
+| Podróże | 3 | 0 | 3 |
+| Pieniądze / zakupy | 2 | 0 | 2 |
+| Technologia / media | 2 | 0 | 2 |
+| Edukacja | 2 | 0 | 2 |
+| Kultura | 2 | 0 | 2 |
+| Ekologia | 1 | 0 | 1 |
+| Wartości | 2 | 0 | 2 |
+| **ИТОГО** | **32** | **4** | **28** |
+
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - Следующая по приоритету: z.44 (hobby) ⭐⭐⭐ или z.78 (członek rodziny) ⭐⭐⭐
+
+### 28 оставшихся тем сводятся к 3 каркасам (учить надо каркасы, не 28 текстов)
+1. **«Opisz X»** — 6 предложений, каркас уже отработан на z.25 → z.63, z.50, z.78, z.71, z.35, z.22
+2. **«Wady i zalety / X czy Y»** — каркас отработан на z.74 → z.89, z.23, z.45, z.55, z.50
+3. **«Co lubisz / jak robisz» (личный опыт + мнение)** — z.44, z.73, z.3, z.90, z.4, z.81, z.9, z.75
+4. **«Czy warto / rola X» (чистое мнение, 3 причины)** — z.61, z.27, z.21, z.47, z.84, T-sława, z.30, z.98, z.48, z.31, z.29
 
 ## ЯРУС 2 — РЕЗЕРВ (по желанию, ~25)
 5 (supermarket czy bazarek) · 6 (jesteś tym, co jesz) · 7 (bezludna wyspa) · 8 (ulubiona kuchnia) · 10 (środki transportu) · 11 (odżywianie) · 13 (książka) · 14 (praca najważniejsza?) · 15 (kino czy TV) · 17 (rower w mieście) · 18 (dzień sam czy z przyjaciółmi) · 24 (centrum czy obrzeża) · 32 (ty za 10 lat) · 33 (książka czy rower) · 35 (ulubione miasto) · 39–40 (sport w kraju) · 42 (czas wolny kiedyś/dziś) · 43 (dieta wegetariańska) · 46 (teatr czy kino) · 52 (ważna osoba) · 56 (sport to zdrowie) · 60 (wydarzenie, w którym brałeś udział) · 62 (literatura czy filmy) · 64 (namiot czy hotel) · 66 (biuro podróży czy samemu) · 70 (przyjemna praca) · 72 (3 przedmioty) · 85 (idealny szef) · 88 (kierunki studiów) · 92 (szukanie pracy) · 96 (wynajem czy kredyt) · 99 (reklama) · 100 (samopoczucie)
