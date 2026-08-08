@@ -552,3 +552,12 @@ _Ответ дан без ошибок с первого раза. Закреп�
 6. Вывод — `Ogólnie jestem zadowolony z…, bo…`
 
 _Полезное: `w Białymstoku` (Białystok меняется внутри) · `zadowolony z` + dopełniacz (`ze swojego mieszkania`) · `obok budują` (рядом строят) · `plac zabaw` (детская площадка)._
+
+**Расширенная версия (2026-08-08, ученик сам попросил больше деталей — ноль ошибок):**
+> «Mieszkam w Białymstoku w bloku **na pierwszym piętrze**. **W moim mieszkaniu są dwa pokoje, salon, kuchnia, łazienka i balkon.** Najbardziej podoba mi się balkon, gdzie mogę pić kawę. W okolicy jest sklep i plac zabaw dla dzieci. Z drugiej strony, czasami jest głośno, bo obok budują nowy budynek. Ogólnie podoba mi się moje mieszkanie, bo wszystko jest blisko i czuję się tam spokojnie.»
+
+⚠️ **Ловушки этой темы (обе всплыли у ученика):**
+- **Этаж:** `parter` = наш первый (нижний) этаж, номера НЕ имеет. `pierwsze piętro` = следующий над ним. ❌ `na pierwszym parterze` — так не говорят вообще.
+- **«Зал/гостиная»** = `salon`. ❌ `sala` — это зал в школе/больнице/кинотеатре. Кухня-студия: `salon z kuchnią` (narzędnik) или `salon połączony z kuchnią`.
+- **Приём упрощения (сработал):** перечислять комнаты через `W moim mieszkaniu są…` — после `są` ВСЕ слова в начальной форме, ни одного падежа. Конструкция `połączony z…` не обязательна, её можно выкинуть.
+- Опция «где работаю»: `W jednym z pokoi pracuję zdalnie.` (ученик решил не использовать).

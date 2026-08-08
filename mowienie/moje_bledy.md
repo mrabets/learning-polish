@@ -59,6 +59,9 @@
 - [ ] 2026-07-21 | ❌ również komunikacja, jak i… → ✅ zarówno…, jak i… | устойчивая пара
 - [ ] 2026-07-21 | ❌ rozumieł → ✅ rozumiał (или обойти: wiedział) | прошедшее от `rozumieć`
 - [ ] 2026-07-21 | ❌ są ważny (о двух жен. словах) → ✅ są ważne | согласование
+- [ ] 2026-08-08 | ❌ kuchnia z sali → ✅ salon z kuchnią / kuchnia połączona z salonem | «зал/гостиная» = `salon`; `sala` = зал в школе/больнице/кино. + после `z` — narzędnik
+- [ ] 2026-08-08 | ❌ na pierwszym parterze → ✅ na parterze ИЛИ na pierwszym piętrze | ⭐ ЛОЖНЫЙ ДРУГ: `parter` = наш первый (нижний) этаж, номера не имеет; `pierwsze piętro` = следующий над ним. Вместе НИКОГДА
+- [ ] 2026-08-08 | ❌ trzy pokoje: dwa pokoje plus kuchnia → ✅ W moim mieszkaniu są dwa pokoje, salon, kuchnia… | не повторять `pokoje` дважды; перечисление после `są` — всё в mianowniku (обход падежей)
 
 ## Słownictwo (не то слово / калька с русского)
 
