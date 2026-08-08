@@ -518,3 +518,21 @@ _Ответ дан без ошибок с первого раза. Закреп�
 - `każda rodzina musi` → мягче `powinna`
 
 **Пруф про связность (важно):** в устном экзамене критерия `Kompozycja` НЕТ (он только в письменной части, стр. 33). Для **B1 (2–3 балла)** ясность не требуется — критерий говорит только `dość szczegółowo` + `krótko uzasadnić`. Для **B2 (4–5)** — уже да (`jasny`, `precyzyjnie`). То есть «слипшиеся» предложения на 3 балла не штрафуются, на 4 — влияют.
+
+
+### ✅ Тема «Pieniądze» — вопрос 2 (forma płatności), отработан 2026-07-21
+
+**Q:** Jaka forma płatności jest wygodniejsza — gotówka czy karta?
+> «Moim zdaniem wygodniejsza jest karta, bo płacę szybko. Na przykład nie muszę stać w kolejce — mogę pójść do kasy samoobsługowej. Także mogę płacić kartą w sklepach internetowych. Z drugiej strony, czasem trzeba mieć gotówkę, bo jest wiele miejsc, gdzie można płacić tylko gotówką. Także jeśli pojadę za granicę, lepiej mieć zarówno gotówkę, jak i kartę. Dlatego uważam, że każda osoba powinna mieć kartę dla swojej wygody.»
+
+**⭐ ВАЖНЫЙ ВЫВОД СЕССИИ — оптимальный объём ответа 1B: 5–7 предложений.**
+Длинный ответ (10+) даёт больше содержания, но резко растёт число ошибок → страдает `Poprawność` (15 баллов). Средний объём = лучший баланс содержания и чистоты.
+
+**Ошибки этого захода:**
+- `sklepy zdalne` ❌ → `sklepy internetowe` ✅ (`zdalny` — только про работу)
+- `jeśli pojechać` ❌ (инфинитив) → `jeśli pojadę / pojedziemy` ✅
+- `pojechać za granicą` ❌ → `za granicę` ✅ · пара: `jadę za granicę` (куда) / `mieszkam za granicą` (где)
+- `nie brać kieszenek` ❌ → `nie brać portfela` ✅ (`kieszeń` = карман)
+- `płacić coś` ❌ → `płacić za coś` ✅
+- `wiele miejsc nie mają` ❌ → `nie ma` ✅ (после `wiele` — глагол ед.ч.)
+- `dla płaty kartą` ❌ → `do płatności kartą` ✅
