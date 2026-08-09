@@ -65,6 +65,23 @@
 - [ ] 2026-08-08 | ❌ Także, jeśli pogoda jest ładna… → ✅ Poza tym, jeśli… | «кроме того» в начале предложения = `Poza tym`; `także`/`a także` — только внутри фразы
 - [ ] 2026-08-08 | ❌ jeśli miałbym więcej czasu → ✅ gdybym miał więcej czasu | «если бы» = `gdyby-` + `-bym/-byś` (`gdybym miał, chciałbym…`); `jeśli` — только реальное условие
 - [ ] 2026-08-08 | ❌ podróżować lotniskom → ✅ podróżować samolotem | `lotnisko` = аэропорт (здание); самолёт = `samolot` → `samolotem` (как `samochodem`)
+- [ ] 2026-08-08 | ❌ Pracę zdalną ma zarówno wady… → ✅ Praca zdalna ma… | подлежащее — mianownik, не biernik
+- [ ] 2026-08-08 | ❌ Wadą jest to, że nie tracę czasu na dojazd → ✅ Zaletą jest to, że… | ⭐ ПЕРЕПУТАЛ: `zaleta` = плюс, `wada` = минус
+- [ ] 2026-08-08 | ❌ mogę nie spędzać czasu na drogę → ✅ nie tracę czasu na dojazd do biura | `tracić czas` — устойчивое; `dojazd` — поездка на работу
+- [ ] 2026-08-08 | ❌ mogę spędzać 3000 złotych → ✅ wydaję 3000 złotych | `spędzać` = проводить (время), деньги — `wydawać`
+- [ ] 2026-08-08 | ❌ Najczęściej wydałem pieniądze → ✅ wydaję | `najczęściej` = обычное действие → настоящее время
+- [ ] 2026-08-08 | ❌ dzisiaj nie jest promocji → ✅ dzisiaj nie ma promocji | ⭐ отсутствие = `nie ma` + dopełniacz, НИКОГДА `nie jest`
+- [ ] 2026-08-08 | ❌ kupuję jedzenie po promocji → ✅ w promocji | `po promocji` = после акции
+- [ ] 2026-08-08 | ❌ ono (mięso) nie ma promocji → ✅ nie ma promocji na mięso | промоция бывает `na coś`, а не «у товара»
+- [ ] 2026-08-08 | ❌ mieszkanie kosztuje zbyt drogo → ✅ mieszkanie jest zbyt drogie | `kosztować` — только с суммой (`kosztuje 3500 złotych`)
+- [ ] 2026-08-08 | ❌ jeśli mieszkanie kosztowałoby mniej → ✅ gdyby kosztowało mniej, to byłoby lepiej | ⭐ ПОВТОР за сессию: есть `-by-` → `gdyby`; в глаголе `-by` не дублировать
+- [ ] 2026-08-08 | ❌ szybciej akceptować decyzje → ✅ podejmować decyzje / dyskutować o decyzjach / szybciej decydować | `akceptować` = одобрять готовое
+- [ ] 2026-08-08 | ❌ szybciej rozwiązać ich → ✅ …je rozwiązać (или обход: `pracować szybciej`) | «их» о вещах в бирнике = `je`, не `ich`
+- [ ] 2026-08-08 | ❌ Problem, kiedy mało spotykam się z kolegami, można rozwiązać → ✅ Ten problem można rozwiązać tak: … | упрощение конструкции
+- [ ] 2026-08-08 | ❌ Z drugiej strony, podoba mi się mieszkanie, ale jest głośno → ✅ Z drugiej strony, czasami jest głośno, bo… | связка вводит САМ минус
+- [ ] 2026-08-08 | 🟡 около+числительное: `około trzy tysiące` → `około trzech tysięcy` (или ОБХОД: не говорить `około` вовсе)
+- [ ] 2026-08-08 | 🟡 `wszystko podoba mi się` → естественнее `wszystko mi się podoba` | порядок слов
+- [ ] 2026-08-08 | 🟡 `Myślę, że mogę pracować raz w tygodniu` (гипотеза) → `mógłbym pracować` | `mógłbym` устроен как `chciałbym`
 
 ## Słownictwo (не то слово / калька с русского)
 

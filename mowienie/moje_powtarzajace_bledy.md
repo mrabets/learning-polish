@@ -49,6 +49,32 @@
 - Если лица не видно: `Nie widać twarzy, ale wygląda na skupioną.`
 - Порядок в блоке про человека: **одежда → волосы → ЭМОЦИЯ → действие**
 
+## 10. ⭐⭐⭐ `jeśli` vs `gdyby` — «если бы» (ошибка дня 2026-08-08, дважды за сессию)
+- ❌ `jeśli miałbym więcej czasu` · `jeśli mieszkanie kosztowałoby mniej`
+- ✅ `**gdybym** miał więcej czasu, to chciałbym…` · `**gdyby** kosztowało mniej, to byłoby lepiej`
+- Правило: **есть `-by-` → начинай с `gdyby`**, и тогда `-by` в самом глаголе НЕ повторяется (`gdyby kosztowało`, не `gdyby kosztowałoby`).
+- Реальное условие остаётся на `jeśli`: `Jeśli pogoda jest ładna, to jeździmy na rowerze.`
+
+## 11. ⭐⭐ `wada` ↔ `zaleta` — путаю местами (2026-08-08, z.74)
+- ❌ `Wadą jest to, że nie tracę czasu na dojazd` (это же плюс!)
+- ✅ `**Zaleta** = «за», плюс` · `**Wada** = «против», минус (изъян, дефект)`
+- Проверять себя перед каждым пунктом: это мне нравится или мешает?
+
+## 12. ⭐⭐ Деньги: какой глагол и какой предлог
+- ❌ `spędzać pieniądze` (это про время!) → ✅ `**wydawać** pieniądze na coś`
+- ❌ `przesłać pieniądze` (это про письма) → ✅ `**przelać/przelewać** pieniądze **na** konto` (отсюда `przelew`)
+- ❌ `mieszkanie kosztuje zbyt drogo` → ✅ `mieszkanie **jest** zbyt drogie` (`kosztuje` — только с суммой: `kosztuje 3500 złotych`)
+- ❌ `kupuję jedzenie **po** promocji` → ✅ `**w** promocji`; ❌ `mięso nie ma promocji` → ✅ `nie ma **promocji na** mięso`
+
+## 13. ⭐⭐ `nie ma` + dopełniacz — отсутствие чего-либо (старая ошибка, вернулась)
+- ❌ `dzisiaj nie jest promocji` · `nie widać zieleń`
+- ✅ `dzisiaj **nie ma** promocji` · `nie widać zieleni`
+- Правило: «нет чего-то» = всегда `nie ma` + родительный, НИКОГДА `nie jest`.
+
+## 14. ⭐ Связки: где что ставить
+- ❌ `Także,` в начале предложения → ✅ `**Poza tym**, …` (`także`/`a także` — только внутри фразы)
+- ❌ `Z drugiej strony, podoba mi się…, ale jest głośno` → ✅ `Z drugiej strony` вводит **сам минус**: `Z drugiej strony, czasami jest głośno, bo…`
+
 ## 7. Подлежащее для `odbywa się` / `ma miejsce`
 - ❌ `Zdjęcie odbywa się…`
 - ✅ `Ta sytuacja / To wydarzenie / Ten moment odbywa się…` (фото само не «происходит»)
