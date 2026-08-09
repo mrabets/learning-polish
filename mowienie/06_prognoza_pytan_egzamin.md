@@ -31,7 +31,7 @@
 - [ ] z.50 — Życie w mieście czy na wsi ⭐⭐
 
 ### Czas wolny / hobby (T04) — 3
-- [ ] z.44 — Opisz swoje hobby ⭐⭐⭐ (в книге есть полный wzorcowy monolog)
+- [x] z.44 — Opisz swoje hobby ⭐⭐⭐ — **закрыта 2026-08-08** (основной ответ + follow-up; эталон в TELC-гайде)
 - [ ] z.73 — Twój typowy dzień ⭐⭐
 - [ ] z.3 — Jaką porę roku lubisz najbardziej
 
@@ -70,7 +70,7 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 4 из 32 тем = 13%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam)
+**Закрыто: 5 из 32 тем = 16%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby)
 
 | Тема | Всего | Пройдено | Осталось |
 |---|---|---|---|
@@ -78,7 +78,7 @@
 | Rodzina / ludzie | 4 | 0 | 4 |
 | Praca | 3 | 1 | 2 |
 | Dom / mieszkanie | 3 | 1 | 2 |
-| Czas wolny / hobby | 3 | 0 | 3 |
+| Czas wolny / hobby | 3 | 1 | 2 |
 | Zdrowie | 3 | 0 | 3 |
 | Podróże | 3 | 0 | 3 |
 | Pieniądze / zakupy | 2 | 0 | 2 |
@@ -87,15 +87,15 @@
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 0 | 2 |
-| **ИТОГО** | **32** | **4** | **28** |
+| **ИТОГО** | **32** | **5** | **27** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
-- Следующая по приоритету: z.44 (hobby) ⭐⭐⭐ или z.78 (członek rodziny) ⭐⭐⭐
+- Следующая по приоритету: **z.78 (członek rodziny) ⭐⭐⭐** (каркас «Opisz X»), потом добить последний каркас «Czy warto / rola X» на z.61 (języki obce) ⭐⭐⭐
 
 ### 28 оставшихся тем сводятся к 3 каркасам (учить надо каркасы, не 28 текстов)
 1. **«Opisz X»** — 6 предложений, каркас уже отработан на z.25 → z.63, z.50, z.78, z.71, z.35, z.22
 2. **«Wady i zalety / X czy Y»** — каркас отработан на z.74 → z.89, z.23, z.45, z.55, z.50
-3. **«Co lubisz / jak robisz» (личный опыт + мнение)** — z.44, z.73, z.3, z.90, z.4, z.81, z.9, z.75
+3. **«Co lubisz / jak robisz»** — каркас отработан на z.44 → z.73, z.3, z.90, z.4, z.81, z.9, z.75
 4. **«Czy warto / rola X» (чистое мнение, 3 причины)** — z.61, z.27, z.21, z.47, z.84, T-sława, z.30, z.98, z.48, z.31, z.29
 
 ## ЯРУС 2 — РЕЗЕРВ (по желанию, ~25)

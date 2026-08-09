@@ -62,6 +62,9 @@
 - [ ] 2026-08-08 | ❌ kuchnia z sali → ✅ salon z kuchnią / kuchnia połączona z salonem | «зал/гостиная» = `salon`; `sala` = зал в школе/больнице/кино. + после `z` — narzędnik
 - [ ] 2026-08-08 | ❌ na pierwszym parterze → ✅ na parterze ИЛИ na pierwszym piętrze | ⭐ ЛОЖНЫЙ ДРУГ: `parter` = наш первый (нижний) этаж, номера не имеет; `pierwsze piętro` = следующий над ним. Вместе НИКОГДА
 - [ ] 2026-08-08 | ❌ trzy pokoje: dwa pokoje plus kuchnia → ✅ W moim mieszkaniu są dwa pokoje, salon, kuchnia… | не повторять `pokoje` дважды; перечисление после `są` — всё в mianowniku (обход падежей)
+- [ ] 2026-08-08 | ❌ Także, jeśli pogoda jest ładna… → ✅ Poza tym, jeśli… | «кроме того» в начале предложения = `Poza tym`; `także`/`a także` — только внутри фразы
+- [ ] 2026-08-08 | ❌ jeśli miałbym więcej czasu → ✅ gdybym miał więcej czasu | «если бы» = `gdyby-` + `-bym/-byś` (`gdybym miał, chciałbym…`); `jeśli` — только реальное условие
+- [ ] 2026-08-08 | ❌ podróżować lotniskom → ✅ podróżować samolotem | `lotnisko` = аэропорт (здание); самолёт = `samolot` → `samolotem` (как `samochodem`)
 
 ## Słownictwo (не то слово / калька с русского)
 

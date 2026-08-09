@@ -561,3 +561,30 @@ _Полезное: `w Białymstoku` (Białystok меняется внутри) �
 - **«Зал/гостиная»** = `salon`. ❌ `sala` — это зал в школе/больнице/кинотеатре. Кухня-студия: `salon z kuchnią` (narzędnik) или `salon połączony z kuchnią`.
 - **Приём упрощения (сработал):** перечислять комнаты через `W moim mieszkaniu są…` — после `są` ВСЕ слова в начальной форме, ни одного падежа. Конструкция `połączony z…` не обязательна, её можно выкинуть.
 - Опция «где работаю»: `W jednym z pokoi pracuję zdalnie.` (ученик решил не использовать).
+
+
+### ✅ Тема «Hobby / czas wolny» (z.44) — отработана 2026-08-08, каркас №3 «Co lubisz / jak robisz» освоен
+
+**Q:** Czym się interesujesz w wolnym czasie? Opowiedz o swoim hobby.
+
+**Финальный ответ ученика (пересказ с нуля по памяти, ноль ошибок):**
+> «W wolnym czasie lubię spacerować razem z rodziną lub przyjaciółmi. Spacerujemy zwykle po parku lub po okolicy. Najczęściej spacerujemy wieczorem po pracy lub cały dzień w weekendy. Z drugiej strony, czasami nie spacerujemy, kiedy pada deszcz. Poza tym, jeśli pogoda jest ładna, to jeździmy na rowerze. Ogólnie bardzo lubię spacerować i spędzać czas na świeżym powietrzu, bo czuję się spokojniej, a także to jest dobre dla zdrowia oraz mogę spędzać więcej czasu z rodziną.»
+
+**Каркас №3 «Co lubisz / jak robisz» (переносится на: typowy dzień, pora roku, urlop, jak dbasz o zdrowie, ulubiony przedmiot…):**
+1. Что люблю (прямой ответ) — `W wolnym czasie lubię…`
+2. Когда/как часто — `Zwykle… wieczorem / w weekendy.`
+3. Где / с кем — `Najczęściej… po parku / z rodziną.`
+4. Дополнение — `Poza tym, jeśli…, to…`
+5. Нюанс — `Z drugiej strony, czasami…, bo/kiedy…`
+6. Вывод, 1–3 причины — `Ogólnie bardzo lubię…, bo dzięki temu…`
+
+**Follow-up (неожиданный вопрос экзаменатора) — тоже отработан:**
+Q: «A czy masz jakieś hobby, na które nie masz czasu, ale chciałbyś spróbować?»
+> «Szczerze mówiąc, nie mam takiego hobby. Wolę spacerować lub jeździć na rowerze, bo dzięki temu odpoczywam po pracy. Nie lubię siedzieć w domu po pracy. Lubię robić coś na świeżym powietrzu. Gdybym miał więcej wolnego czasu, to chciałbym podróżować więcej, samochodem lub samolotem.»
+
+_Уроки темы:_
+- **«Нет такого хобби» — легальный ответ**, если сказать полным предложением: `Szczerze mówiąc, nie mam takiego hobby. Wolę…, bo…`
+- **`Poza tym…`** = «кроме того» в начале предложения (❌ `Także,` в начале — калька; `także`/`a także` — только внутри фразы)
+- **`Gdybym miał…, (to) chciałbym…`** — «если бы»: `gdyby`+`-bym`, НЕ `jeśli miałbym`. Золотая пара для всех тем «marzeń» (mieszkanie/wakacje/praca marzeń)
+- **`samolotem`** (на самолёте) ≠ `lotnisko` (аэропорт)
+- Полезные обороты ученика: `na świeżym powietrzu` · `Szczerze mówiąc…` · `Mogę tylko powiedzieć, że…`
