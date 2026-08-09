@@ -517,6 +517,15 @@ _Ответ дан без ошибок с первого раза. Закреп�
 - `czuję się spokojny` → естественнее `czuję się spokojniej`
 - `każda rodzina musi` → мягче `powinna`
 
+**Повтор по памяти 2026-08-08** (вопрос был расширен: «Czy oszczędzasz? Na co i w jaki sposób?»):
+> «Uważam, że warto oszczędzać pieniądze, bo czuję się spokojniej. Na przykład mogę pojechać na wakacje z rodziną. Lub, jeśli mój samochód **się zepsuje**, to mogę szybko zapłacić bez stresu. Jeśli ktoś z rodziny choruje, mogę kupić lekarstwa. Dlatego moim zdaniem każda rodzina powinna oszczędzać pieniądze co miesiąc. Ale z drugiej strony, oszczędzanie może być trudne, dlatego można spróbować oszczędzać tylko 10% z pensji — **przelewać środki na inne konto**.»
+
+- ⚠️ `zepsuł się` вместо `zepsuje się` — соскальзывает второй раз подряд. Гонять форму отдельно: `jeśli` = условие → **будущее** `się zepsuje`.
+- ❌ `przelewać środki **do** innego konta` → ✅ `**na** inne konto`. Глагол для денег: `przelać/przelewać` (отсюда `przelew`), НЕ `przesłać` (это про письма/посылки/файлы).
+- ❌ `robić coś dla oszczędzania` (калька) → `trzeba o tym pamiętać co miesiąc`
+- Новое от ученика: `Jeśli ktoś z rodziny choruje, mogę kupić lekarstwa` — хороший второй пример.
+- 🟡 Шлифовка (не дыра): на вопрос «Czy oszczędzasz? Na co?» чище начинать с прямого `Tak, oszczędzam. Odkładam pieniądze na wakacje.` У ученика это выражено косвенно (всё от 1-го лица) — критерий B1 выполняется, но явный ответ дешевле и надёжнее.
+
 **Пруф про связность (важно):** в устном экзамене критерия `Kompozycja` НЕТ (он только в письменной части, стр. 33). Для **B1 (2–3 балла)** ясность не требуется — критерий говорит только `dość szczegółowo` + `krótko uzasadnić`. Для **B2 (4–5)** — уже да (`jasny`, `precyzyjnie`). То есть «слипшиеся» предложения на 3 балла не штрафуются, на 4 — влияют.
 
 
