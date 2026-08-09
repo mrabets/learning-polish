@@ -617,6 +617,20 @@ _Проверено 2026-08-08 по первоисточнику: `uebungstest_p
 
 Цитаты выше точны, но выводы из них были ошибочны. Ниже — проверенная версия (аудит по `arkusz oceny M10`, PDF стр. 49, и стр. 35–38, 41; + telc Prüfungsregularien от 15.04.2025).
 
+> ✅ **Контрольная перепроверка (3-й независимый агент, 2026-08-08): все 10 ключевых утверждений раздела ПОДТВЕРЖДЕНЫ, опровергнуть не удалось.** Бланк M10 отрендерен и просмотрен глазами (9 строк × 6 овалов B2+/B2−/B1+/B1−/A2/0, числовых баллов нет); таблица конвертации и пороги 75/35 совпадают до запятой (Razem: 100/80/60/40/20/0); атрибуция колонок B2/B1/A2 проверена по координатам блоков; regex-поиск по всем 52 страницам не нашёл ни одного упоминания вычитания баллов за ошибки. Уточнения: экзаменаторы после экзамена сверяют оценки (консенсус не обязателен, при расхождении среднее выводит telc); правило «одна отметка на строку» следует из конструкции бланка.
+
+#### 0. Происхождение формулировки про родной язык: это дескриптор CEFR, а не поблажка telc
+
+Критерии telc — дословный польский перевод официальных шкал CEFR Совета Европы (сам документ это заявляет, стр. 35: «Kryteria te oparte są na wymaganiach, które podaje… Europejski system opisu kształcenia językowego»). Сверка с оригиналом шкалы **CEFR Grammatical accuracy**:
+
+| CEFR (оригинал) | telc (стр. 36) |
+|---|---|
+| B1: «generally good control though **with noticeable mother tongue influence**. Errors occur, but it is clear what he/she is trying to express» | «Na ogół wykazuje dobry poziom kontroli…, **pomimo zauważalnego wpływu języka ojczystego**. Pojawiają się błędy, ale główny przekaz jest jasny» |
+| A2: «still systematically makes basic mistakes — for example **tends to mix up tenses and forget to mark agreement**» | «podstawowe błędy, takie jak **w formach czasownika lub w zgodności podmiotu i orzeczenia**» |
+
+**Выводы:** (1) «поблажка на родной язык» — НЕ политика telc и НЕ связана с языком, указанным в анкете (поле `Muttersprache` в бланке S30 — статистика). Это универсальный дескриптор уровня B1, единый для всех кандидатов всех языков мира: интерференция родного языка в грамматике — ожидаемое свойство речи B1 по определению стандарта. (2) A2-триггер «формы глагола + согласование» — тоже буква CEFR («mix up tenses and forget to mark agreement»), а не интерпретация.
+_Источники: rm.coe.int (CEFR Chapter 5, Grammatical accuracy scale); CEFR Companion Volume, Table 3 + Phonology._
+
 #### 1. Баллы за отдельные ошибки НЕ вычитаются — вообще, ни на каком уровне
 
 На бланке экзаменатора `M10` **нет ни одной цифры**. 9 строк (1A, 1B, 2A, 2B, Część 3, Wymowa, Płynność, Poprawność, Słownictwo), в каждой **6 кружков**: `B2 wyższy` · `B2 niższy/średni` · `B1 wyższy` · `B1 niższy/średni` · `A2` · `0`. Экзаменатор закрашивает один. Полоса конвертируется в баллы (стр. 38):
