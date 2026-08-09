@@ -597,3 +597,35 @@ _Уроки темы:_
 - **`Gdybym miał…, (to) chciałbym…`** — «если бы»: `gdyby`+`-bym`, НЕ `jeśli miałbym`. Золотая пара для всех тем «marzeń» (mieszkanie/wakacje/praca marzeń)
 - **`samolotem`** (на самолёте) ≠ `lotnisko` (аэропорт)
 - Полезные обороты ученика: `na świeżym powietrzu` · `Szczerze mówiąc…` · `Mogę tylko powiedzieć, że…`
+
+
+---
+
+## ⭐ Влияние родного языка (кальки, акцент) — что официально прощается
+
+_Проверено 2026-08-08 по первоисточнику: `uebungstest_polnisch.pdf`, стр. 36 (критерии оценки устного экзамена). Прямые цитаты._
+
+**Poprawność, B1:**
+> «Na ogół wykazuje dobry poziom kontroli konstrukcji gramatycznych, **pomimo zauważalnego wpływu języka ojczystego**. Pojawiają się błędy, ale **główny przekaz jest jasny**.»
+
+**Wymowa/Intonacja, B1:** «Mówi w sposób zrozumiały, mimo że **obcy akcent jest czasami wyraźny** i niekiedy pojawia się niewłaściwa wymowa.»
+**Wymowa/Intonacja, B2:** «…mimo że czasami **obcy akcent jest oczywisty**.» ← акцент не мешает даже на B2
+**Słownictwo, B2:** «Zdarza się, **niezakłócający komunikacji, nieprawidłowy dobór słownictwa**.»
+**Poprawność, B2:** «Popełniane błędy **nie powodują nieporozumień**. Nadal mogą pojawiać się drobne błędy w strukturze zdania, ale często można je później poprawić.»
+
+### Вывод: граница проходит НЕ по «калька/не калька», а по «ломает смысл или нет»
+
+| Тип ошибки | Пример | Цена на B1 |
+|---|---|---|
+| Калька, смысл понятен | `Dalej wróciliśmy` вм. `Potem` · `wszystko podoba mi się` | практически 0 — это и есть `wpływ języka ojczystego` |
+| Ложный друг / не то слово | `spędzać pieniądze` · `próbki` вм. `korki` · `kosztuje drogo` | ⚠️ стоит баллов, если слушатель понимает другое |
+| Смысл переворачивается | `wada` ↔ `zaleta` | 🔴 дорого: «główny przekaz» перестаёт быть ясным |
+| Системная грамматика | `jeśli` + `-by` вм. `gdyby` | ⚠️ мягко — «błędy pojawiają się» разрешено явно |
+
+### ⚠️ Что НЕ подтвердилось
+Родной язык, указанный при регистрации, **не даёт персональной скидки при оценке**. Критерии построены на CEFR и едины для всех; формулировка `wpływ języka ojczystego` относится к любому родному языку. Пруфов обратного не найдено.
+
+### 📌 Как агенту исправлять с учётом этого
+- Стилистические кальки и порядок слов — помечать как **«шлифовка»**, не как ошибку, и не тратить на них силы ученика.
+- Жёстко исправлять только: (1) перевёрнутый смысл, (2) ложных друзей, (3) систематическую грамматику, которая повторяется.
+- Не требовать «идеального» ответа там, где критерий явно допускает погрешность — это демотивирует и не даёт баллов.
