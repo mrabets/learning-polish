@@ -705,3 +705,25 @@ _Источники: rm.coe.int (CEFR Chapter 5, Grammatical accuracy scale); CE
 3. Стилистические кальки, порядок слов, разовые ложные друзья — помечать как **«шлифовка»**, не тратить на них силы ученика и не драматизировать.
 4. Разовый содержательный ляп в 1A/1B (перепутал wada/zaleta) — исправить и идти дальше: цена 1–2 балла.
 5. **Не считать ошибки и не обещать «минус балл за X» — такой механики не существует.** Говорить в терминах полос: «это удерживает тебя в B1» / «это то, что двигает к B1 wyższy».
+
+
+### ✅ Тема «Języki obce» (z.61) — отработана 2026-08-08, каркас №4 «Czy warto / rola X» освоен
+
+**Q:** Czy znajomość języków obcych ułatwia życie?
+
+**Ответ ученика (лучшая сборка):**
+> «Moim zdaniem znajomość języków obcych bardzo ułatwia życie. Po pierwsze, dzięki temu mogę rozmawiać z ludźmi z innych krajów i łatwiej podróżować. Po drugie, znajomość języków obcych **pozwala mi znaleźć** lepszą pracę. Na przykład mieszkam w Polsce i uczę się języka polskiego. Dzięki temu mogę łatwiej załatwiać sprawy w urzędzie, sklepie, aptece i tak dalej. Z drugiej strony, uczenie się języków obcych zajmuje dużo czasu, ale moim zdaniem warto. Dlatego uważam, że każdy człowiek powinien uczyć się języków obcych.»
+
+**⭐ УНИВЕРСАЛЬНЫЙ НЮАНС (по просьбе ученика — одна фраза на все темы «czy warto»):**
+> `Z drugiej strony, to nie jest łatwe, ale moim zdaniem warto.`
+Работает для: языков, экономии денег, спорта, экологии, учёбы, здоровья — везде.
+
+**Follow-up (прошедшее время, мужские формы) — отработан:**
+Q: «A czy trudno było ci uczyć się polskiego? Co było najtrudniejsze?»
+> «Tak, na początku było mi trudno. Najtrudniejsze było mówienie, bo nie miałem dużo praktyki z ludźmi, ponieważ pracuję zdalnie. Ale zdecydowałem się rozmawiać ze znajomymi codziennie i dzięki temu teraz jest mi łatwiej.»
+
+_Уроки темы:_
+- ✅ Взято чисто: `uczę się języka polskiego` (dopełniacz после `uczyć się`) · `w urzędzie, sklepie, aptece` (3 miejscownika подряд) · `z ludźmi` / `ze znajomymi` (narzędnik мн.ч.) · `miałem`, `zdecydowałem się` (мужское прошедшее) · `pozwala mi znaleźć` (сильнее, чем `mogę`)
+- ❌ `uczenie języka` → `uczenie **się** języka` (глагол возвратный, `się` не теряется)
+- ❌ `to warto` → просто `warto` (безличное, `to` перед ним не ставится) — повторялось дважды
+- ❌ `jest łatwiej` при наличии подлежащего → `jest łatwiejsze`; ОБХОД: выкинуть подлежащее → `teraz jest mi łatwiej`

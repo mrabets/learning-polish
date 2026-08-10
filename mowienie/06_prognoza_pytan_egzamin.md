@@ -54,7 +54,7 @@
 - [ ] z.45 — Rozrywki online czy tradycyjne
 
 ### Edukacja (T01) — 2
-- [ ] z.61 — Czy znajomość języków obcych ułatwia życie ⭐⭐⭐ (официальный пример państwowego!)
+- [x] z.61 — Czy znajomość języków obcych ułatwia życie ⭐⭐⭐ — **закрыта 2026-08-08** (каркас №4 «Czy warto» освоен; эталон в TELC-гайде)
 - [ ] z.9 — Ulubiony przedmiot szkolny
 
 ### Kultura / wydarzenia (T08/T12) — 2
@@ -70,7 +70,9 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 5 из 32 тем = 16%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby)
+**Закрыто: 6 из 32 тем = 19%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce)
+
+🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
 | Тема | Всего | Пройдено | Осталось |
 |---|---|---|---|
@@ -83,20 +85,21 @@
 | Podróże | 3 | 0 | 3 |
 | Pieniądze / zakupy | 2 | 0 | 2 |
 | Technologia / media | 2 | 0 | 2 |
-| Edukacja | 2 | 0 | 2 |
+| Edukacja | 2 | 1 | 1 |
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 0 | 2 |
-| **ИТОГО** | **32** | **5** | **27** |
+| **ИТОГО** | **32** | **6** | **26** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
-- Следующая по приоритету: **z.78 (członek rodziny) ⭐⭐⭐** (каркас «Opisz X»), потом добить последний каркас «Czy warto / rola X» на z.61 (języki obce) ⭐⭐⭐
+- Следующая по приоритету: **z.78 (członek rodziny)** · **z.21 (czy pieniądze najważniejsze)** · **z.27 (rola telefonu)** — все по готовым каркасам.
+- ⚠️ Ориентир: ещё ~4–6 тем и переходим к 2A/2B (презентации) — там 20 баллов против 5 за 1B.
 
 ### 28 оставшихся тем сводятся к 3 каркасам (учить надо каркасы, не 28 текстов)
 1. **«Opisz X»** — 6 предложений, каркас уже отработан на z.25 → z.63, z.50, z.78, z.71, z.35, z.22
 2. **«Wady i zalety / X czy Y»** — каркас отработан на z.74 → z.89, z.23, z.45, z.55, z.50
 3. **«Co lubisz / jak robisz»** — каркас отработан на z.44 → z.73, z.3, z.90, z.4, z.81, z.9, z.75
-4. **«Czy warto / rola X» (чистое мнение, 3 причины)** — z.61, z.27, z.21, z.47, z.84, T-sława, z.30, z.98, z.48, z.31, z.29
+4. **«Czy warto / rola X»** — каркас отработан на z.61 → z.27, z.21, z.47, z.84, T-sława, z.30, z.98, z.48, z.31, z.29
 
 ## ЯРУС 2 — РЕЗЕРВ (по желанию, ~25)
 5 (supermarket czy bazarek) · 6 (jesteś tym, co jesz) · 7 (bezludna wyspa) · 8 (ulubiona kuchnia) · 10 (środki transportu) · 11 (odżywianie) · 13 (książka) · 14 (praca najważniejsza?) · 15 (kino czy TV) · 17 (rower w mieście) · 18 (dzień sam czy z przyjaciółmi) · 24 (centrum czy obrzeża) · 32 (ty za 10 lat) · 33 (książka czy rower) · 35 (ulubione miasto) · 39–40 (sport w kraju) · 42 (czas wolny kiedyś/dziś) · 43 (dieta wegetariańska) · 46 (teatr czy kino) · 52 (ważna osoba) · 56 (sport to zdrowie) · 60 (wydarzenie, w którym brałeś udział) · 62 (literatura czy filmy) · 64 (namiot czy hotel) · 66 (biuro podróży czy samemu) · 70 (przyjemna praca) · 72 (3 przedmioty) · 85 (idealny szef) · 88 (kierunki studiów) · 92 (szukanie pracy) · 96 (wynajem czy kredyt) · 99 (reklama) · 100 (samopoczucie)

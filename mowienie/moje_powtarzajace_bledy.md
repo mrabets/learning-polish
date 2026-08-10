@@ -82,3 +82,13 @@
 ## 8. Написание опорных слов
 - ❌ `Zdjęcia przedstawia` / `przystawia` · `radośny`
 - ✅ `Zdjęcie przedstawia` · `radosny` (обычная `s`)
+
+## 15. ⭐⭐ `jest łatwe` (прилагательное) vs `jest łatwo` (наречие) — 2026-08-08, дважды за сессию
+- ❌ `To nie jest łatwo` · `uczenie się jest łatwiej`
+- ✅ **ЕСТЬ подлежащее → прилагательное:** `To nie jest łatw**e**` · `uczenie się jest łatwiejsz**e**`
+- ✅ **НЕТ подлежащего → наречие:** `Nie jest łatw**o**` · `teraz jest mi łatwiej`
+- 🛟 ОБХОД (самый надёжный): выкинуть подлежащее совсем → `teraz jest mi łatwiej`
+
+## 16. ⭐ `warto` — безличное, `to` перед ним НЕ ставится (2026-08-08, дважды)
+- ❌ `ale moim zdaniem to warto`
+- ✅ `ale moim zdaniem warto`
