@@ -96,3 +96,6 @@
 
 - [ ] 2026-07-13 | ❌ radośny → ✅ radosny | пишется обычной `s`, без `ś` (спотыкался 2 раза)
 - [ ] 2026-07-13 | ❌ Zdjęcia przedstawia… / przystawia → ✅ Zdjęcie przedstawia… | частая опечатка: одно фото = `Zdjęcie` (без `-a`); глагол `przedstawia` (через `ed`)
+- [ ] 2026-08-08 | ❌ w współczesnych czasach → ✅ we współczesnych czasach | предлог удлиняется до `we` перед `w`+согласная (`we Wrocławiu`, `we wtorek`)
+- [ ] 2026-08-08 | ❌ warto korzystać, ale z ograniczeniem i kontrolować → ✅ …ale trzeba się kontrolować | нельзя склеивать существительное и инфинитив в один ряд
+- [ ] 2026-08-08 | 🟡 trzeba kontrolować siebie → естественнее trzeba się kontrolować

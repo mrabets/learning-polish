@@ -50,7 +50,7 @@
 - [ ] z.23 — Plusy i minusy zakupów przez internet ⭐⭐
 
 ### Technologia / media (T07) — 2
-- [ ] z.27 — Rola telefonu w życiu współczesnego człowieka ⭐⭐
+- [x] z.27 — Rola telefonu w życiu współczesnego człowieka ⭐⭐ — **закрыта 2026-08-08** (каркас №4 + личный опыт; эталон в TELC-гайде)
 - [ ] z.45 — Rozrywki online czy tradycyjne
 
 ### Edukacja (T01) — 2
@@ -70,7 +70,7 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 6 из 32 тем = 19%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce)
+**Закрыто: 7 из 32 тем = 22%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
@@ -84,12 +84,12 @@
 | Zdrowie | 3 | 0 | 3 |
 | Podróże | 3 | 0 | 3 |
 | Pieniądze / zakupy | 2 | 0 | 2 |
-| Technologia / media | 2 | 0 | 2 |
+| Technologia / media | 2 | 1 | 1 |
 | Edukacja | 2 | 1 | 1 |
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 0 | 2 |
-| **ИТОГО** | **32** | **6** | **26** |
+| **ИТОГО** | **32** | **7** | **25** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - Следующая по приоритету: **z.78 (członek rodziny)** · **z.21 (czy pieniądze najważniejsze)** · **z.27 (rola telefonu)** — все по готовым каркасам.

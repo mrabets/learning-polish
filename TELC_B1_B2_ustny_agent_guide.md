@@ -727,3 +727,21 @@ _Уроки темы:_
 - ❌ `uczenie języka` → `uczenie **się** języka` (глагол возвратный, `się` не теряется)
 - ❌ `to warto` → просто `warto` (безличное, `to` перед ним не ставится) — повторялось дважды
 - ❌ `jest łatwiej` при наличии подлежащего → `jest łatwiejsze`; ОБХОД: выкинуть подлежащее → `teraz jest mi łatwiej`
+
+
+### ✅ Тема «Rola telefonu» (z.27) — отработана 2026-08-08 (после ступора — по каркасу №4 + личный опыт)
+
+**Q:** Jaką rolę odgrywa telefon w życiu współczesnego człowieka?
+> «Moim zdaniem telefon odgrywa bardzo ważną rolę w życiu każdego człowieka. Po pierwsze, mogę kontaktować się z rodziną. Po drugie, mogę szybko znaleźć potrzebną informację. Na przykład mogę zadzwonić do żony i sprawdzić, co trzeba kupić w sklepie. Ale z drugiej strony mogę tracić czas na oglądanie krótkich filmów, na przykład na TikToku. Dlatego uważam, że warto korzystać z telefonu, ale trzeba się kontrolować.»
+
+**📌 ВАЖНЫЙ МЕТОДИЧЕСКИЙ ЭПИЗОД.** На этой теме ученик впервые встал намертво («меня заебало, я даже на русском не понимаю, что от меня хотят») — именно на абстрактной формулировке «rola X w życiu współczesnego człowieka». Что сработало:
+1. Показать официальный критерий 1B: «Potrafi omówić **swoje doświadczenia**» — от него хотят рассказ О СЕБЕ, а не социологию.
+2. **Не вводить отдельный этап «скажи сначала по-русски»** — ученик прямо попросил его убрать, он делает это про себя. Просто формулировать задание в личной форме.
+3. **Ученик сам предложил верное решение:** держаться каркаса И помнить, что можно про свой опыт. Каркас даёт структуру, личный опыт даёт содержание; личное ложится в слот `Na przykład`.
+4. Дальше — слот за слотом, с готовыми вариантами на выбор в первом слоте. После двух слотов ученик доделал ответ сам целиком.
+
+_Ошибки:_
+- ✅ Взято чисто: `zadzwonić **do** żony` (dopełniacz) · `tracić czas **na oglądanie**` · `kontaktować się z rodziną`
+- ❌ `ale z ograniczeniem i kontrolować` (склейка существительного и инфинитива) → `ale trzeba się kontrolować`
+- ❌ `w współczesnych czasach` → `**we** współczesnych czasach` (предлог удлиняется перед `w`+согласная: `we Wrocławiu`, `we wtorek`)
+- 🟡 `trzeba kontrolować siebie` → естественнее `trzeba się kontrolować`
