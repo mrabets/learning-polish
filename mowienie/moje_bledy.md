@@ -99,3 +99,12 @@
 - [ ] 2026-08-08 | ❌ w współczesnych czasach → ✅ we współczesnych czasach | предлог удлиняется до `we` перед `w`+согласная (`we Wrocławiu`, `we wtorek`)
 - [ ] 2026-08-08 | ❌ warto korzystać, ale z ograniczeniem i kontrolować → ✅ …ale trzeba się kontrolować | нельзя склеивать существительное и инфинитив в один ряд
 - [ ] 2026-08-08 | 🟡 trzeba kontrolować siebie → естественнее trzeba się kontrolować
+- [ ] 2026-08-08 | ❌ w placu zabaw → ✅ na placu zabaw | предлог
+- [ ] 2026-08-08 | ❌ o mojej córke → ✅ o mojej córce | miejscownik от `córka`
+- [ ] 2026-08-08 | ❌ korzystać z huśtawkami → ✅ korzystać z huśtawek | `korzystać z` + dopełniacz
+- [ ] 2026-08-08 | ❌ lubi grać (о ребёнке) → ✅ bawić się | `grać` требует дополнения (`grać w piłkę`); с детьми — `bawić się`
+- [ ] 2026-08-08 | ❌ Niedługo idę na spacer → ✅ Potem… | `niedługo` = скоро (будущее), не «потом»
+- [ ] 2026-08-08 | ❌ Kolejno idę na obiad → ✅ Następnie… | `kolejno` = поочерёдно
+- [ ] 2026-08-08 | ❌ W końcu dnia idę spać → ✅ Na koniec dnia… | `w końcu` = наконец-то
+- [ ] 2026-08-08 | ❌ idę spacerować → ✅ idę na spacer
+- [ ] 2026-08-08 | ✅ ЗАПОМНИТЬ ЦЕПОЧКУ: Najpierw → Potem → Następnie → Wieczorem → Na koniec

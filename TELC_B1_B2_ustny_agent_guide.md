@@ -745,3 +745,37 @@ _Ошибки:_
 - ❌ `ale z ograniczeniem i kontrolować` (склейка существительного и инфинитива) → `ale trzeba się kontrolować`
 - ❌ `w współczesnych czasach` → `**we** współczesnych czasach` (предлог удлиняется перед `w`+согласная: `we Wrocławiu`, `we wtorek`)
 - 🟡 `trzeba kontrolować siebie` → естественнее `trzeba się kontrolować`
+
+
+### ✅ z.78 «Członek rodziny» + z.73 «Typowy dzień» — 2026-08-08, ПЕРВЫЕ ХОЛОДНЫЕ ПРОГОНЫ
+
+> 📌 С этого момента режим сменился: каркасы построены → дальше **холодные прогоны** (незнакомый вопрос, каркас НЕ показывается, по слотам НЕ ведём, подсказок нет). Ученик прямо сказал: «это я с тобой, а на экзамене с незнакомым вопросом не смогу». Проверка показала обратное.
+
+**z.78 — Q:** Opowiedz o kimś z twojej rodziny.
+> «Mogę opowiedzieć o mojej córce. Ona ma trzy lata, jasne, długie włosy i jasne oczy. Lubi bawić się na placu zabaw dla dzieci w okolicy razem z innymi dziećmi. Poza tym lubi jeść coś słodkiego, na przykład lody lub cukierki. Ale z drugiej strony staramy się dawać jej tylko zdrowe jedzenie, takie jak warzywa, owoce, ryby i tak dalej. Ogólnie kocham swoją córkę, bo dzięki niej czuję się spokojny i szczęśliwy.»
+- ⚠️ Не закрыто: эмоции + характер (`Zwykle wygląda na szczęśliwą i jest bardzo wesoła`) — ученик отказался договаривать.
+- Ошибки первого дубля (ВСЕ — повторы из журнала): `Także`→`Poza tym` (3-й раз за сессию) · `w placu zabaw`→`na placu zabaw` · `grać`→`bawić się` (из журнала от 21.07) · `o mojej córke`→`córce` · `korzystać z huśtawkami`→`z huśtawek`. Новых ошибок почти нет — проблема в НЕДОАВТОМАТИЗИРОВАННОСТИ старых.
+- `grać` всегда просит дополнение: `grać w piłkę`. С детьми надёжнее `bawić się`.
+
+**z.73 — Q:** Opowiedz o swoim typowym dniu. (первый дубль, без переписывания)
+> «Zwykle wstaję rano o godzinie siódmej i piję kawę. **Potem** idę na spacer, pół godziny lub godzinę. **Następnie** pracuję, piszę kod, robię zadania, ponieważ pracuję jako programista zdalnie w domu. Idę na obiad, jem na przykład zupę. Wieczorem mogę jeszcze raz pójść na spacer razem z rodziną, iść do sklepu, do apteki, a po spacerze zjeść kolację z żoną i oglądać seriale lub filmy. **Na koniec** dnia idę spać. Ogólnie mój dzień wygląda prosto, ale z drugiej strony, jeśli mówimy o weekendach, to mogę pojechać za granicę, nad morze, w góry.»
+
+**⭐⭐⭐ ГЛАВНОЕ ЗА СЕССИЮ: ученик СПОНТАННО применил фразу-затяжку посреди ответа** — «Chwileczkę, chciałbym pomyśleć o tym pytaniu.» Без напоминания. Это ровно та техника из `08_co_robic_gdy_pustka.md`, и на экзамене это плюс к Płynności, а не штраф.
+
+_Ошибки (ВСЕ 🟢 — нулевая цена по критериям, сказано ученику прямо):_
+- ❌ `Niedługo` (=скоро) → `Potem` · ❌ `Kolejno` (=поочерёдно) → `Następnie` · ❌ `W końcu dnia` (=наконец-то) → `Na koniec dnia` · ❌ `idę spacerować` → `idę na spacer`
+- ✅ **ЦЕПОЧКА СВЯЗОК ДЛЯ ЛЮБОГО РАССКАЗА:** `Najpierw… → Potem… → Następnie… → Wieczorem… → Na koniec…`
+- ✅ Исправлена старая ошибка: `jako programista` (mianownik) больше не вылезает
+- ✅ Направления в бирнике: `nad morze`, `w góry`
+- 🔴 **В ОБОИХ холодных прогонах — НИ ОДНОЙ ошибки из красной зоны** (формы глагола, согласование подлежащего). Страх «не смогу на незнакомом вопросе» данными не подтвердился.
+
+### 📌 Что нужно для B2 (спросил ученик; давать ТОЛЬКО по запросу)
+| Критерий | B1 (текущий) | B2 |
+|---|---|---|
+| Słownictwo | «podstawowe błędy przy złożonych myślach» | «**różnicować sformułowania i używać niektórych złożonych form zdaniowych**» |
+| Wykonanie 1B | «**dość** szczegółowo… **krótko** uzasadnić» | «**jasno i szczegółowo**… opinie **jasno i precyzyjnie**» |
+| Płynność | «sprawnie, **pomimo przerw**» | «**mało zauważalnych długich przerw**» |
+
+Чего не хватает конкретно: (1) разнообразие формулировок — `mogę` повторяется 5 раз, менять на `zwykle / staram się / zdarza się, że`; (2) сложноподчинённые — `który`, `mimo że`, `chociaż`, `zanim` (ученик УЖЕ умеет: `projektem, który łączył…`); (3) точная оценка вместо общей.
+Пример апгрейда: `Następnie zaczynam pracę — piszę kod i robię zadania, **które** zaplanowałem wcześniej. **Chociaż** pracuję w domu, staram się trzymać stały rytm.`
+⚠️ **Честно про цену:** B2 = 75/100, т.е. почти все 9 строк на B2 — это другой уровень, а не доработка. Риск: сложные предложения → больше ошибок → удар по Poprawność. Здравая стратегия — подбирать ОТДЕЛЬНЫЕ строки (одна строка вверх = +3 балла запаса), самое дешёвое — слово `który`.

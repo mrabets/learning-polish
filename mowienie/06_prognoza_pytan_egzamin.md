@@ -15,7 +15,7 @@
 - [x] **T-pieniądze** — Oszczędzanie / forma płatności — **закрыта 2026-07-21, оба вопроса**
 
 ### Rodzina / ludzie (T03) — 4
-- [ ] z.78 — Scharakteryzuj wybranego członka rodziny ⭐⭐⭐
+- [x] z.78 — Scharakteryzuj wybranego członka rodziny ⭐⭐⭐ — **закрыта 2026-08-08** (холодный прогон; не добиты эмоции+характер)
 - [ ] z.71 — Opisz najlepszego przyjaciela; dlaczego się przyjaźnicie ⭐⭐
 - [ ] z.30 — Typowy model rodziny w twoim kraju
 - [ ] z.75 — Ostatnia uroczystość rodzinna, w której uczestniczyłeś
@@ -32,7 +32,7 @@
 
 ### Czas wolny / hobby (T04) — 3
 - [x] z.44 — Opisz swoje hobby ⭐⭐⭐ — **закрыта 2026-08-08** (основной ответ + follow-up; эталон в TELC-гайде)
-- [ ] z.73 — Twój typowy dzień ⭐⭐
+- [x] z.73 — Twój typowy dzień ⭐⭐ — **закрыта 2026-08-08** (холодный прогон, первый дубль; цепочка связок Najpierw→Potem→Następnie→Wieczorem→Na koniec)
 - [ ] z.3 — Jaką porę roku lubisz najbardziej
 
 ### Zdrowie (T05) — 3
@@ -70,17 +70,17 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 7 из 32 тем = 22%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 9 из 32 тем = 28%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
 | Тема | Всего | Пройдено | Осталось |
 |---|---|---|---|
 | Официальные telc (1B/2A) | 2 | 2 | **0** ✅ |
-| Rodzina / ludzie | 4 | 0 | 4 |
+| Rodzina / ludzie | 4 | 1 | 3 |
 | Praca | 3 | 1 | 2 |
 | Dom / mieszkanie | 3 | 1 | 2 |
-| Czas wolny / hobby | 3 | 1 | 2 |
+| Czas wolny / hobby | 3 | 2 | 1 |
 | Zdrowie | 3 | 0 | 3 |
 | Podróże | 3 | 0 | 3 |
 | Pieniądze / zakupy | 2 | 0 | 2 |
@@ -89,7 +89,7 @@
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 0 | 2 |
-| **ИТОГО** | **32** | **7** | **25** |
+| **ИТОГО** | **32** | **9** | **23** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - Следующая по приоритету: **z.78 (członek rodziny)** · **z.21 (czy pieniądze najważniejsze)** · **z.27 (rola telefonu)** — все по готовым каркасам.
