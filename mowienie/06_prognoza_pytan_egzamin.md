@@ -36,7 +36,7 @@
 - [ ] z.3 — Jaką porę roku lubisz najbardziej
 
 ### Zdrowie (T05) — 3
-- [ ] z.4 — Jak dbasz o zdrowie ⭐⭐
+- [x] z.4 — Jak dbasz o zdrowie ⭐⭐ — **закрыта 2026-08-08** (холодный прогон)
 - [ ] z.81 — Jak radzisz sobie ze stresem
 - [ ] z.55 — Niezdrowe zwyczaje ludzi w XXI wieku
 
@@ -46,7 +46,7 @@
 - [ ] z.90 — Jak zwykle spędzasz urlop
 
 ### Pieniądze / zakupy (T06) — 2 (+ официальная выше)
-- [ ] z.21 — Czy pieniądze są najważniejsze w życiu ⭐⭐
+- [x] z.21 — Czy pieniądze są najważniejsze w życiu ⭐⭐ — **закрыта 2026-08-08** (холодный прогон)
 - [ ] z.23 — Plusy i minusy zakupów przez internet ⭐⭐
 
 ### Technologia / media (T07) — 2
@@ -66,11 +66,11 @@
 
 ### Wartości (T11) — 1 (+ официальная дискуссия)
 - [ ] z.84 — Jakie cechy cenisz u ludzi najbardziej
-- [ ] **T-sława** — Czy warto być sławnym? (официальная тема дискуссии telc, część 3)
+- [x] **T-sława** — Czy warto być sławnym? — **закрыта 2026-08-08** (официальная тема дискуссии telc, część 3 — контент готов)
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 9 из 32 тем = 28%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 12 из 32 тем = 38%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
@@ -81,19 +81,19 @@
 | Praca | 3 | 1 | 2 |
 | Dom / mieszkanie | 3 | 1 | 2 |
 | Czas wolny / hobby | 3 | 2 | 1 |
-| Zdrowie | 3 | 0 | 3 |
+| Zdrowie | 3 | 1 | 2 |
 | Podróże | 3 | 0 | 3 |
-| Pieniądze / zakupy | 2 | 0 | 2 |
+| Pieniądze / zakupy | 2 | 1 | 1 |
 | Technologia / media | 2 | 1 | 1 |
 | Edukacja | 2 | 1 | 1 |
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
-| Wartości | 2 | 0 | 2 |
-| **ИТОГО** | **32** | **9** | **23** |
+| Wartości | 2 | 1 | 1 |
+| **ИТОГО** | **32** | **12** | **20** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
-- Следующая по приоритету: **z.78 (członek rodziny)** · **z.21 (czy pieniądze najważniejsze)** · **z.27 (rola telefonu)** — все по готовым каркасам.
-- ⚠️ Ориентир: ещё ~4–6 тем и переходим к 2A/2B (презентации) — там 20 баллов против 5 за 1B.
+- ✅ **ПЛАН «5 ТЕМ» ВЫПОЛНЕН (2026-08-08).** Этап 1B закрыт достаточно: 12 тем + все 4 каркаса + официальная тема дискуссии.
+- ⬅️ **СЛЕДУЮЩИЙ ЭТАП — Część 2A/2B (презентации, 20 б.)**: растянуть до 2 минут уже пройденные темы. Оставшиеся 20 тем 1B — резерв, добираются быстро при необходимости.
 
 ### 28 оставшихся тем сводятся к 3 каркасам (учить надо каркасы, не 28 текстов)
 1. **«Opisz X»** — 6 предложений, каркас уже отработан на z.25 → z.63, z.50, z.78, z.71, z.35, z.22

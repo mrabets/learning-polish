@@ -779,3 +779,30 @@ _Ошибки (ВСЕ 🟢 — нулевая цена по критериям, 
 Чего не хватает конкретно: (1) разнообразие формулировок — `mogę` повторяется 5 раз, менять на `zwykle / staram się / zdarza się, że`; (2) сложноподчинённые — `który`, `mimo że`, `chociaż`, `zanim` (ученик УЖЕ умеет: `projektem, który łączył…`); (3) точная оценка вместо общей.
 Пример апгрейда: `Następnie zaczynam pracę — piszę kod i robię zadania, **które** zaplanowałem wcześniej. **Chociaż** pracuję w domu, staram się trzymać stały rytm.`
 ⚠️ **Честно про цену:** B2 = 75/100, т.е. почти все 9 строк на B2 — это другой уровень, а не доработка. Риск: сложные предложения → больше ошибок → удар по Poprawność. Здравая стратегия — подбирать ОТДЕЛЬНЫЕ строки (одна строка вверх = +3 балла запаса), самое дешёвое — слово `który`.
+
+
+### ✅ z.4 «Zdrowie» · z.21 «Pieniądze» · T-sława — холодные прогоны 2026-08-08
+
+**z.4 — Q:** Jak dbasz o zdrowie?
+> «Myślę, że **żeby dbać** o zdrowie, trzeba spacerować i jeść zdrowe jedzenie. I robię to. Na przykład codziennie wstaję rano o siódmej, piję kawę i od razu idę na spacer **na pół godziny**. W ciągu dnia staram się jeść **zdrowe jedzenie, np. warzywa, owoce, ryby, jajka, mleko**. Poza tym uważam, że trzeba uprawiać sport, dlatego dwa razy w tygodniu idę do siłowni i robię różne ćwiczenia. Ale z drugiej strony czasami mogę **pozwolić sobie** zjeść coś niezdrowego, na przykład chipsy lub lody, **bo to daje poczucie życia, że ja żyję, a nie tylko dbam o zdrowie**. Dlatego ogólnie myślę, że każdy człowiek powinien dbać **o swoje zdrowie**.»
+- ⭐ `bo to daje poczucie życia, że ja żyję, a nie tylko dbam o zdrowie` — развёрнутое точное обоснование, уровень B2 («wyrażać opinie jasno i precyzyjnie»)
+- ✅ Сильные обороты: `pozwolić sobie` · `uprawiać sport` · `idę do siłowni` · `coś niezdrowego`
+- ❌ `dla dbania o zdrowie` (калька) → `żeby dbać o zdrowie` (цель = `żeby` + инфинитив)
+- ❌ `dbać o swoim zdrowie` → `o swoje zdrowie` — **`dbać o` ВСЕГДА бирник**
+- ❌ `jeść warzywą, rybą, jajką` → `warzywa, ryby, jajka` (после `jeść` бирник = начальная форма у этих слов)
+
+**z.21 — Q:** Czy pieniądze są najważniejsze w życiu?
+> «Uważam, że **pieniądze są ważne, ale nie są najważniejsze** w życiu. Pieniądze są ważne, ponieważ dają wygodę **każdej osobie**. Na przykład człowiek może żyć w lepszym mieszkaniu, jeść drogie jedzenie, chodzić do restauracji, podróżować nad morze lub w góry. Z drugiej strony, **jeśli dbamy tylko o pieniądze**, to człowiek będzie nieszczęśliwy. **Żeby człowiek był szczęśliwy**, potrzebuje **miłości** — kogoś, **którego by kochał**. To mogą być dzieci, pies, żona. Ogólnie pieniądze są ważne, ponieważ dają wygodę, ale to nie jest najważniejsza rzecz. W życiu najważniejsza jest miłość.»
+- ⭐⭐ Выше B1: `Żeby człowiek był szczęśliwy…` (сослагательное с `żeby`) · `kogoś, którego by kochał` (придаточное с условным)
+- ⭐ Приём ученика: обошёл трудный дательный `człowiekowi`, подставив `każdej osobie` — правильная стратегия
+- 🔴 **ПЕРВАЯ ошибка красной зоны за 3 холодных прогона:** `pieniądze są ważny` × 3 раза → `są ważne`. Согласование — один из двух A2-триггеров. В конце ответа сказал ПРАВИЛЬНО → форму знает, не автоматизирована. Есть в журнале с 21.07
+- ❌ `potrzebuje miłość` → `miłości` (`potrzebować` + dopełniacz)
+
+**T-sława (ОФИЦИАЛЬНАЯ тема дискуссии telc) — Q:** Czy warto być sławnym?
+> «**Moim zdaniem nie warto być sławnym.** Myślę, że **aby człowiek był szczęśliwy**, nie trzeba być sławnym, ale trzeba dbać o zdrowie i kochać kogoś. Na przykład człowiek może kochać dziewczynę, dziecko lub psa. **Poza tym, jeśli ma dobre zdrowie, dba o swoje zdrowie, uprawia sport, to taki człowiek jest szczęśliwy.** Dla kogoś sława może być ważna, ale dla mnie to nie jest ważne. **Najważniejsze rzeczy w życiu to zdrowie i miłość.**»
+- ✅ `aby człowiek był szczęśliwy` — сослагательное перенеслось из z.21 САМО
+- ✅ `Najważniejsze rzeczy… to zdrowie i miłość` — множественное согласование верное (то, что чинили 5 минут назад)
+- ✅ Переиспользовал содержание z.4 и z.21 — темы работают друг на друга, как и задумано
+- 🔴 `Także` в начале предложения — **ЧЕТВЁРТЫЙ раз за сессию**, единственная по-настоящему систематическая ошибка → `Poza tym`
+- ❌ Предложение из одних придаточных без главной части («jeśli…, jeśli…» и точка) → нужна концовка `to jest szczęśliwy`
+- ❌ Прямой ответ пришёл только в 4-м предложении → по `Wykonanie zadania` он должен быть ПЕРВОЙ фразой

@@ -71,8 +71,14 @@
 - ✅ `dzisiaj **nie ma** promocji` · `nie widać zieleni`
 - Правило: «нет чего-то» = всегда `nie ma` + родительный, НИКОГДА `nie jest`.
 
-## 14. ⭐ Связки: где что ставить
-- ❌ `Także,` в начале предложения → ✅ `**Poza tym**, …` (`także`/`a także` — только внутри фразы)
+## 14. 🔴🔴🔴 `Także,` в начале предложения — САМАЯ ЧАСТАЯ ОШИБКА (4 раза за сессию 2026-08-08)
+- ❌ `Także, lubi bawić się…` · `Także, jeśli pogoda jest ładna…` · `Także lubi grać…` · `Także, jeśli ma dobre zdrowie…`
+- ✅ **`Poza tym, …`** — «кроме того» в начале предложения
+- `także` / `a także` — ТОЛЬКО внутри фразы: `…a także mogę spędzać czas z rodziną`
+- ⚠️ ГОНЯТЬ ПЕРВЫМ НОМЕРОМ в разминке, пока не уйдёт совсем
+
+## 14b. ⭐ `Z drugiej strony` вводит САМ минус
+- ❌ `Z drugiej strony, podoba mi się…, ale jest głośno` → ✅ `Z drugiej strony, czasami jest głośno, bo…`
 - ❌ `Z drugiej strony, podoba mi się…, ale jest głośno` → ✅ `Z drugiej strony` вводит **сам минус**: `Z drugiej strony, czasami jest głośno, bo…`
 
 ## 7. Подлежащее для `odbywa się` / `ma miejsce`
@@ -92,3 +98,17 @@
 ## 16. ⭐ `warto` — безличное, `to` перед ним НЕ ставится (2026-08-08, дважды)
 - ❌ `ale moim zdaniem to warto`
 - ✅ `ale moim zdaniem warto`
+
+## 17. 🔴 Согласование `pieniądze są ważne` (красная зона! 3 раза в одном ответе 2026-08-08)
+- ❌ `pieniądze są ważny` · `nie są najważniejszy`
+- ✅ `pieniądze **są ważne**` · `nie są **najważniejsze**`
+- `pieniądze` — мн.ч. не-мужско-личное → прилагательные на `-e`. Так же: `rzeczy są ważne`, `dzieci są zmęczone`
+- ⚠️ Это ОДИН ИЗ ДВУХ типов ошибок, названных в A2-ячейке критерия (согласование подлежащего со сказуемым). Единственное, что реально роняет ниже B1.
+
+## 18. ⭐⭐ `dbać o` — ВСЕГДА бирник (2 раза за сессию)
+- ❌ `dbać o swoim zdrowie` · `dbać tylko o pieniądzach`
+- ✅ `dbać **o swoje zdrowie**` · `dbać **o pieniądze**` · `dbać **o rodzinę**`
+
+## 19. ⭐ Цепочка связок для рассказа по порядку
+`Najpierw… → Potem… → Następnie… → Wieczorem… → Na koniec…`
+- ❌ `Niedługo` (=скоро) · `Kolejno` (=поочерёдно) · `W końcu dnia` (=наконец-то)
