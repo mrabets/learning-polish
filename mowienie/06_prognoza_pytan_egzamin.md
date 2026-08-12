@@ -41,7 +41,7 @@
 - [ ] z.55 — Niezdrowe zwyczaje ludzi w XXI wieku
 
 ### Podróże (T09) — 3
-- [ ] z.29 — Wakacje marzeń ⭐⭐
+- [x] z.29 — Wakacje marzeń ⭐⭐ — **закрыта 2026-08-08** (холодный + расширенный прогон; `Gdybym miał…, pojechałbym…` взята сама)
 - [ ] z.89 — Wakacje w górach czy nad morzem
 - [ ] z.90 — Jak zwykle spędzasz urlop
 
@@ -70,7 +70,7 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 14 из 32 тем = 44%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 15 из 32 тем = 47%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
@@ -82,14 +82,14 @@
 | Dom / mieszkanie | 3 | 1 | 2 |
 | Czas wolny / hobby | 3 | 2 | 1 |
 | Zdrowie | 3 | 1 | 2 |
-| Podróże | 3 | 0 | 3 |
+| Podróże | 3 | 1 | 2 |
 | Pieniądze / zakupy | 2 | 1 | 1 |
 | Technologia / media | 2 | 1 | 1 |
 | Edukacja | 2 | 1 | 1 |
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 1 | 1 |
-| **ИТОГО** | **32** | **14** | **18** |
+| **ИТОГО** | **32** | **15** | **17** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - ✅ **ПЛАН «5 ТЕМ» ВЫПОЛНЕН (2026-08-08).** Все 4 каркаса освоены, официальная тема дискуссии закрыта.

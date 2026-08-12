@@ -843,3 +843,25 @@ _Ошибки (ВСЕ 🟢 — нулевая цена по критериям, 
 - ❌ `jedliśmy jedzenie` → просто `jedliśmy` (тавтология, есть в журнале с 21.07)
 - ❌ `duży torcik` → `duży tort` (`torcik` = маленький тортик, с `duży` спорит)
 - 🟢 `z trzema oponami` → `na trzech kółkach` (`opona` = покрышка) · `w sklepie z zabawkami`
+
+
+### ✅ z.29 «Wakacje marzeń» — 2026-08-08 (два прогона: холодный + расширенный)
+
+**Q:** Opisz swoje wymarzone wakacje.
+> «Wakacje **moich marzeń** to podróżowanie do Hiszpanii **na dwa tygodnie**, bo mogę odwiedzać zarówno morze, jak i góry. Poza tym chciałbym pojechać samochodem razem z rodziną, bo **tak jest dla mnie wygodniej**. W Hiszpanii mógłbym leżeć na plaży, **opalać się** i pływać. Poza tym mógłbym **zwiedzać zabytki**, a także **spróbować lokalnej kuchni**. Chciałbym też **zarezerwować hotel** w górach, **wstać rano**, pić kawę i podziwiać góry. Z drugiej strony takie wakacje kosztują dużo. Ale myślę, że warto. Ogólnie moje marzenie to oglądanie morza i gór.»
+
+- ⭐⭐ **`Gdybym miał dużo pieniędzy, pojechałbym…`** — полная условная конструкция, ОБЕ части верно. Утром ученик спотыкался на ней дважды, к вечеру выдал сам
+- ✅ Фраза-затяжка пошла третий раз (`Ciekawe pytanie. Chciałbym pomyśleć, proszę poczekać chwileczkę.`) — уже рефлекс
+- ✅ Взял из банка слов: `na dwa tygodnie`, `opalać się`, `spróbować lokalnej kuchni` (+ dopełniacz!), `zarezerwować hotel`
+- 🔴 `takie wakacje **kosztuje**` → `kosztują` — КРАСНАЯ ЗОНА (согласование). `wakacje` всегда мн.ч.
+- ❌ `wakacje mojego marzenia` → `wakacje **moich marzeń**` (ученик исправился сам)
+- ❌ `obserwować zabytki` → `zwiedzać zabytki` · ❌ `wstać na jutro` → `wstać rano`
+- ❌ `to wygląda wygodniej dla mnie` → `To **wydaje mi się** wygodniejsze` / `tak jest dla mnie wygodniej`
+
+**📌 ВАЖНО — ученик оспорил три моих замечания, и по двум был ПРАВ:**
+1. `Także` в начале предложения — **не ошибка**, цена ноль (см. `moje_powtarzajace_bledy.md` п.14, понижено)
+2. `kosztują zbyt drogo` — **допустимо** (`drogo kosztować` в польском есть)
+3. `wakacje moich marzeń` — **верно** (ошибкой был только `mojego marzenia`)
+Агент признал перегиб. Урок для агента: не раздувать стилистику до 🔴, следовать собственной рамке приоритетов.
+
+**Полезные слова темы podróże:** `na dwa tygodnie` · `zwiedzać zabytki` · `opalać się` · `próbować lokalnej kuchni` · `nocleg` · `zarezerwować hotel` · `podziwiać widoki`

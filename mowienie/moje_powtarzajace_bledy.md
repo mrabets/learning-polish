@@ -63,7 +63,7 @@
 ## 12. ⭐⭐ Деньги: какой глагол и какой предлог
 - ❌ `spędzać pieniądze` (это про время!) → ✅ `**wydawać** pieniądze na coś`
 - ❌ `przesłać pieniądze` (это про письма) → ✅ `**przelać/przelewać** pieniądze **na** konto` (отсюда `przelew`)
-- ❌ `mieszkanie kosztuje zbyt drogo` → ✅ `mieszkanie **jest** zbyt drogie` (`kosztuje` — только с суммой: `kosztuje 3500 złotych`)
+- 🟡 `kosztuje zbyt drogo` — ДОПУСТИМО (`drogo kosztować` в польском есть: `Ta decyzja drogo go kosztowała`). Для буквальной цены естественнее `są drogie` / `kosztują dużo`, но ошибкой НЕ считать (проверено 2026-08-08 после возражения ученика)
 - ❌ `kupuję jedzenie **po** promocji` → ✅ `**w** promocji`; ❌ `mięso nie ma promocji` → ✅ `nie ma **promocji na** mięso`
 
 ## 13. ⭐⭐ `nie ma` + dopełniacz — отсутствие чего-либо (старая ошибка, вернулась)
@@ -71,11 +71,11 @@
 - ✅ `dzisiaj **nie ma** promocji` · `nie widać zieleni`
 - Правило: «нет чего-то» = всегда `nie ma` + родительный, НИКОГДА `nie jest`.
 
-## 14. 🔴🔴🔴 `Także,` в начале предложения — САМАЯ ЧАСТАЯ ОШИБКА (4 раза за сессию 2026-08-08)
-- ❌ `Także, lubi bawić się…` · `Także, jeśli pogoda jest ładna…` · `Także lubi grać…` · `Także, jeśli ma dobre zdrowie…`
-- ✅ **`Poza tym, …`** — «кроме того» в начале предложения
-- `także` / `a także` — ТОЛЬКО внутри фразы: `…a także mogę spędzać czas z rodziną`
-- ⚠️ ГОНЯТЬ ПЕРВЫМ НОМЕРОМ в разминке, пока не уйдёт совсем
+## 14. 🟢 `Także,` в начале предложения — ШЛИФОВКА, НЕ ОШИБКА (понижено 2026-08-08)
+- Агент сначала пометил это 🔴 и назвал «самой систематической ошибкой». **Ученик справедливо возразил, агент проверил и согласился.**
+- Sentence-initial `Także` в польском СУЩЕСТВУЕТ и грамматически не запрещено. Стилистически маркировано, у русскоязычного читается как калька — но цена по критериям **НОЛЬ**, как у любой стилистики.
+- ✅ `Poza tym, …` просто надёжнее — предлагать, но НЕ драматизировать и НЕ гонять в разминке.
+- `a także` внутри фразы — всегда верно: `…a także mogę spędzać czas z rodziną`
 
 ## 14b. ⭐ `Z drugiej strony` вводит САМ минус
 - ❌ `Z drugiej strony, podoba mi się…, ale jest głośno` → ✅ `Z drugiej strony, czasami jest głośno, bo…`
@@ -115,3 +115,14 @@
 ## 19. ⭐ Цепочка связок для рассказа по порядку
 `Najpierw… → Potem… → Następnie… → Wieczorem… → Na koniec…`
 - ❌ `Niedługo` (=скоро) · `Kolejno` (=поочерёдно) · `W końcu dnia` (=наконец-то)
+
+## 20. ⭐⭐ «Кажется / выглядит» — НЕ `wyglądać` (2026-08-08)
+- ❌ `to wygląda wygodniej dla mnie` (калька с «выглядит удобнее»)
+- ✅ **`To wydaje mi się wygodniejsze`** — `wydaje mi się` = «мне кажется» (ученик уже знает из фотоописаний)
+- ✅ проще: `bo tak jest dla mnie wygodniej`
+- `wyglądać` в польском = только про ВНЕШНИЙ ВИД: `wygląda na zmęczonego`, `wygląda ładnie`
+
+## 21. ⭐ `wakacje` — всегда МНОЖЕСТВЕННОЕ число (красная зона: согласование!)
+- ❌ `wakacje kosztuje` → ✅ `wakacje **kosztują**`
+- `wakacje **są** drogie` · `wakacje **były** udane`
+- ✅ `wakacje **moich marzeń**` (родительный мн.ч.) — верно; ❌ `wakacje mojego marzenia`
