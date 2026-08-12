@@ -17,8 +17,8 @@
 ### Rodzina / ludzie (T03) — 4
 - [x] z.78 — Scharakteryzuj wybranego członka rodziny ⭐⭐⭐ — **закрыта 2026-08-08** (холодный прогон; не добиты эмоции+характер)
 - [x] z.71 — Opisz najlepszego przyjaciela ⭐⭐ — **закрыта 2026-08-08** (холодный прогон + follow-up)
-- [ ] z.30 — Typowy model rodziny w twoim kraju
-- [ ] z.75 — Ostatnia uroczystość rodzinna, w której uczestniczyłeś
+- [ ] z.30 — Typowy model rodziny w twoim kraju _(перенесена: домен закрыт на 3 темах + z.78)_
+- [x] z.75 — Ostatnia uroczystość rodzinna ⭐ — **закрыта 2026-08-08** (холодный прогон + follow-up)
 
 ### Praca (T02) — 3 (+ официальная выше)
 - [x] z.74 — Wady i zalety pracy zdalnej — **закрыта 2026-07-21, без ошибок**
@@ -70,14 +70,14 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 13 из 32 тем = 41%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 14 из 32 тем = 44%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
 | Тема | Всего | Пройдено | Осталось |
 |---|---|---|---|
 | Официальные telc (1B/2A) | 2 | 2 | **0** ✅ |
-| Rodzina / ludzie | 4 | 2 | 2 |
+| Rodzina / ludzie | 4 | 3 | 1 |
 | Praca | 3 | 1 | 2 |
 | Dom / mieszkanie | 3 | 1 | 2 |
 | Czas wolny / hobby | 3 | 2 | 1 |
@@ -89,7 +89,7 @@
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 1 | 1 |
-| **ИТОГО** | **32** | **13** | **19** |
+| **ИТОГО** | **32** | **14** | **18** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - ✅ **ПЛАН «5 ТЕМ» ВЫПОЛНЕН (2026-08-08).** Все 4 каркаса освоены, официальная тема дискуссии закрыта.

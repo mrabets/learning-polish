@@ -824,3 +824,22 @@ _Ошибки (ВСЕ 🟢 — нулевая цена по критериям, 
 - ❌ `z innego klasy` → `z **innej** klasy` (`klasa` — жен. род)
 - ❌ `po studie` → `po lekcjach` (после уроков) / `po studiach` (после вуза)
 - 💡 Каноническое для темы: `zawsze mogę na nim polegać` · `mamy podobne zainteresowania`
+
+
+### ✅ z.75 «Uroczystość rodzinna» — холодный прогон 2026-08-08 (ДОМЕН RODZINA ЗАКРЫТ 4/4)
+
+**Q:** Opowiedz o ostatniej uroczystości rodzinnej, w której uczestniczyłeś.
+> «Ostatnia uroczystość to były urodziny w restauracji. Moja córka miała dwa lata. **Byli tam** ja, żona, córka, druga córka, **dziadkowie i inni znajomi**. Atmosfera była pozytywna i wesoła. Dawaliśmy prezenty, **jedliśmy duży tort**. **Ogólnie było dobrze i wesoło. Jednak było dużo pracy, ale było warto.**»
+
+**Follow-up:** A co kupiłeś córce w prezencie?
+> «Nie pamiętam, co jej kupiłem, ale **przypuszczam, że** to był mały **rowerek na trzech kółkach**. Kupiłem go **w sklepie z zabawkami**.»
+
+- ✅ Прошедшее мн.ч. чисто: `byliśmy`, `dawaliśmy`, `jedliśmy`, `kupiłem`
+- ✅ `przypuszczam, że` — хеджирование перенеслось из фотоописаний
+- ✅ `trzema` — творительный числительного (сложная форма) взят верно
+- 🔴 **ОДНО ПРАВИЛО чинит две ошибки: НЕТ ПОДЛЕЖАЩЕГО → НАРЕЧИЕ.** ❌ `było dobre i wesołe` → ✅ `było **dobrze** i **wesoło**`; ❌ `to było warto` → ✅ `warto było` (3-й раз за сессию!). Блок целиком: `było dobrze` · `było wesoło` · `warto było` · `było mi trudno`
+- ❌ `inne znajome` → `inni znajomi` (в группе есть мужчины → мужско-личная форма; тема `Oni/One`)
+- ❌ `dziadki, babci` → `dziadkowie` (одно слово на бабушку с дедушкой)
+- ❌ `jedliśmy jedzenie` → просто `jedliśmy` (тавтология, есть в журнале с 21.07)
+- ❌ `duży torcik` → `duży tort` (`torcik` = маленький тортик, с `duży` спорит)
+- 🟢 `z trzema oponami` → `na trzech kółkach` (`opona` = покрышка) · `w sklepie z zabawkami`

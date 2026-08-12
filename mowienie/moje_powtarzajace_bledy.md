@@ -95,9 +95,12 @@
 - ✅ **НЕТ подлежащего → наречие:** `Nie jest łatw**o**` · `teraz jest mi łatwiej`
 - 🛟 ОБХОД (самый надёжный): выкинуть подлежащее совсем → `teraz jest mi łatwiej`
 
-## 16. ⭐ `warto` — безличное, `to` перед ним НЕ ставится (2026-08-08, дважды)
-- ❌ `ale moim zdaniem to warto`
-- ✅ `ale moim zdaniem warto`
+## 16. 🔴🔴 БЕЗЛИЧНЫЕ КОНСТРУКЦИИ: нет подлежащего → НАРЕЧИЕ, и без `to` (3 раза за сессию 2026-08-08)
+- ❌ `to warto` · `to było warto` → ✅ **`warto`** · **`warto było`**
+- ❌ `było dobre i wesołe` → ✅ **`było dobrze i wesoło`**
+- ❌ `To nie jest łatwo` (есть подлежащее `to`) → ✅ `To nie jest łatw**e**`
+- 📦 БЛОК ЦЕЛИКОМ, заучить: `było dobrze` · `było wesoło` · `warto było` · `było mi trudno` · `jest mi łatwiej`
+- Правило: **есть подлежащее → прилагательное** (`To jest łatwe`); **нет подлежащего → наречие** (`Jest łatwo`)
 
 ## 17. 🔴 Согласование `pieniądze są ważne` (красная зона! 3 раза в одном ответе 2026-08-08)
 - ❌ `pieniądze są ważny` · `nie są najważniejszy`
