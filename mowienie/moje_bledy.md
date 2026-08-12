@@ -108,3 +108,7 @@
 - [ ] 2026-08-08 | ❌ W końcu dnia idę spać → ✅ Na koniec dnia… | `w końcu` = наконец-то
 - [ ] 2026-08-08 | ❌ idę spacerować → ✅ idę na spacer
 - [ ] 2026-08-08 | ✅ ЗАПОМНИТЬ ЦЕПОЧКУ: Najpierw → Potem → Następnie → Wieczorem → Na koniec
+- [ ] 2026-08-08 | ❌ zawsze daje radę (о советах) → ✅ daje dobre rady / doradza | ⭐ ЛОЖНЫЙ ДРУГ: `dawać radę` = справляться; «давать советы» = `dawać rady` (мн.ч.)
+- [ ] 2026-08-08 | ❌ zawsze pomaga → ✅ zawsze mi pomaga | `pomagać` + celownik (кому)
+- [ ] 2026-08-08 | ❌ z innego klasy → ✅ z innej klasy | `klasa` — женский род
+- [ ] 2026-08-08 | ❌ po studie → ✅ po lekcjach (после уроков) / po studiach (после вуза)

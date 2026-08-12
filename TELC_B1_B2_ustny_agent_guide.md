@@ -806,3 +806,21 @@ _Ошибки (ВСЕ 🟢 — нулевая цена по критериям, 
 - 🔴 `Także` в начале предложения — **ЧЕТВЁРТЫЙ раз за сессию**, единственная по-настоящему систематическая ошибка → `Poza tym`
 - ❌ Предложение из одних придаточных без главной части («jeśli…, jeśli…» и точка) → нужна концовка `to jest szczęśliwy`
 - ❌ Прямой ответ пришёл только в 4-м предложении → по `Wykonanie zadania` он должен быть ПЕРВОЙ фразой
+
+
+### ✅ z.71 «Najlepszy przyjaciel» — холодный прогон 2026-08-08 (с банком слов по просьбе ученика)
+
+**Q:** Opisz swojego najlepszego przyjaciela. Dlaczego się przyjaźnicie?
+> «Mój przyjaciel ma 25 lat. On ma krótkie, ciemne włosy. Lubi podróżować i **grać w piłkę nożną**. Jest spokojny, wesoły i pracowity. On pracuje w IT. Lubię spacerować z nim i **rozmawiać o życiu i pracy**. **Znam go już dziesięć lat.** Ogólnie lubię przyjaźnić się z nim, bo **zawsze mi pomaga i daje dobre rady**.»
+
+**Follow-up:** A jak go poznałeś?
+> «Poznałem go dziesięć lat temu w szkole. On był **z innej klasy**. Lubiłem grać z nim w piłkę nożną **po lekcjach**.»
+
+- ⭐ **Ученик попросил давать БАНК КЛЮЧЕВЫХ СЛОВ** к каждой теме («а то я от себя говно придумаю и запомню»). Давать список слов по слотам, но НЕ готовые предложения — сборка на ученике.
+- ✅ `grać w piłkę nożną` — применил поправку («`grać` требует дополнения») сам, через 20 минут после разбора
+- ✅ Мужское прошедшее чисто: `Poznałem`, `Lubiłem`
+- ❌ **`daje radę` — ЛОЖНЫЙ ДРУГ:** `dawać radę` = «справляться» (`daję radę` = я справляюсь). «Давать советы» = `daje dobre **rady**` (мн.ч.) или `doradza`
+- ❌ `zawsze pomaga` → `zawsze **mi** pomaga` (`pomagać` + celownik)
+- ❌ `z innego klasy` → `z **innej** klasy` (`klasa` — жен. род)
+- ❌ `po studie` → `po lekcjach` (после уроков) / `po studiach` (после вуза)
+- 💡 Каноническое для темы: `zawsze mogę na nim polegać` · `mamy podobne zainteresowania`
