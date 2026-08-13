@@ -112,3 +112,10 @@
 - [ ] 2026-08-08 | ❌ zawsze pomaga → ✅ zawsze mi pomaga | `pomagać` + celownik (кому)
 - [ ] 2026-08-08 | ❌ z innego klasy → ✅ z innej klasy | `klasa` — женский род
 - [ ] 2026-08-08 | ❌ po studie → ✅ po lekcjach (после уроков) / po studiach (после вуза)
+- [ ] 2026-08-08 | ❌ W ostatnich wakacjach → ✅ Na ostatnich wakacjach | `na wakacjach`, всегда `na`
+- [ ] 2026-08-08 | ❌ Jeden dzień wstaliśmy → ✅ Jednego dnia | время «когда» — родительный
+- [ ] 2026-08-08 | ❌ pojechać w Szwajcarię → ✅ pojechać do Szwajcarii | ⭐ В СТРАНУ всегда `do` + dopełniacz: do Polski, do Włoch, do Hiszpanii
+- [ ] 2026-08-08 | ❌ dzieciam → ✅ dzieciom | дательный мн.ч. от `dzieci`
+- [ ] 2026-08-08 | ❌ więcej podoba się → ✅ bardziej podoba się | `więcej` = количество, `bardziej` = степень
+- [ ] 2026-08-08 | ❌ leżać na plaży → ✅ leżeć na plaży | инфинитив `leżeć`
+- [ ] 2026-08-08 | ❌ Z drugiej strony, w przyszłości chciałbym… → ✅ W przyszłości chciałbym… | `Z drugiej strony` вводит КОНТРАСТ, не «кроме того»

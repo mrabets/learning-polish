@@ -865,3 +865,27 @@ _Ошибки (ВСЕ 🟢 — нулевая цена по критериям, 
 Агент признал перегиб. Урок для агента: не раздувать стилистику до 🔴, следовать собственной рамке приоритетов.
 
 **Полезные слова темы podróże:** `na dwa tygodnie` · `zwiedzać zabytki` · `opalać się` · `próbować lokalnej kuchni` · `nocleg` · `zarezerwować hotel` · `podziwiać widoki`
+
+
+### ✅ z.89 «Góry czy morze» + follow-up про Bośnię — 2026-08-08
+
+**Follow-up к z.29 (лучший ответ сессии):** A gdzie byłeś na ostatnich wakacjach?
+> «**Na ostatnich wakacjach** byliśmy w Bośni, w Sarajewie. Podróżowaliśmy samolotem razem z żoną i córką. **Zarezerwowaliśmy** hotel w centrum. **Jednego dnia wstaliśmy rano** i piliśmy **kawę po bośniacku** w kawiarni. Potem **zwiedzaliśmy zabytki**, spacerowaliśmy, a także **próbowaliśmy lokalnej kuchni**. Z drugiej strony, ta podróż **kosztowała** drogo. **Najdroższe były** bilety na samolot. Ale myślę, że **warto**. Ogólnie ta podróż **podobała nam się**.»
+- ⭐ Применил САМ, без напоминаний, 6 позиций, разобранных за 10 минут до этого
+- ⭐ Заполненные паузы стали естественными: `Poproszę chwileczkę poczekać. Zaraz pomyślę.` · **`Zaraz, zaraz…`** (очень живой польский филлер)
+- ✅ Все согласования верны: `podróż kosztowała` · `podobała nam się` · `Najdroższe były bilety`
+- ❌ `W ostatnich wakacjach` → `**Na** ostatnich wakacjach` · `Jeden dzień` → `**Jednego dnia**`
+- 💬 Ученик сам оценил ответ как «хуйню» из-за долгих пауз и «эканья». По ТЕКСТУ — лучший ответ сессии. Дано: критерий Płynność B1 прямо разрешает «przerwy w celu planowania lub naprawy, **zwłaszcza jeśli wypowiedź trwa dłużej**». Честная оговорка: по тексту паузы не видны, нужна запись голосом с таймером ближе к экзамену.
+
+**z.89 — Q:** Wolisz wakacje w górach czy nad morzem?
+> «Wolę wakacje nad morzem, ponieważ mogę pojechać razem z rodziną, **leżeć** na plaży i pływać z dziećmi. Ale z drugiej strony, w górach mogę wędrować i podziwiać piękne widoki. Jednak **dzieciom bardziej podoba się** morze niż góry. Dlatego ogólnie wolę wakacje nad morzem, bo dla mnie **wakacje dla rodziny są ważne**, a nie tylko dla siebie.»
+- ✅ **`wakacje… są ważne`** — то самое согласование, на котором споткнулся 30 минут назад (`pieniądze są ważny`). Теперь верно
+- ❌ `dzieciam` → `dzieciom` · `więcej podoba się` → `bardziej` (`więcej` про количество, `bardziej` про степень) · `leżać` → `leżeć`
+
+**Follow-up:** A czy byłeś kiedyś w górach?
+- ✅ `nie rezerwowaliśmy **hotelu**` — родительный после отрицания
+- ❌ `pojechać **w** Szwajcarię` → `pojechać **do** Szwajcarii` — **в страну всегда `do` + dopełniacz**: `do Polski`, `do Włoch`, `do Hiszpanii`
+- ❌ `Z drugiej strony, w przyszłości chciałbym…` — связка повисает, противопоставления нет → просто `W przyszłości chciałbym…`. **`Z drugiej strony` вводит КОНТРАСТ к сказанному, не работает как «кроме того»**
+- 💡 Склонение названий городов (`w Zakopanem`, `do Zakopanego` — причастие, склоняется как прилагательное) — экзотика, экзаменационной ценности ноль. ОБХОД: `Byliśmy tylko w polskich górach.`
+
+**📌 Ученик снова оспорил `obserwować` — и снова был прав:** это не ошибка, просто необычное сочетание (`podziwiać widoki` идиоматичнее). Цена ноль. Агент признал, что третий раз за сессию поднимает то, что сам отнёс к 🟢. **Правило для агента: 🟢 = упомянул одной строкой и пошёл дальше, не возвращаться.**
