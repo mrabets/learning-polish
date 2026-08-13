@@ -912,3 +912,27 @@ _Ошибки (ВСЕ 🟢 — нулевая цена по критериям, 
 > Куда едем → **`do` + dopełniacz**: `do Polski` · `do Szwajcarii` · `do miasta` · `do sklepu` · `do toalety`
 > Или **`za` + biernik**: `za granicę`
 > Где находимся → `w mieście`, `za granicą`
+
+
+### ✅ z.81 «Radzenie sobie ze stresem» — 2026-08-08
+
+**Q:** Jak radzisz sobie ze stresem?
+> «Poproszę chwileczkę poczekać, zaraz pomyślę **nad tym pytaniem**. Radzę sobie ze stresem zwykle tak: mogę spacerować razem z dziećmi lub bez dzieci. Mogę też uprawiać sport — chodzę 2–3 razy w tygodniu do siłowni i robię ćwiczenia. Poza tym lubię jeździć na rowerze, jeśli pogoda jest ładna. Z drugiej strony, stres może być **długotrwały**. Dlatego uważam, że **powinienem** pojechać na wakacje **za granicę** — na przykład popływać **w morzu** lub **wędrować po górach**.»
+
+**Follow-up:** A co cię najbardziej stresuje?
+> «Na przykład trudne zadania w pracy lub dzieci, które krzyczą cały dzień. Ale to nie jest **duży problem**, bo **wiem, jak radzić sobie** z tym stresem.»
+
+- ✅ `powinienem` (муж. 1 л.) · `wędrować po górach` · `Poza tym` и `Z drugiej strony` обе на местах
+- ❌ `pomyślę nad tym **pytaniu**` → `nad tym **pytaniem**` (после `nad` — narzędnik)
+- 🔴 `za granic**ą**` → `za granic**ę**` — ВТОРОЙ раз за 15 минут (движение = biernik)
+- ❌ `powinien pojechać` (о себе) → `powinien**em**` — форма отвалилась, хотя в первой версии сказал верно. `powinien` = он должен, `powinienem` = я должен
+- ❌ `duża problema` → **`duży problem`** — в польском `problem` МУЖСКОГО рода (русская интерференция)
+- ❌ `radzić z tym stresem` → `radzić **sobie** z…` — `sobie` обязательно
+- ❌ `długoterminowy` (про кредиты) → `długotrwały` (про стресс) · `popływać nad morzem` → `w morzu`
+
+**⭐⭐ ВАЖНОЕ РАЗЛИЧЕНИЕ `znać` vs `wiedzieć`** (в русском одно «знать»):
+| Глагол | Когда | Примеры |
+|---|---|---|
+| `znać` | + ДОПОЛНЕНИЕ (знать кого/что) | `znam go` · `znam Warszawę` · `znam sposób` |
+| `wiedzieć` | + ПРИДАТОЧНОЕ (знать, что/как/где) | `wiem, jak…` · `wiem, że…` · `nie wiem, gdzie…` |
+❌ `znam, jak radzić` → ✅ `wiem, jak radzić`

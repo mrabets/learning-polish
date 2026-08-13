@@ -126,3 +126,13 @@
 - ❌ `wakacje kosztuje` → ✅ `wakacje **kosztują**`
 - `wakacje **są** drogie` · `wakacje **były** udane`
 - ✅ `wakacje **moich marzeń**` (родительный мн.ч.) — верно; ❌ `wakacje mojego marzenia`
+
+## 22. ⭐⭐⭐ `znać` vs `wiedzieć` — в русском одно «знать» (2026-08-08)
+- ❌ `znam, jak radzić sobie` → ✅ **`wiem, jak radzić sobie`**
+- `znać` + ДОПОЛНЕНИЕ: `znam go`, `znam Warszawę`, `znam sposób`
+- `wiedzieć` + ПРИДАТОЧНОЕ: `wiem, jak…`, `wiem, że…`, `nie wiem, gdzie…`
+
+## 23. ⭐⭐ Род слов, отличающийся от русского
+- ❌ `duża problema` → ✅ **`duży problem`** (мужской род!)
+- ❌ `do toaletu` → ✅ `do toalety` (женский)
+- ❌ `z innego klasy` → ✅ `z innej klasy` (женский)
