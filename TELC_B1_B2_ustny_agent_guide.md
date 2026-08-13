@@ -936,3 +936,24 @@ _Ошибки (ВСЕ 🟢 — нулевая цена по критериям, 
 | `znać` | + ДОПОЛНЕНИЕ (знать кого/что) | `znam go` · `znam Warszawę` · `znam sposób` |
 | `wiedzieć` | + ПРИДАТОЧНОЕ (знать, что/как/где) | `wiem, jak…` · `wiem, że…` · `nie wiem, gdzie…` |
 ❌ `znam, jak radzić` → ✅ `wiem, jak radzić`
+
+
+### ✅ z.55 «Niezdrowe zwyczaje» — 2026-08-08 (ДОМЕН ZDROWIE ЗАКРЫТ 3/3)
+
+**Q:** Jakie niezdrowe zwyczaje mają ludzie w XXI wieku?
+> «Uważam, że ludzie w XXI wieku mają **wiele niezdrowych zwyczajów**. Na przykład **wielu ludzi je** niezdrowe jedzenie — chipsy, słodkie napoje. Poza tym ludzie **prowadzą niezdrowy, siedzący tryb życia**, ponieważ dużo czasu siedzą przed telewizorem lub **w telefonie**. Z drugiej strony myślę, że w XXI wieku ludzie **częściej uprawiają sport**, ponieważ w różnych miastach **pojawiło się więcej siłowni, basenów, placów zabaw**. Dlatego ogólnie uważam, że ludzie mają wiele niezdrowych zwyczajów, ale to można poprawić.»
+
+**Follow-up:** A czy ty masz jakiś niezdrowy zwyczaj?
+> «Tak, mam jeden niezdrowy zwyczaj — to siedzący tryb życia. Ponieważ pracuję jako programista zdalnie w domu, **spędzam dużo czasu bez ruchu**. Z drugiej strony staram się codziennie spacerować, uprawiać sport, jeździć na rowerze, **żeby prowadzić zdrowszy tryb życia**.»
+
+- ✅ `wiele niezdrowych zwyczajów` · `placów zabaw` — родительный мн.ч., сложные формы
+- ✅ `spędzać czas` наконец в правильном значении (не про деньги) · `żeby prowadzić zdrowszy tryb życia` — цель + сравнительная степень
+
+**🔴📦 ГЛАВНОЕ ПРАВИЛО ТЕМЫ: после `wiele / wielu / dużo / więcej` + dopełniacz глагол в ЕДИНСТВЕННОМ числе** (красная зона — согласование):
+- ❌ `wiele osób **jadą**` → ✅ `wiel**u** ludzi **je**`
+- ❌ `**są** więcej siłowni` → ✅ `**jest/pojawiło się** więcej siłowni`
+- ✅ Без квантора — множественное: `ludzie **jedzą**`
+- Блок: `wielu ludzi je` · `dużo osób pracuje` · `jest więcej siłowni` · `pojawiło się więcej basenów`
+- ⚠️ Отдельно: **`jadą` = «едут»** (jechać). «Едят» = **`jedzą`** (jeść)
+
+_Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sport więcej` → `częściej uprawiają sport` · ❌ `Ponieważ…, dlatego…` — двойная связка, оставить одну

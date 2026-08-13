@@ -38,7 +38,7 @@
 ### Zdrowie (T05) — 3
 - [x] z.4 — Jak dbasz o zdrowie ⭐⭐ — **закрыта 2026-08-08** (холодный прогон)
 - [x] z.81 — Jak radzisz sobie ze stresem — **закрыта 2026-08-08** (холодный прогон + follow-up)
-- [ ] z.55 — Niezdrowe zwyczaje ludzi w XXI wieku
+- [x] z.55 — Niezdrowe zwyczaje ludzi w XXI wieku — **закрыта 2026-08-08** (холодный прогон + follow-up) — ✅ ДОМЕН ZDROWIE 3/3
 
 ### Podróże (T09) — 3
 - [x] z.29 — Wakacje marzeń ⭐⭐ — **закрыта 2026-08-08** (холодный + расширенный прогон; `Gdybym miał…, pojechałbym…` взята сама)
@@ -70,7 +70,7 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 18 из 32 тем = 56%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 19 из 32 тем = 59%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
@@ -81,7 +81,7 @@
 | Praca | 3 | 1 | 2 |
 | Dom / mieszkanie | 3 | 1 | 2 |
 | Czas wolny / hobby | 3 | 2 | 1 |
-| Zdrowie | 3 | 2 | 1 |
+| Zdrowie | 3 | 3 | **0** ✅ |
 | Podróże | 3 | 3 | **0** ✅ |
 | Pieniądze / zakupy | 2 | 1 | 1 |
 | Technologia / media | 2 | 1 | 1 |
@@ -89,7 +89,7 @@
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 1 | 1 |
-| **ИТОГО** | **32** | **18** | **14** |
+| **ИТОГО** | **32** | **19** | **13** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - ✅ **ПЛАН «5 ТЕМ» ВЫПОЛНЕН (2026-08-08).** Все 4 каркаса освоены, официальная тема дискуссии закрыта.

@@ -136,3 +136,14 @@
 - ❌ `duża problema` → ✅ **`duży problem`** (мужской род!)
 - ❌ `do toaletu` → ✅ `do toalety` (женский)
 - ❌ `z innego klasy` → ✅ `z innej klasy` (женский)
+
+## 24. 🔴📦 После `wiele / wielu / dużo / więcej` — глагол в ЕДИНСТВЕННОМ числе (красная зона)
+- ❌ `wiele osób jadą` → ✅ **`wielu ludzi je`**
+- ❌ `są więcej siłowni` → ✅ **`jest więcej siłowni`** / `pojawiło się więcej siłowni`
+- ✅ БЕЗ квантора — множественное: `ludzie **jedzą**`
+- 📦 Блок: `wielu ludzi je` · `dużo osób pracuje` · `jest więcej siłowni`
+- ⚠️ `jadą` = «едут» (jechać) ≠ `jedzą` = «едят» (jeść)
+
+## 25. ⭐ Двойная связка `Ponieważ…, dlatego…` — оставить ОДНУ
+- ❌ `Ponieważ pracuję zdalnie, dlatego spędzam dużo czasu bez ruchu`
+- ✅ `**Ponieważ** pracuję zdalnie, spędzam…` ИЛИ `Pracuję zdalnie, **dlatego** spędzam…`
