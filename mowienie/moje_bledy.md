@@ -119,3 +119,8 @@
 - [ ] 2026-08-08 | ❌ więcej podoba się → ✅ bardziej podoba się | `więcej` = количество, `bardziej` = степень
 - [ ] 2026-08-08 | ❌ leżać na plaży → ✅ leżeć na plaży | инфинитив `leżeć`
 - [ ] 2026-08-08 | ❌ Z drugiej strony, w przyszłości chciałbym… → ✅ W przyszłości chciałbym… | `Z drugiej strony` вводит КОНТРАСТ, не «кроме того»
+- [ ] 2026-08-08 | ❌ podróżować za granicą → ✅ za granicę | движение = биерник; `za granicą` = находиться там
+- [ ] 2026-08-08 | ❌ pojechać w miasto → ✅ do miasta | ⭐ ПОВТОР: куда едем = `do` + dopełniacz
+- [ ] 2026-08-08 | ❌ dzieci są mały → ✅ dzieci są małe | 🔴 красная зона: согласование (как `pieniądze są ważne`)
+- [ ] 2026-08-08 | ❌ jest szybszej niż → ✅ jest szybsze niż | согласование с `podróżowanie` (ср. род)
+- [ ] 2026-08-08 | ❌ do toaletu → ✅ do toalety | `toaleta` женского рода

@@ -889,3 +889,26 @@ _Ошибки (ВСЕ 🟢 — нулевая цена по критериям, 
 - 💡 Склонение названий городов (`w Zakopanem`, `do Zakopanego` — причастие, склоняется как прилагательное) — экзотика, экзаменационной ценности ноль. ОБХОД: `Byliśmy tylko w polskich górach.`
 
 **📌 Ученик снова оспорил `obserwować` — и снова был прав:** это не ошибка, просто необычное сочетание (`podziwiać widoki` идиоматичнее). Цена ноль. Агент признал, что третий раз за сессию поднимает то, что сам отнёс к 🟢. **Правило для агента: 🟢 = упомянул одной строкой и пошёл дальше, не возвращаться.**
+
+
+### ✅ z.90 «Jak spędzasz urlop» — 2026-08-08 (ДОМЕН PODRÓŻE ЗАКРЫТ 3/3)
+
+**Q:** Jak zwykle spędzasz urlop?
+> «Zwykle raz w roku podróżujemy razem z rodziną **za granicę**, samochodem lub samolotem. Zwykle podróżujemy do miasta, **w którym jest morze**. Lubimy pływać w morzu i leżeć na plaży, także rezerwujemy hotel, **zwiedzamy** zabytki i próbujemy lokalnej kuchni. Z drugiej strony, **chcielibyśmy** pojechać **do miasta**, gdzie są góry, ale myślę, że to będzie tylko w przyszłości, bo **dzieci są małe**.»
+
+**Follow-up:** A wolisz podróżować samochodem czy samolotem?
+> «Wolę podróżować samochodem, bo to jest dla mnie wygodniejsze. Kiedy podróżujemy samochodem, możemy się zatrzymać, kupić coś, a także **chodzić do toalety**. Z drugiej strony, podróżowanie samolotem **jest szybsze** niż samochodem. Dlatego ogólnie wolę samochód, ale **jeśli** miasto jest daleko, to wybiorę samolot.»
+
+- ✅ `w którym jest morze` — придаточное с предлогом · `chcielibyśmy` — условное мн.ч.
+- ✅ **`Z drugiej strony` употреблено ПРАВИЛЬНО** (реальный контраст) — 15 минут назад ставил невпопад
+- ✅ **`jeśli miasto jest daleko`** — реальное условие, взял `jeśli`, а не `gdyby`. Различение усвоено
+- 🔴 `dzieci są **mały**` → `są **małe**` — красная зона, тот же паттерн, что `pieniądze są ważny`. **Блок: `dzieci są małe` · `pieniądze są ważne` · `wakacje są drogie` · `widoki są piękne`**
+- 🔴 `pojechać **w** miasto` → `**do** miasta` — ПОВТОР через 10 минут после `w Szwajcarię`→`do Szwajcarii`
+- ❌ `podróżować za granic**ą**` → `za granic**ę**` (движение = биерник; `za granicą` = находиться)
+- ❌ `zwiedzimy` (будущее) в ряду настоящего → `zwiedzamy`
+- ❌ `jest szybsz**ej**` → `jest szybsz**e**` (согласование с `podróżowanie`, ср. род) · `do toalet**u**` → `do toalet**y**`
+
+**📦 ПРАВИЛО НАПРАВЛЕНИЯ (дважды за сессию):**
+> Куда едем → **`do` + dopełniacz**: `do Polski` · `do Szwajcarii` · `do miasta` · `do sklepu` · `do toalety`
+> Или **`za` + biernik**: `za granicę`
+> Где находимся → `w mieście`, `za granicą`
