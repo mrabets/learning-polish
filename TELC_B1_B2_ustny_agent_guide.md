@@ -989,3 +989,17 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - 🔴 `**ten** pracę` → `**tę** pracę` · `dwie prac**y**` → `dwie prac**e**`
 - 🔁 `pensja jest trochę **mniej**` → `niższa` — то же правило «есть подлежащее → прилагательное»
 - 💡 `niższa pensja` точнее, чем `mniejsza` (ученик сам нашёл)
+
+
+### ✅ z.63 «Mieszkanie marzeń» — 2026-08-08
+
+**Q:** Opisz swoje wymarzone mieszkanie.
+> «Dom moich marzeń to nie mieszkanie, a dom **w dużym mieście** — na przykład w Gdańsku lub Warszawie, ale za miastem, nie w centrum. **Gdybym miał** taki dom, **to chciałbym** mieć cztery pokoje oraz osobny gabinet do pracy, bo pracuję zdalnie jako programista. Poza tym chciałbym mieć blisko szkołę dla dzieci, plac zabaw, kawiarnie i sklepy. **Chciałbym, żeby okolica była cicha**, bo nie lubię hałasu. Ale z drugiej strony, taki dom kosztuje dużo pieniędzy. Ogólnie taki dom **jest domem moich marzeń** i chciałbym zarabiać na taki dom w przyszłości.»
+
+**Follow-up:** A co byś zmienił w swoim obecnym mieszkaniu?
+> «W swoim obecnym mieszkaniu **zmieniłbym** to, że chciałbym mieć osobny gabinet do pracy, ponieważ pracuję zdalnie. Jeszcze **chciałbym, żeby okolica była trochę cichsza**, bo obok naszego bloku budują budynki.» — ЧИСТО, ошибок нет
+
+- ✅ `Gdybym miał…, to chciałbym` · `Chciałbym, żeby okolica **była** cicha` (сослагательное с `żeby` + прош. форма) · `zmieniłbym`
+- 🔴 `taki dom **jest dom**` → `jest **domem**` — после `być` творительный (ученик это умеет: `Byłem studentem`)
+- 🔁 `w dużym **miaste**` → `w **mieście**` (есть в списке повторов, п.6)
+- 🔁 `o tym **pytanie**` → `o tym **pytaniu**` (то же было 20 минут назад)
