@@ -973,3 +973,19 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - 🔁 `W końcu mogę powiedzieć` → `Na koniec` (`w końcu` = наконец-то)
 
 **📌 С этой темы агент перешёл на ЖЁСТКИЙ режим правки** по требованию ученика: называть ТОЛЬКО формы глагола/согласование и повторы, всё остальное молча пропускать (см. `AGENTS.md`, «Критические правила опроса», п.4).
+
+
+### ✅ z.31 «Praca marzeń» — 2026-08-08 (ДОМЕН PRACA ЗАКРЫТ 3/3)
+
+**Q:** Opisz swoją pracę marzeń.
+> «**Praca moich marzeń** to pracować jako programista w firmie ze Stanów Zjednoczonych. Po pierwsze, mogę pracować zdalnie i mieć **elastyczny grafik pracy**. Dlatego mogę wstać rano, załatwić swoje sprawy lub odpocząć, a pracować dopiero wieczorami. Po drugie, mogę **zarabiać dużo pieniędzy**. Ale z drugiej strony, myślę, że może być negatywny wpływ na moje zdrowie, bo mogę pracować nawet w nocy. Ogólnie taka praca **byłaby** pracą moich marzeń, bo dla mnie elastyczny grafik i praca zdalna **są ważne**.»
+
+**Follow-up:** A co jest dla ciebie ważniejsze — wysoka pensja czy elastyczny grafik?
+> «Dla mnie **zarówno pensja, jak i elastyczny grafik są ważne**. Ale **gdyby** zaproponowali mi **dwie prace** i w jednej z nich jest elastyczny grafik, ale **pensja jest trochę niższa**, to **wybrałbym tę pracę**.»
+
+- ✅ `praca moich marzeń` (раньше `mojego marzenia`) · `zarówno…, jak i… są ważne` · `gdyby zaproponowali` · `zarabiać dużo pieniędzy`
+- 🔴 `taka praca **byłoby**` → `byłaby` (согласование, `praca` жен. род)
+- 🔴 `gdyby…, to **wybieram**` → `wybrałbym` — после `gdyby` глагол ТОЖЕ условный (ученик это уже умеет: `Gdybym miał…, pojechałbym`)
+- 🔴 `**ten** pracę` → `**tę** pracę` · `dwie prac**y**` → `dwie prac**e**`
+- 🔁 `pensja jest trochę **mniej**` → `niższa` — то же правило «есть подлежащее → прилагательное»
+- 💡 `niższa pensja` точнее, чем `mniejsza` (ученик сам нашёл)
