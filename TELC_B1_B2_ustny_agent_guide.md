@@ -957,3 +957,19 @@ _Ошибки (ВСЕ 🟢 — нулевая цена по критериям, 
 - ⚠️ Отдельно: **`jadą` = «едут»** (jechać). «Едят» = **`jedzą`** (jeść)
 
 _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sport więcej` → `częściej uprawiają sport` · ❌ `Ponieważ…, dlatego…` — двойная связка, оставить одну
+
+
+### ✅ z.22 «Pierwsza praca» — 2026-08-08
+
+**Q:** Opowiedz o swojej pierwszej pracy.
+> «Pracowałem jako programista w mojej pierwszej pracy w biurze. Moim zadaniem było napisać **program**. Na początku **było trudno**, bo nic nie wiedziałem i **nie rozumiałem**. Traciłem dużo czasu na to, żeby rozwiązać swoje zadanie, ale zdecydowałem się rozmawiać o zadaniach i problemach ze swoimi kolegami. Dzięki temu rozwiązałem swoje zadanie. Ta praca nauczyła mnie, że **powinienem** rozmawiać z kolegami i nie bać się. **Na koniec** mogę powiedzieć, że komunikacja jest najważniejsza w pracy.»
+
+**Follow-up:** A czy pamiętasz swój pierwszy dzień w tej pracy?
+> «Pamiętam swój pierwszy dzień. **Byłem studentem** i studiowałem na uniwersytecie. **Poszedłem** do swojej pierwszej pracy na pół dnia. Dlatego jednocześnie **zarówno pracowałem, jak i studiowałem**.»
+
+- ✅ Все формы глагола верные: `powinienem` · `nie rozumiałem` (была ошибка 21.07) · `Poszedłem` (неправильный) · `Byłem studentem` (narzędnik) · `zarówno…, jak i…` (была ошибка 21.07)
+- ✅ `Na początku było trudno` — безличная конструкция с наречием, правило усвоено
+- 🔁 `programę` → `program` — мужской род (как `problem`; русские «программа/проблема» в польском мужские)
+- 🔁 `W końcu mogę powiedzieć` → `Na koniec` (`w końcu` = наконец-то)
+
+**📌 С этой темы агент перешёл на ЖЁСТКИЙ режим правки** по требованию ученика: называть ТОЛЬКО формы глагола/согласование и повторы, всё остальное молча пропускать (см. `AGENTS.md`, «Критические правила опроса», п.4).

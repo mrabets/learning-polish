@@ -22,7 +22,7 @@
 
 ### Praca (T02) — 3 (+ официальная выше)
 - [x] z.74 — Wady i zalety pracy zdalnej — **закрыта 2026-07-21, без ошибок**
-- [ ] z.22 — Twoja pierwsza praca
+- [x] z.22 — Twoja pierwsza praca — **закрыта 2026-08-08** (холодный прогон + follow-up)
 - [ ] z.31 — Praca marzeń
 
 ### Dom / mieszkanie (T09) — 3
@@ -70,7 +70,7 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 19 из 32 тем = 59%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 20 из 32 тем = 63%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
@@ -78,7 +78,7 @@
 |---|---|---|---|
 | Официальные telc (1B/2A) | 2 | 2 | **0** ✅ |
 | Rodzina / ludzie | 4 | 3 | 1 |
-| Praca | 3 | 1 | 2 |
+| Praca | 3 | 2 | 1 |
 | Dom / mieszkanie | 3 | 1 | 2 |
 | Czas wolny / hobby | 3 | 2 | 1 |
 | Zdrowie | 3 | 3 | **0** ✅ |
@@ -89,7 +89,7 @@
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 1 | 1 |
-| **ИТОГО** | **32** | **19** | **13** |
+| **ИТОГО** | **32** | **20** | **12** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - ✅ **ПЛАН «5 ТЕМ» ВЫПОЛНЕН (2026-08-08).** Все 4 каркаса освоены, официальная тема дискуссии закрыта.
