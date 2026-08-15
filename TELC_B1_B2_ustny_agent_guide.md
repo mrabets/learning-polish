@@ -1003,3 +1003,17 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - 🔴 `taki dom **jest dom**` → `jest **domem**` — после `być` творительный (ученик это умеет: `Byłem studentem`)
 - 🔁 `w dużym **miaste**` → `w **mieście**` (есть в списке повторов, п.6)
 - 🔁 `o tym **pytanie**` → `o tym **pytaniu**` (то же было 20 минут назад)
+
+
+### ✅ z.50 «Miasto czy wieś» — 2026-08-08 (ДОМЕН DOM ЗАКРЫТ 3/3)
+
+**Q:** Wolisz mieszkać w mieście czy na wsi?
+> «Wolę mieszkać **w mieście**, bo mam dzieci i **chciałbym, żeby** obok mojego mieszkania **była** szkoła, sklep, apteka, plac zabaw. Ale z drugiej strony lubię ciszę i chciałbym wybierać się na wieś **parę razy w roku**, żeby odpocząć od hałasu w mieście. Ale ogólnie wybieram mieszkanie w mieście, bo dla mnie i moich dzieci **infrastruktura jest ważna**.»
+
+**Follow-up:** A czy mieszkałeś kiedyś na wsi?
+> «Nie mieszkałem na wsi cały rok — **mieszkałem tylko na daczy** całe lato. Podoba mi się tam mieszkać, bo obok jest cisza, przyroda i świeże powietrze. Ale to było, gdy nie miałem rodziny, i **było trochę smutno**. Nie mogłem pójść do kawiarni ani do galerii handlowej. Dlatego uważam, że nie chciałbym mieszkać na wsi cały rok.»
+
+- ✅ `o tym pytaniu` и `w mieście` — оба исправления пятиминутной давности удержались
+- ✅ `chciałbym, żeby… była` · `było trochę smutno` (безличное + наречие) · `infrastruktura jest ważna`
+- 🔁 `mieszkałem na dacz**ę**` → `na dacz**y**` — тот же паттерн, что `mieszkać w przyczepę`→`w przyczepie` (журнал, 21.07). `mieszkać` + ГДЕ → miejscownik
+- ❌ `parę raz w roku` → `parę raz**y**`

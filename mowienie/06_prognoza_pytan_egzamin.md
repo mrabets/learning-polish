@@ -28,7 +28,7 @@
 ### Dom / mieszkanie (T09) — 3
 - [x] z.25 — Opisz miejsce, w którym mieszkasz — **закрыта 2026-07-21, без ошибок**
 - [x] z.63 — Mieszkanie marzeń — **закрыта 2026-08-08** (холодный прогон + follow-up без ошибок)
-- [ ] z.50 — Życie w mieście czy na wsi ⭐⭐
+- [x] z.50 — Życie w mieście czy na wsi ⭐⭐ — **закрыта 2026-08-08** (холодный прогон + follow-up) — ✅ ДОМЕН DOM 3/3
 
 ### Czas wolny / hobby (T04) — 3
 - [x] z.44 — Opisz swoje hobby ⭐⭐⭐ — **закрыта 2026-08-08** (основной ответ + follow-up; эталон в TELC-гайде)
@@ -70,7 +70,7 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 22 из 32 тем = 69%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 23 из 32 тем = 72%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
@@ -79,7 +79,7 @@
 | Официальные telc (1B/2A) | 2 | 2 | **0** ✅ |
 | Rodzina / ludzie | 4 | 3 | 1 |
 | Praca | 3 | 3 | **0** ✅ |
-| Dom / mieszkanie | 3 | 2 | 1 |
+| Dom / mieszkanie | 3 | 3 | **0** ✅ |
 | Czas wolny / hobby | 3 | 2 | 1 |
 | Zdrowie | 3 | 3 | **0** ✅ |
 | Podróże | 3 | 3 | **0** ✅ |
@@ -89,7 +89,7 @@
 | Kultura | 2 | 0 | 2 |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 1 | 1 |
-| **ИТОГО** | **32** | **22** | **10** |
+| **ИТОГО** | **32** | **23** | **9** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - ✅ **ПЛАН «5 ТЕМ» ВЫПОЛНЕН (2026-08-08).** Все 4 каркаса освоены, официальная тема дискуссии закрыта.
