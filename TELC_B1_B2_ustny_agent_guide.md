@@ -1017,3 +1017,27 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - ✅ `chciałbym, żeby… była` · `było trochę smutno` (безличное + наречие) · `infrastruktura jest ważna`
 - 🔁 `mieszkałem na dacz**ę**` → `na dacz**y**` — тот же паттерн, что `mieszkać w przyczepę`→`w przyczepie` (журнал, 21.07). `mieszkać` + ГДЕ → miejscownik
 - ❌ `parę raz w roku` → `parę raz**y**`
+
+
+### ✅ z.48 «Tradycje świąteczne» — 2026-08-08
+
+⚠️ **ВАЖНО ДЛЯ АГЕНТА: ученик — мусульманин.** Агент сходу выдал рождественскую лексику (`choinka`, `Boże Narodzenie`) — ученик среагировал резко («я же мусульманин»). **Не предлагать христианские праздники по умолчанию.** Варианты: `Nowy Rok` (универсален, ученик выбрал его) · `Ramadan`, `post`, `Kurban Bajram`, `odwiedzamy krewnych` · или рассказ о том, как празднуют в Польше вокруг.
+
+**Q:** Jak ludzie w twoim kraju obchodzą Nowy Rok?
+
+**📦 УНИВЕРСАЛЬНЫЙ КАРКАС «как празднуют X» — работает для ЛЮБОГО праздника, меняется только название:**
+1. `W moim kraju **ludzie obchodzą** Nowy Rok.`
+2. `**Spotykają się** z rodziną i przyjaciółmi.`
+3. `Poza tym **przygotowują** dużo jedzenia i **dają** prezenty.`
+4. `Z drugiej strony, przygotowania **zajmują** dużo czasu.`
+5. `Ogólnie ludzie lubią to święto, bo mogą spotkać się z rodziną.`
+Всего 4 глагола в 3 л. мн.ч. Последние два предложения — стандартные блоки ученика.
+
+**Follow-up:** A jak ty spędziłeś ostatni Nowy Rok?
+> «Ostatni Nowy Rok **spędziłem** razem z rodziną w domu. Jedliśmy potrawy, **które przygotowaliśmy**, a także oglądaliśmy filmy. **Na koniec** oglądaliśmy **fajerwerki**.»
+
+- ✅ `spędziłem`, `przygotowaliśmy`, придаточное `które przygotowaliśmy`, `przygotowania zajmują`, `dużo jedzenia`, `warto` без `to`
+- ❌ `ludzi obchodzą` → `**ludzie** obchodzą` (подлежащее в mianowniku; в последнем предложении сказал `ludzie lubią` верно)
+- 🔁 `Jedliśmy jedzenie` → `Jedliśmy potrawy` (тавтология, журнал с 21.07)
+- 🔁 `Na końcu` → `Na koniec` (3-й раз за сессию)
+- `fajerwerki` — в польском всегда мн.ч.
