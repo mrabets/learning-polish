@@ -1041,3 +1041,23 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - 🔁 `Jedliśmy jedzenie` → `Jedliśmy potrawy` (тавтология, журнал с 21.07)
 - 🔁 `Na końcu` → `Na koniec` (3-й раз за сессию)
 - `fajerwerki` — в польском всегда мн.ч.
+
+
+### ✅ z.98 «Film, który zrobił wrażenie» — 2026-08-08 (ДОМЕН KULTURA ЗАКРЫТ 2/2)
+
+**📌 Методический эпизод:** ученик сказал «хз», агент предложил три готовых фильма подряд (Titanic, Matrix, Kevin sam w domu) — ученик отверг все («не нужен другой», «давай выберем»). **Правильный ход оказался: спросить по-русски, какой фильм ОН хочет.** Он выбрал «Изгой» → агент дал лексику под его выбор. Дальше ученик сам построил ответ богаче, чем образец.
+
+**Q:** Opowiedz o filmie, który zrobił na tobie wrażenie.
+> «Film, który zrobił na mnie wrażenie, to "Cast Away". Oglądałem go kilka lat temu. Główny bohater to mężczyzna, który **pracował jako pocztalion** i jednocześnie latał samolotem. Samolot rozbił się, a mężczyzna **został na wyspie**. **Mężczyźnie trzeba było** zrobić wiele rzeczy, np. przygotować jedzenie oraz zbudować małą łódź. **Na koniec** podobało mi się, że on wrócił do domu. Z drugiej strony, film jest smutny, ale dla mnie ciekawy. Ogólnie polecam go, bo warto.»
+
+**Follow-up:** A jakie filmy lubisz najbardziej?
+> «Lubię oglądać **dramaty** bardziej niż komedie, ponieważ **w dramatach** mogę pomyśleć **o czymś ważnym**. Tematy to: wiara, wojna, przyjaźń lub rodzina.»
+
+- ✅ БЕЗ ошибок форм и согласования: `pracował jako pocztalion` (mianownik после `jako`) · `Mężczyźnie trzeba było` (celownik с безличным) · `wiele rzeczy` (dopełniacz) · `o czymś ważnym` (miejscownik) · `film jest smutny`
+- 🔁 `to może być rodzina, przyjaźń, **wiarę**, **wojnę**` → после `to może być` — mianownik: `wiara, wojna` (список повторов, п.4)
+- `dramy` → `dramaty` (жанр = `dramat`)
+
+**🛟 ОБХОДЫ, которые ученик принял** (сложные слова заменены на известные):
+- `znalazł się na wyspie` → **`został na wyspie`**
+- `zbudować tratwę` → **`zbudować małą łódź`**
+- ⚠️ `okazał się` — ложный друг: «оказался где-то» = `znalazł się`; `okazać się` требует продолжения (`okazał się dobrym człowiekiem`)
