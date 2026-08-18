@@ -1105,3 +1105,19 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - 🔁 `A **najlepsze** nie jeździć` → `**Najlepiej**` (нет подлежащего → наречие)
 - 🔁 `oddaję **w** butelkomat` → `**do** butelkomatu` (`do` + dopełniacz)
 - 💡 Лексика темы: `segregować śmieci` · `butelkomat` · `kaucja` · `oszczędzać prąd i wodę`
+
+
+### ✅ z.84 «Jakie cechy cenisz u ludzi» — 2026-08-08 (ДОМЕН WARTOŚCI ЗАКРЫТ)
+
+**Q:** Jakie cechy cenisz u ludzi najbardziej?
+> «Najbardziej cenię **uczciwość** i **odpowiedzialność**. Uczciwość, bo dla mnie jest ważne, **żeby człowiek nie oszukał mnie i mówił tylko prawdę**. A odpowiedzialność — bo **ta cecha jest ważna** w pracy i w życiu. Na przykład, jeśli umówiliśmy się z przyjacielem spotkać się w kawiarni **o godzinie dziewiątej**, to trzeba **przyjść na czas**. Ale z drugiej strony wiem, że **nikt z nas nie jest idealny**. Ogólnie staram się szukać takich ludzi, **którzy mają te cechy**. I sam staram się **być takim człowiekiem**.»
+
+**Follow-up:** A jakich ludzi nie lubisz?
+> «Nie lubię ludzi, którzy **oszukują** i **spóźniają się**. Jeśli umówiliśmy się spotkać na konkretną godzinę, to trzeba **przyjść na czas**, a jeśli nie ma możliwości, trzeba zadzwonić lub napisać.»
+
+- 💡 **СНЯТИЕ СТРАХА:** существительные на **`-ość` в бирнике НЕ МЕНЯЮТСЯ** — `cenię uczciwość`, `cenię odpowiedzialność`. Форма та же, что в словаре. Ученик боялся именно падежей.
+- 🛟 Запасной, ещё более лёгкий вариант (все слова ученик уже знал): `Lubię ludzi, którzy są mili, spokojni i pracowici… i zawsze pomagają.`
+- ✅ `żeby człowiek nie oszukał mnie i mówił prawdę` (сослагательное с `żeby` + прош. формы) · `o godzinie dziewiątej` · `którzy mają te cechy` · `być takim człowiekiem` (narzędnik)
+- ⭐ Сильная концовка ученика: **`I sam staram się być takim człowiekiem`** — личная позиция, не пересказ
+- ❌ `przyjść **w takie czas**` → `przyjść **na czas**` (устойчивое) · `**każdy** z nas nie jest idealny` → `**nikt** z nas nie jest idealny` (при отрицании — `nikt`)
+- ❌ `którzy **oszukają**` → `**oszukują**` (привычка → настоящее время; `oszukają` = обманут один раз в будущем)
