@@ -1061,3 +1061,19 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - `znalazł się na wyspie` → **`został na wyspie`**
 - `zbudować tratwę` → **`zbudować małą łódź`**
 - ⚠️ `okazał się` — ложный друг: «оказался где-то» = `znalazł się`; `okazać się` требует продолжения (`okazał się dobrym człowiekiem`)
+
+
+### ✅ z.23 «Zakupy przez internet» — 2026-08-08 (ДОМЕН PIENIĄDZE ЗАКРЫТ)
+
+**Q:** Jakie są plusy i minusy zakupów przez internet?
+> «Zakupy przez internet **mają** zarówno **zalety**, jak i **wady**. **Zaletą** jest to, że nie trzeba wychodzić z domu, żeby coś kupić. Na przykład można kupić bilety na samolot i nie trzeba jechać do kasy. **Wadą** jest to, że **nie widzę dokładnie, co kupuję**. Na przykład telefon: na stronie internetowej **wydaje się duży**, a w salonie jest mały. Dlatego można zrobić tak: pojechać do salonu i swoimi oczami zobaczyć telefon na żywo, a potem kupić go w internecie, bo tam można znaleźć niższą cenę. Ogólnie zakupy przez internet **to** wygodny i łatwy sposób robienia zakupów **w naszych czasach**.»
+
+**Follow-up:** A co ostatnio kupiłeś przez internet?
+> «**Kupiłem** telefon przez internet rok temu. **Dwa dni po zakupie odebrałem** go w **paczkomacie**. Kupiłem go w internecie, ponieważ **kosztował mnie** mniej niż w salonie.»
+
+- ✅ **`Zakupy… mają`** — согласование мн.ч. (в z.74 была ошибка `Pracę zdalną ma`)
+- ✅ **`Zaletą` / `Wadą` в ПРАВИЛЬНОМ порядке** — в z.74 путал местами
+- ✅ `swoimi oczami` (narzędnik) · `kosztował mnie` · `paczkomat` · `to wygodny sposób` (mianownik после `to`)
+- 🔁 `on wygląda dużym` → `**wydaje się** duży` / `wygląda **na** duży` — `wyglądać` разбирали сегодня
+- ❌ `w nasz czas` → `w naszych czasach` · `Przez dwa dnia` → `**Dwa dni po** zakupie` (русское «через» НЕ переводится как `przez`)
+- ❌ `odbierałem` → `odebrałem` (однократное завершённое действие)
