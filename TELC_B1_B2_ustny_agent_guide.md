@@ -1077,3 +1077,16 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - 🔁 `on wygląda dużym` → `**wydaje się** duży` / `wygląda **na** duży` — `wyglądać` разбирали сегодня
 - ❌ `w nasz czas` → `w naszych czasach` · `Przez dwa dnia` → `**Dwa dni po** zakupie` (русское «через» НЕ переводится как `przez`)
 - ❌ `odbierałem` → `odebrałem` (однократное завершённое действие)
+
+
+### ✅ z.45 «Rozrywki online czy tradycyjne» — 2026-08-08 (ДОМЕН TECHNOLOGIA ЗАКРЫТ)
+
+**Q:** Wolisz rozrywki online czy tradycyjne?
+> «**Wolę** tradycyjne rozrywki, takie jak spacery, spotkania ze znajomymi lub oglądanie filmów w kinie. Z drugiej strony, czasami wolę również rozrywki online — oglądanie filmów w domu, granie na komputerze razem z przyjaciółmi. Ogólnie wolę tradycyjne rozrywki, bo **komunikacja i spotkanie z ludźmi są ważne**. A jeśli wybierać tylko rozrywki online, **to jest złe** dla relacji między bliskimi.»
+
+**Follow-up:** A ile czasu dziennie spędzasz w internecie?
+> «Spędzam dużo czasu w internecie. Oglądam nowości **z mediów społecznościowych**, oglądam filmy, komunikuję się **z przyjaciółmi i żoną** przez internet. Ale z drugiej strony staram się **częściej** spotykać na żywo z ludźmi, bo uważam, że **komunikacja jest ważna** dla relacji między osobami.» — ЧИСТО
+
+- 🔴 `komunikacja i spotkanie **jest** ważne` → `**są** ważne` (ДВА подлежащих → множественное)
+- 🔁 `to jest **źle**` → `to jest **złe**` (есть `to` → прилагательное — текущее слабое место)
+- 🔁 `**Więcej** wolę` → просто `Wolę`. ⚠️ И `bardziej wolę` тоже НЕ говорят: `wolę` само значит «предпочитаю». Усиление: `**Zdecydowanie** wolę…` / `Wolę **raczej**…`

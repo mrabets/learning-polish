@@ -51,7 +51,7 @@
 
 ### Technologia / media (T07) — 2
 - [x] z.27 — Rola telefonu w życiu współczesnego człowieka ⭐⭐ — **закрыта 2026-08-08** (каркас №4 + личный опыт; эталон в TELC-гайде)
-- [ ] z.45 — Rozrywki online czy tradycyjne
+- [x] z.45 — Rozrywki online czy tradycyjne — **закрыта 2026-08-08** — ✅ ДОМЕН TECHNOLOGIA 2/2
 
 ### Edukacja (T01) — 2
 - [x] z.61 — Czy znajomość języków obcych ułatwia życie ⭐⭐⭐ — **закрыта 2026-08-08** (каркас №4 «Czy warto» освоен; эталон в TELC-гайде)
@@ -70,7 +70,7 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 26 из 32 тем = 81%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 27 из 32 тем = 84%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
@@ -84,12 +84,12 @@
 | Zdrowie | 3 | 3 | **0** ✅ |
 | Podróże | 3 | 3 | **0** ✅ |
 | Pieniądze / zakupy | 2 | 2 | **0** ✅ |
-| Technologia / media | 2 | 1 | 1 |
+| Technologia / media | 2 | 2 | **0** ✅ |
 | Edukacja | 2 | 1 | 1 |
 | Kultura | 2 | 2 | **0** ✅ |
 | Ekologia | 1 | 0 | 1 |
 | Wartości | 2 | 1 | 1 |
-| **ИТОГО** | **32** | **26** | **6** |
+| **ИТОГО** | **32** | **27** | **5** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - ✅ **ПЛАН «5 ТЕМ» ВЫПОЛНЕН (2026-08-08).** Все 4 каркаса освоены, официальная тема дискуссии закрыта.
