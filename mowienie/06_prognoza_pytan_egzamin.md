@@ -62,7 +62,7 @@
 - [x] z.98 — Film, który wywarł na tobie wrażenie ⭐⭐ — **закрыта 2026-08-08** (Cast Away; ученик сам выбрал фильм) — ✅ ДОМЕН KULTURA 2/2
 
 ### Ekologia (T10) — 1
-- [ ] z.47 — Jak na co dzień dbać o planetę ⭐⭐
+- [x] z.47 — Jak na co dzień dbać o planetę ⭐⭐ — **закрыта 2026-08-08** — ✅ ДОМЕН EKOLOGIA 1/1
 
 ### Wartości (T11) — 1 (+ официальная дискуссия)
 - [ ] z.84 — Jakie cechy cenisz u ludzi najbardziej
@@ -70,7 +70,7 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 27 из 32 тем = 84%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 28 из 32 тем = 88%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
@@ -87,9 +87,9 @@
 | Technologia / media | 2 | 2 | **0** ✅ |
 | Edukacja | 2 | 1 | 1 |
 | Kultura | 2 | 2 | **0** ✅ |
-| Ekologia | 1 | 0 | 1 |
+| Ekologia | 1 | 1 | **0** ✅ |
 | Wartości | 2 | 1 | 1 |
-| **ИТОГО** | **32** | **27** | **5** |
+| **ИТОГО** | **32** | **28** | **4** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - ✅ **ПЛАН «5 ТЕМ» ВЫПОЛНЕН (2026-08-08).** Все 4 каркаса освоены, официальная тема дискуссии закрыта.

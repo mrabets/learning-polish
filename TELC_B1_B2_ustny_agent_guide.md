@@ -1090,3 +1090,18 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - 🔴 `komunikacja i spotkanie **jest** ważne` → `**są** ważne` (ДВА подлежащих → множественное)
 - 🔁 `to jest **źle**` → `to jest **złe**` (есть `to` → прилагательное — текущее слабое место)
 - 🔁 `**Więcej** wolę` → просто `Wolę`. ⚠️ И `bardziej wolę` тоже НЕ говорят: `wolę` само значит «предпочитаю». Усиление: `**Zdecydowanie** wolę…` / `Wolę **raczej**…`
+
+
+### ✅ z.47 «Jak dbać o planetę» — 2026-08-08 (ДОМЕН EKOLOGIA ЗАКРЫТ)
+
+**Q:** Jak można na co dzień dbać o planetę?
+> «Można codziennie robić różne rzeczy, żeby **dbać o planetę**. Po pierwsze, można **segregować śmieci**. Po drugie, warto oszczędzać prąd i wodę. Następnie uważam, że nie trzeba za szybko jeździć samochodem. Lepiej nie jeździć starym samochodem. A **najlepiej** nie jeździć samochodem w ogóle, a zamiast tego jeździć na rowerze. Z drugiej strony, robić te rzeczy codziennie **nie jest łatwo** — trzeba pamiętać **o nich** codziennie, ale uważam, że **warto**. Ogólnie **każda osoba powinna** dbać o planetę, bo **mamy tylko jedną planetę**.»
+
+**Follow-up:** A czy ty segregujesz śmieci w domu?
+> «Tak, **segregujemy** śmieci w domu: papier, plastik, szkło. Butelki plastikowe **oddaję do butelkomatu** i odbieram **kaucję**.»
+
+- ✅ `dbać o planetę` (биерник — повтор, взят верно) · `każda osoba powinna` (жен. род) · `mamy jedną planetę` · `warto` без `to`
+- ✅ **`nie jest łatwo` с инфинитивом — ПРАВИЛЬНО** (инфинитивное подлежащее берёт наречие)
+- 🔁 `A **najlepsze** nie jeździć` → `**Najlepiej**` (нет подлежащего → наречие)
+- 🔁 `oddaję **w** butelkomat` → `**do** butelkomatu` (`do` + dopełniacz)
+- 💡 Лексика темы: `segregować śmieci` · `butelkomat` · `kaucja` · `oszczędzać prąd i wodę`
