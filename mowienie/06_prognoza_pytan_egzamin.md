@@ -55,7 +55,7 @@
 
 ### Edukacja (T01) — 2
 - [x] z.61 — Czy znajomość języków obcych ułatwia życie ⭐⭐⭐ — **закрыта 2026-08-08** (каркас №4 «Czy warto» освоен; эталон в TELC-гайде)
-- [ ] z.9 — Ulubiony przedmiot szkolny
+- [x] z.9 — Ulubiony przedmiot szkolny — **закрыта 2026-08-08** — ✅ ДОМЕН EDUKACJA 2/2
 
 ### Kultura / wydarzenia (T08/T12) — 2
 - [x] z.48 — Tradycje świąteczne w twoim kraju ⭐⭐ — **закрыта 2026-08-08** (взял Nowy Rok — ученик мусульманин; универсальный каркас «как празднуют X»)
@@ -70,7 +70,7 @@
 
 ## 📊 Прогресс по Ярусу 1
 
-**Закрыто: 29 из 32 тем = 91%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
+**Закрыто: 30 из 32 тем = 94%** (T-praca, T-pieniądze — обе официальные telc; z.74 praca zdalna; z.25 gdzie mieszkam; z.44 hobby; z.61 języki obce; z.27 rola telefonu)
 
 🎯 **ВСЕ 4 КАРКАСА ОСВОЕНЫ (100%)** — дальше только подстановка слов в готовые схемы. См. `07_cztery_karkasy.md`.
 
@@ -85,11 +85,11 @@
 | Podróże | 3 | 3 | **0** ✅ |
 | Pieniądze / zakupy | 2 | 2 | **0** ✅ |
 | Technologia / media | 2 | 2 | **0** ✅ |
-| Edukacja | 2 | 1 | 1 |
+| Edukacja | 2 | 2 | **0** ✅ |
 | Kultura | 2 | 2 | **0** ✅ |
 | Ekologia | 1 | 1 | **0** ✅ |
 | Wartości | 2 | 2 | **0** ✅ |
-| **ИТОГО** | **32** | **29** | **3** |
+| **ИТОГО** | **32** | **30** | **2** |
 
 - Обе официальные темы telc для 1B/2A пройдены. Осталась официальная тема дискуссии: T-sława (część 3)
 - ✅ **ПЛАН «5 ТЕМ» ВЫПОЛНЕН (2026-08-08).** Все 4 каркаса освоены, официальная тема дискуссии закрыта.

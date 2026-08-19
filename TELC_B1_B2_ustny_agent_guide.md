@@ -1121,3 +1121,20 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - ⭐ Сильная концовка ученика: **`I sam staram się być takim człowiekiem`** — личная позиция, не пересказ
 - ❌ `przyjść **w takie czas**` → `przyjść **na czas**` (устойчивое) · `**każdy** z nas nie jest idealny` → `**nikt** z nas nie jest idealny` (при отрицании — `nikt`)
 - ❌ `którzy **oszukają**` → `**oszukują**` (привычка → настоящее время; `oszukają` = обманут один раз в будущем)
+
+
+### ✅ z.9 «Ulubiony przedmiot szkolny» — 2026-08-08 (ДОМЕН EDUKACJA ЗАКРЫТ)
+
+**Q:** Jaki był twój ulubiony przedmiot w szkole?
+> «**Moim ulubionym przedmiotem** w szkole **była informatyka**, bo lubiłem pisać proste programy, a poza tym grać w Counter-Strike na komputerze razem z kolegami. Z drugiej strony nie lubiłem siedzieć w jednym miejscu przez długi czas, dlatego dziś pracuję jako programista, ale staram się **częściej** spacerować w ciągu dnia. Moim drugim ulubionym przedmiotem **był WF**, bo bardzo lubiłem **grać w piłkę nożną**. Ogólnie **moimi ulubionymi przedmiotami były** WF i informatyka.»
+
+**Follow-up:** A czego nie lubiłeś w szkole?
+> «Nie lubiłem **uczyć się języka rosyjskiego i białoruskiego**, bo gramatyka jest dla mnie bardzo trudna. Ale z drugiej strony lubiłem uczyć się języka angielskiego, bo wtedy chciałem pojechać studiować **do Wielkiej Brytanii**. Poza tym nie lubiłem wstawać rano, bo chciałem spać **dłużej**. Dziś wstaję rano codziennie, bo mogę pić kawę — a kiedy uczyłem się w szkole, **nie piłem kawy**. Dlatego **było mi trudno** wstawać tak rano.»
+
+- ✅ `moimi ulubionymi przedmiotami` (narzędnik мн.ч. — сложная форма) · `uczyć się języka rosyjskiego` (dopełniacz) · `nie piłem kawy` (dopełniacz после отрицания) · `do Wielkiej Brytanii` · `grać w piłkę nożną`
+- 🔴 Времена: `Moim drugim przedmiotem **jest** WF` → `**był**`; `przedmiotami **są**` → `**były**` (речь о школе = прошедшее)
+- 🔁 `spać **więcej**` → `**dłużej**` (4-й раз с семейством `więcej/bardziej/częściej`)
+- 🔁 `**to** było trudno wstawać` → `**było mi trudno** wstawać` (слабое место: есть `to` → прилагательное; проще выкинуть `to`)
+- 💡 физкультура = **`WF`** (`wychowanie fizyczne`) · «на тот момент» = `wtedy`, не `na ten moment`
+
+**📌 Ученик САМ забраковал свой первый ответ** («очень скудно») и попросил расширить. Агент дал слоты: конкретное воспоминание ⭐ + что делали на уроках + учитель + когда началось. Это правильный инстинкт — критерий даёт `szczegółowo` именно за конкретную деталь.
