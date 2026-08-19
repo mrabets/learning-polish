@@ -1138,3 +1138,31 @@ _Прочее:_ ❌ `siedzą w telefonu` → `w telefonie` · ❌ `uprawiają sp
 - 💡 физкультура = **`WF`** (`wychowanie fizyczne`) · «на тот момент» = `wtedy`, не `na ten moment`
 
 **📌 Ученик САМ забраковал свой первый ответ** («очень скудно») и попросил расширить. Агент дал слоты: конкретное воспоминание ⭐ + что делали на уроках + учитель + когда началось. Это правильный инстинкт — критерий даёт `szczegółowo` именно за конкретную деталь.
+
+
+### ✅ z.3 «Pora roku» + z.30 «Model rodziny» — 2026-08-08 🎯 ЯРУС 1 ЗАКРЫТ 32/32
+
+**z.3 — Q:** Jaką porę roku lubisz najbardziej?
+> «Najbardziej lubię jesień, bo **jeszcze jest ciepło**, ale nie tak gorąco. Poza tym mogę jeszcze jeździć na rowerze z dziećmi, **częściej** spacerować, oraz — najważniejsze — podróżować **za granicę** samochodem albo samolotem, **bez tłumów turystów** i jednocześnie **z dobrą pogodą**. Z drugiej strony, **jesienią** czasami pada deszcz, ale lubię to — bo lubię, **kiedy jest trochę zimno**, kiedy **powietrze jest trochę zimne**. Ogólnie najbardziej lubię jesień, bo jest jednocześnie ciepło, **pięknie** i nie gorąco.»
+
+⭐⭐ **ГЛАВНОЕ ДОСТИЖЕНИЕ:** в соседних предложениях ученик сказал **`jest trochę zimno`** (наречие, нет подлежащего) И **`powietrze jest trochę zimne`** (прилагательное, есть подлежащее) — обе стороны правила верно. Полчаса назад это было главное слабое место.
+
+**Follow-up:** A jakiej pory roku nie lubisz? → `Nie lubię lata` (dopełniacz после отрицания ✅), `lepić bałwana`, `wszystko jest białe`
+- 🔁 `Jeśli podróżować` → `Jeśli podróżujemy` · `dzięki że jest gorąco` → `ponieważ` (`dzięki` = о хорошем) · `za granicą` → `za granicę` (3-й раз)
+- 🔁 `w jesieni` → `jesienią` (времена года — narzędnik: `latem`, `zimą`, `wiosną`) · `jest piękno` → `pięknie`
+
+**z.30 — Q:** Jaki jest typowy model rodziny w twoim kraju?
+> «Typowa rodzina w moim kraju to rodzice i **dwoje dzieci**. Zwykle **dwoje rodziców pracuje**, a dzieci zostają razem z babcią. **Ludzie biorą ślub** później, na przykład do 35 lat. Myślę, że to jest prawo wyboru, ale z drugiej strony **mnóstwo ludzi jest** dziś samotnych, dlatego uważam, że trzeba mieć **równowagę między karierą a rodziną**. Ogólnie to nie jest duża rodzina, a jeśli rodzina ma **troje dzieci** i więcej, to taka rodzina jest **wielodzietna**.»
+
+**Follow-up:** A czy chciałbyś mieć więcej dzieci?
+> «Dziś mam **dwoje dzieci** — **dwie córki**. Ale w przyszłości chciałbym mieć **czworo dzieci**. Z drugiej strony rozumiem, że **to jest bardzo trudne**, bo trzeba mieć własne duże mieszkanie oraz oszczędzać pieniądze **na edukację i zdrowie** tych dzieci. Ale ogólnie **przez całe życie** chciałbym mieć czworo dzieci.»
+
+- ⭐ `równowaga między karierą a rodziną` — сильная фраза
+- ✅ `dwoje dzieci` / `dwie córki` — разные типы числительных, оба верно · `to jest bardzo trudne` (слабое место — верно)
+- 🔴🔁 `dwoje rodziców **pracują**` → `pracuje` · `mnóstwo ludzi **są**` → `jest` (после `dwoje/mnóstwo/wiele` — ЕДИНСТВЕННОЕ число)
+- 🔁 `ludzi biorą` → `**ludzie** biorą` (mianownik) · `dwa/cztery dzieci` → `dwoje/czworo`
+
+**📦 СЧЁТ ДЕТЕЙ (постоянный камень преткновения):** `dwoje` · `troje` · `czworo` dzieci.
+🛟 ОБХОД: `dużo dzieci` / `w rodzinie jest dużo dzieci`.
+
+**💍 «Жениться» — брать `brać ślub`** (работает для обоих полов): `Ludzie biorą ślub wcześnie/późno`. (`żenić się` — только мужчина, `wychodzić za mąż` — только женщина.)
