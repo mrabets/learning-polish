@@ -124,3 +124,12 @@
 - [ ] 2026-08-08 | ❌ dzieci są mały → ✅ dzieci są małe | 🔴 красная зона: согласование (как `pieniądze są ważne`)
 - [ ] 2026-08-08 | ❌ jest szybszej niż → ✅ jest szybsze niż | согласование с `podróżowanie` (ср. род)
 - [ ] 2026-08-08 | ❌ do toaletu → ✅ do toalety | `toaleta` женского рода
+- [ ] 2026-08-08 | ❌ staram się więcej spacerować → ✅ częściej | ⭐ ПОВТОР 3-й раз: `więcej` = количество, `częściej` = частота, `bardziej` = степень
+- [ ] 2026-08-08 | ❌ którzy oszukają → ✅ oszukują | привычка → настоящее время
+- [ ] 2026-08-08 | ❌ przyjść w takie czas → ✅ przyjść na czas | устойчивое «вовремя»
+- [ ] 2026-08-08 | ❌ każdy z nas nie jest idealny → ✅ nikt z nas nie jest idealny | при отрицании — `nikt`
+- [ ] 2026-08-08 | ❌ oddaję w butelkomat → ✅ do butelkomatu | `do` + dopełniacz
+- [ ] 2026-08-08 | ❌ w nasz czas → ✅ w naszych czasach | «в наше время»
+- [ ] 2026-08-08 | ❌ Przez dwa dnia → ✅ Dwa dni po… | русское «через» НЕ переводится как `przez`
+- [ ] 2026-08-08 | 💡 Существительные на `-ość` в бирнике НЕ меняются: `cenię uczciwość`, `cenię odpowiedzialność`
+- [ ] 2026-08-08 | 💡 физкультура = `WF` (wychowanie fizyczne)
