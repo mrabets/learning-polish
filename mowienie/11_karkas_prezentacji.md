@@ -60,9 +60,21 @@
   Dlatego wiem, że [.....].
 
 ┌─ БЛОК 7 · PODSUMOWANIE ──────────────────────────────────┐
-  Podsumowując, dla mnie lepiej [.....], bo [.....].
-  Ale z drugiej strony chciałbym [.....].
+  ⭐ СНАЧАЛА ОБЩИЙ ВЫВОД, ПОТОМ ЛИЧНОЕ — порядок важен
+  Podsumowując, wybór zależy od tego,
+  co dla danej osoby jest najważniejsze.
+  Dla mnie lepiej [.....], bo [.....].
+  Ale chciałbym [.....].
 ```
+
+### ⛔ Почему порядок именно такой
+Если закончить только личным предпочтением («dla mnie lepiej żyć w mieście»), это ровно тот признак, за который Павлета держит текст B на уровне B1: «omawiana jest… **przede wszystkim perspektywa osobista**». Уровень C заканчивается обобщением: «Wybór najlepszego miejsca do życia **zależy od indywidualnych potrzeb, etapu życia oraz tego, co dla danej osoby jest najważniejsze**» (TEKST C, стр. 5).
+→ Общая фраза идёт ПЕРВОЙ, личное — после неё, одним предложением.
+
+**Три готовых общих вывода (взять любой):**
+- `Podsumowując, wybór zależy od tego, co dla danej osoby jest najważniejsze.`
+- `Podsumowując, zarówno [A], jak i [B] mają swoje plusy i minusy.`
+- `Podsumowując, wszystko zależy od indywidualnych potrzeb i etapu życia.`
 
 **Готовить к теме надо 4 слова:** `+1` `−1` `+2` `−2`. Всё остальное — фиксированный текст.
 
@@ -99,7 +111,22 @@
 ```
 Kiedyś [X] oznaczało [.....]. Dziś wszystko się zmieniło — [.....].
 ```
-Пример: `Kiedyś wieś oznaczała ciężką pracę i brak wygód. Dziś wieś bardzo się zmieniła — jest szybki Internet i dobre drogi.`
+### Готовые примеры под разные темы
+
+| Тема | Блок `Kiedyś ↔ Dziś` |
+|---|---|
+| **Wieś i miasto** | `Kiedyś wieś oznaczała ciężką pracę i brak wygód. Dziś wieś bardzo się zmieniła — jest szybki Internet, dobre drogi i wygodne domy.` |
+| **Podróżowanie** | `Kiedyś ludzie podróżowali tylko po swoim kraju. Dziś wszystko się zmieniło — tanie loty i Internet sprawiły, że świat jest bliżej.` |
+| **Praca** | `Kiedyś ludzie pracowali całe życie w jednej firmie. Dziś często zmieniają pracę i mogą pracować zdalnie.` |
+| **Zakupy / pieniądze** | `Kiedyś ludzie płacili tylko gotówką i kupowali w małych sklepach. Dziś wszystko się zmieniło — płacimy kartą i kupujemy przez Internet.` |
+| **Rodzina** | `Kiedyś rodziny były większe i mieszkały razem. Dziś ludzie częściej mieszkają osobno i mają mniej dzieci.` |
+| **Zdrowie / sport** | `Kiedyś ludzie mniej myśleli o zdrowiu. Dziś coraz częściej uprawiają sport i zwracają uwagę na to, co jedzą.` |
+| **Nauka języków** | `Kiedyś trzeba było chodzić na kurs. Dziś można uczyć się przez Internet, w telefonie, o każdej porze.` |
+
+**Универсальный запасной вариант, подходит почти везде:**
+`Kiedyś ludzie nie mieli tylu możliwości, co my dzisiaj. Wszystko się zmieniło.`
+
+⭐ Этот блок — единственное место, где появляется **прошедшее время**. Без него текст остаётся плоским: Павлета засчитывает «użycie czasu teraźniejszego **i przeszłego**» даже слабейшим текстам уровня A.
 
 ---
 
