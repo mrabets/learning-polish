@@ -107,6 +107,12 @@
 - ✅ `pieniądze **są ważne**` · `nie są **najważniejsze**`
 - `pieniądze` — мн.ч. не-мужско-личное → прилагательные на `-e`. Так же: `rzeczy są ważne`, `dzieci są zmęczone`
 - ⚠️ Это ОДИН ИЗ ДВУХ типов ошибок, названных в A2-ячейке критерия (согласование подлежащего со сказуемым). Единственное, что реально роняет ниже B1.
+- 🔁 **Случаи 3 и 4 — 2026-08-23, презентация 2A** (найдены обоими независимыми аудиторами):
+  - ❌ `spacerowanie … jest bardzo ważn**a**` → ✅ `spacerowanie … jest bardzo ważn**e**` (`spacerowanie` — ср. род)
+  - ❌ `ważn**e** jest dostęp do usług` → ✅ `ważn**y** jest dostęp` (`dostęp` — муж. род)
+  - 📌 Механизм один и тот же: **именная часть сказуемого согласуется с ПОДЛЕЖАЩИМ, а не «по умолчанию средним родом»**. Перед `jest ważny/ważne/ważna` найти подлежащее и посмотреть его род.
+  - 🛟 ОБХОД: `dostęp do usług **to ważna rzecz**` — с `to` род не спрягается.
+- 🔁 **`ludzi` вместо `ludzie` в подлежащем** (2026-08-23, дважды за один ответ): ❌ `ludzi często wolą` · `niektórzy ludzi uważają` → ✅ `ludzi**e** często wolą` · `niektórz**y** ludzi**e** uważają`. Подлежащее — всегда mianownik.
 
 ## 18. ⭐⭐ `dbać o` — ВСЕГДА бирник (2 раза за сессию)
 - ❌ `dbać o swoim zdrowie` · `dbać tylko o pieniądzach`

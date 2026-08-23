@@ -37,7 +37,8 @@ _(Агент нарушал это правило неоднократно; уч
 > • miała odpowiednią **kompozycję**, czyli zawierała wstęp, rozwinięcie i zakończenie,
 > • ujmowała temat **wieloaspektowo** – nie chodzi tu tylko o pokazanie swoich doświadczeń czy swojej perspektywy, ale przede wszystkim o wskazanie **plusów i minusów, korzyści i zagrożeń, zmiany podejścia na przełomie wieków czy życia różnych pokoleń**.»
 
-Длительность: «na prezentację każda osoba ma **około 3 minuty**».
+Длительность: книга говорит «na prezentację każda osoba ma **około 3 minuty**» — но это **расходится с официальным документом** и проверено двумя аудитами 2026-08-23. Официальный лист задания кандидата (стр. 24): «Twoja prezentacja powinna **trwać około dwóch minut**, następnie należy udzielić odpowiedzi na pytania egzaminatora». Стр. 21: «Powinni mówić po kolei przez **około dwie minuty**». Заголовок «Część 2 (около 3 minut na zdającego)» включает и 2B.
+→ **Рабочая цель: ~200–220 слов ≈ 2 минуты.** Не 300.
 
 ⛔ Потолок A2 при чтении: «W przypadku, gdy cała prezentacja jest odczytywana, ocena nie może być wyższa niż A2» (официальный документ, стр. 37, сноска к строке 2A).
 
