@@ -138,7 +138,35 @@ Kiedyś [X] oznaczało [.....]. Dziś wszystko się zmieniło — [.....].
 
 Поэтому на листке подготовки писать **не 4 слова, а 12–16**: по 2–3 пункта на квадрант. В презентацию идёт по одному, остальные держатся на 2B.
 
-Пример реального вопроса (стр. 43): «Powiedziałaś/eś, że nie warto oszczędzać. Wyjaśnij proszę, co dokładnie masz na myśli.»
+### 📋 Факты о 2B из официального документа (проверено 2026-08-23)
+
+**Сколько вопросов: ОДИН ИЛИ ДВА.** Зафиксировано дважды:
+- стр. 21: «Egzaminator zadaje **jedno lub dwa** dodatkowe pytania w nawiązaniu do wypowiedzi zdającego.»
+- стр. 43: «Prowadzący egzamin zadaje **jedno lub dwa** dodatkowe pytania.»
+Балл (10 б.) ставится за секцию целиком — один вопрос или два, вес одинаковый.
+
+**Вопрос подстраивают под уровень кандидата** (стр. 43): «Pytania powinny być **na poziomie B1 lub B2, zależnie od umiejętności zdającego**.» → завалить вопросом не по силам регламент запрещает.
+
+**Вопрос всегда привязан к словам самого кандидата** — новую тему не дают. Оба официальных примера начинаются с `Mówiłeś/aś…` / `Powiedziałaś/eś, że…`.
+
+**Форм вопроса всего две** (оба примера со стр. 43):
+| Форма | Официальный пример | Зачин ответа |
+|---|---|---|
+| **Уточнить** | «Powiedziałaś/eś, że nie warto oszczędzać. **Wyjaśnij proszę, co dokładnie masz na myśli.**» | `Miałem na myśli to, że…` |
+| **Выбрать** | «Mówiłeś/aś o pieniądzach. **Którą formę płatności uważasz za wygodniejszą?**» | `Uważam, że lepszy jest…, bo…` |
+
+⚠️ В книге Павлеты вопросов 2B НЕТ вообще (проверено: во всей книге 5 знаков вопроса, все — название темы 3). Единственный источник примеров — сценарий экзаменатора в `uebungstest_polnisch.pdf`, стр. 43.
+
+**Требование B1 для 2B — минимальное** (стр. 35): «Potrafi **krótko** odpowiedzieć na proste pytania dodatkowe.» Два-три предложения достаточно. Разворачивать нужно только ради B2 («spontanicznie… jasno i precyzyjnie»).
+
+### Каркас ответа 2B — 3 предложения
+```
+1. Прямой ответ первой фразой (не с себя!)
+2. Причина:  …, bo …
+3. Оговорка или пример:  Ale z drugiej strony… / Na przykład…
+```
+✅ Образец ученика (2026-08-23, вопрос «Którą opcję uważasz za lepszą dla rodziny z dziećmi?»):
+> «Dla rodziny z dziećmi lepiej żyć w mieście, bo obok są szkoła oraz dostęp do usług. Ale z drugiej strony uważam, że dzieci powinny spędzać swój czas także na świeżym powietrzu. Dlatego trzeba jeździć na wieś i spędzać czas tam.»
 
 Заготовки-зачины для 2B:
 - `Miałem na myśli to, że…`
