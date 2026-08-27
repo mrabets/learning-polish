@@ -159,6 +159,27 @@ Kiedyś [X] oznaczało [.....]. Dziś wszystko się zmieniło — [.....].
 
 **Требование B1 для 2B — минимальное** (стр. 35): «Potrafi **krótko** odpowiedzieć na proste pytania dodatkowe.» Два-три предложения достаточно. Разворачивать нужно только ради B2 («spontanicznie… jasno i precyzyjnie»).
 
+### 🛟 АВАРИЙНЫЙ НАБОР 2B — когда реально нечего сказать
+
+Основание: B1-дескриптор 2B — «Potrafi **krótko** odpowiedzieć na proste pytania dodatkowe». Короткий ответ = полный балл B1. Содержание не проверяется, истории не обязаны быть правдой. Не оценивается ТОЛЬКО молчание и `nie wiem`.
+
+**Четыре хода, любой даёт засчитываемый ответ из ничего:**
+
+| Ход | Фраза | Что делает |
+|---|---|---|
+| **1. Честный уход + поворот** | `Szczerze mówiąc, nie zastanawiałem się nad tym. Ale myślę, że…` | Покупает 2 секунды и легализует любое продолжение |
+| **2. Сузить до себя** | `Nie wiem, jak jest u innych, ale ja…` · `Z mojego doświadczenia…` | Про себя всегда есть что сказать |
+| **3. «Зависит»** | `To zależy od sytuacji. Czasami… a czasami…` | Две ветки = структурный ответ без содержания |
+| **4. Две опции** | `Mamy dwie opcje. Pierwsza to… Druga to…` | Изобретено учеником самостоятельно 2026-08-24, работает |
+
+**Генератор причин, если нужен ответ «почему»:** `zdrowie` · `czas/pieniądze` · `rodzina`. Почти любое «почему» закрывается одной из трёх.
+
+**Пример сборки из ничего** (вопрос: «почему сегодня безопаснее путешествовать?»):
+> `Szczerze mówiąc, nie zastanawiałem się nad tym. Ale myślę, że dziś mamy telefon, więc zawsze można zadzwonić po pomoc. Dla wielu osób to jest najważniejsze.`
+Три предложения, ноль подготовленного содержания, полный балл B1.
+
+⛔ После `Mam na myśli to, że…` должна идти НОВАЯ информация, а не пересказ утверждения. Круговой ответ (`to po prostu bezpieczniejsze`) не считается объяснением.
+
 ### Каркас ответа 2B — 3 предложения
 ```
 1. Прямой ответ первой фразой (не с себя!)
