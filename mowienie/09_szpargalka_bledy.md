@@ -93,6 +93,58 @@ _Без квантора — множественное: `ludzie **jedzą**`_
 
 ---
 
+## 🛟 МОИ ОБХОДЫ — главное оружие (собрано 2026-08-24)
+
+Принцип: **не запоминать исключение, а построить фразу так, чтобы трудное место не возникло.**
+
+| Трудность | Обход |
+|---|---|
+| `oba` / `obie` — род пары | **`oba te rozwiązania`** — `rozwiązanie` ср. рода, подходит к любой теме |
+| `jest` / `są` после `Zaletą` | **слот в единственном числе**: `Zaletą jest niższa cena` (не `niższe ceny`) |
+| Числительные (`dwa`, `trzy`, `dwoje`) | **`w pierwszych latach`**, `kilka`, `dużo` — без числа |
+| Род существительного (`podróż` ж.р.!) | **заменить на глагол**: `chce podróżować niezależnie` вместо `aby podróż była…` |
+| Прилагательное/наречие | **нет существительного рядом → форма на `-ej`**: `jest bezpieczniej`, `wygodniej było`, `łatwiej` |
+| `czuć się` + прилагательное | `czuć **się**` (не `sobie`) |
+
+## 🔴 ДОБАВЛЕНО 2026-08-24 — три механизма
+
+### A. Прилагательное берёт род ТОГО СЛОВА, ЧТО ИДЁТ ПОСЛЕ `jest`
+| ❌ | ✅ |
+|---|---|
+| `najtrudniejsze jest edukacja` | **`najtrudniejsza jest edukacja`** (ж.р.) |
+| — | **`najtrudniejsze jest to, że…`** (ср.р., к слову `to`) |
+| `najlepsze jest praca hybrydowa` | **`najlepsza jest praca`** |
+| `ważne jest dostęp` | **`ważny jest dostęp`** (м.р.) |
+⛔ Два шаблона, смешивать нельзя.
+
+### B. Блок про `kiedyś` — ВЕСЬ в прошедшем времени
+| ❌ | ✅ |
+|---|---|
+| `Zaletą kiedyś **jest** to, że **było**…` | **`Zaletą kiedyś było to, że było…`** |
+⚠️ Смешение времён — буквально A2-тип по оригиналу критерия CEFR: «tends to **mix up tenses**».
+📦 Безличный набор: `można było` · `trzeba było` · `nie było` · `było drogo/trudno` · `ludzie mieli`
+
+### C. После `jeśli / bo / że / ponieważ` — СПРЯГАЕМЫЙ глагол, не инфинитив
+| ❌ | ✅ |
+|---|---|
+| `Jeśli **odpocząć** w tłumie…` | **`Jeśli odpoczywamy w tłumie…`** |
+Никогда `-ć` после этих союзов.
+
+## 🛟 АВАРИЙНЫЕ НАБОРЫ
+
+**Если нечего сказать в 2B:**
+`Szczerze mówiąc, nie zastanawiałem się nad tym. Ale myślę, że…`
+`Nie wiem, jak jest u innych, ale ja…` · `To zależy od sytuacji. Czasami… a czasami…` · `Mamy dwie opcje…`
+
+**Если в презентации не приходит минус:** найди ОДИН плюс, остальные три квадранта достраиваются:
+1. переверни плюс в его цену (`czas` / `pieniądze` / `prywatność` / `samotność`)
+2. «хорошо, но не для всех» (`Dla młodych to zaleta, ale dla starszych problem`)
+3. зеркало (минус одной стороны = плюс другой)
+
+**Правило первой фразы 2B:** повтори ключевое слово вопроса. Спросили `najtrudniejsze` → начинай `Najtrudniejsze jest…`
+
+---
+
 ## 🟢 НА ЭТО НЕ ТРАТИТЬ НЕРВЫ
 
 Официально разрешено вплоть до B2:
