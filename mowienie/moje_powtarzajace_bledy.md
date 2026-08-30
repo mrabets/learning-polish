@@ -153,3 +153,83 @@
 ## 25. ⭐ Двойная связка `Ponieważ…, dlatego…` — оставить ОДНУ
 - ❌ `Ponieważ pracuję zdalnie, dlatego spędzam dużo czasu bez ruchu`
 - ✅ `**Ponieważ** pracuję zdalnie, spędzam…` ИЛИ `Pracuję zdalnie, **dlatego** spędzam…`
+
+
+---
+
+# 📌 ИТОГ 2026-08-24 — что закрыто, что открыто
+
+## 🔴 ОТКРЫТО — одно правило, два способа его сломать
+
+Всё, что осталось незакрытым, сводится к **ОДНОМУ механизму**: что стоит после `jest / może być / było`.
+
+```
+ЕСТЬ существительное-подлежащее  →  ПРИЛАГАТЕЛЬНОЕ, в роде этого слова
+НЕТ подлежащего                  →  НАРЕЧИЕ на -o / -ej
+```
+
+### Способ сломать №1: наречие там, где нужно прилагательное (НОВЫЙ, дважды за день)
+| ❌ | ✅ |
+|---|---|
+| `kolejka jest **mniej**` | `kolejka jest **mniejsza**` |
+| `pensja może być **więcej**` | `pensja może być **większa**` |
+📌 `więcej` = больше ПО КОЛИЧЕСТВУ (`więcej pieniędzy`); `większa` = больше КАК ПРИЗНАК (`większa pensja`)
+
+### Способ сломать №2: прилагательное берёт не тот род (4 раза за день)
+Род берётся у слова, которое идёт **ПОСЛЕ** `jest`:
+| ❌ | ✅ |
+|---|---|
+| `najtrudniejsze jest edukacja` | `najtrudniejsz**a** jest edukacja` |
+| `najlepsze jest praca hybrydowa` | `najlepsz**a** jest praca` |
+| `ważne jest dostęp` | `ważn**y** jest dostęp` |
+| `to zupełnie inny rzeczy` | `to zupełnie inn**e** rzeczy` |
+| `najtrudniejsze jest **to, że**…` | ✅ верно — род от `to` |
+
+🛟 **Обход:** если сомневаешься — выкинь подлежащее: `jest bezpieczniej`, `wygodniej jest płacić`, `łatwiej żyć`.
+
+## ⚠️ ПОЛУЗАКРЫТО — работает в речи, не работает в отрыве
+**`wiele / dużo / mniej / więcej` + глагол в ЕД.Ч.**
+В презентациях выходило верно само: `jest dużo kamer` · `w rodzinach jest mniej dzieci` · `wielu ludzi miało możliwość`.
+Но в разминке вне контекста ошибся: `w rodzinach są mniej dzieci`. → Гонять в разминке.
+
+## 🔁 ТРЕБУЮТ ПОВТОРА (провалены в разминке 2026-08-24)
+- `dbać o swoje zdrowie` — **без `się`**, глагол не возвратный
+- `**wydawać** pieniądze` — не `tracić` (это «терять») и не `spędzać` (это про время)
+- `pojechał**bym**` — `-bym` цепляется к форме БЕЗ личного окончания, не `pojechałem bym`
+- `w **zeszłym** roku` — не `przeszłym`
+
+## ✅ ЗАКРЫТО — сегодня выходило верно САМО, много раз, без подсказки
+- **Творительный после `być`**: `minusem jest to, że` · `lepszym wariantem jest` · `stać się obcym` · `zaletą jest`
+- **`nie ma` + родительный**: `nie ma możliwości` · `nie ma terminalu` · `nie ma zbyt wielu turystów`
+- **`wiedzieć` vs `znać`**: `wiem, że` · `wiem, jak to rozwiązać`
+- **`za granicę`** (движение, биерник) — дважды верно
+- **Согласование мн.ч.**: `dzisiejsze czasy są lepsze` · `ceny mogą być wyższe` · `mogą nie być dostępne terminale` · `możliwości zawodowe są większe`
+- **`oba` / `obie`** — произвёл `obie` сам, без напоминания
+- **Прошедшее время**: `jeździłem` · `ludzie mogli` · `spotykali się` · `kobieta pracowała` · `Zaletą było` — целые блоки без соскока в настоящее
+- **`jeśli` + спрягаемый глагол** — исправление применил сразу и держал
+- **Счёт детей**: `mam dwie córki`
+- **`powinien` / `powinno`** — два разных рода в одном ответе, верно
+
+---
+
+# 🛟 ОБХОДЫ, ПРИНЯТЫЕ УЧЕНИКОМ (расширено 2026-08-24)
+
+Принцип подтверждён: ученик прямо отказывается учить трудные слова («не хочу, не запомню») — и это работает лучше зубрёжки.
+
+| Вместо трудного | Берём |
+|---|---|
+| `kultywować` (искажал 5 раз подряд) | **`zachowywać`** tradycje |
+| `stać się` («случиться») | **`jeśli będzie problem`** |
+| `kraina` | **`kraj`** |
+| числительные `dwa/trzy/dwoje` | `w pierwszych latach`, `kilka`, `dużo` |
+| `oba/obie` | `oba te rozwiązania` (ср. род) |
+| род существительного (`podróż` ж.р.) | заменить на глагол: `chce podróżować` |
+
+# 💎 СИЛЬНАЯ ЛЕКСИКА, ПРОИЗВЕДЁННАЯ УЧЕНИКОМ САМИМ (2026-08-24)
+`relacje międzyludzkie` (⭐ один из двух примеров B2 у Павлеты) · `tożsamość` · `złoty środek` · `zamknąć się na innych ludzi` · `stać się obcym wśród swoich` (его собственная находка) · `poczucie bezpieczeństwa` · `równowaga między nimi` · `pragną zachować niezależność` · `nie należy polegać na` · `negatywny wpływ na` · `kasy samoobsługowe` · `kantor` · `problem z populacją` · `swoboda wyboru`
+
+# 📣 ПОЛЕЗНЫЕ ХОДЫ, НАЙДЕННЫЕ УЧЕНИКОМ САМИМ
+- `Mamy dwie opcje. Pierwsza to… Druga to…` — структурирует ответ и даёт время подумать
+- `To po prostu wybór człowieka` — универсальный уход от провокационного вопроса («честно ли это?»)
+- `Po pierwsze… Po drugie…` — под внезапным вопросом
+- Признать минус и тут же уравновесить: `ceny mogą być wyższe, ale pensje też będą większe`
