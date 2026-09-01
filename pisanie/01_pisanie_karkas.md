@@ -122,6 +122,25 @@
 |---|---|
 | `Czekam na odpowiedź.` / `Z góry dziękuję za odpowiedź.` | `Czekam na Twoją odpowiedź!` / `Napisz, co o tym myślisz!` |
 
+### 🧱 УНИВЕРСАЛЬНЫЕ ФРАЗЫ-ДОБАВКИ (проверены 2026-08-25, работают в любом письме)
+
+**Развить пункт → Treść (самое дорогое):**
+`Na przykład…` · `Dlatego…` · `Dzięki temu…`
+> `W mieście jest mnóstwo parków. **Dzięki temu** dzieci mają gdzie się bawić.`
+
+**Связать → Kompozycja:**
+`Poza tym…` · `Warto dodać, że…` · `Z drugiej strony…`
+
+**Мнение (любая тема):** `Moim zdaniem…`
+
+**Вежливость (прямо в дескрипторе Kompozycja B2 «formy grzecznościowe»):**
+`Z góry dziękuję.` · `Byłbym wdzięczny za odpowiedź.` (строится как `chciałbym`)
+
+**Для писем о ПРОШЕДШЕМ событии:**
+`W zeszłym miesiącu odbył się…` · `Brałem w niej udział.` · `Najbardziej podobało mi się…`
+
+⚠️ **Запятая ВПИСАНА в заученную фразу**, чтобы не думать: `Mam nadzieję, że…` · `Bardzo się cieszę, że…` · `Warto dodać, że…`
+
 ### 📌 Итого выучить наизусть — 6 штук
 `Szanowny Panie!` + `Z poważaniem` · `Cześć…!` + `Pozdrawiam serdecznie` · `Piszę, ponieważ…` · `Czekam na odpowiedź.`
 Остальное — содержание трёх пунктов, которое даёт само задание.
