@@ -194,6 +194,12 @@
 - `Zapraszam` = приглашаю (тело письма) · `Pozdrawiam` = прощание. Похожи, путаются под нагрузкой.
 - ❌ `Cześć!` как прощание → в письме `Cześć` только приветствие.
 
+## 28e. 🔴 Глаголы на `-ować` (2026-09-11, дважды за один дрилл)
+- ❌ `Proponowam` → ✅ `Propon**uję**` (наст. время: `-ować` → `-uję`, как `pracuję`)
+- ❌ `zachworałem` / `zachorałem` → ✅ `zachor**owałem**` (прош. время: `-ować` → `-owałem`, как `pracowałem`)
+- 📦 Блок: `pracuję / pracowałem` · `proponuję / proponowałem` · `choruję / zachorowałem` · `rezerwuję / zarezerwowałem`
+- 🛟 Обход: `muszę` вместо `powinienem`; `odwołać` вместо `zrezygnować z`.
+
 ## 29. ⚠️ ЧТЕНИЕ ЗАДАНИЯ — терять пункты дороже, чем ошибаться в языке (2026-09-04)
 Не языковая ошибка, а самая дорогая по баллам. Два случая за один день:
 - **Z7**: пункт `Poradź **i uzasadnij**` — совет дал, обоснование (`bo/ponieważ`) не написал вообще.

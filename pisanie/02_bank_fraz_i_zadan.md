@@ -201,3 +201,8 @@
 🔴 `Proponowam` → `Propon**uję**` (спряжение `-ować` → `-uję`, как `pracuję`) — новая форма глагола в журнал.
 🔁 `o godzine` → `o godzin**ie**` — четвёртый месцовник за неделю (terminie, kawiarni, mieście, godzinie). Правило №6 — гонять в каждой разминке.
 Не пройдено (по желанию ученика «не так много»): `odwołać spotkanie`, `Proszę o potwierdzenie`.
+Добито 2026-09-11: ✅ `Niestety, muszę odwołać nasze spotkanie, ponieważ zachorowałem.` · ✅ `Proszę o potwierdzenie terminu.`
+🔴 `zachworałem` → `zachorałem` → `zachor**ow**ałem` (со 2-й попытки, дан ответ) — `-ować → -owałem`, `-ow-` не выпадает. Тот же класс, что `Proponowam`→`Proponuję`: **глаголы на `-ować` — новый пункт для разминки**.
+🔁 `naszą spotkanie` — откат после верного `nasze`; `spotkanie` ср.р.
+📌 `zrezygnować **z** + род.` — если берёт этот глагол; безопаснее `odwołać` + вин.
+**Все 5 новых функций закрыты. Pisanie — ЗАКРЫТО до октябрьских симуляций (одно письмо с таймером).**
