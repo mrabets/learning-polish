@@ -108,6 +108,46 @@
 - не видно: `Nie widać, jakie buty ma na nogach.`
 - (точнее по желанию: `adidasy` кроссовки • `trampki` кеды • `kozaki` сапоги • `sandały` сандалии)
 
+### Кубик ВОЗРАСТ (одна фраза = дешёвый балл, работает везде)
+- категория: `młody` • `w średnim wieku` • `starszy` • дети `małe` • `nastolatek`
+- смешанная группа ⭐: `Osoby są w różnym wieku.` / `Rodzice są dorośli, a dzieci są jeszcze małe.`
+- число (если уверен): `Ma około trzydziestu lat.` / `Wygląda na jakieś 40 lat.`
+- через `wyglądać na` (+ бирник): `Wygląda na młodego / starszą osobę.`
+
+### Кубик СЧЁТ ДЕТЕЙ — ОБХОД (собирательные `dwoje/troje/czworo` трудны)
+- проще всего — **без числа**: `matka i dzieci` / `Widzę matkę z dziećmi.`
+- считать людей: `Na pierwszym planie jest kilka osób: matka i dzieci.`
+- по одному: `Jedno dziecko czyta, a drugie dziecko siedzi obok.` (`jedno/drugie dziecko` — легко)
+- (точные `dwoje, troje, czworo dzieci` — на потом, не критично)
+
+### Кубик КОНЦОВКА ⭐ — формула [оценка] + [ПОЧЕМУ] + [личная связь]
+Причина должна объяснять ЦЕННОСТЬ, а не пересказывать картинку.
+Банк универсальных причин (`bo/ponieważ…`):
+- `…bo pokazuje pozytywne emocje.`
+- `…bo przypomina mi moje własne doświadczenia.` (или `przypomina mi o moim doświadczeniu`)
+- `…bo widać, że ludzie robią coś razem.`
+- `…bo pokazuje ważny moment w życiu człowieka.`
+- `…bo uważam, że [nauka / praca / rodzina / zdrowie] jest ważna w życiu każdego człowieka.` ⭐ (подставить тему фото)
+Усиление в конце: `Moim zdaniem takie chwile są ważne.` / `Uważam, że warto doceniać takie momenty.`
+
+### ⭐ БЕЗОПАСНЫЙ НАБОР ГЛАГОЛОВ (чтобы не возиться с падежами)
+Говорить только теми конструкциями, чей падеж уже держу:
+- `widzę / widać` + кого/что · `ma / ma na sobie` · `trzyma` · `patrzy na` (всё — biernik)
+- `jest / są` + прилагательное · `wygląda na` + biernik
+- `siedzi / stoi / leży` + `w / na` + miejscownik (`w fotelu`, `na stole`)
+- ⭐ `lubię / chcę` + ИНФИНИТИВ (`lubię czytać`, `chcę kupić`) — полностью обходит падежи
+
+**Глаголы-ловушки → замена:**
+| Ловушка | Замена |
+|---|---|
+| `szukać` (+род.) | `chce kupić` + biernik |
+| `pomagać` (+дат.) | без дополнения: `farmaceuta pomaga` |
+| `potrzebować` (+род.) | `chce` |
+| `używać` (+род.) | `ma` |
+| `iść do` (+род.) | `jestem w` + miejscownik (`jestem w aptece`) |
+
+🔑 **Золотое правило:** не уверен в падеже → скажи через `lubię/chcę + инфинитив` или `jest + прилагательное`.
+
 ### Кубик «НЕ ВИДНО / НЕ ЗНАЮ» (превращает пробел в баллы)
 - `nie widać…` (после отрицания — родительный: `nie widać zieleni`)
 - `trudno powiedzieć, co to jest`

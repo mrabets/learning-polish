@@ -1,0 +1,208 @@
+# ✍️ Pisanie — быстрый метод: банк фраз по функциям + скелетный дрилл
+
+> Создано 2026-08-30. Основание: механика оценки (Treść = 3 пункта × `++/+/Ø`, механически), официальные Tips telc B1·B2 («Write one or two sentences for each guiding point», «Grammar and spelling mistakes are allowed as long as they don't make it difficult to understand»), типология заданий из Handbook («One situation always relates to everyday life, e.g. complaint, inquiry; the other may be work-related»), Inventory T (темы), 4 официальных образца писем (B1-образцы полны ошибок — «I wants», «countrys», «easilier» — и оценены как B1).
+
+---
+
+## 0. Почему полное письмо каждый раз — неэффективно
+
+За три письма ученика установлено: баллы решают (1) все три пункта раскрыты по 2–3 предложения, включая **оба** императива внутри пункта, (2) впечатления — **от первого лица**, (3) три абзаца тела = три пункта, (4) регистр парный, (5) один системный языковой паттерн. **Ничего из этого не требует писать 100 слов, чтобы натренировать.** Полное письмо нужно только для условий экзамена (рука, 30 минут, орфография) — раз в ~10 дней.
+
+## 1. МЕТОД — четыре коротких упражнения вместо одного длинного
+
+| # | Упражнение | Время | Что тренирует |
+|---|---|---|---|
+| **A** | **Скелетный дрилл**: дано задание → написать ТОЛЬКО три первых предложения трёх абзацев (по одному на пункт) | 5 мин | Treść: прочитать пункты, найти двойные императивы, первое лицо, ничего не пропустить. **Самое дорогое умение, самое дешёвое в тренировке** |
+| **B** | **Фразы RU→PL** из банка ниже (как дрилл ошибок): 5 фраз | 3 мин | Kompozycja: связки, вежливые формулы, зачины |
+| **C** | **Мужско-личное мн.ч.** — 3 формы RU→PL | 2 мин | Единственный системный паттерн Poprawność |
+| **D** | **Полное письмо от руки, 30 мин, таймер** | раз в ~10 дней | Условия экзамена: рука, орфография, время. Не заменяется ничем |
+
+Одна сессия A+B+C = **10 минут**. Три письма уже дали 8 → 12–14 → 11–12; дальше рост идёт от A и C, не от объёма.
+
+## 2. БАНК ФРАЗ ПО ФУНКЦИЯМ
+
+Все функции telc-заданий (Handbook): описать/рассказать · пригласить · попросить · спросить/узнать · пожаловаться · посоветовать · поблагодарить. Каждая фраза — B1, без трудных конструкций. **⭐ = минимальный набор из 12, знать обязательно.**
+
+### Открыть письмо (зачем пишу) — одна фраза после приветствия
+| Функция | Фраза |
+|---|---|
+| ⭐ рассказать / описать | `Piszę, ponieważ chciałbym opisać ___ .` |
+| ⭐ попросить | `Piszę z prośbą o ___ .` |
+| ⭐ узнать | `Chciałbym się dowiedzieć, czy ___ .` / `Piszę, aby zapytać o ___ .` |
+| ⭐ проблема / жалоба | `Piszę w sprawie ___ .` |
+| частное — ответ на письмо | `Dziękuję za Twoją wiadomość.` |
+| частное — радость | `Bardzo się cieszę, że ___ .` |
+
+### Жалоба / рекламация (skarga, reklamacja) — «everyday life» тип из Handbook
+`Niestety, mam problem z ___ .` · `___ nie działa.` · `___ nie zgadza się z opisem.` · `Proszę o zwrot pieniędzy.` / `Proszę o wymianę.` / `Proszę o naprawę.` · `Mam nadzieję, że szybko rozwiążemy ten problem.`
+
+### Запрос информации (prośba o informacje)
+`Chciałbym się dowiedzieć, ile kosztuje ___ .` · `…kiedy zaczyna się ___ .` · `…czy jest możliwość ___ .` · ⭐ `Proszę o informację, czy ___ .` · `Czy mógłby Pan napisać, ___ ?`
+
+### Просьба (prośba)
+⭐ `Bardzo proszę o ___ .` (без местоимения — обход) · `Czy mógłbyś ___ ?` (частн.) / `Czy mógłby Pan ___ ?` (офиц.) · `Byłbym wdzięczny za ___ .`
+
+### Приглашение (zaproszenie)
+`Chciałbym zaprosić na ___ .` / `Zapraszam na ___ .` · `Spotkanie odbędzie się w [dzień] o [godzina] w [miejsce].` · `Daj znać, czy możesz przyjść.` (частн.)
+
+### Описать событие (opis wydarzenia) — прошедшее время
+⭐ `W zeszłym tygodniu odbył się / odbyła się ___ .` · ⭐ `Na początku ___ . Potem ___ . Na koniec ___ .` · `Brali w nim udział ___ .` / `Wzięło w nim udział około ___ osób.` · ⭐ `Najbardziej podobało mi się ___ .` · `Byłem pod wrażeniem ___ .` · `Było bardzo wesoło / ciekawie.`
+
+### Совет (rada)
+`Moim zdaniem warto ___ .` · `Radzę Ci ___ .` · ⭐ `Polecam Ci ___ , bo ___ .` · `Najlepiej ___ .`
+
+### Развить любой пункт (Treść `+` → `++`)
+⭐ `Na przykład ___ .` · ⭐ `Dlatego ___ .` · `Dzięki temu ___ .` · `Poza tym ___ .` · `Warto dodać, że ___ .`
+
+### Закрыть письмо
+⭐ `Z góry dziękuję.` · ⭐ `Czekam na odpowiedź.` (офиц.) / `Czekam na Twoją odpowiedź!` (частн.) · `W razie pytań proszę o kontakt.` (офиц.)
+Пары: `Szanowny Panie! / Szanowna Pani! / Szanowni Państwo!` → `Z poważaniem,` · `Cześć! / Droga Aniu!` → `Pozdrawiam serdecznie,`
+⚠️ Если адресат назван по имени в задании (`pan Jan Nowak`) → `Szanowny Panie Nowaku!` или `Szanowny Panie Redaktorze!`
+
+### ⛔ Запятая вписана в фразу
+`Mam nadzieję, że` · `Bardzo się cieszę, że` · `Chciałbym się dowiedzieć, czy` · `Warto dodać, że` · `Polecam Ci ___, bo`
+
+## 3. МУЖСКО-ЛИЧНОЕ МН.Ч. — единственный системный паттерн (дрилл C)
+
+Правило: если среди людей есть хотя бы один мужчина → существительное на `-i / -ie / -y`, прилагательное на `-i / -y`, глагол прош. вр. на `-li`.
+
+| ❌ было у ученика | ✅ |
+|---|---|
+| uczniow**e** | uczniow**ie** |
+| Wszyst**c**y | Ws**zys**cy |
+| zadowol**o**ni | zadowol**e**ni |
+| szczę**sz**liwi | szczę**śl**iwi |
+| — | nauczyciel**e** · rodzic**e** · koledz**y** · goś**ci**e |
+| — | `byli zadowoleni` · `brali udział` · `pokazywali` (✅ уже верно) |
+
+Женщины/предметы → `-e / -ły`: `koleżanki były zadowolone` · `dzieci były szczęśliwe`.
+
+## 4. БАНК ЗАДАНИЙ ДЛЯ СКЕЛЕТНОГО ДРИЛЛА (по официальному формату: ситуация + 3 пункта)
+
+Покрывают типы из Handbook (everyday: skarga/zapytanie; work-related) и темы Inventory T. Двойные императивы помечены ⚠️ — на них ученик уже терял баллы.
+
+**Z1 · Reklamacja (sklep internetowy).** Kupiłeś przez Internet buty, ale dostałeś zły rozmiar. Napisz e-mail do sklepu.
+• Opisz, co kupiłeś i kiedy. • Wyjaśnij, na czym polega problem. • Napisz, czego oczekujesz od sklepu ⚠️ i do kiedy.
+
+**Z2 · Zapytanie (kurs językowy).** Chcesz zapisać się na kurs polskiego w szkole językowej. Napisz e-mail do szkoły.
+• Napisz, dlaczego chcesz się uczyć. • Zapytaj o terminy i cenę. • Zapytaj, czy jest test poziomujący ⚠️ i jak się zapisać.
+
+**Z3 · Prośba do sąsiada (prywatnie).** Wyjeżdżasz na tydzień. Napisz e-mail do sąsiada.
+• Wyjaśnij, gdzie i na jak długo wyjeżdżasz. • Poproś o pomoc (kwiaty, poczta) ⚠️ i wyjaśnij dlaczego. • Zaproponuj, jak się odwdzięczysz.
+
+**Z4 · Zaproszenie (prywatnie).** Organizujesz urodziny córki. Napisz e-mail do znajomego.
+• Napisz, kiedy i gdzie będzie impreza. • Opisz, co planujesz. • Poproś o odpowiedź ⚠️ i zapytaj, czy przyjdzie z dziećmi.
+
+**Z5 · Urlop (do szefa, work-related).** Chcesz wziąć urlop. Napisz e-mail do szefa.
+• Napisz, kiedy chcesz wziąć urlop ⚠️ i dlaczego. • Wyjaśnij, kto Cię zastąpi. • Poproś o odpowiedź.
+
+**Z6 · Opis wydarzenia do redakcji.** W Twoim mieście odbył się festiwal. Napisz e-mail do redakcji gazety lokalnej.
+• Przedstaw, co to było za wydarzenie. • Opisz, jak przebiegało ⚠️ i kto uczestniczył. • Napisz o swoich wrażeniach.
+
+**Z7 · Rada (prywatnie).** Znajomy pyta, czy uczyć się polskiego online czy w szkole. Napisz do niego e-mail.
+• Opisz swoje doświadczenie. • Podaj plusy i minusy obu opcji. • Poradź ⚠️ i uzasadnij.
+
+**Z8 · Reklamacja (hotel).** Byłeś w hotelu, ale pokój był brudny i hałaśliwy. Napisz e-mail do hotelu.
+• Napisz, kiedy i gdzie byłeś. • Opisz problemy. • Napisz, czego oczekujesz.
+
+**Z9 · Informacja do szkoły dziecka.** Twoja córka nie przyjdzie do szkoły przez tydzień. Napisz e-mail do wychowawcy.
+• Wyjaśnij, dlaczego córki nie będzie. • Zapytaj o zadania domowe. • Poproś o informację ⚠️ i podaj kontakt.
+
+**Z10 · Podziękowanie (prywatnie).** Znajomy pomógł Ci w przeprowadzce. Napisz e-mail.
+• Podziękuj ⚠️ i napisz za co. • Opisz, jak wygląda nowe mieszkanie. • Zaproś go w odwiedziny.
+
+**Z11 · Przeprosiny / odwołanie (prywatnie).** Umówiłeś się z kolegą na sobotę, ale nie możesz przyjść. Napisz e-mail.
+• Przeproś ⚠️ i wyjaśnij, dlaczego nie możesz przyjść. • Zaproponuj inny termin. • Zapytaj, czy mu pasuje.
+
+**Z12 · Umówienie spotkania (work-related, oficjalnie).** Chcesz umówić się na spotkanie z klientem w sprawie projektu. Napisz e-mail.
+• Napisz, w jakiej sprawie chcesz się spotkać. • Zaproponuj termin ⚠️ i miejsce. • Poproś o potwierdzenie.
+
+**Z13 · Odmowa zaproszenia (prywatnie).** Znajomy zaprosił Cię na wesele, ale nie możesz pojechać. Napisz e-mail.
+• Podziękuj za zaproszenie. • Wyjaśnij, dlaczego nie możesz przyjechać. • Złóż życzenia ⚠️ i zaproponuj spotkanie po weselu.
+
+### Функции, добавленные 2026-09-11 (после обзора материалов в сети — Handbook: «making arrangements for a business meeting» как второй тип задания)
+| Функция | Фразы (по 2–3, B1) |
+|---|---|
+| **Извиниться / отменить** | `Bardzo mi przykro, ale nie mogę przyjść.` · `Przepraszam, że piszę tak późno.` · `Niestety muszę odwołać nasze spotkanie, bo ___ .` |
+| **Предложить срок** | `Proponuję spotkanie w [dzień] o [godzinie].` · `Czy pasuje Ci / Panu inny termin?` · `Może w przyszłym tygodniu?` |
+| **Подтвердить** | `Proszę o potwierdzenie terminu.` (офиц.) · `Daj znać, czy Ci pasuje.` (частн.) |
+| **Отказаться от приглашения** | `Dziękuję za zaproszenie, ale niestety nie mogę przyjechać.` · `Bardzo chciałbym, ale ___ .` |
+| **Пожелания** | `Życzę Wam wszystkiego najlepszego!` · `Gratuluję!` · `Wszystkiego dobrego z okazji ___ !` |
+
+### Как проводить дрилл A
+Агент даёт задание → ученик за 5 минут пишет **три предложения** (первое предложение каждого абзаца). Агент проверяет только: все 3 пункта? оба императива в двойных? первое лицо, где просят впечатления? регистр? Языковые ошибки — по обычному правилу (макс 2–3, красная зона + повторы).
+
+---
+
+## 5. ЖУРНАЛ ДРИЛЛОВ
+
+### 2026-09-04 — день 2–3 (Z5, Z7, Z4, Z8 + фразы)
+| Задание | Treść | Что вышло | Что упало |
+|---|---|---|---|
+| **Z5** urlop, офиц. | 3/3, двойной императив ✅ | порядковые числительные в род.п., `do Hiszpanii`, `nad morze`, запятые перед `ponieważ`/`żeby` | `żeby Marek **mnie** zastąpił` · `**od**…**do**`, не `z…do` |
+| **Z7** rada, частн. | 2,5/3 | `tracić **czas**` (исправлено с Z2), `nie ma możliwości`, 4 связки | 🔴 **потерян `uzasadnij`** — совет без `bo`; `zaletą **nauki**`, не инфинитив; `szyb**ci**ej` |
+| **Z4** zaproszenie, частн. | 3/3, **двойной императив пойман** | `kiedy`+`gdzie` оба, `Czy przyjdziesz z dziećmi?` + `Czekam na odpowiedź` | `grać w **gry** komputerowe` (биерник) · `z herbat**ą**` (творит.) |
+| **Z8** reklamacja hotel, офиц. | п.1 `+`, п.2 `++`, п.3 `++` | `nie było internetu`, `byłem pewien`, `Poza tym`/`Dlatego`, `proszę o zwrot pieniędzy` (из дрилла B — применил сразу), сам исправил `numere`→`pokoju` | 🔴 `gorąc**ej** wod**y**` · `powied**zie**ć` · `**za**rezerwowałem` · регистр `**Państwa** hotel`, не `wasz` · **не назван город/отель**, **потерян `głośno` из ситуации** |
+| **Фразы RU→PL ×5** | **5/5** | `Piszę z prośbą` (творит. верно!), `Polecam **Ci**` (закрыто), `Chciałbym zapytać, czy istnieje możliwość`, `Proszę o zwrot pieniędzy` | — |
+
+**Вывод дня:** язык держится, падает **точность чтения задания** (Z7 — `uzasadnij`, Z8 — `głośno` и город). Ритуал 30 секунд перед письмом: обвести все глаголы-команды **и** все существительные из описания ситуации. Детали брать ИЗ задания, не выдумывать.
+
+**Контраст, который стоит помнить:** `z prośb**ą**` вышло верно, `z herbat**ę**` — нет. Правило известно, слетает на незнакомом слове. После `z` («с чем-то») → всегда `-ą / -em`.
+
+### 2026-09-05 → 09-08 — подготовка к финальным письмам, 5 шагов (ученик просил «по порядку, немного за раз»)
+| Шаг | Что | Итог |
+|---|---|---|
+| 1 | Рамка: пары приветствие↔прощание | ✅ обе пары; сначала `Z poważaniem!` → `,`; `Część`→`Cześć` |
+| 2 | Первая фраза «зачем пишу» ×4 + `Mam nadzieję, że u Ciebie wszystko dobrze` | ✅ после правок: `Mam prosbą`→`Piszę z prośbą`; `zwrót`→`zwrot`; `złe`→`źle`; `Mam nadzieje u Ciebie`→ `, że` |
+| 5 | Закрывающие: `Czekam na odpowiedź.` / `Napisz, co o tym myślisz.` | ✅ после правок: `Chekam`, `odpowiedz`, `Napiść`→`Napisz`, `myslisz` |
+| 1+2+5 | **Два скелета целиком** (офиц. отель / частн. urodziny córki) | ✅ со второго раза: в первом не было закрывающей фразы в обоих, прощание `Zapraszam serdecznie` + `Cześć!`, `moje urodziny` вместо córki |
+| 4 | Найти команды в 4 пунктах (только счёт) | ✅ 4/4 с первого раза, назвал `poproś, wyjaśnij` |
+| 3 | Формула абзаца `ответ → Na przykład → bo` | ✅ ×2: mieszkanie (чисто), cena i terminy kursu (структура `++`, формы `dowiedzić`→`dowiedzieć`, `Pytaję`→`Pytam`) |
+
+**Вывод:** структура письма у ученика есть целиком, от приветствия до подписи. Падает только (а) орфография 5 частотных слов, (б) формы глагола `-ieć / -am`. Оба — в разминку перед письмами.
+**Следующее:** письмо 1 официальное, письмо 2 частное — 30 мин, от руки, новые задания.
+
+### 2026-09-08/09 — ПИСЬМО 4 (частное, Marek przyjeżdża do Białegostoku), без таймера, от руки, без каркаса
+**Treść `+ ++ ++` = 4 · Komp 3 · Popr 2 · Słown 2–3 → 11/20 (B1).** С тремя правками содержания → 13.
+- ✅ Рамка целиком без подглядывания. Оба вопроса п.3 заданы. Оба императива п.1 (`kiedy` + `bo`).
+- ⚠️ Treść: п.1 одним предложением → `+`; слот [2] «зачем пишу» пропущен; `Poza tym popić kawę` — обрывок без глагола.
+- 🔁 Месцовник после `w/po`: `w kawiarnie` (исправлено с 3-й попытки), `po miastu` (исправил сам) — **правило №6 в разминку**.
+- 📝 Орфография: `wykendach`→`w weekendy`, `zwiędzać`→`zwiedzać`, `Czesć`→`Cześć`; `Karim.` с точкой.
+- Ученик перевёл три правки содержания сам: `Bardzo się cieszę, że przyjedziesz do mnie!` · `Poza tym możemy napić się kawy w kawiarni.` · `Na przykład w sobotę możemy spacerować po mieście cały dzień.` — все верно.
+- Вопросы ученика, закрытые с пруфами: печатными можно (регламент telc 2025 + PL regulamin); часы на руку нельзя; черновик только в буклете; отступ vs пустая строка — критерий один («podział tekstu»), баллов не различает, пустая строка надёжнее.
+**Дальше:** письмо 5 — официальное.
+
+### 2026-09-09 — дрилл начинки частного письма, 8 фраз RU→PL
+Чисто с первого раза: 3, 4, 7 (кроме `zieleny`). Исправлено со второго: `Wszyscy byli zadowoleni` (был `Wszystcy … zadowolony` — паттерн мужско-личного мн.ч. ЖИВ), `przyjedź / przyjedziesz` (был `przyjdź` ×2 — путает przyjść/przyjechać), `z Polski`, `dużo zieleni` (после `k`/`ń` → `i`), `w tygodniu` («в будни»).
+⚠️ `Cię` после `zapraszam / proszę` — ученик дважды обошёл, местоимение выкинул; отказался дописывать («пофиг»). Обход легален, но форма `Cię` не подтверждена. Оставить в разминке.
+**Частное письмо — ЗАКРЫТО** (рамка наизусть, формула абзаца ×5, начинка прогнана).
+
+### 2026-09-10 — ПИСЬМО 5 (официальное, kurs polskiego dla córki), без таймера, от руки
+**Версия 1: Treść 3 (`+ + ++`) · Komp 3 · Popr 2 · Słown 2 → 10/20.** Ученик: «одно предложение на пункт, из себя не смог выдавить».
+**Версия 2 (переписал середину после разбора): Treść 5 (`++ ++ ++`) → 13–14/20.**
+- Ключевой урок для ученика: с Treść 3 он ЗАВИСИТ от языка (3+1+1+1 = 6 < 7); с Treść 4+ проходит даже при A2 везде. Разница — одно дополнительное предложение в двух пунктах. Понял и сделал за 20 минут.
+- ✅ `Czekam` наконец верно; `chcę, żeby` с запятой; `Pytam, bo`; вычеркнул `dowiedzić się`, не уверенный в форме — правильный рефлекс обхода.
+- 🔴 Версия 1: `odpowiedzić` → `odpowiedzieć` — **третий глагол паттерна `-ieć`** (powiedzieć, dowiedzieć, odpowiedzieć). Системно.
+- 🔁 `w weekendach` → `w weekendy` (повтор из письма 4) · `o termine` → `o terminie` (месцовник, №6) · `Chekam` в версии 1 (3-й раз).
+- 📝 `lekcę` → `lekcję`; `Karim.` с точкой.
+**Официальное письмо — ЗАКРЫТО** (13 против порога 7). Оба регистра закрыты.
+
+
+### 2026-09-11 — обзор YouTube и сети по telc Pisanie (по просьбе ученика)
+- **YouTube недоступен из среды** (Google блокирует). По описаниям: Terno-Jeleńska «Moduł 4: pisanie» = разбор задания из официального пробника + критерии (у нас уже из первоисточника); Drewniak i Monika «PISANIE na egzaminie TELC» (2025) — та же тема.
+- **Ответы экзаменатора (Vitas School):** единственное про письмо — «e-mail проще, чем esej на госэкзамене». Ничего нового.
+- **Poltax, бесплатные страницы «Egzamin TELC mówienie i pisanie»** — только устная часть, но ценно для Części 3: формат подтверждён (вопрос + три мнения, `Czy kwiaty to najlepszy prezent dla kobiety?`), 1B с разделением вопросов B1/B2, «prezentacja powinna trwać około dwóch minut».
+- **Бесплатно:** «Wzornik krótkich form pisemnych» (polishlanguage.online, 0 zł) — ~100 коротких форм для гос B1 (zaproszenia, podziękowania, życzenia, gratulacje). Годится как банк фраз для частного регистра.
+- **Платно, лучшее для октябрьских симуляций:** «Mów i pisz na poziomie! B1/B2 Dual» (La La Lang / Drewniak i Monika) — 25 зеставов Pisanie + 25 Mówienie с dyskusją. Альтернатива: Poltax «Egzamin TELC mówienie i pisanie» — 10 Pisanie + 20 Mówienie.
+- **Вывод:** ничего, что меняло бы метод. Единственная дешёвая дыра — **типы функций**: у нас не было przeprosiny/odwołanie, umówienie spotkania (work-related — прямо назван в Handbook), odmowa zaproszenia, życzenia. Добавлены Z11–Z13 и таблица фраз.
+
+### 2026-09-11 — дрилл новых функций, 3 фразы RU→PL
+✅ `Bardzo przykro mi, ale nie mogę przyjść.` · `Dziękuję za zaproszenie, ale niestety nie mogę przyjechać.`
+🔴 `Proponowam` → `Propon**uję**` (спряжение `-ować` → `-uję`, как `pracuję`) — новая форма глагола в журнал.
+🔁 `o godzine` → `o godzin**ie**` — четвёртый месцовник за неделю (terminie, kawiarni, mieście, godzinie). Правило №6 — гонять в каждой разминке.
+Не пройдено (по желанию ученика «не так много»): `odwołać spotkanie`, `Proszę o potwierdzenie`.
+Добито 2026-09-11: ✅ `Niestety, muszę odwołać nasze spotkanie, ponieważ zachorowałem.` · ✅ `Proszę o potwierdzenie terminu.`
+🔴 `zachworałem` → `zachorałem` → `zachor**ow**ałem` (со 2-й попытки, дан ответ) — `-ować → -owałem`, `-ow-` не выпадает. Тот же класс, что `Proponowam`→`Proponuję`: **глаголы на `-ować` — новый пункт для разминки**.
+🔁 `naszą spotkanie` — откат после верного `nasze`; `spotkanie` ср.р.
+📌 `zrezygnować **z** + род.` — если берёт этот глагол; безопаснее `odwołać` + вин.
+**Все 5 новых функций закрыты. Pisanie — ЗАКРЫТО до октябрьских симуляций (одно письмо с таймером).**
