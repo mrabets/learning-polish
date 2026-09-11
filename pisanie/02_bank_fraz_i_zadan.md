@@ -111,6 +111,24 @@
 **Z10 · Podziękowanie (prywatnie).** Znajomy pomógł Ci w przeprowadzce. Napisz e-mail.
 • Podziękuj ⚠️ i napisz za co. • Opisz, jak wygląda nowe mieszkanie. • Zaproś go w odwiedziny.
 
+**Z11 · Przeprosiny / odwołanie (prywatnie).** Umówiłeś się z kolegą na sobotę, ale nie możesz przyjść. Napisz e-mail.
+• Przeproś ⚠️ i wyjaśnij, dlaczego nie możesz przyjść. • Zaproponuj inny termin. • Zapytaj, czy mu pasuje.
+
+**Z12 · Umówienie spotkania (work-related, oficjalnie).** Chcesz umówić się na spotkanie z klientem w sprawie projektu. Napisz e-mail.
+• Napisz, w jakiej sprawie chcesz się spotkać. • Zaproponuj termin ⚠️ i miejsce. • Poproś o potwierdzenie.
+
+**Z13 · Odmowa zaproszenia (prywatnie).** Znajomy zaprosił Cię na wesele, ale nie możesz pojechać. Napisz e-mail.
+• Podziękuj za zaproszenie. • Wyjaśnij, dlaczego nie możesz przyjechać. • Złóż życzenia ⚠️ i zaproponuj spotkanie po weselu.
+
+### Функции, добавленные 2026-09-11 (после обзора материалов в сети — Handbook: «making arrangements for a business meeting» как второй тип задания)
+| Функция | Фразы (по 2–3, B1) |
+|---|---|
+| **Извиниться / отменить** | `Bardzo mi przykro, ale nie mogę przyjść.` · `Przepraszam, że piszę tak późno.` · `Niestety muszę odwołać nasze spotkanie, bo ___ .` |
+| **Предложить срок** | `Proponuję spotkanie w [dzień] o [godzinie].` · `Czy pasuje Ci / Panu inny termin?` · `Może w przyszłym tygodniu?` |
+| **Подтвердить** | `Proszę o potwierdzenie terminu.` (офиц.) · `Daj znać, czy Ci pasuje.` (частн.) |
+| **Отказаться от приглашения** | `Dziękuję za zaproszenie, ale niestety nie mogę przyjechać.` · `Bardzo chciałbym, ale ___ .` |
+| **Пожелания** | `Życzę Wam wszystkiego najlepszego!` · `Gratuluję!` · `Wszystkiego dobrego z okazji ___ !` |
+
 ### Как проводить дрилл A
 Агент даёт задание → ученик за 5 минут пишет **три предложения** (первое предложение каждого абзаца). Агент проверяет только: все 3 пункта? оба императива в двойных? первое лицо, где просят впечатления? регистр? Языковые ошибки — по обычному правилу (макс 2–3, красная зона + повторы).
 
@@ -168,3 +186,12 @@
 - 🔁 `w weekendach` → `w weekendy` (повтор из письма 4) · `o termine` → `o terminie` (месцовник, №6) · `Chekam` в версии 1 (3-й раз).
 - 📝 `lekcę` → `lekcję`; `Karim.` с точкой.
 **Официальное письмо — ЗАКРЫТО** (13 против порога 7). Оба регистра закрыты.
+
+
+### 2026-09-11 — обзор YouTube и сети по telc Pisanie (по просьбе ученика)
+- **YouTube недоступен из среды** (Google блокирует). По описаниям: Terno-Jeleńska «Moduł 4: pisanie» = разбор задания из официального пробника + критерии (у нас уже из первоисточника); Drewniak i Monika «PISANIE na egzaminie TELC» (2025) — та же тема.
+- **Ответы экзаменатора (Vitas School):** единственное про письмо — «e-mail проще, чем esej на госэкзамене». Ничего нового.
+- **Poltax, бесплатные страницы «Egzamin TELC mówienie i pisanie»** — только устная часть, но ценно для Części 3: формат подтверждён (вопрос + три мнения, `Czy kwiaty to najlepszy prezent dla kobiety?`), 1B с разделением вопросов B1/B2, «prezentacja powinna trwać około dwóch minut».
+- **Бесплатно:** «Wzornik krótkich form pisemnych» (polishlanguage.online, 0 zł) — ~100 коротких форм для гос B1 (zaproszenia, podziękowania, życzenia, gratulacje). Годится как банк фраз для частного регистра.
+- **Платно, лучшее для октябрьских симуляций:** «Mów i pisz na poziomie! B1/B2 Dual» (La La Lang / Drewniak i Monika) — 25 зеставов Pisanie + 25 Mówienie с dyskusją. Альтернатива: Poltax «Egzamin TELC mówienie i pisanie» — 10 Pisanie + 20 Mówienie.
+- **Вывод:** ничего, что меняло бы метод. Единственная дешёвая дыра — **типы функций**: у нас не было przeprosiny/odwołanie, umówienie spotkania (work-related — прямо назван в Handbook), odmowa zaproszenia, życzenia. Добавлены Z11–Z13 и таблица фраз.
