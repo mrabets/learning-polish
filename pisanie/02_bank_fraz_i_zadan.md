@@ -195,3 +195,9 @@
 - **Бесплатно:** «Wzornik krótkich form pisemnych» (polishlanguage.online, 0 zł) — ~100 коротких форм для гос B1 (zaproszenia, podziękowania, życzenia, gratulacje). Годится как банк фраз для частного регистра.
 - **Платно, лучшее для октябрьских симуляций:** «Mów i pisz na poziomie! B1/B2 Dual» (La La Lang / Drewniak i Monika) — 25 зеставов Pisanie + 25 Mówienie с dyskusją. Альтернатива: Poltax «Egzamin TELC mówienie i pisanie» — 10 Pisanie + 20 Mówienie.
 - **Вывод:** ничего, что меняло бы метод. Единственная дешёвая дыра — **типы функций**: у нас не было przeprosiny/odwołanie, umówienie spotkania (work-related — прямо назван в Handbook), odmowa zaproszenia, życzenia. Добавлены Z11–Z13 и таблица фраз.
+
+### 2026-09-11 — дрилл новых функций, 3 фразы RU→PL
+✅ `Bardzo przykro mi, ale nie mogę przyjść.` · `Dziękuję za zaproszenie, ale niestety nie mogę przyjechać.`
+🔴 `Proponowam` → `Propon**uję**` (спряжение `-ować` → `-uję`, как `pracuję`) — новая форма глагола в журнал.
+🔁 `o godzine` → `o godzin**ie**` — четвёртый месцовник за неделю (terminie, kawiarni, mieście, godzinie). Правило №6 — гонять в каждой разминке.
+Не пройдено (по желанию ученика «не так много»): `odwołać spotkanie`, `Proszę o potwierdzenie`.
