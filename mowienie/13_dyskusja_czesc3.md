@@ -239,3 +239,14 @@ Nie poprawiaj moich błędów i nie oceniaj mnie w trakcie rozmowy.
 | 5 | Симуляция всего устного экзамена (1A → 1B → 2A/2B → Cz.3) | октябрь |
 
 Цель (уточнена учеником 2026-09-12): **Cz.3 на B1 wyższy – B2 niższy (12–16)**, язык на B1 wyższy. B2 в сумме — не цель.
+
+---
+
+# ЖУРНАЛ ЭТАПА
+
+### 2026-09-12 — шаг 1: 11 фраз RU→PL (голосом), за один заход
+✅ Чисто с первого раза: `Może zacznę. Moim zdaniem sława to nie dla wszystkich, bo brakuje prywatności` · `Masz rację, ale z drugiej strony…` · `A ty, co o tym myślisz?` · `Nie zgadzam się, bo uważam, że…` · `Mówisz, że sława daje pieniądze. To prawda, ale z drugiej strony to dużo stresu` · `Chodzi ci o to, że…?` · `Możesz powtórzyć?` · **`Podsumowując, uważamy, że sława ma zarówno zalety, jak i wady, ale to zależy od tego, co dla danej osoby jest najważniejsze`** (уровень B2 — `zarówno… jak i`, `dla danej osoby`).
+✅ Сборка «реакция → своё с bo → вопрос» одной репликой — с первого раза: `Zgadzam się z tobą, a z drugiej strony ona nie daje prywatności, bo wiele ludzi zna ciebie na świecie. Co o tym myślisz?`
+🔁 Повторы из журнала (ученик: «пофиг, дальше» — не проговаривал): `wiele ludzi` → `**wielu** ludzi` (№24) · `być spokojnym jest lepsze` → `**lepiej** być spokojnym` (№16, инфинитив = нет подлежащего → наречие). В разминку.
+📌 `chcesz być sławnym` вместо целевого `chciałbyś` — работает, но условная форма мягче; напомнить.
+**Шаг 1 закрыт.** Дальше — шаг 2 «одна реплика» ×5 тезисов, затем первая полная дискуссия в тексте (тема `sława`).
