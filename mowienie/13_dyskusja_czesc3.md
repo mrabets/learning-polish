@@ -264,3 +264,22 @@ Nie poprawiaj moich błędów i nie oceniaj mnie w trakcie rozmowy.
 📌 Открытие ученика: «что говорить в конце?» → конец реплики = **вопрос из своего же аргумента** (`A ty ile wydajesz na jedzenie?`), не новое содержание. Снимает ступор финала.
 📌 Приём против ступора в дискуссии: **отражать партнёра** — взять его слово и перевернуть («дорого → лечиться дороже») или увести в личное («u nas w domu…»).
 **Шаг 2 закрыт.** Дальше — шаг 3: первая полная дискуссия в тексте (агент = партнёр, 4–5 обменов, тема `sława`), оценка по протоколу §5.2.
+
+### 2026-09-13 — шаг 3: ПЕРВАЯ ПОЛНАЯ ДИСКУССИЯ в тексте (агент = партнёр), тема `Czy warto być sławnym?`
+5 реплик ученика (~230 слов), 4 обмена + закрытие. Оценка по §5.2:
+| Дескриптор | Факт (цитата) | ✓ |
+|---|---|---|
+| открыл сам | `Może zaczn[ę]. Uważam, że sława ma zarówno zalety, jak i wady` | ✅ B2 «inicjować» |
+| реакция на партнёра | `jak Ty powiedziałeś, że on może pomagać… i to jest warto` · `zgadzam się, że… większą pensję` · прямой ответ `Najpierw to wina samego człowieka` | ✅ ×3 |
+| вопрос партнёру | `A ty, co o tym myślisz?` · `Może sławny człowiek być niedobry?` · `chciałbyś być sławnym?` | ✅ ×3 |
+| мнение + bo | `bo prywatność jest dla mnie ważna` | ✅ |
+| вежливое несогласие | прямого нет (партнёр соглашался); нюанс `Ale z drugiej strony` | ✅ частично |
+| новый аспект | `odpowiedzialność` (ввёл и развил), `tryb życia` | ✅ |
+| precyzyjnie / примеры | один `Na przykład` — ссылка на пример партнёра; своей истории нет | ⚠️ |
+| закрыл сам | `Podsumowując, wybór… zależy od człowieka…, ale dla nas sława nie jest zbyt ważna` | ✅ |
+**Cz.3 = B1 wyższy = 12/20** (6 + 1 частичная; при сомнении нижняя). До 16 не хватает ОДНОГО: конкретная личная история/пример в любой реплике.
+Язык: Poprawność B1 niższy 6/15 (~6 ошибок, смысл ясен) · Słownictwo B1 wyższy 9/15 (`zarówno… jak i`, `negatywny wpływ`, `odpowiedzialność`, `tryb życia`, `dla danej osoby`, `przyznam, że`) · Płynność B1 6–8 с оговоркой (темп не измерен) · Wymowa — не оценивается.
+🔴 `Może zacznij` → `zaczn**ę**` — ошибка в ОТКРЫВАЮЩЕЙ фразе, гонять первой.
+🔁 `jeśli on byłby` → `**gdyby** nie był` (№10) · `ja bym żył, żyłem` → `żył**bym**` · `ważniejsz**e** jest tryb` → `ważniejsz**y**` (главное открытое правило).
+📌 Агент как партнёр: 2–3 предложения, крючок + вопрос, один раз «доминирование/тишина» не моделировал — в следующей симуляции добавить тихого партнёра.
+**Следующее:** вторая дискуссия на другой теме с целью 16: одна личная история с деталью (`Na przykład u mnie w firmie…`). Потом — голосовой режим (§5.4–5.5).
