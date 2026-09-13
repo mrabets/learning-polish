@@ -239,3 +239,50 @@ Nie poprawiaj moich błędów i nie oceniaj mnie w trakcie rozmowy.
 | 5 | Симуляция всего устного экзамена (1A → 1B → 2A/2B → Cz.3) | октябрь |
 
 Цель (уточнена учеником 2026-09-12): **Cz.3 на B1 wyższy – B2 niższy (12–16)**, язык на B1 wyższy. B2 в сумме — не цель.
+
+---
+
+# ЖУРНАЛ ЭТАПА
+
+### 2026-09-12 — шаг 1: 11 фраз RU→PL (голосом), за один заход
+✅ Чисто с первого раза: `Może zacznę. Moim zdaniem sława to nie dla wszystkich, bo brakuje prywatności` · `Masz rację, ale z drugiej strony…` · `A ty, co o tym myślisz?` · `Nie zgadzam się, bo uważam, że…` · `Mówisz, że sława daje pieniądze. To prawda, ale z drugiej strony to dużo stresu` · `Chodzi ci o to, że…?` · `Możesz powtórzyć?` · **`Podsumowując, uważamy, że sława ma zarówno zalety, jak i wady, ale to zależy od tego, co dla danej osoby jest najważniejsze`** (уровень B2 — `zarówno… jak i`, `dla danej osoby`).
+✅ Сборка «реакция → своё с bo → вопрос» одной репликой — с первого раза: `Zgadzam się z tobą, a z drugiej strony ona nie daje prywatności, bo wiele ludzi zna ciebie na świecie. Co o tym myślisz?`
+🔁 Повторы из журнала (ученик: «пофиг, дальше» — не проговаривал): `wiele ludzi` → `**wielu** ludzi` (№24) · `być spokojnym jest lepsze` → `**lepiej** być spokojnym` (№16, инфинитив = нет подлежащего → наречие). В разминку.
+📌 `chcesz być sławnym` вместо целевого `chciałbyś` — работает, но условная форма мягче; напомнить.
+**Шаг 1 закрыт.** Дальше — шаг 2 «одна реплика» ×5 тезисов, затем первая полная дискуссия в тексте (тема `sława`).
+
+### 2026-09-13 — шаг 2: «одна реплика» × 5 тезисов (голосом)
+Ученик потребовал реалистичных тезисов («партнёр так не скажет») — верно: партнёр на B1 говорит умеренно, часто соглашается и заканчивает вопросом. Тезисы 2–5 сделаны так.
+| # | Тема / ситуация | Реплика ученика — суть | Оценка по дескриптору |
+|---|---|---|---|
+| 1 | zdrowe odżywianie, партнёр «дорого» | сначала ступор («не знаю что сказать») → снял нагрузку: содержание по-русски («лекарства дороже», «у нас дома…») → полная реплика: реакция + пример + контраргумент + вопрос | B1 wyższy; контраргумент = «precyzyjnie» |
+| 2 | podróże, партнёр согласен + вопрос | ответил лично, детали, `zarówno…, jak i`, вопрос — **но без реакции на мнение партнёра** | B1; галочка «skomentować poglądy» не закрыта |
+| 3 | instytucje kultury | `Też rzadko chodzę… zgadzam się… Jednak z drugiej strony uważam, że ważne jest, aby zobaczyć… przynajmniej raz w życiu… Jak myślisz, czy…?` | **лучшая**: граница B1 wyższy / B2 niższy |
+| 4 | sport, партнёр замолчал | `Nie masz czasu, żeby uprawiać sport, tak?` — переформулировал, помог | B2 «sprawnie włączyć się» |
+| 5 | sława, партнёр доминирует | `Przepraszam, chciałbym coś dodać. Zgadzam się, a … z drugiej strony oznacza, że brakuje prywatności. Czy prywatność jest lepsza niż pieniądze?` | вошёл, контр-аспект, вопрос; `niż pieniądze` верно |
+🔴/🔁 Язык за 5 реплик: `jedzimy` → `**jemy**` (форма `jeść`) · `kosztuje droższe` → `**drożej**` (№15 наречие). Остальное чисто.
+📌 Открытие ученика: «что говорить в конце?» → конец реплики = **вопрос из своего же аргумента** (`A ty ile wydajesz na jedzenie?`), не новое содержание. Снимает ступор финала.
+📌 Приём против ступора в дискуссии: **отражать партнёра** — взять его слово и перевернуть («дорого → лечиться дороже») или увести в личное («u nas w domu…»).
+**Шаг 2 закрыт.** Дальше — шаг 3: первая полная дискуссия в тексте (агент = партнёр, 4–5 обменов, тема `sława`), оценка по протоколу §5.2.
+
+### 2026-09-13 — шаг 3: ПЕРВАЯ ПОЛНАЯ ДИСКУССИЯ в тексте (агент = партнёр), тема `Czy warto być sławnym?`
+5 реплик ученика (~230 слов), 4 обмена + закрытие. Оценка по §5.2:
+| Дескриптор | Факт (цитата) | ✓ |
+|---|---|---|
+| открыл сам | `Może zaczn[ę]. Uważam, że sława ma zarówno zalety, jak i wady` | ✅ B2 «inicjować» |
+| реакция на партнёра | `jak Ty powiedziałeś, że on może pomagać… i to jest warto` · `zgadzam się, że… większą pensję` · прямой ответ `Najpierw to wina samego człowieka` | ✅ ×3 |
+| вопрос партнёру | `A ty, co o tym myślisz?` · `Może sławny człowiek być niedobry?` · `chciałbyś być sławnym?` | ✅ ×3 |
+| мнение + bo | `bo prywatność jest dla mnie ważna` | ✅ |
+| вежливое несогласие | прямого нет (партнёр соглашался); нюанс `Ale z drugiej strony` | ✅ частично |
+| новый аспект | `odpowiedzialność` (ввёл и развил), `tryb życia` | ✅ |
+| precyzyjnie / примеры | один `Na przykład` — ссылка на пример партнёра; своей истории нет | ⚠️ |
+| закрыл сам | `Podsumowując, wybór… zależy od człowieka…, ale dla nas sława nie jest zbyt ważna` | ✅ |
+**Cz.3 = B1 wyższy = 12/20** (6 + 1 частичная; при сомнении нижняя). До 16 не хватает ОДНОГО: конкретная личная история/пример в любой реплике.
+Язык: Poprawność B1 niższy 6/15 (~6 ошибок, смысл ясен) · Słownictwo B1 wyższy 9/15 (`zarówno… jak i`, `negatywny wpływ`, `odpowiedzialność`, `tryb życia`, `dla danej osoby`, `przyznam, że`) · Płynność B1 6–8 с оговоркой (темп не измерен) · Wymowa — не оценивается.
+🔴 `Może zacznij` → `zaczn**ę**` — ошибка в ОТКРЫВАЮЩЕЙ фразе, гонять первой.
+🔁 `jeśli on byłby` → `**gdyby** nie był` (№10) · `ja bym żył, żyłem` → `żył**bym**` · `ważniejsz**e** jest tryb` → `ważniejsz**y**` (главное открытое правило).
+📌 Агент как партнёр: 2–3 предложения, крючок + вопрос, один раз «доминирование/тишина» не моделировал — в следующей симуляции добавить тихого партнёра.
+**Следующее:** вторая дискуссия на другой теме с целью 16: одна личная история с деталью (`Na przykład u mnie w firmie…`). Потом — голосовой режим (§5.4–5.5).
+
+### 2026-09-13 — ПЛАН УПРОЩЁН ПО ПРОСЬБЕ УЧЕНИКА
+Ученик: «хочу практиковать только реальный экзамен на 4 минуты, несколько раз». → Отменены отдельные разминки/дриллы/аварийный набор как этапы. Формат: **полная дискуссия в экзаменационном формате → оценка по §5.2 → ОДНА вещь на следующий раз.** Партнёр (агент) меняет поведение без предупреждения (умеренный / молчащий / доминирующий / «экзаменатор»). Критерий закрытия: две подряд ≥ 12 с личной историей. Голосовой режим — когда ученик захочет, тот же протокол.
