@@ -338,3 +338,33 @@ Nie poprawiaj moich błędów i nie oceniaj mnie w trakcie rozmowy.
 - Дрилл «тема → история»: 10 из 10 случайных тем — история выбрана и начата за ≤ 3 сек.
 - Две дискуссии подряд ≥ 12 с историей внутри.
 После этого неожиданная тема на экзамене — тринадцатая, к которой у тебя есть 10 готовых входов.
+
+### 2026-09-17 — ДИСКУССИЯ 3, ГОЛОСОМ с внешним ИИ, тема `Praca zdalna czy w biurze?`
+Первая голосовая. 7 реплик ученика (~250 слов). Оценка по §5.2 по стенограмме.
+
+| Дескриптор | Факт | ✓ |
+|---|---|---|
+| открыл сам | `Może zacznę. Moim zdaniem praca zdalna ma zarówno zalety, jak i wady` — **форма `zacznę` верная**, №30 закрыто | ✅ |
+| реакция на партнёра | `zgadzam się z Tobą, że trzeba planować` · `Czasami to prawda, ale` · `Moim zdaniem tak, bo` | ✅ ×3 |
+| вопрос партнёру | ×5 (`a ty, co dla siebie najważniejsze` · `Jak myślisz, o jakich wadach?` · `Jakie są zalety pracy w biurze?` · `Co o tym myślisz?` ×2) | ✅✅ |
+| мнение + bo | `bo dla mnie ważne jest nie tracić czasu w korkach` | ✅ |
+| вежливое несогласие | `Czasami to prawda, ale…` | ✅ |
+| новый аспект | отдых в выходные · кафе раз в месяц · ежедневные митинги | ✅ ×3 |
+| **личный пример с деталью** | `mamy mityngi codziennie i możemy porozmawiać o życiu, o swoich problemach` · `spotkać się w kawiarni` | ✅ **ПОЯВИЛСЯ** — задача после дискуссии 1 выполнена |
+| переспросил при непонимании | `Jak myślisz, o jakich wadach? O co chodzi?` | ✅ анти-A2 рефлекс сработал в живом разговоре |
+| закрыл сам | сказал `Podsumowując`, но **после** просьбы к партнёру `Dawaj coś powiedzmy w końcu naszej dyskusji` | ⚠️ частично |
+
+**8/9 полных → чек-лист даёт 16. Поставлено 12 (B1 wyższy), диапазон 12–16.**
+Обоснование нижней полосы: B2 требует ТРЁХ элементов сразу; «aktywnie inicjować/podtrzymywać» ✅ и «we właściwy sposób reagować» ✅, но «**precyzyjnie** przedstawiać swoje zdanie» ⚠️ — несколько фраз собраны криво (`Ale my moim zdaniem jest zaleta pracować w biurze`, `najważniejsze z zaletą jest to że`), смысл держится на контексте. Плюс закрытие делегировано партнёру. Правило нижней полосы применено жёстко (агент имеет задокументированную склонность завышать).
+
+Язык: **Poprawność B1 niższy 6/15** (~6 ошибок из известных паттернов; партнёр понял всё, ни разу не переспросил) · **Słownictwo B1 wyższy 9/15** (`zarówno… jak i`, `co dla danej osoby jest najważniejsze`, `uprawiać sport`; ⚠️ `po prostu` ×4, `moim zdaniem` ×5 — риск падения до 6 за «różnicować sformułowania») · **Płynność B1 niższy 4/10** (8 запинок/рестартов в стенограмме; якорь telc допускает B1 wyższy, но аудио нет) · **Wymowa 4** по умолчанию.
+**Сумма пяти строк 35/70; с обычными 1A/1B/2A/2B (18) → ~53/100.**
+
+🔴 `praca zdalna, praca w biurze **ma**` → `**mają**` — согласование подлежащего со сказуемым, категория из A2-ячейки. Один случай, не системно, но это единственный тип, реально роняющий полосу.
+🔁 `to nie jest problemą` → `to nie jest **problem**` (№4: после `jest`/`to` — именительный).
+🔁 `raz w miesiąc` → `raz w **miesiącu**` — месцовник, **6-й раз** (kawiarni, mieście, terminie, godzinie, miesiącu).
+🔁 вернулся творительный после `być`, считавшийся закрытым: `jest zaleta` / `najważniejsze z zaletą jest` → `**zaletą** jest to, że`.
+📝 `Dawaj…` — калька с русского, в польском так не говорят. Заменить на `Podsumowując…`.
+
+**Одна вещь на следующий раз: ЗАКРЫТЬ САМОМУ**, не прося партнёра. Почувствовал, что время вышло → сразу `Podsumowując, oboje uważamy, że…`.
+📌 Внешний ИИ-партнёр отработал промпт хорошо (короткие реплики, вопросы, контраргументы, не перебивал), но закрыл разговор сам — потому что ученик его об этом попросил. Правило «заканчивает ученик» нарушено учеником, не партнёром.
