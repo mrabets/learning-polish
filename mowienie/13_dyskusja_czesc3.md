@@ -498,3 +498,32 @@ Nie poprawiaj moich błędów i nie oceniaj mnie w trakcie rozmowy.
 
 **Одна вещь на следующий раз: договаривать фразу до точки.** Не собирается → точка + `Poza tym…`, а не `i…` в воздух.
 **Метод:** повторить эту тему через 2–3 дня (task repetition) — на `odżywianie` повтор снял всю красную зону.
+
+### 2026-09-20 — ДИСКУССИЯ 7, ГОЛОСОМ — **ПОВТОР** темы `Czy pieniądze dają szczęście?` (в тот же день, сырой транскрипт)
+Партнёр активный, длинные реплики; предложил подвести итог и **закрыл сам** (`Dzięki za rozmowę`) — снова нарушил промпт.
+
+| Дескриптор | Факт | ✓ |
+|---|---|---|
+| инициатива | открыл сам, но сбивчиво: `Zacznijmy i nie перебивай. Zacznijmy i mo-może zacznijmy` (русское слово, три старта) | ✅ (коряво) |
+| реакция ≥2 | `Zgadzam się z tobą. Jak ty już powiedziałeś, że pieniądze ułatwiają życie. Zgadzam się na 100%` · `zgadzam się z Tobą, że nie gwarantuj[ą]` | ✅ |
+| вопрос партнёру | в 4 репликах из 5: `czy pieniądze daje szczęście czy nie` · `czy mieszkanie ułatwia życie` · `Co o tym myślisz` · `czy dla szczęścia trzeba być zdrowym` | ✅ |
+| мнение + bo | первая же реплика: мнение → `Na przykład` → история → `Ale z drugiej strony` → вопрос — **каркас целиком** | ✅✅ |
+| нюанс | `z drugiej strony` ×2 | ✅ |
+| новый аспект | mieszkanie własne / wynajmować · zdrowie i sport · lekarstwa | ✅ |
+| личный опыт с деталью | `kiedy kupiłem samochód, mogę już jeździć do sklepu, apteki, szpitali samochodem, a nie autobusem` (та же история, что в 6 — переиспользовал верно) · мини-история про `nowa lodówka, telewizor… pisać do właściciela` — развалилась | ✅ / ❌ |
+| закрыл сам | **по подсказке** партнёра (`czy możemy podsumować?` → `Tak, możemy podsumować, że…`). Содержание закрытия хорошее: `dobre relacje z ludźmi oraz zdrowie… zgadzamy się, że pieniądze ułatwiają życie` | ❌ |
+| переспросил | не понадобилось; один раз **перебил** партнёра (`Tak, zgadzam się. Zdrowie` → оборван) | n/a |
+
+**Cz.3 = 12 (B1 wyższy), верхняя граница.** По содержанию — уровень дискуссии 6 (реакция с названным тезисом, три аспекта, история, вопросы), но: закрытие не своё, одна реплика невнятная (`pisać o prośbą właścicielu… и так далее… To ma wpływ w tym razie`), `tymczasowo dla szczęścia` — не по смыслу. `precyzyjnie` не удержано → по правилу «при сомнении — нижняя полоса» 12, а не 16. Разброс двух экзаменаторов 12–16.
+
+Язык: **Poprawność 6, нижний край** (🔴 согласование ×6, см. ниже — хуже, чем в 6) · **Słownictwo 6** (своё: `relacje z ludźmi`, `wynajmować`, `właściciel`, `lekarstwo`, `akurat`, `w dłuższej perspektywie` подхвачено; минус: `robi życie łatwiej`, русское `и так далее`, `tymczasowo`) · **Płynność 4** (`uh` ≈ 15, заикания `mo-może`, `ułatw-ułatwia`, `te-telewizor`, `zo-zostało`) · Wymowa 4. **Сумма 32/70 → ≈50/100.**
+
+🔴 **ГЛАВНОЕ — `pieniądze` + глагол в ед.ч., систематически (№17):** `pieniądze nie **daje** szczęście` · `**robi** życie łatwiej` · `czy pieniądze **daje** szczęście` · `pieniądze **jest** bardzo ważne`. Верно (`ułatwiają`) — **только когда повторял слово партнёра.** 4 мимо / 2 в точку. В дискуссии 6 было 1 мимо. Это единственный тип ошибки, названный в A2-ячейке Poprawność — и он в этой попытке доминирует.
+🔴 То же согласование: `mieszkanie … **ułatwiają**` → `ułatwia` · `nie **gwarantuję**` → `nie gwarantują`.
+🔁 Родительный при отрицании (№26): `nie daje **szczęście**` → `szczęścia` · `nie mamy **pieniądze**` → `pieniędzy`.
+Не в зачёт (молча): `życiu`, `nowy lodówki`, `dla szczęście`, `Zgadzę się`, `zacznijmy`. `nie będę szczęśliwy` → сам поправил на `szczęśliwym` — **обе формы верны**, прилагательное после `będę` можно оставлять в именительном; не тратить внимание.
+
+**Почему повтор не сработал как с `odżywianie` (5 → чище 4)?** Четвёртая дискуссия за день — усталость; партнёр говорил длинно и тянул в новые подтемы (mieszkanie, perspektywa); ученик держал содержание, но «слетело» согласование — под нагрузкой первым отваливается именно оно. Вывод: task repetition работает при повторе через 2–3 дня, не четвёртым заходом в тот же день.
+
+**Одна вещь на следующий раз: `pieniądze SĄ / DAJĄ / UŁATWIAJĄ`** — проговорить три формы вслух ПЕРЕД началом, и в каждой фразе про деньги ставить глагол на `-ą`. Задача «договаривать до точки» остаётся.
+**Итог дня:** 3 → 12, 4 → 12, 5 → 12, 6 → 16 (не подтверждено внешне), 7 → 12 (верхняя граница). Критерий «две подряд ≥ 12 с личной историей» формально выполнен. Следующее: **новая тема** через день-два (Internet или sport), `pieniądze` — не раньше чем через 3 дня.
