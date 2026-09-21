@@ -527,3 +527,37 @@ Nie poprawiaj moich błędów i nie oceniaj mnie w trakcie rozmowy.
 
 **Одна вещь на следующий раз: `pieniądze SĄ / DAJĄ / UŁATWIAJĄ`** — проговорить три формы вслух ПЕРЕД началом, и в каждой фразе про деньги ставить глагол на `-ą`. Задача «договаривать до точки» остаётся.
 **Итог дня:** 3 → 12, 4 → 12, 5 → 12, 6 → 16 (не подтверждено внешне), 7 → 12 (верхняя граница). Критерий «две подряд ≥ 12 с личной историей» формально выполнен. Следующее: **новая тема** через день-два (Internet или sport), `pieniądze` — не раньше чем через 3 дня.
+
+### 2026-09-21 — ДИСКУССИЯ 8, ГОЛОСОМ, тема `Internet — więcej korzyści czy zagrożeń?` (короткий промпт «только партнёр», сырой транскрипт)
+Партнёр **держал промпт полностью**: `Mm-hmm` на `Może zacznę`, не открыл, `Nie, możemy podsumować`, после итога одна фраза согласия. Местами слишком пассивный (`Jasne, rozumiem` ×5) — ученику пришлось тянуть, и он потянул.
+
+| Дескриптор | Факт | ✓ |
+|---|---|---|
+| инициатива | **`Może zacznę` — чисто, впервые** → `Moim zdaniem, korzystanie z internetu ma zarówno zalety, jak i wady` · позже сам ввёл аспект: `Ale z drugiej strony chciałbym jeszcze dodać, że…` · сам инициировал закрытие: `Chcesz coś dodać, lub możemy podsumowywać` | ✅✅ |
+| реакция ≥2 | `zgadzam się z tobą, to jest najtrudniejszy moment` (слово партнёра `najtrudniejszym momentem`) · `Zgadzam się z tobą, że można po prostu spacerować po pracy` (слово партнёра `spacer`) · `równowaga jest bardzo ważna` (слово партнёра `równowagę`) — **×3, каждый раз с подхваченным словом** | ✅✅ |
+| вопрос партнёру | ×3: `A ty co myślisz o tym? Czy korzystanie z internetu ma jakieś wady` · `Czy trudno jest kontrolować korzystanie z internetu` · `A ty jak myślisz` | ✅ |
+| мнение + bo | `Dlatego uważam, że trzeba kontrolować, mieć limity` · `mogę podróżować więcej, bo mogę pracować zdalnie` | ✅ |
+| нюанс | `zarówno zalety, jak i wady` · `z drugiej strony` ×2 · `Ale moim zdaniem to nadal trudne kontrolować` (нюанс к собственному решению) | ✅ |
+| новый аспект | limity/kontrola · oddawać telefon żonie · zamienić internet na film z dziećmi · podróżować + pracować zdalnie z plaży | ✅ |
+| личный опыт с деталью | детали есть: `oddawać ten telefon swojej żonie` · `oglądanie filmu razem z dziećmi` · `pracować w hotelu lub na plaży`. **Истории-эпизода нет** (ни одного `kiedyś / w zeszłym roku / raz…`) | ✅ / ❌ |
+| закрыл сам | `Podsumowując, korzystanie z internetu ma zarówno zalety, jak i wady. Jak my powiedzieli, że trzeba kontrolować korzystanie` — **своя инициатива + своя формула, впервые без всяких подсказок** | ✅✅ |
+| переспросил | не понадобилось | n/a |
+
+**Cz.3 = 16 (B2 niższy), нижний край.** Все три элемента B2-ячейки с цитатами: `aktywnie inicjować i podtrzymywać` (открыл, добавил аспект `chciałbym jeszcze dodać`, вёл при пассивном партнёре, сам предложил и сделал итог) · `we właściwy sposób reagować` (×3 с подхваченным словом) · `precyzyjnie` — да в 1-й и 8-й реплике (`kontakt z ludźmi na żywo`, `pracować w hotelu lub na plaży`), слабее в середине. Что удерживает от твёрдых 16 и даёт второму экзаменатору право на 12: **середина фрагментами** (`Dla mnie` · `Aha, a ty co` · `Ale moim zdaniem to nadal trudne kontrolować` — реплики по 1 предложению) и **нет истории**. Честный разброс 12–16 → среднее двух экзаменаторов **14**. Отличие от дискуссии 7, где по тому же разбросу поставлено 12: здесь ни одной развалившейся реплики, открытие и закрытие целиком свои.
+
+Язык по транскрипту:
+- **Poprawność 9 (B1 wyższy) — впервые.** Одна форма глагола (ниже), два повтора из журнала, и **ноль ошибок согласования**: `zaletą jest to, że` ✓ (был повтор №?) · `wadą jest to, że` ✓ · `równowaga jest ważna` ✓ · `to jest najtrudniejszy moment` ✓ · местники `po pracy`, `w hotelu`, `na plaży`, `w telefonie` ✓ (№31 — чисто) · `zamienić X na Y` ✓ · `i tak dalej` по-польски ✓ (в 7 было по-русски). Дескриптор B1+ («błędy się zdarzają, ale rzadko prowadzą do nieporozumień») — подходит точно.
+- **Słownictwo 9 (B1 wyższy).** `zarówno… jak i` ×2 · слово темы `korzystanie z internetu` ведено всю дискуссию (в odżywianie такого не было) · `kontakt z ludźmi na żywo` · `limity` · `chciałbym jeszcze dodać` · `na miejscu` · `wiesz, o co chodzi` (живой разговорный маркер). Минус: `i tak dalej` ×2 и `wiesz, o co chodzi` ×2 как затычки, `tak, tak, tak`.
+- **Płynność 6 (B1 wyższy) — с оговоркой:** по транскрипту `uh` ×1 (в 7 было ≈15), ни одного заикания, две длинные ровные реплики (1-я и 8-я). Минус — обрывки `Dla mnie`, `Mogę tylko…`. Реальную скорость агент не слышит; если пауз между репликами было много — 4.
+- Wymowa 4 (не оценивается по тексту).
+
+**Сумма 16+9+9+6+4 = 44/70 → с частями 1–2 как в прошлых прогнозах ≈62/100. Консервативно (12 · 6 · 9 · 4 · 4) = 35/70 → ≈53/100.** В обоих вариантах — лучший результат из восьми.
+
+🔴 `Jak **my powiedzieli**, że…` → `Jak **powiedzieliśmy**, …` — личное окончание прошедшего времени потеряно, калька «мы сказали». Та же семья, что `ty powiedział` (дискуссия 6): в польском лицо живёт в окончании (`-eś`, `-śmy`), местоимение его не заменяет. Плюс лишнее `że` после `jak powiedzieliśmy` — молча.
+🔁 `nie brać **ten telefon**` → `nie brać **telefonu**` — №26, родительный при отрицании (в 7 было дважды).
+🔁 `to nadal **trudne** kontrolować` → `nadal **trudno** to kontrolować` — №16 (инфинитив → наречие). Через одну реплику сам сказал `czy **trudno** jest kontrolować` верно → форма есть, первый выброс под нагрузкой.
+Не в зачёт (молча): `lub nie` / `Chcesz coś dodać, **lub**` → `czy` (третья дискуссия подряд, но лексика) · `ma **i** ważne zalety` → `też` · `limity **dla** korzystania` · `samolotem pojechać` → `polecieć` · `podsumowywać` → `podsumować`.
+
+**Одна вещь на следующий раз: ОДНА мини-история с якорем времени** — `Kiedyś… / W zeszłym roku… / Raz…` + что случилось + `Dzięki temu / Od tego czasu`. Это единственный незакрытый пункт чек-листа; он же делает `precyzyjnie` бесспорным и закрепляет 16. Всё остальное сегодня — держать.
+**Заметка про партнёра:** короткий промпт работает — ноль нарушений. Но `Jasne, rozumiem` ×5 — слишком пассивно для реализма; на экзамене кандидат будет говорить больше. Пока не менять: ученику полезно учиться тянуть.
+**Пройдено тем: 6 из 12** (sława, podróże, praca zdalna, odżywianie, pieniądze, Internet). Стоп-критерий «две подряд ≥ 12 с историей» — 7 и 8 ≥ 12, история была в 7. Следующая новая тема: `tradycja czy nowoczesność` (день 7 плана, партнёр-«экзаменатор») или `sport`.

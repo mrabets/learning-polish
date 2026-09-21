@@ -64,7 +64,7 @@
 🗨️ «Trzeba znaleźć złoty środek — zachować to, co ważne, ale być otwartym na nowe.»
 **Твоё:** 2A tradycje (`złoty środek`, `tożsamość`, `stać się obcym wśród swoich` — твои сильные фразы). **История:** свои традиции в Польше, как дочки растут между двумя культурами.
 
-### 9. `Internet — więcej korzyści czy zagrożeń?` — 2A telefon/Internet
+### 9. `Internet — więcej korzyści czy zagrożeń?` — 2A telefon/Internet ✅ пройдена 21.09 (голос) → 16/20, нижний край
 🗨️ «Korzyści. Pracuję zdalnie, uczę się online, mam kontakt z rodziną za granicą.»
 🗨️ «Zagrożeń. Dzieci siedzą w telefonach, nie ma prawdziwych relacji.»
 🗨️ «To narzędzie. Wszystko zależy od tego, jak go używamy.»
@@ -99,7 +99,7 @@
 | 3 | 10 praca zdalna | согласный («спорить нечего») | новый аспект `Poza tym` |
 | 4 | 3 odżywianie | **молчащий** | вытащить вопросами ×2 |
 | 5 | 7 pieniądze | умеренный + вопрос-провокация | нюанс `Z jednej strony…` |
-| 6 | 9 Internet | **доминирующий** | войти `Przepraszam, chciałbym coś dodać` |
+| 6 ✅ | 9 Internet | вышел пассивный (голосовой ИИ) | сдана 16; `chciałbym jeszcze dodać` — сказал сам |
 | 7 | 8 tradycja | «экзаменатор» (чётко, не помогает) | открыть и закрыть сам |
 | 8 | 4 sport | умеренный | история + вопрос из аргумента |
 | 9 | 11 miasto/wieś | согласный | 4 минуты без пауз > 3 сек |
