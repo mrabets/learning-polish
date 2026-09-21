@@ -58,7 +58,7 @@
 🗨️ «Do pewnego poziomu tak. Potem więcej pieniędzy nie zmienia już nic.»
 **Твоё:** 2A pieniądze (готово целиком). **История:** переезд в Польшу, что изменилось с деньгами и без.
 
-### 8. `Tradycja czy nowoczesność?` — 2A `Tradycje i obyczaje` официальная тема
+### 8. `Tradycja czy nowoczesność?` — 2A `Tradycje i obyczaje` официальная тема ✅ пройдена 21.09 (голос) → 12/20; крючки не использованы — повторить с историей про дочек
 🗨️ «Tradycje łączą rodzinę. Bez nich nie wiemy, kim jesteśmy.»
 🗨️ «Świat się zmienia. Niektóre tradycje są po prostu przestarzałe.»
 🗨️ «Trzeba znaleźć złoty środek — zachować to, co ważne, ale być otwartym na nowe.»
@@ -100,7 +100,7 @@
 | 4 | 3 odżywianie | **молчащий** | вытащить вопросами ×2 |
 | 5 | 7 pieniądze | умеренный + вопрос-провокация | нюанс `Z jednej strony…` |
 | 6 ✅ | 9 Internet | вышел пассивный (голосовой ИИ) | сдана 16; `chciałbym jeszcze dodać` — сказал сам |
-| 7 | 8 tradycja | «экзаменатор» (чётко, не помогает) | открыть и закрыть сам |
+| 7 ✅ | 8 tradycja | голосовой ИИ, один сбой | сдана 12; открыл/закрыл сам, но `Dawaj zaczniemy` и без истории → повтор |
 | 8 | 4 sport | умеренный | история + вопрос из аргумента |
 | 9 | 11 miasto/wieś | согласный | 4 минуты без пауз > 3 сек |
 | 10 | 5 kultura | молчащий | помочь + `Chodzi Ci o…?` |

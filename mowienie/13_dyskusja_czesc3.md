@@ -561,3 +561,35 @@ Nie poprawiaj moich błędów i nie oceniaj mnie w trakcie rozmowy.
 **Одна вещь на следующий раз: ОДНА мини-история с якорем времени** — `Kiedyś… / W zeszłym roku… / Raz…` + что случилось + `Dzięki temu / Od tego czasu`. Это единственный незакрытый пункт чек-листа; он же делает `precyzyjnie` бесспорным и закрепляет 16. Всё остальное сегодня — держать.
 **Заметка про партнёра:** короткий промпт работает — ноль нарушений. Но `Jasne, rozumiem` ×5 — слишком пассивно для реализма; на экзамене кандидат будет говорить больше. Пока не менять: ученику полезно учиться тянуть.
 **Пройдено тем: 6 из 12** (sława, podróże, praca zdalna, odżywianie, pieniądze, Internet). Стоп-критерий «две подряд ≥ 12 с историей» — 7 и 8 ≥ 12, история была в 7. Следующая новая тема: `tradycja czy nowoczesność` (день 7 плана, партнёр-«экзаменатор») или `sport`.
+
+### 2026-09-21 — ДИСКУССИЯ 9, ГОЛОСОМ, тема `Tradycja czy nowoczesność?` (сырой транскрипт; вторая за день)
+Партнёр один раз сбился и заговорил поверх (`Możemy też później. Jasne, okej. Jasne. To brzmi dobrze. Myślę, że...`) — ученика это сбило (`Dla mnie to wszystko... Dla... Przepraszam`), но он **восстановился и продолжил свою мысль**. На экзамене такое бывает — реакция правильная. Дальше партнёр держал промпт.
+
+| Дескриптор | Факт | ✓ |
+|---|---|---|
+| инициатива | открыл сам, но **`Dawaj zaczniemy`** — русизм + не та форма (№30: `zacznijmy` → `Może zacznę` ✓ → `Dawaj zaczniemy`; третий вариант за три дискуссии). Зато **вошёл повторно после своего же предложения закрыть**: `Przepraszam, chciałbym dodać jeszcze jedno` — фраза, запланированная в `14_` именно на эту тему, сказана сама | ✅ (открытие грязное) |
+| реакция ≥2 | ×1 содержательная: `zgadzam się z tobą, że jeśli nie chcę to robić, to nie trzeba…` (пересказ тезиса партнёра `mój wybór, a nie obowiązek`). На первую реплику партнёра (`spokój… jesteśmy razem`) не отреагировал — сбил глюк партнёра | ❌ (1 из 2) |
+| вопрос партнёру | ×4: `A jak u ciebie?` ×2 · `Czy jest u ciebie jakieś tradycje, których nie wybierasz…` · `Zgadzasz się?` | ✅ |
+| мнение + bo | `wszystkie tradycje są ważne, bo sam wybieram ich` · `wadą jest to, że można świętować… bez wyboru` | ✅ |
+| нюанс | `zarówno zalety, jak i wady` · `To zależy od tego, co dla danej osoby jest najważniejsze` (B2-фраза из `sława`, перенесена верно) | ✅ |
+| новый аспект | wybór vs obowiązek · dziecko świętuje bez wyboru → dorosły przestaje — **цепочка причина → следствие**, лучший кусок дискуссии | ✅ |
+| личный опыт с деталью | `u mnie jest tradycja zbierać się co niedzielę… kolację… rozmawiać o życiu` — привычка в настоящем, не эпизод. **Задача с дискуссии 8 (история с якорем времени) не выполнена.** Заготовленный крючок из `14_` (дочки между двумя культурами, `stać się obcym wśród swoich`, `złoty środek`) — не использован ни один | ❌ |
+| закрыл сам | сам предложил (`Chcesz coś dodać o ten temat lub możemy podsumowywać?`), потом сам вернулся, потом `I żeby podsumować, to zależy od tego… Zgadzasz się?` — своё, хоть и рвано | ✅ |
+| переспросил | не понадобилось | n/a |
+
+⚠️ **Предложил закрыть после трёх реплик** — рано, разговор явно короче 4 минут. Кончилось содержание, хотя по этой теме есть сильная презентация 2A и три готовых крючка. Признак: не заглянул в заготовки, шёл на импровизации. `Nowoczesność` — вторая половина вопроса — не тронута вообще (в устной части за это не обнуляют, но это готовый аспект, который лежал на столе).
+
+**Cz.3 = 12 (B1 wyższy), середина полосы.** Против 16 в `Internet`: одна реакция вместо трёх · нет истории · грязное открытие · ранний выход. За 12, а не 8: сам открыл, сам вернулся, сам закрыл, восстановился после сбоя партнёра, аргумент про ребёнка — точный и развитый. Разброс двух экзаменаторов 12–12, спора нет.
+
+Язык: **Poprawność 6** (три красных места, ниже) · **Słownictwo 6** (есть `w dzisiejszych czasach`, `dla danej osoby`, `bliskich`, `staje się dorosłym`; но `robić` ×6, `święto/świętować` ×6, `komunikacja` вместо `rozmowa/kontakt`) · **Płynność 4** (`w-w-w-`, `na p- na przykład`, `Yyy`, `Podsumowywać...`; часть сбоя — вина партнёра) · Wymowa 4. **Сумма 32/70 → ≈50/100.** Откат от 44 в `Internet` к уровню дискуссий 4–7.
+
+🔴 `Czy **jest** u ciebie jakieś tradycje` → `Czy **są**…` — `jest/są`, прямо названо в A2-ячейке. Рядом того же корня: `nie **są** jakieś tradycje, których…` → `nie **ma** żadnych tradycji, których…` (нет чего-то = `nie ma` + родительный).
+🔴 `jeśli **ty dziecko**` → `jeśli **jesteś dzieckiem**` — глагол пропущен целиком, русская нулевая связка «если ты ребёнок». В польском `jesteś` обязателен.
+🔁 **№26 — родительный при отрицании, ×3 за одну дискуссию и третья дискуссия подряд:** `nie trzeba **to** robić` → `**tego**` · `nie chcesz **to** robić` → `**tego**` · `nie świętuje **to święto**` → `**tego święta**`. Было: 7 (×2), 8 (×1), 9 (×3). **Теперь это главный повтор этапа**, обгоняет местники. Правило одной строкой: после `nie` объект — в родительном: `nie robię tego · nie mam czasu · nie lubię tego święta`.
+Верно и стоит заметить: `Już **powiedziałem** o tych zaletach` ✓ (личное окончание на месте — задача из 8 сработала) · `staje się **dorosłym**` ✓ творительный · `tradycje, **których** nie wybierasz` ✓ · `wybór twoich rodziców lub bliskich` ✓ · `wadą jest to, że` ✓.
+Не в зачёт (молча): `wybieram **ich**` → `je` · `**o** ten temat` → `na` · `dla **niego**… **on** świętuje` про `osoby` → `dla niej… ona` · `lub` → `czy` в вопросе (четвёртая дискуссия подряд, лексика).
+
+**Одна вещь на следующий раз — та же, что после 8, теперь обязательная: ОДНА история с якорем времени.** Для повтора этой темы она уже готова в `14_`: `Kiedy przyjechaliśmy do Polski, moje córki… / W zeszłym roku na święta…` + что случилось + `Dzięki temu / Od tego czasu`. Перед стартом **посмотреть в карточку темы** (крючки лежат там не для красоты).
+**Метод:** повторить `tradycja` через 2–3 дня с историей и с `nowoczesność` как вторым аспектом. Не сегодня — вторая дискуссия за день уже дала откат (как 7 после 6).
+**Партнёр:** один сбой с наложением речи — нарушение правила 1 короткого промпта. Не критично; ученик отработал правильно (пауза → `Przepraszam` → продолжил).
+**Пройдено тем: 7 из 12** (sława, podróże, praca zdalna, odżywianie, pieniądze, Internet, tradycja). Осталось: sport, miasto/wieś (частично в августе), kultura, języki, kwiaty.

@@ -158,6 +158,7 @@
 
 
 ## 26. 🔴 Отрицание `nie mam / nie było` + ОТСУТСТВИЕ прилагательного (2026-09-04, Z8)
+- 🔁🔁 **Дискуссии 7–9 (20–21.09): родительный при отрицании — ГЛАВНЫЙ повтор этапа Cz.3, ×6 за три дня:** ❌ `nie daje **szczęście**` · `nie mamy **pieniądze**` · `nie brać **ten telefon**` · `nie trzeba **to** robić` · `nie chcesz **to** robić` · `nie świętuje **to święto**` → ✅ `nie daje **szczęścia**` · `nie mamy **pieniędzy**` · `nie brać **telefonu**` · `nie trzeba **tego** robić` · `nie chcesz **tego** robić` · `nie świętuje **tego święta**`. Чаще всего ломается на `to` → `tego`. Дрилл перед дискуссией: `nie robię TEGO · nie mam CZASU · nie lubię TEGO ŚWIĘTA · nie biorę TELEFONU`.
 - ❌ `Nie miałem **gorąco wodę**`
 - ✅ `Nie miałem **gorącej wody**` / `nie było **gorącej wody**`
 - Два слома в одном месте:
