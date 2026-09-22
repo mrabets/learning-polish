@@ -298,3 +298,16 @@
 - `To po prostu wybór człowieka` — универсальный уход от провокационного вопроса («честно ли это?»)
 - `Po pierwsze… Po drugie…` — под внезапным вопросом
 - Признать минус и тут же уравновесить: `ceny mogą być wyższe, ale pensje też będą większe`
+
+## 32. 🔴 Личное окончание прошедшего времени: `powiedziałeś`, `powiedzieliśmy` (дискуссии 6, 9, 10)
+- ❌ `jak ty już **powiedział**` (д. 6 и 10) · ❌ `jak **my powiedzieli**` (д. 9)
+- ✅ `jak już **powiedziałeś**` · ✅ `jak **powiedzieliśmy**`
+- В польском лицо живёт В ОКОНЧАНИИ: `-em / -eś / -∅ / -liśmy / -liście / -li`. Местоимение его НЕ заменяет — это калька с русского «ты сказал».
+- ⚠️ Это `zgodność podmiotu i orzeczenia` — один из двух типов, названных ДОСЛОВНО в A2-ячейке Poprawność. Оба независимых экзаменатора-агента (22.09) назвали его самой дорогой ошибкой в тексте.
+- 🟢 Первое лицо уже держится: `już powiedziałem` ✓ (д. 8 и 10). Ломается **второе лицо и мы**.
+- Дрилл: `powiedziałem · powiedziałeś · powiedzieliśmy` — три формы вслух перед дискуссией.
+
+## 33. 🔁 `warto` не берёт ни `dla`, ни дательный (дискуссия 10, дважды подряд)
+- ❌ `warto uprawiać sport **dla każdego człowieka**` · ❌ `warto uprawiać sport **każdemu człowiekowi**`
+- ✅ `**warto uprawiać sport**` (без адресата) · ✅ `**każdy człowiek powinien** uprawiać sport` · ✅ `**dla mnie** sport jest ważny` (с `dla` — только при прилагательном/существительном, не при `warto`)
+- `warto` = безличное «стоит», у него вообще нет того, КОМУ стоит. Если нужен адресат — менять конструкцию на `powinien`.
