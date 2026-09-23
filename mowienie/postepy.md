@@ -341,3 +341,8 @@
 - ✅ Открыл сам, 3 вопроса партнёру, верное `Proszę powtórzyć pytanie`. Red zone почти чистая.
 - ❌ **Попросил партнёра подвести итог** · мысли партнёра не подхвачены · `to zależy…` ×3 по кругу · ≈25 `uh`.
 - Задача: итог всегда сам (`Podsumowując, oboje uważamy, że…`). Тем 9/12.
+
+## 2026-09-23 — Część 3, дискуссия 12 голосом — ПОВТОР `kwiaty`
+- **Cz.3 = 12–16, среднее ≈14** (было ≈10 утром). ≈41,5/70 → ≈59/100.
+- ✅ Задача выполнена: подхватил мысли партнёра не из заготовки — нашёл противоречие (`ty nie znasz jego hobby`), `powiedziałeś, że książka. Ale mnóstwo ludzi nie lubi czytać`. Вежливо держал несогласие. `powiedziałeś` ✓. Самоисправление `będzie → są`.
+- 🔴 `są dużo kobiet` → `jest` · `kwiaty nie potrzebne` → `nie są potrzebne`. 🔁 №26 ×2. `prezentować` ×4 → `dawać`.
