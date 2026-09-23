@@ -181,3 +181,51 @@ _Без квантора — множественное: `ludzie **jedzą**`_
 `Szanowni Państwo!` → `Z poważaniem,` · `Cześć!` → `Pozdrawiam serdecznie,` · после `!` — большая буква · имя без точки · ⛔ никогда `Witam`
 
 **Ритуал 30 секунд до письма:** обвести все глаголы-команды в трёх пунктах (их бывает два!) + все существительные из ситуации. **Второе предложение в двух пунктах** — и результат не зависит от языка.
+
+## 🔴 ТОП ГЛАГОЛ + СОГЛАСОВАНИЕ (единственные два типа из A2-ячейки telc) — ПОЛНЫЙ, за всё время
+
+Сверено с `moje_powtarzajace_bledy.md` 2026-09-23. 🔥 = ломалось в сентябрьских дискуссиях, держать первым.
+
+### А. Согласование: подлежащее ↔ глагол
+| ❌ Было | ✅ Надо | Правило |
+|---|---|---|
+| 🔥 `pieniądze daje / robi / jest` | `pieniądze dają / robią / są` | pieniądze = «они» |
+| 🔥 `jak ty już powiedział` | `jak już powiedziałeś` | ты → `-eś` |
+| 🔥 `jak my powiedzieli` | `jak powiedzieliśmy` | мы → `-śmy` |
+| 🔥 `czy jest u ciebie jakieś tradycje` | `czy są u ciebie jakieś tradycje` | много → `są` |
+| 🔥 `mieszkanie ułatwiają` | `mieszkanie ułatwia` | одно → без `-ą` |
+| `wakacje kosztuje` | `wakacje kosztują` | wakacje всегда мн.ч. |
+| `osoby siedzi` · `są lustro` | `osoby siedzą` · `jest lustro` | число глагола = число подлежащего |
+| `wiele osób jadą` · `są więcej siłowni` | `wielu ludzi je` · `jest więcej siłowni` | после `wiele / dużo / więcej` глагол в ЕД.Ч. |
+| `Oni` (о женщинах) `wyglądają na radosnych` | `One wyglądają na radosne` | только женщины → `One … -e` |
+
+### Б. Согласование: подлежащее ↔ прилагательное после `jest` (ОТКРЫТО в журнале)
+| ❌ Было | ✅ Надо | Правило |
+|---|---|---|
+| `pieniądze są ważny` | `pieniądze są ważne` | они → `-e` |
+| `najtrudniejsze jest edukacja` | `najtrudniejsza jest edukacja` | род берётся у слова ПОСЛЕ `jest` |
+| `ważne jest dostęp` | `ważny jest dostęp` | dostęp — муж. род |
+| `spacerowanie jest ważna` | `spacerowanie jest ważne` | ср. род |
+| `kolejka jest mniej` | `kolejka jest mniejsza` | есть подлежащее → прилагательное |
+| `to nadal trudne kontrolować` | `nadal trudno to kontrolować` | нет подлежащего → наречие `-o` |
+
+### В. Формы глагола
+| ❌ Было | ✅ Надо | Правило |
+|---|---|---|
+| 🔥 `Dawaj zaczniemy` · `zacznijmy` · `zacznij` | `Może zacznę` | я → `zacznę` |
+| 🔥 `jeśli ty dziecko` | `jeśli jesteś dzieckiem` | `być` не выкидывать |
+| `Proponowam` · `zachworałem` | `Proponuję` · `zachorowałem` | `-ować` → `-uję` / `-owałem` |
+| `Pytaję` | `Pytam` | `-ać` → `-am` |
+| `powiedzyć` · `dowiedzić się` | `powiedzieć` · `dowiedzieć się` | инфинитив на `-ieć` |
+| `Napiść` | `Napisz` | императив без `-ć` |
+| `jedzimy` | `jemy` | jeść: jem, jesz, je, jemy |
+| `pojechałem bym` | `pojechałbym` | `-bym` вместо `-em` |
+
+Вслух перед экзаменом:
+```
+pieniądze są · dają · ułatwiają        wakacje są · kosztują
+powiedziałem · powiedziałeś · powiedzieliśmy
+jestem · jesteś                         Może zacznę
+wielu ludzi je · jest więcej siłowni    ważna jest edukacja · ważny jest dostęp
+proponuję · zachorowałem · pytam        pojechałbym
+```

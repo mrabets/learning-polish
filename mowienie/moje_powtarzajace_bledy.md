@@ -110,6 +110,8 @@
 - 🔁 **Случаи 3 и 4 — 2026-08-23, презентация 2A** (найдены обоими независимыми аудиторами):
   - ❌ `spacerowanie … jest bardzo ważn**a**` → ✅ `spacerowanie … jest bardzo ważn**e**` (`spacerowanie` — ср. род)
   - ❌ `ważn**e** jest dostęp do usług` → ✅ `ważn**y** jest dostęp` (`dostęp` — муж. род)
+- 🔁 **Случаи 5–8 — 2026-09-20, дискуссия 7 (голос, повтор `pieniądze`)** — теперь ГЛАГОЛ, не прилагательное: ❌ `pieniądze nie **daje** szczęście` · `pieniądze **robi** życie łatwiej` · `czy pieniądze **daje** szczęście` · `pieniądze **jest** bardzo ważne` → ✅ `pieniądze nie **dają** szczęścia` · `**ułatwiają** życie` · `czy pieniądze **dają** szczęście` · `pieniądze **są** bardzo ważne`. Верно было только когда повторял слово партнёра (`ułatwiają`). Рядом: `mieszkanie **ułatwiają**` → `ułatwia`, `nie **gwarantuję**` → `nie gwarantują`.
+  - **Дрилл перед каждой дискуссией про деньги:** вслух `pieniądze SĄ · DAJĄ · UŁATWIAJĄ · POMAGAJĄ · NIE GWARANTUJĄ`. Правило: `pieniądze` = «они».
   - 📌 Механизм один и тот же: **именная часть сказуемого согласуется с ПОДЛЕЖАЩИМ, а не «по умолчанию средним родом»**. Перед `jest ważny/ważne/ważna` найти подлежащее и посмотреть его род.
   - 🛟 ОБХОД: `dostęp do usług **to ważna rzecz**` — с `to` род не спрягается.
 - 🔁 **`ludzi` вместо `ludzie` в подлежащем** (2026-08-23, дважды за один ответ): ❌ `ludzi często wolą` · `niektórzy ludzi uważają` → ✅ `ludzi**e** często wolą` · `niektórz**y** ludzi**e** uważają`. Подлежащее — всегда mianownik.
@@ -156,6 +158,7 @@
 
 
 ## 26. 🔴 Отрицание `nie mam / nie było` + ОТСУТСТВИЕ прилагательного (2026-09-04, Z8)
+- 🔁🔁 **Дискуссии 7–9 (20–21.09): родительный при отрицании — ГЛАВНЫЙ повтор этапа Cz.3, ×6 за три дня:** ❌ `nie daje **szczęście**` · `nie mamy **pieniądze**` · `nie brać **ten telefon**` · `nie trzeba **to** robić` · `nie chcesz **to** robić` · `nie świętuje **to święto**` → ✅ `nie daje **szczęścia**` · `nie mamy **pieniędzy**` · `nie brać **telefonu**` · `nie trzeba **tego** robić` · `nie chcesz **tego** robić` · `nie świętuje **tego święta**`. Чаще всего ломается на `to` → `tego`. Дрилл перед дискуссией: `nie robię TEGO · nie mam CZASU · nie lubię TEGO ŚWIĘTA · nie biorę TELEFONU`.
 - ❌ `Nie miałem **gorąco wodę**`
 - ✅ `Nie miałem **gorącej wody**` / `nie było **gorącej wody**`
 - Два слома в одном месте:
@@ -204,6 +207,11 @@
 - ❌ `Może zacznij` (= «начни!», императив к партнёру) → ✅ `Może **zacznę**` («пожалуй, начну»)
 - Это первые слова, которые слышит экзаменатор в Cz.3. Гонять в разминке перед каждой дискуссией.
 - Рядом из той же дискуссии: `jeść` → `jemy` (не `jedzimy`); `kosztuje drożej` (не `droższe`).
+
+## 31. 🔁 Месцовник после `w / po / o` — САМЫЙ ЧАСТЫЙ ПОВТОР (6 случаев за месяц)
+`w kawiarn**i**` · `po mieśc**ie**` · `o termin**ie**` · `o godzin**ie**` · `raz w miesiąc**u**` · `na plaż**y**`
+- Правило: «где / когда» после `w`, `po`, `o`, `na` → **месцовник**, не биерник.
+- Гонять первым в каждой разминке: три слова наугад из списка.
 
 ## 29. ⚠️ ЧТЕНИЕ ЗАДАНИЯ — терять пункты дороже, чем ошибаться в языке (2026-09-04)
 Не языковая ошибка, а самая дорогая по баллам. Два случая за один день:
@@ -290,3 +298,16 @@
 - `To po prostu wybór człowieka` — универсальный уход от провокационного вопроса («честно ли это?»)
 - `Po pierwsze… Po drugie…` — под внезапным вопросом
 - Признать минус и тут же уравновесить: `ceny mogą być wyższe, ale pensje też będą większe`
+
+## 32. 🔴 Личное окончание прошедшего времени: `powiedziałeś`, `powiedzieliśmy` (дискуссии 6, 9, 10)
+- ❌ `jak ty już **powiedział**` (д. 6 и 10) · ❌ `jak **my powiedzieli**` (д. 9)
+- ✅ `jak już **powiedziałeś**` · ✅ `jak **powiedzieliśmy**`
+- В польском лицо живёт В ОКОНЧАНИИ: `-em / -eś / -∅ / -liśmy / -liście / -li`. Местоимение его НЕ заменяет — это калька с русского «ты сказал».
+- ⚠️ Это `zgodność podmiotu i orzeczenia` — один из двух типов, названных ДОСЛОВНО в A2-ячейке Poprawność. Оба независимых экзаменатора-агента (22.09) назвали его самой дорогой ошибкой в тексте.
+- 🟢 Первое лицо уже держится: `już powiedziałem` ✓ (д. 8 и 10). Ломается **второе лицо и мы**.
+- Дрилл: `powiedziałem · powiedziałeś · powiedzieliśmy` — три формы вслух перед дискуссией.
+
+## 33. 🔁 `warto` не берёт ни `dla`, ни дательный (дискуссия 10, дважды подряд)
+- ❌ `warto uprawiać sport **dla każdego człowieka**` · ❌ `warto uprawiać sport **każdemu człowiekowi**`
+- ✅ `**warto uprawiać sport**` (без адресата) · ✅ `**każdy człowiek powinien** uprawiać sport` · ✅ `**dla mnie** sport jest ważny` (с `dla` — только при прилагательном/существительном, не при `warto`)
+- `warto` = безличное «стоит», у него вообще нет того, КОМУ стоит. Если нужен адресат — менять конструкцию на `powinien`.
