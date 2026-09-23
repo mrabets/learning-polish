@@ -181,3 +181,18 @@ _Без квантора — множественное: `ludzie **jedzą**`_
 `Szanowni Państwo!` → `Z poważaniem,` · `Cześć!` → `Pozdrawiam serdecznie,` · после `!` — большая буква · имя без точки · ⛔ никогда `Witam`
 
 **Ритуал 30 секунд до письма:** обвести все глаголы-команды в трёх пунктах (их бывает два!) + все существительные из ситуации. **Второе предложение в двух пунктах** — и результат не зависит от языка.
+
+## 🔴 ТОП ГЛАГОЛ + СОГЛАСОВАНИЕ (единственные два типа из A2-ячейки telc) — из дискуссий сентября
+
+| ❌ Было | ✅ Надо | Правило |
+|---|---|---|
+| `jak ty już powiedział` | `jak już powiedziałeś` | ты → `-eś` |
+| `jak my powiedzieli` | `jak powiedzieliśmy` | мы → `-śmy` |
+| `pieniądze daje / robi` | `pieniądze dają / robią` | pieniądze = «они» → `-ą` |
+| `pieniądze jest ważne` | `pieniądze są ważne` | они → `są` |
+| `czy jest u ciebie jakieś tradycje` | `czy są u ciebie jakieś tradycje` | мн.ч. → `są` |
+| `mieszkanie ułatwiają` | `mieszkanie ułatwia` | оно одно → без `-ą` |
+| `jeśli ty dziecko` | `jeśli jesteś dzieckiem` | глагол `być` не выкидывать |
+| `Dawaj zaczniemy` / `zacznijmy` | `Może zacznę` | я → `zacznę` |
+
+Вслух перед экзаменом: `powiedziałem · powiedziałeś · powiedzieliśmy` · `pieniądze są · dają · ułatwiają` · `jestem · jesteś` · `Może zacznę`.
