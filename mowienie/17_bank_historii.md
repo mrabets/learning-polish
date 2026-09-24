@@ -259,3 +259,9 @@ Mówisz, że … .  →  Zgadzam się / Nie do końca się zgadzam, bo … .  �
 - Gick & Holyoak (1980, 1983) — перенос аналогий. · Gentner, Loewenstein & Thompson (2003). · Roediger & Karpicke (2006). · Pan & Rickard (2018). · Soderstrom & Bjork (2015). · Watkins & Watkins (1975).
 - Gollwitzer & Sheeran (2006); Gawrilow & Gollwitzer (2008); Webb et al. (2010); Schwabe & Wolf (2009). · Derwing et al. (2009), *SSLA* 31(4); de Jong et al. (2015).
 - Полные отчёты агентов (со всеми ссылками и DOI) — в журнале сессии 2026-09-23; прямых исследований «банка историй» не найдено ни одним.
+
+## 11. Журнал сборки банка (версии ученика)
+
+**История 1 — спина → бег ✅ (24.09).** Своими словами, по памяти, чисто:
+> Rok temu bolały mnie plecy, bo dużo siedziałem przy komputerze. Lekarz powiedział, że muszę więcej się ruszać, dlatego zdecydowałem się biegać dwa razy w tygodniu. Teraz, dzięki temu, plecy już nie bolą.
+Привязка к вопросу `Czy praca przy komputerze jest zdrowa?` — `Moim zdaniem nie zawsze, bo na przykład rok temu…` ✅.
