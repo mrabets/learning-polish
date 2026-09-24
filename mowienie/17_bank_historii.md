@@ -265,3 +265,8 @@ Mówisz, że … .  →  Zgadzam się / Nie do końca się zgadzam, bo … .  �
 **История 1 — спина → бег ✅ (24.09).** Своими словами, по памяти, чисто:
 > Rok temu bolały mnie plecy, bo dużo siedziałem przy komputerze. Lekarz powiedział, że muszę więcej się ruszać, dlatego zdecydowałem się biegać dwa razy w tygodniu. Teraz, dzięki temu, plecy już nie bolą.
 Привязка к вопросу `Czy praca przy komputerze jest zdrowa?` — `Moim zdaniem nie zawsze, bo na przykład rok temu…` ✅.
+
+**История 2 — удалёнка ✅ (24.09).** Ученик отверг вариант агента («до ночи можно и в офисе», «телефон ни при чём, работаю за ноутом») и собрал свою — из реального минуса «не общаюсь с коллегами вживую»:
+> Pracuję jako programista zdalnie, w domu. Wadą jest to, że nie rozmawiam często z kolegami z pracy, ale zaletą jest to, że mogę spędzać więcej czasu z rodziną. Zdecydowałem się spotykać z nimi przynajmniej raz na pół roku w kawiarni i rozmawiać o życiu.
+Исправлено по ходу: `spotykaję` → `spotykam się` (🔁 №28b, `-ać` → `-am`); `i po prostu rozmawiać` → `rozmawiamy` / `żeby porozmawiać` (два глагола через `i` — одна форма). Во второй попытке `Zdecydowałem się spotykać… i rozmawiać` — верно.
+⚠️ Урок для агента: ученик сразу чувствует натянутый сюжет. Лучше сначала спросить «как у тебя на самом деле: плюс и минус?», а не давать готовый сюжет.
