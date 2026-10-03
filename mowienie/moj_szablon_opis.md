@@ -70,6 +70,7 @@
 8. **Ta sytuacja / To wydarzenie odbywa się (ma miejsce) w** ___. *(где — универсальный оборот ⭐)*
 9. **Przypuszczam, że jest** ___ *(время года/суток: `lato`, `wiosna`, `poranek`, `wieczór`)*, **ponieważ** ___. *(обоснование)*
 10. **Na zdjęciu dominują** ___ **kolory:** ___. *(цвета)*
+    ⚠️ **Если фото ЧЁРНО-БЕЛОЕ** (так было на сессии в Białymstoku 05.09.2026 — распечатки): вместо этой строки → **`Zdjęcie jest czarno-białe.`** Цвета одежды НЕ называть (их не видно) — только **`jasny / ciemny`**: `ma na sobie jasną koszulę i ciemne spodnie`, `ma ciemne włosy`. Всё остальное в шаблоне не меняется. В критерии 1A цвета вообще не названы: «przekazać główne informacje… i wskazać pojedyncze szczegóły».
 11. **Panuje** ___ **nastrój.** *(настроение)*
 12. **Moim zdaniem** ___, **ponieważ** ___. *(мнение в конце)*
 
