@@ -1,6 +1,6 @@
 # 🧩 Elementy języka — всё, что нужно для telc Język polski B1·B2
 
-> Создано 2026-10-03. Только то, что относится к ЭТОМУ экзамену. Источники: официальный пробник telc (`uebungstest_polnisch.pdf`, стр. 5, 18–19, 37, 47), официальная спецификация и советы telc для экзамена той же архитектуры (telc English B1·B2 Handbook, стр. 22–23, 33–34; Tips for Test Takers, раздел Language Elements), два бесплатных теста в формате telc от Uniwersytet im. Adama Mickiewicza w Poznaniu (polonia.amu.edu.pl, 2026: Test 1, Test 2). Всего разобрано **54 настоящих задания**.
+> Создано 2026-10-03. Только то, что относится к ЭТОМУ экзамену. Источники: официальный пробник telc (`uebungstest_polnisch.pdf`, стр. 5, 18–19, 37, 47), официальная спецификация и советы telc для экзамена той же архитектуры (telc English B1·B2 Handbook, стр. 22–23, 33–34; Tips for Test Takers, раздел Language Elements), два бесплатных теста в формате telc от Uniwersytet im. Adama Mickiewicza w Poznaniu (polonia.amu.edu.pl, 2026: Test 1, Test 2). Всего разобрано **72 настоящих задания** (+18 из книги «TEN CAŁY POLSKI», OVO 2025, рекомендованной telc — §4.5).
 > Тренировочный файл (6 страниц, без ключей): `elementy_jezyka/elementy_3_zestawy_bez_klucza.pdf`.
 
 ## ⚡ КОРОТКО (один экран)
@@ -168,6 +168,41 @@
 | 57 | **a** `Biorąc pod uwagę` opisane problemy | b ✗ | `z uwagi` без `na` невозможно; `biorąc pod uwagę` + вин. п. |
 | 58 | **b** od oferty, `którą otrzymałem` | c ✗ | `oferta` ж. р., вин. п. → `którą`; `z którą otrzymałem` бессмысленно |
 | 59 | c Proszę o `rozpatrzenie mojej reklamacji` | c | `prosić o` + вин. п. |
+
+### 4.5 «TEN CAŁY POLSKI» (OVO 2025, рекомендован telc) — стр. 111–114 книги, ключ стр. 162
+
+Ответы печатного ключа проверены по тексту — все 18 сходятся. Фото: `telc_ovo/OVO_TenCalyPolski_egzamin_probny.pdf`, страницы 16–20.
+
+**Часть 1 — Helena звонит в фирму «Udana impreza», организует конференцию.** Фразы: a O ODPOWIEDŹ · b PODCZAS KOLACJI · c W CAŁEJ SALI · d O KONTAKT · e W CIĄGU TRZECH DNI · f CHCIAŁABYM ZORGANIZOWAĆ · g W DRUGIEJ POŁOWIE · h OSTATECZNEJ LICZBY · i ZOSTAŁA ZAPLANOWANA · j Z MUZYKĄ NA ŻYWO
+
+| № | Ответ | Подсказка |
+|---|---|---|
+| 42 | f `Chciałabym zorganizować` konferencję | после — вин. п. `konferencję`; нужен глагол |
+| 43 | i Konferencja `została zaplanowana` w dniach 15–16 maja | у `Konferencja` нет сказуемого; ж. р. → `została` |
+| 44 | g rejestracja zakończy się `w drugiej połowie` kwietnia | `kwietnia` — род. п. после `połowie` |
+| 45 | h informację na temat `ostatecznej liczby` osób | `na temat` + род. п.; `liczby osób` |
+| 46 | c dobre nagłośnienie `w całej sali` | где? → `w` + предл. п. |
+| 47 | j kolację `z muzyką na żywo` | какую кolację? |
+| 48 | e Przygotuję ją `w ciągu trzech dni` | когда? срок |
+| 49 | d proszę `o kontakt` | `proszę o` + вин. п.; `o odpowiedź` по смыслу не подходит — отвечать будет фирма |
+| — | лишние: a `o odpowiedź`, b `podczas kolacji` | |
+
+**Часть 2 — жалоба на ресторан.**
+
+| № | Ответ | Почему |
+|---|---|---|
+| 50 | b niezadowolenie z `usług` świadczonych | `z` + род. п. мн. ч. (`świadczonych` — мн. ч.) |
+| 51 | c Zachęcony `bogatą` ofertą | устойчиво `bogata oferta`; твор. п. после `zachęcony` |
+| 52 | a doświadczenie było `dalekie` od oczekiwań | прилагательное ср. р. к `doświadczenie`; устойчиво `dalekie od oczekiwań` |
+| 53 | b czekać na `obsługę` | `czekać na` + вин. п. |
+| 54 | a poza `mną` były tylko trzy osoby | `poza` + твор. п. |
+| 55 | c Następnie `okazało się`, że… | «оказалось»; `ukazało się` — появилось (книга, статья), `pokazało się` — показалось |
+| 56 | a Po `jego` złożeniu | «после его (заказа) подачи» — притяжательное `jego`; `niego` — только после предлога как дополнение, `go` — вин. п. |
+| 57 | b zamiast kurczaka `otrzymałem` kaczkę | 1-е лицо, муж. р., одно событие → сов. вид |
+| 58 | c danie, `którego` oczekiwałem | `oczekiwać` + род. п. → `którego` |
+| 59 | a informacja, że `akceptują` Państwo płatności kartą | `Państwo` + 3-е лицо мн. ч. в наст. времени; `będą akceptowały` — не тот род и время |
+
+**Что нового по сравнению с тремя другими наборами:** в части 1 здесь больше **сочетаний с падежом** (`w drugiej połowie` + род. п., `na temat ostatecznej liczby`), чем разговорных клише. В части 2 — опять падеж после предлога (5 из 10), согласование, `który` по управлению глагола (`oczekiwać czego` → `którego`).
 
 ### 4.4 Опечатки в текстах тестов — не перенимать
 - Официальный пробник: в письме смешаны `Państwa firmy` и `Waszego przedstawiciela` — правильно последовательно `Państwa`.

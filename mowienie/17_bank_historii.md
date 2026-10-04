@@ -250,6 +250,17 @@ Mówisz, że … .  →  Zgadzam się / Nie do końca się zgadzam, bo … .  �
 🗨️ «Nie. Nastolatki porównują się z innymi i czują się gorsze.»
 🗨️ «To zależy od czasu. Moja siostra korzysta tylko godzinę dziennie i nie ma problemu.»
 
+**Новые карточки из пробных тестов (добавлено 2026-10-04):**
+
+**K21. Czy dobre wykształcenie wystarcza, aby osiągnąć sukces zawodowy?** — «TEN CAŁY POLSKI» (OVO 2025, рекомендован telc), стр. 119
+🗨️ «Myślę, że dobre wykształcenie jest ważne, ale dziś już nie wystarczy, aby osiągnąć sukces zawodowy. Liczą się przede wszystkim praktyczne umiejętności i doświadczenie zawodowe. Aktualnie pracodawcy wybierają tych, którzy potrafią myśleć kreatywnie.»
+🗨️ «Dobre wykształcenie na pewno jest solidną podstawą, jednak bardzo ważne jest stałe doskonalenie swoich umiejętności i zdobywanie nowych kwalifikacji. Sukces zawodowy to połączenie edukacji, doświadczenia i zaangażowania w pracę.»
+🗨️ «Tak, solidne wykształcenie zdecydowanie jest kluczem do sukcesu zawodowego. Wiedza teoretyczna, którą zdobywa się podczas studiów, może otworzyć drzwi do lepiej płatnych stanowisk i daje możliwość zrobienia kariery. Doświadczenie nie jest aż tak istotne.»
+Твоё: H2 (удалёнка, программист — опыт важнее диплома?), H6 (учу польский сам).
+
+**K22. Czy dzieciom należy zakazać korzystania z telefonów?** — UAM Test 1, стр. 20 (мнения — в `telc_uam/TELC-Test-1.pdf`). Твоё: H2 (дочки и смартфон).
+**K23. Czy wykorzystywanie wizerunku dzieci powinno być zakazane w reklamach?** — UAM Test 2, стр. 20. Твоё: родительский взгляд, Ш1 `Znam kogoś…`.
+
 ## 10. Ключевые источники
 
 - telc GmbH (2013). *Egzamin próbny Język polski B1·B2 Szkoła* — `uebungstest_polnisch.pdf`, стр. 21, 25, 35–38, 41, 43. · telc Prüfungsregularien (15.04.2025) § 5.3, § 21.2. · telc English B1·B2 Handbook (стр. 38) и Tips for Test Takers (стр. 22, 24) — родственный экзамен.
