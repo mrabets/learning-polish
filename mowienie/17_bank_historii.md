@@ -256,7 +256,7 @@ Mówisz, że … .  →  Zgadzam się / Nie do końca się zgadzam, bo … .  �
 🗨️ «Myślę, że dobre wykształcenie jest ważne, ale dziś już nie wystarczy, aby osiągnąć sukces zawodowy. Liczą się przede wszystkim praktyczne umiejętności i doświadczenie zawodowe. Aktualnie pracodawcy wybierają tych, którzy potrafią myśleć kreatywnie.»
 🗨️ «Dobre wykształcenie na pewno jest solidną podstawą, jednak bardzo ważne jest stałe doskonalenie swoich umiejętności i zdobywanie nowych kwalifikacji. Sukces zawodowy to połączenie edukacji, doświadczenia i zaangażowania w pracę.»
 🗨️ «Tak, solidne wykształcenie zdecydowanie jest kluczem do sukcesu zawodowego. Wiedza teoretyczna, którą zdobywa się podczas studiów, może otworzyć drzwi do lepiej płatnych stanowisk i daje możliwość zrobienia kariery. Doświadczenie nie jest aż tak istotne.»
-Твоё: H2 (удалёнка, программист — опыт важнее диплома?), H6 (учу польский сам).
+Твоё: H1 (удалёнка, программист — опыт важнее диплома?), H6 (учу польский сам).
 
 **K22. Czy dzieciom należy zakazać korzystania z telefonów?** — UAM Test 1, стр. 20 (мнения — в `telc_uam/TELC-Test-1.pdf`). Твоё: H2 (дочки и смартфон).
 **K23. Czy wykorzystywanie wizerunku dzieci powinno być zakazane w reklamach?** — UAM Test 2, стр. 20. Твоё: родительский взгляд, Ш1 `Znam kogoś…`.

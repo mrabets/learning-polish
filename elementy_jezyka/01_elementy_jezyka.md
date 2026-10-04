@@ -182,7 +182,7 @@
 | 44 | g rejestracja zakończy się `w drugiej połowie` kwietnia | `kwietnia` — род. п. после `połowie` |
 | 45 | h informację na temat `ostatecznej liczby` osób | `na temat` + род. п.; `liczby osób` |
 | 46 | c dobre nagłośnienie `w całej sali` | где? → `w` + предл. п. |
-| 47 | j kolację `z muzyką na żywo` | какую кolację? |
+| 47 | j kolację `z muzyką na żywo` | какую kolację? |
 | 48 | e Przygotuję ją `w ciągu trzech dni` | когда? срок |
 | 49 | d proszę `o kontakt` | `proszę o` + вин. п.; `o odpowiedź` по смыслу не подходит — отвечать будет фирма |
 | — | лишние: a `o odpowiedź`, b `podczas kolacji` | |
