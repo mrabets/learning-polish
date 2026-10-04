@@ -304,3 +304,11 @@
 - telc GmbH (2013). *Egzamin próbny 1, Język polski B1·B2 Szkoła* — стр. 5, 18–19, 33, 37, 39, 47. Тот же файл на сайте центра POLISH LAB.
 - telc GmbH. *Handbook telc English B1·B2*, стр. 22–23, 33–34 (Test Specifications, Language Elements). *Tips for Test Takers telc English B1·B2* (Language Elements).
 - Bambrowicz O., Kaczmarek M. *Materiały przygotowujące do egzaminu telc B1–B2 z języka polskiego*, Test 1 и Test 2 — UAM Poznań, https://polonia.amu.edu.pl/wp-content/uploads/2026/02/TELC-Test-1.pdf и …/TELC-Test-2.pdf.
+
+## 10. Журнал дриллов (по одному заданию, с вариантами, без таймера)
+
+| Дата | Набор | Пройдено | Ошибки с первой попытки |
+|---|---|---|---|
+| 2026-10-03/04 | официальный telc, обе части (18) + UAM1 №55 | 19 / 72 | №50 `zapytać o kurs` (выбрал `informacje o`) · №57 `je` (выбрал `ich`) · №59 `znać termin` (выбрал `wiedzieć`, 🔁 №22) — все исправил со второй попытки |
+
+Вопросы ученика, на которые дан ответ: почему не `szczegółów` в №58 (грамматично, но не идиоматично: `szczegóły` бывают у оферты/курса, «подробности цены» — нет); почему не `precyzyjnie przekazać` в №59 (смысл: узнать, а не передать). Таблица `go / ją / je / ich` с примерами дана в дрилле 17.
