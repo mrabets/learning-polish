@@ -257,6 +257,14 @@
 |---|---|---|---|---|
 | | | | | |
 
+## 8а. Что такое тесты UAM целиком (проверено 2026-10-04)
+
+- **Кто и зачем:** авторы Olga Bambrowicz и Magdalena Kaczmarek; выложено на сайте polonia.amu.edu.pl (Uniwersytet im. Adama Mickiewicza w Poznaniu) 02.02.2026. На обложке герб и подпись: «Zadanie dofinansowane w ramach sprawowania opieki Senatu Rzeczypospolitej Polskiej nad Polonią i Polakami za granicą w 2025 roku» — бесплатные материалы на грант Сената Польши. **Не официальные telc**: telc их не предтестировал, уровень сложности может отличаться.
+- **Что внутри каждого (27 стр.):** полный письменный экзамен в формате telc — аудирование 4 части (стр. 2–5), чтение 4 части (6–13), Elementy (14–15), письмо A/B (16), **устная часть**: 1A + 1B с вопросами экзаменатора уровня B1 и B2 (17–18), 2 темы презентации (19), **карта дискуссии** (20; ошибочно подписана «Część 2»), транскрипты аудио (21–26), ключ (27).
+- **Аудио нет** — только транскрипты. Аудирование можно тренировать, если партнёр или озвучка прочитает транскрипт вслух.
+- **Новый материал для устной части:** 1B «nowe technologie u dzieci» и «zwierzęta w życiu ludzi»; презентации «Praca i życie zawodowe», «Ekologia», «Podróże», «Sport»; дискуссии «Czy dzieciom należy zakazać korzystania z telefonów?» и «Czy wykorzystywanie wizerunku dzieci powinno być zakazane w reklamach?».
+- **Недостатки:** ошибка в ключе Test 2 (Elementy, часть 2), в ключе Test 2 нет ответа на №38, опечатки (§4.4).
+
 ## 9. Источники
 - telc GmbH (2013). *Egzamin próbny 1, Język polski B1·B2 Szkoła* — стр. 5, 18–19, 33, 37, 39, 47. Тот же файл на сайте центра POLISH LAB.
 - telc GmbH. *Handbook telc English B1·B2*, стр. 22–23, 33–34 (Test Specifications, Language Elements). *Tips for Test Takers telc English B1·B2* (Language Elements).
