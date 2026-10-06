@@ -320,3 +320,7 @@
 
 ## 35. 🔁 Перед `, że` — только `dlatego` (Elementy: UAM2 №56, дрилл A19 06.10 — 2 раза)
 - ❌ `z powodu, że` · ❌ `ponieważ, że` · ✅ `**dlatego, że**` · ✅ `z powodu **tego**, że`
+
+## 36. 🔁 `który` у глаголов с род. п. (Elementy: OVO №58, A9, §9 №10)
+- ❌ `usługa, którą oczekiwałem` · ✅ `usługa, **której** oczekiwałem` · ✅ `dokumenty, **których** potrzebowałem` · ✅ `instrukcja, **której** mi brakowało`
+- Правило ученика: 3 глагола `oczekiwać · potrzebować · brakować` → `-ej/-ego/-ych`. Остальные — по-русски («которую» → `którą`). Решает глагол ПОСЛЕ пропуска, не перед.
