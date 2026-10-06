@@ -271,3 +271,33 @@ Piotr Wiśniewski
 | 06.11 | Только §0 и §3. Ничего нового | 5 мин |
 
 Правило: ошибся в задании → оно идёт в следующую сессию. Два раза подряд верно → задание закрыто.
+
+## 9. Только повторяющиеся ошибки (после всех дриллов 06.10) — 15 новых заданий
+
+Задание 1 (диалог) закрыто: 16/16 в формате экзамена — не тренируем. Сюда вошли только ошибки, сделанные **2+ раза**, в том числе уже после объяснения.
+
+| Паттерн | Где ошибся | Правило |
+|---|---|---|
+| 🔁 №34 наречие вместо прилагательного после `być` | OVO №52, A22, C57 | «какой?» → `-y/-a/-e` по роду подлежащего |
+| 🔁 №35 `z powodu / ponieważ, że` | UAM2 №56, A19 | перед `, że` — только `dlatego` |
+| 🔁 подлежащее не в им. п. | UAM1 №57, A21 | кто/что делает? → им. п.; число по глаголу |
+| 🔁 `który` при глаголе с род. п. | OVO №58, A9 | `oczekiwać, potrzebować, brakować` → `którego/której/których` |
+| 🔁 `je / ich` | офиц. №57, A6, A7 | `nie` → `ich`; без `nie`: вещи `je`, мужчины `ich` |
+
+1. Obsługa w hotelu była bardzo ______.  a) miła · b) miło · c) miłą
+2. Jedzenie w restauracji było ______.  a) zimno · b) zimne · c) zimnym
+3. Pokój był ______ i ciemny.  a) mały · b) mało · c) małym
+4. Zrezygnowałem z wycieczki ______, że pogoda była bardzo zła.  a) ponieważ · b) dlatego · c) z powodu
+5. Piszę do Państwa ______ problemów z dostawą.  a) z powodu · b) dlatego · c) ponieważ
+6. Nie mogłem przyjść na zajęcia, ______ byłem chory.  a) dlatego · b) z powodu · c) ponieważ
+7. Ciągły ______ z mieszkania obok przeszkadza mi w pracy.  a) hałasu · b) hałas · c) hałasem
+8. ______ w pokoju nie działała przez cały pobyt.  a) Klimatyzacji · b) Klimatyzację · c) Klimatyzacja
+9. Państwa ______ bardzo mi pomogły.  a) rady · b) radami · c) rad
+10. To nie jest usługa, ______ oczekiwałem.  a) którą · b) której · c) która
+11. Dostałem wszystkie dokumenty, ______ potrzebowałem.  a) których · b) które · c) którymi
+12. Kurs, ______ wybrałem, był bardzo drogi.  a) którego · b) który · c) którym  _(контроль: здесь род. п. НЕ нужен)_
+13. Zamówiłem książki tydzień temu, ale jeszcze ______ nie dostałem.  a) je · b) ich · c) go
+14. Kupiłem nowe buty, ale muszę ______ zwrócić, bo są za małe.  a) ich · b) je · c) go
+15. Spotkałem kolegów z kursu i zaprosiłem ______ na kawę.  a) je · b) ich · c) im
+
+**Ключ:** 1a · 2b · 3a · 4b · 5a · 6c · 7b · 8c · 9a · 10b · 11a · 12b · 13b · 14b · 15b
