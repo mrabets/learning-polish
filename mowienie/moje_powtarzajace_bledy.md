@@ -311,3 +311,12 @@
 - ❌ `warto uprawiać sport **dla każdego człowieka**` · ❌ `warto uprawiać sport **każdemu człowiekowi**`
 - ✅ `**warto uprawiać sport**` (без адресата) · ✅ `**każdy człowiek powinien** uprawiać sport` · ✅ `**dla mnie** sport jest ważny` (с `dla` — только при прилагательном/существительном, не при `warto`)
 - `warto` = безличное «стоит», у него вообще нет того, КОМУ стоит. Если нужен адресат — менять конструкцию на `powinien`.
+
+## 34. 🔁 После `być` — прилагательное (какой?), а не наречие (как?) (Elementy: OVO №52, дриллы 06.10 — 3 раза)
+- ❌ `doświadczenie było **daleko**` · ❌ `poziom był **daleko**` · ❌ `traktowanie jest **niedopuszczalnie**`
+- ✅ `doświadczenie było **dalekie**` · ✅ `poziom był **daleki**` · ✅ `traktowanie jest **niedopuszczalne**` · ✅ `organizacja była **słaba**`
+- Правило: описываешь подлежащее («какой?») → прилагательное в им. п. в роде подлежащего (`-y/-i` м. р., `-a` ж. р., `-e` ср. р.). Наречие на `-o/-ie` — только «как?» при глаголе действия (`mówię słabo`).
+- Исключение-ловушка для речи: безличное `jest dobrze / było zimno` (без подлежащего) — наречие верно.
+
+## 35. 🔁 Перед `, że` — только `dlatego` (Elementy: UAM2 №56, дрилл A19 06.10 — 2 раза)
+- ❌ `z powodu, że` · ❌ `ponieważ, że` · ✅ `**dlatego, że**` · ✅ `z powodu **tego**, że`
