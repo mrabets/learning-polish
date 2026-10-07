@@ -324,3 +324,9 @@
 ## 36. 🔁 `który` у глаголов с род. п. (Elementy: OVO №58, A9, §9 №10)
 - ❌ `usługa, którą oczekiwałem` · ✅ `usługa, **której** oczekiwałem` · ✅ `dokumenty, **których** potrzebowałem` · ✅ `instrukcja, **której** mi brakowało`
 - Правило ученика (07.10): смысл «**этого у меня нет**» — `nie` перед глаголом, `oczekiwać`, `potrzebować`, `brakować`, `szukać` → `-ej/-ego/-ych`. Раньше: 3 глагола `oczekiwać · potrzebować · brakować` → `-ej/-ego/-ych`. Остальные — по-русски («которую» → `którą`). Решает глагол ПОСЛЕ пропуска, не перед.
+
+## 37. 🔁 `o` + какой падеж (Elementy: офиц. №50, A1, 07.10 №8, №5-повт., №6-повт. — 5 раз)
+- ❌ `dowiedzieć się o wolne miejsca` · ❌ `zapytać o terminie` · ❌ `zapytałem o cenie`
+- ✅ ПАРЫ: `zapytać / poprosić / chodzi` + `o cenę, o zwrot, o termin` (‑ę / как в словаре) · `dowiedzieć się / mówić / informować` + `o cenie, o zwrocie, o terminie` (‑ie / ‑u / ‑ach)
+- Корень: устное «после `o` → предложный» (№31) переносится на всё. По-русски «спросить о цене» — тоже предложный, поэтому русский тут ВРЁТ.
+- Как решать: одна половина пары дана (глагол или окончание) → ищи вторую. Сначала глаз на окончание после `o`.
