@@ -323,4 +323,4 @@
 
 ## 36. 🔁 `który` у глаголов с род. п. (Elementy: OVO №58, A9, §9 №10)
 - ❌ `usługa, którą oczekiwałem` · ✅ `usługa, **której** oczekiwałem` · ✅ `dokumenty, **których** potrzebowałem` · ✅ `instrukcja, **której** mi brakowało`
-- Правило ученика: 3 глагола `oczekiwać · potrzebować · brakować` → `-ej/-ego/-ych`. Остальные — по-русски («которую» → `którą`). Решает глагол ПОСЛЕ пропуска, не перед.
+- Правило ученика (07.10): смысл «**этого у меня нет**» — `nie` перед глаголом, `oczekiwać`, `potrzebować`, `brakować`, `szukać` → `-ej/-ego/-ych`. Раньше: 3 глагола `oczekiwać · potrzebować · brakować` → `-ej/-ego/-ych`. Остальные — по-русски («которую» → `którą`). Решает глагол ПОСЛЕ пропуска, не перед.
