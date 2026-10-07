@@ -76,3 +76,16 @@
 | Дата | Результат |
 |---|---|
 | 07.10 | **`o`: 5/8** (ошибки №1 `zapytać o zniżkę` → выбрал `dowiedzieć się`, потом `poinformować`; №2 `o czas` → `czasie`; №5 `proszę o przesłanie` → `informuję`). Правило «пара» не зашло («да что это за правило»). **Заменено на тест «`mam`»:** поставь `mam` перед словом после `o` — звучит (`mam zniżkę`, `mam przesłanie`) → `zapytać / poprosić`; криво (`mam zniżce`, `mam terminie`) → `dowiedzieć się / informować`. После теста — 4 подряд верно (№3, 4, 7, 8) + №6 `na temat` + `-ów`. **`który`: 5/5** ✅ (включая ловушки `Kupiłem`, `Nie mogę`, пропуск-глагол). |
+
+## 6) Ещё 8 на `o` (07.10, по просьбе ученика; тест «`mam`»)
+
+1. Chciałbym ______ o możliwość wcześniejszego zameldowania.  a) zapytać · b) dowiedzieć się · c) poinformować
+2. Wczoraj dowiedziałem się o ______ kursu.  a) odwołanie · b) odwołaniu · c) odwołania
+3. Proszę o ______ mojego zamówienia.  a) potwierdzeniu · b) potwierdzenia · c) potwierdzenie
+4. Recepcjonistka ______ nas o awarii windy.  a) poprosiła · b) poinformowała · c) zapytała
+5. Napisałem do szkoły i zapytałem o ______ zajęć.  a) godziny · b) godzinach · c) godzin
+6. Po zakupie poprosiłem o ______.  a) fakturę · b) fakturze · c) faktury
+7. Na stronie hotelu nie ma informacji o ______.  a) parking · b) parkingu · c) parkingi
+8. Chciałbym ______ o pozwolenie na remont mieszkania.  a) poprosić · b) dowiedzieć się · c) mówić
+
+**Ключ:** 1a · 2b · 3c · 4b · 5a · 6a · 7b · 8a. Ловушки: №2 `-niu` (обратная к `przesłanie`), №7 окончание `-u` (`mam parkingu` ✗), №4 `nas` перед `o`.
