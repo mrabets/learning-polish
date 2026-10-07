@@ -91,3 +91,28 @@
 **Ключ:** 1a · 2b · 3c · 4b · 5a · 6a · 7b · 8a. Ловушки: №2 `-niu` (обратная к `przesłanie`), №7 окончание `-u` (`mam parkingu` ✗), №4 `nas` перед `o`.
 
 | 07.10 | §6, 8 новых на `o` (без подсказок, только правило): **8/8 ответов с первой попытки.** Но в 2 случаях сам тест «`mam`» был применён неверно и поправлен до ответа: `mam awarii` «звучит норм» (на деле `mam awarię` — женские на `-a` после `mam` всегда `-ę`), `mam godzin` (нормально только с числом; без числа `mam godziny`). №7: `mam parking` звучит → но перед `o` `informacji` = сторона «сообщить» → нужно кривое `parkingu`. Вывод: метод работает; слабое место — чувство формы на `-ę` у женских слов. Повтор 3 заданий через 2–3 дня → если чисто, Elementy закрыт. |
+
+## 7) Закрепление всех рисков (07.10, после финальной части 2) — 13 новых
+
+**`o` (тест `mam`)**
+1. Napisałem do hotelu, żeby ______ o wolny pokój na weekend.  a) zapytać · b) dowiedzieć się · c) poinformować
+2. Uprzejmie proszę o ______ mojego wniosku.  a) rozpatrzeniu · b) rozpatrzenie · c) rozpatrzenia
+3. Wczoraj dostałem e-mail z informacją o ______ basenu.  a) zamknięcie · b) zamknięciu · c) zamknięcia
+4. Chciałbym zapytać o ______ u lekarza w piątek.  a) wizytę · b) wizycie · c) wizyty
+5. Proszę o informacje ______ godzin otwarcia.  a) o · b) na temat · c) w
+
+**`który`**
+6. Odesłałem Państwu buty, ______ nie zamawiałem.  a) które · b) których · c) którymi
+7. W końcu dostałem ofertę, ______ długo szukałem.  a) którą · b) której · c) która
+8. Nie rozumiem wiadomości, ______ dostałem wczoraj.  a) której · b) którą · c) która
+
+**Сочетания и время**
+9. Muszę ______ decyzję do piątku.  a) przyjąć · b) podjąć · c) zrobić
+10. Wycieczka w pełni ______ moje oczekiwania.  a) spełniła · b) wykonała · c) zrobiła
+11. Recepcjonistka obiecała, że ______ problem do wieczora.  a) rozwiązała · b) rozwiąże · c) rozwiązuje
+
+**Обратные ловушки**
+12. W sali było bardzo ______, bo nie działała klimatyzacja.  a) gorąco · b) gorące · c) gorący
+13. Jestem niezadowolony z ______ pokoju.  a) czystością · b) czystości · c) czystość
+
+**Ключ:** 1a · 2b · 3b · 4a · 5b · 6b · 7b · 8b · 9b · 10a · 11b · 12a · 13b. Ловушки: №4 `mam wizytę` (-ę); №8 `Nie` и `wiadomości` перед пропуском, но `dostałem` → `którą`; №9 русское «принять решение» → калька `przyjąć`, по-польски `podjąć decyzję`.
