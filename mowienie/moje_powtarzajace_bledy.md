@@ -329,4 +329,4 @@
 - ❌ `dowiedzieć się o wolne miejsca` · ❌ `zapytać o terminie` · ❌ `zapytałem o cenie`
 - ✅ ПАРЫ: `zapytać / poprosić / chodzi` + `o cenę, o zwrot, o termin` (‑ę / как в словаре) · `dowiedzieć się / mówić / informować` + `o cenie, o zwrocie, o terminie` (‑ie / ‑u / ‑ach)
 - Корень: устное «после `o` → предложный» (№31) переносится на всё. По-русски «спросить о цене» — тоже предложный, поэтому русский тут ВРЁТ.
-- Как решать: одна половина пары дана (глагол или окончание) → ищи вторую. Сначала глаз на окончание после `o`.
+- Как решать (07.10, сработало лучше пары): **тест «`mam`»** — поставь `mam` перед словом после `o`. Звучит (`mam zniżkę`, `mam czas`, `mam przesłanie`) → `zapytać / poprosić`. Криво (`mam zniżce`, `mam terminie`, `mam zmianach`) → `dowiedzieć się / informować`. После `o` никогда не бывает `-ów / -y` → там `na temat`.
