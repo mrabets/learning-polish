@@ -330,3 +330,7 @@
 - ✅ ПАРЫ: `zapytać / poprosić / chodzi` + `o cenę, o zwrot, o termin` (‑ę / как в словаре) · `dowiedzieć się / mówić / informować` + `o cenie, o zwrocie, o terminie` (‑ie / ‑u / ‑ach)
 - Корень: устное «после `o` → предложный» (№31) переносится на всё. По-русски «спросить о цене» — тоже предложный, поэтому русский тут ВРЁТ.
 - Как решать (07.10, сработало лучше пары): **тест «`mam`»** — поставь `mam` перед словом после `o`. Звучит (`mam zniżkę`, `mam czas`, `mam przesłanie`) → `zapytać / poprosić`. Криво (`mam zniżce`, `mam terminie`, `mam zmianach`) → `dowiedzieć się / informować`. После `o` никогда не бывает `-ów / -y` → там `na temat`.
+
+## 38. 🔁 После `obiecał / obiecała, że…` — БУДУЩЕЕ время, сов. вид (Elementy: финал 05 №59, 04 §7 №11 — 2 раза)
+- ❌ `obiecał, że zadzwonił` · ❌ `obiecała, że rozwiązuje` · ✅ `obiecał, że **zadzwoni**` · ✅ `obiecała, że **rozwiąże**`
+- Правило: обещал → сделает.

@@ -116,3 +116,5 @@
 13. Jestem niezadowolony z ______ pokoju.  a) czystością · b) czystości · c) czystość
 
 **Ключ:** 1a · 2b · 3b · 4a · 5b · 6b · 7b · 8b · 9b · 10a · 11b · 12a · 13b. Ловушки: №4 `mam wizytę` (-ę); №8 `Nie` и `wiadomości` перед пропуском, но `dostałem` → `którą`; №9 русское «принять решение» → калька `przyjąć`, по-польски `podjąć decyzję`.
+
+**Результат §7 (08.10): 10/13 с первой попытки.** `o` **5/5** ✅ (включая `-nie`, `-ciu`, `wizytę`, `na temat`) · `który` 2/3 (№7 `której szukałem` → выбрал `którą`, ловушка `dostałem` в начале) · сочетания/время 1/3: №9 `podjąć decyzję` (дважды мимо: `przyjąć`, потом `zrobić` — решение дано, проговорил), №11 `obiecała, że rozwiąże` (выбрал `rozwiązuje` — **2-й раз после «обещал»**) · обратные ловушки 2/2 ✅.
